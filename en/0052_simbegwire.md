@@ -195,7 +195,7 @@ she would return home to live with
 her father and her stepmother.
 
 ##
-License: [CC-BY]
-Writer: Rukia Nantale
-Illustration: Benjamin Mitchley
-Language: English
+* License: [CC-BY]
+* Writer: Rukia Nantale
+* Illustration: Benjamin Mitchley
+* Language: English

@@ -185,8 +185,8 @@ you in the supper pot."
 to give you another wash tomorrow!"
 
 ##
-License: [CC-BY]
-Writer: Marion Drew
-Illustration: Wiehan de Jager
+* License: [CC-BY]
+* Writer: Marion Drew
+* Illustration: Wiehan de Jager
 Translated By: M. Davidson
-Language: English
+* Language: English

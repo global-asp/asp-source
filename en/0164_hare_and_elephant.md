@@ -119,7 +119,7 @@ To this day, Elephant still limps
 and his hooves are flat.
 
 ##
-License: [CC-BY]
-Writer: Lawrence A. Konjuro
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Lawrence A. Konjuro
+* Illustration: Wiehan de Jager
+* Language: English

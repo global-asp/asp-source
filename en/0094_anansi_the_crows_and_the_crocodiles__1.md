@@ -141,7 +141,7 @@ long snout and his beady eyes
 above the surface of the river.
 
 ##
-License: [CC-BY]
-Writer: Ghanaian folktale
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Ghanaian folktale
+* Illustration: Wiehan de Jager
+* Language: English

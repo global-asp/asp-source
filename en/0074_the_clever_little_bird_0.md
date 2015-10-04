@@ -87,8 +87,8 @@ from the sight of the other
 birds.
 
 ##
-License: [CC-BY]
-Writer: South African Folktale
-Illustration: Wiehan de Jager
+* License: [CC-BY]
+* Writer: South African Folktale
+* Illustration: Wiehan de Jager
 Adapted By: Liz Ralfe and Suzanne Singh
-Language: English
+* Language: English

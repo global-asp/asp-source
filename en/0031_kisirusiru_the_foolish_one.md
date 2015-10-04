@@ -110,7 +110,7 @@ themselves a new house, and lived
 happily ever after.
 
 ##
-License: [CC-BY]
-Writer: Cissy Kiwanuka Luyiga
-Illustration: Catherine Groenewald
-Language: English
+* License: [CC-BY]
+* Writer: Cissy Kiwanuka Luyiga
+* Illustration: Catherine Groenewald
+* Language: English

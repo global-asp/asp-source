@@ -25,7 +25,7 @@ Until he gets hungry
 again.
 
 ##
-License: [CC-BY]
-Writer: Christian G.
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Christian G.
+* Illustration: Wiehan de Jager
+* Language: English

@@ -121,7 +121,7 @@ Africa's children.
 ##
 
 ##
-License: [CC-BY]
-Writer: Melissa Fagan
-Illustration: Karlien de Villiers
-Language: English
+* License: [CC-BY]
+* Writer: Melissa Fagan
+* Illustration: Karlien de Villiers
+* Language: English

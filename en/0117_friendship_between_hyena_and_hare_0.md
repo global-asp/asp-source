@@ -40,7 +40,7 @@ A friend is someone
 who is always a friend.
 
 ##
-License: [CC-BY]
-Writer: Adapted Aesop's Fable
-Illustration: Rob Owen
-Language: English
+* License: [CC-BY]
+* Writer: Adapted Aesop's Fable
+* Illustration: Rob Owen
+* Language: English

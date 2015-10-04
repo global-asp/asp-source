@@ -20,7 +20,7 @@ The colours are so
 beautiful.
 
 ##
-License: [CC-BY]
-Writer: Ursula Nafula
-Illustration: Catherine Groenewald and Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Ursula Nafula
+* Illustration: Catherine Groenewald and Wiehan de Jager
+* Language: English

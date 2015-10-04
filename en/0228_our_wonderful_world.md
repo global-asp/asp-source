@@ -128,7 +128,7 @@ heads and hoped they would be safe.
 So let us, YOU and I, look after this wonderful world.
 
 ##
-License: [CC-BY]
-Writer: Herminder Ohri
-Illustration: Herminder Ohri and Baaraan Ijal
-Language: English
+* License: [CC-BY]
+* Writer: Herminder Ohri
+* Illustration: Herminder Ohri and Baaraan Ijal
+* Language: English

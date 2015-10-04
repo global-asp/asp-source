@@ -111,7 +111,7 @@ and strong. I sang the truth in
 all of my songs.
 
 ##
-License: [CC-BY]
-Writer: Jade Mathieson
-Illustration: Louwrisa Blaauw
-Language: English
+* License: [CC-BY]
+* Writer: Jade Mathieson
+* Illustration: Louwrisa Blaauw
+* Language: English

@@ -172,7 +172,7 @@ from that hive.
 
 ##
 Demane and Demazane
-License: [CC-BY]
-Writer: South African Folktale
-Illustration: Jemma Kahn
-Language: English
+* License: [CC-BY]
+* Writer: South African Folktale
+* Illustration: Jemma Kahn
+* Language: English

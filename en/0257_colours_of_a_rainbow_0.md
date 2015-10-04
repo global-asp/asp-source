@@ -70,8 +70,8 @@ Do you know the seven
 colours of the rainbow?
 
 ##
-License: [CC-BY]
-Writer: Caren Echesa
-Illustration: Jesse Breytenbach
+* License: [CC-BY]
+* Writer: Caren Echesa
+* Illustration: Jesse Breytenbach
 Translated By: Caren Echesa
-Language: English
+* Language: English

@@ -32,9 +32,9 @@ What do you do at your
 school?
 
 ##
-License: [CC-BY]
-Writer: Ivan Higenyi
-Illustration: Wiehan de Jager, Karlien de Villiers, Alice Toich, Kathy Arbuckle, Jano Strydom, Vusi Malindi, Catherine Groenewald and Candace di Talamo
-Language: English
+* License: [CC-BY]
+* Writer: Ivan Higenyi
+* Illustration: Wiehan de Jager, Karlien de Villiers, Alice Toich, Kathy Arbuckle, Jano Strydom, Vusi Malindi, Catherine Groenewald and Candace di Talamo
+* Language: English
 
 Suitable for Children in Lower primary.

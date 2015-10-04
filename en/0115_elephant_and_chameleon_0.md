@@ -63,7 +63,7 @@ princess to Chameleon.
 Elephant went home annoyed.
 
 ##
-License: [CC-BY]
-Writer: Stella Badaru
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Stella Badaru
+* Illustration: Wiehan de Jager
+* Language: English

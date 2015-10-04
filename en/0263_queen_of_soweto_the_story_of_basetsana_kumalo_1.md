@@ -153,7 +153,7 @@ generosity. And that's why Bassie is
 our beautiful Queen.
 
 ##
-License: [CC-BY]
-Writer: Jessica Taylor
-Illustration: Mia du Plessis
-Language: English
+* License: [CC-BY]
+* Writer: Jessica Taylor
+* Illustration: Mia du Plessis
+* Language: English

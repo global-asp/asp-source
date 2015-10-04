@@ -37,8 +37,8 @@ The crowd went wild with joy. Since that day, girls were also
 allowed to play soccer at the school.
 
 ##
-License: [CC-BY-NC]
-Writer: Eden Daniels
-Illustration: Eden Daniels
+* License: [CC-BY-NC]
+* Writer: Eden Daniels
+* Illustration: Eden Daniels
 Lisa Treffry-Goatley (ed.)
-Language: English
+* Language: English

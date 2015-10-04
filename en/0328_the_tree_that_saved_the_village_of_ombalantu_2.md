@@ -152,8 +152,8 @@ Was it Thaimi or the tree that saved
 them all at Ombalantu?
 
 ##
-License: [CC-BY]
-Writer: Karen von Wiese, Beryl Salt, Muhdni Grimwood and Barbara Meyerowitz
-Illustration: Julia te Water Naude
+* License: [CC-BY]
+* Writer: Karen von Wiese, Beryl Salt, Muhdni Grimwood and Barbara Meyerowitz
+* Illustration: Julia te Water Naude
 Translated By: Sheila Drew
-Language: English
+* Language: English

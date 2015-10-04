@@ -131,7 +131,7 @@ because this bus
 was going to town.
 
 ##
-License: [CC-BY]
-Writer: Mecelin Kakoro
-Illustration: Mango Tree
-Language: English
+* License: [CC-BY]
+* Writer: Mecelin Kakoro
+* Illustration: Mango Tree
+* Language: English

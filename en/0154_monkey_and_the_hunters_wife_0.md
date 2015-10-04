@@ -86,7 +86,7 @@ She disappeared up the tree.
 She never lost another baby!
 
 ##
-License: [CC-BY]
-Writer: Wesley Kipkorir Rop
-Illustration: Jesse Breytenbach
-Language: English
+* License: [CC-BY]
+* Writer: Wesley Kipkorir Rop
+* Illustration: Jesse Breytenbach
+* Language: English

@@ -104,7 +104,7 @@ The dog turned and ran away and
 has never been seen since.
 
 ##
-License: [CC-BY]
-Writer: Tessa Welch
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Tessa Welch
+* Illustration: Wiehan de Jager
+* Language: English

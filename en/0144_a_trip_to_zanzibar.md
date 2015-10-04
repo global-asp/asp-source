@@ -35,9 +35,9 @@ A trip to Zanzibar,
 do you wish to go back?
 
 ##
-License: [CC-BY]
-Writer: Barke Ramadhan
-Illustration: Wiehan de Jager, Laura Libertore, Catherine Groenewald and Rijuta Ghate
-Language: English
+* License: [CC-BY]
+* Writer: Barke Ramadhan
+* Illustration: Wiehan de Jager, Laura Libertore, Catherine Groenewald and Rijuta Ghate
+* Language: English
 
 An opportunity for children to understand their environment

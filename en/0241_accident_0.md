@@ -34,7 +34,7 @@ and the car.
 I was shocked.
 
 ##
-License: [CC-BY-NC]
-Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
-Illustration: Cathy Feek
-Language: English
+* License: [CC-BY-NC]
+* Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Illustration: Cathy Feek
+* Language: English

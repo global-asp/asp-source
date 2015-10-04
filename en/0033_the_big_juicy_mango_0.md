@@ -57,7 +57,7 @@ another and it won't be
 my last!
 
 ##
-License: [CC-BY]
-Writer: Katelyn Mostert
-Illustration: Catherine Groenewald and Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Katelyn Mostert
+* Illustration: Catherine Groenewald and Wiehan de Jager
+* Language: English

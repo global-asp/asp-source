@@ -117,7 +117,7 @@ With that, the cows turned and left,
 followed closely by Sorimpan.
 
 ##
-License: [CC-BY-NC]
-Writer: Ursula Nafula
-Illustration: Catherine Groenewald
-Language: English
+* License: [CC-BY-NC]
+* Writer: Ursula Nafula
+* Illustration: Catherine Groenewald
+* Language: English

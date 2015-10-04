@@ -99,10 +99,10 @@ In his heart and mind, Inyang was grateful to
 the bird for saving his life too.
 
 ##
-License: [CC-BY]
-Writer: Simon Ipoo
-Illustration: Catherine Groenewald, Wiehan de Jager, Kathy Arbuckle, Rijuta Ghate and Jemma Kahn
+* License: [CC-BY]
+* Writer: Simon Ipoo
+* Illustration: Catherine Groenewald, Wiehan de Jager, Kathy Arbuckle, Rijuta Ghate and Jemma Kahn
 Adapted By: Simon Ipoo
-Language: English
+* Language: English
 
 Turkana practice pastoralism and nomadism.

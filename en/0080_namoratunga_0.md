@@ -79,8 +79,8 @@ be heard singing and dancing edonga. That is how we have
 the site of Namoratunga.
 
 ##
-License: [CC-BY]
-Writer: Simon Ipoo
-Illustration: Zablon Alex Nguku
+* License: [CC-BY]
+* Writer: Simon Ipoo
+* Illustration: Zablon Alex Nguku
 Translated By: Simon Ipoo
-Language: English
+* Language: English

@@ -33,8 +33,8 @@ present for you.
 Thank you mum!
 
 ##
-License: [CC-BY]
-Writer: Alice Kapolondo
-Illustration: Felicity Bell, Wiehan de Jager, Cathy Feek
+* License: [CC-BY]
+* Writer: Alice Kapolondo
+* Illustration: Felicity Bell, Wiehan de Jager, Cathy Feek
 and Melany Pietersen
-Language: Kiswahili
+* Language: Kiswahili

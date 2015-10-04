@@ -152,8 +152,8 @@ To this day, Warthogs and their children always run
 with their tails lifted up to see that everyone is safe.
 
 ##
-License: [CC-BY]
-Writer: South African traditional
-Illustration: Wiehan de Jager
+* License: [CC-BY]
+* Writer: South African traditional
+* Illustration: Wiehan de Jager
 Adapted By: Judith Baker
-Language: English
+* Language: English

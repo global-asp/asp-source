@@ -45,11 +45,11 @@ Insects like green places.
 My friend and I like green apple.
 
 ##
-License: [CC-BY]
-Writer: Annet Ssebaggala
-Illustration: Sandy Lightly, Catherine Groenewald,
+* License: [CC-BY]
+* Writer: Annet Ssebaggala
+* Illustration: Sandy Lightly, Catherine Groenewald,
 Wiehan de Jager, Sue Kramer, Rijuta Ghate and Amir
 Bachir António Necas
-Language: English
+* Language: English
 
 Children and teachers will enjoy reading this story.

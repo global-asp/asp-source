@@ -75,7 +75,7 @@ This is done through a combination of short
 stories and games.
 
 ##
-License: [CC-BY]
-Writer: Caroline Lentupuru
-Illustration: Caroline Lentupuru
-Language: English
+* License: [CC-BY]
+* Writer: Caroline Lentupuru
+* Illustration: Caroline Lentupuru
+* Language: English

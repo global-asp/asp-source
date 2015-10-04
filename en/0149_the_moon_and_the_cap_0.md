@@ -60,7 +60,7 @@ Guess which cap I am
 wearing today!
 
 ##
-License: [CC-BY]
-Writer: Noni
-Illustration: Angie & Upesh
-Language: English
+* License: [CC-BY]
+* Writer: Noni
+* Illustration: Angie & Upesh
+* Language: English

@@ -81,8 +81,8 @@ became the happy,
 dancing ape.
 
 ##
-License: [CC-BY-NC]
-Writer: Sean Whitehead
-Illustration: Sean Whitehead
+* License: [CC-BY-NC]
+* Writer: Sean Whitehead
+* Illustration: Sean Whitehead
 Edited by: Lisa Treffry-Goatley
-Language: English
+* Language: English

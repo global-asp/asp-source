@@ -91,8 +91,8 @@ Mpho.
 together!”
 
 ##
-License: [CC-BY]
-Writer: Marion Drew and Khothatso Ranoosi
-Illustration: Marion Drew
+* License: [CC-BY]
+* Writer: Marion Drew and Khothatso Ranoosi
+* Illustration: Marion Drew
 Translated By: Khothatso Ranoosi and Marion Drew
-Language: English
+* Language: English

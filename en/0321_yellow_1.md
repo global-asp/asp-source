@@ -44,7 +44,7 @@ live?
 In Africa.
 
 ##
-License: [CC-BY-NC]
-Writer: Reviva Schermbrucker
-Illustration: Sue Kramer
-Language: English
+* License: [CC-BY-NC]
+* Writer: Reviva Schermbrucker
+* Illustration: Sue Kramer
+* Language: English

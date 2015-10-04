@@ -67,8 +67,8 @@ But the man had
 already gone away.
 
 ##
-License: [CC-BY]
-Writer: Ursula Nafula
-Illustration: Wiehan de Jager
+* License: [CC-BY]
+* Writer: Ursula Nafula
+* Illustration: Wiehan de Jager
 Translated By: Ursula Nafula
-Language: English
+* Language: English

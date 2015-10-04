@@ -123,7 +123,7 @@ And he and old Rapule were the
 advisors of Kgosi Mogale.
 
 ##
-License: [CC-BY]
-Writer: Ugandan folktale
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Ugandan folktale
+* Illustration: Wiehan de Jager
+* Language: English

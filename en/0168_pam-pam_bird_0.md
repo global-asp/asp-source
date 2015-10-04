@@ -129,7 +129,7 @@ manipulations of the Manyeka Art Collection of paintings made by
 San artists.
 
 ##
-License: [CC-BY]
-Writer: Traditional San story
-Illustration: Manyeka Arts Trust, Pensa Limungu, Kapilolo Mahongo and Marlene Winberg
-Language: English
+* License: [CC-BY]
+* Writer: Traditional San story
+* Illustration: Manyeka Arts Trust, Pensa Limungu, Kapilolo Mahongo and Marlene Winberg
+* Language: English

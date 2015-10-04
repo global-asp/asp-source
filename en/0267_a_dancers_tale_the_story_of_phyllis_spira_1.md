@@ -138,7 +138,7 @@ They dance on while we watch,
 dreaming from our seats.
 
 ##
-License: [CC-BY]
-Writer: Samantha Cutler
-Illustration: Thea Nicole de Klerk and Book Dash
-Language: English
+* License: [CC-BY]
+* Writer: Samantha Cutler
+* Illustration: Thea Nicole de Klerk and Book Dash
+* Language: English

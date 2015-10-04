@@ -39,7 +39,7 @@ dodging school and tearing the
 new school shirt.
 
 ##
-License: [CC-BY-NC]
-Writer: Ivan higenyi
-Illustration: Wiehan de Jager, Rob Owen, Joseph Ejoyi, Catherine Groenewald, Jano Strydom, Benard Agasi, Vusi Malindi, Jesse Breytenbach and Sandy Lightly
-Language: English
+* License: [CC-BY-NC]
+* Writer: Ivan higenyi
+* Illustration: Wiehan de Jager, Rob Owen, Joseph Ejoyi, Catherine Groenewald, Jano Strydom, Benard Agasi, Vusi Malindi, Jesse Breytenbach and Sandy Lightly
+* Language: English

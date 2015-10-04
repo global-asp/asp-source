@@ -91,7 +91,7 @@ rest.”
 And that is how night came to Opio's village.
 
 ##
-License: [CC-BY]
-Writer: Robert Ekuka
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Robert Ekuka
+* Illustration: Wiehan de Jager
+* Language: English

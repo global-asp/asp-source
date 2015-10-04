@@ -83,7 +83,7 @@ When the teacher turned...
 There was no one in the class.
 
 ##
-License: [CC-BY]
-Writer: Madhav Chavan and Meera Tendolkar
-Illustration: Ketan Raut
-Language: English
+* License: [CC-BY]
+* Writer: Madhav Chavan and Meera Tendolkar
+* Illustration: Ketan Raut
+* Language: English

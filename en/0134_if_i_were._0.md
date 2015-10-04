@@ -42,7 +42,7 @@ If I were a priest, I would be taking all people to heaven.
 If I were a mosquito, I would be sleeping under a mosquito net.
 
 ##
-License: [CC-BY-NC]
-Writer: Seruwooza Shafic, Mutaawe Frank, Namuddu Patricia, Mwibonere Bwiza Sara, Namugambe Mariam, Ritah Katetemera, Milly Kasule, Fatma Baracka, Annet Ssebagalla and John Emongot
-Illustration: Jano Strydom, Cathy Feek, Laura Libertore, Marleen Visser, Rob Owen, Natalie Propa, Karen Lilje, Benjamin Mitchley, Wiehan de Jager, Alice Toich and Rebecca Riley
-Language: English
+* License: [CC-BY-NC]
+* Writer: Seruwooza Shafic, Mutaawe Frank, Namuddu Patricia, Mwibonere Bwiza Sara, Namugambe Mariam, Ritah Katetemera, Milly Kasule, Fatma Baracka, Annet Ssebagalla and John Emongot
+* Illustration: Jano Strydom, Cathy Feek, Laura Libertore, Marleen Visser, Rob Owen, Natalie Propa, Karen Lilje, Benjamin Mitchley, Wiehan de Jager, Alice Toich and Rebecca Riley
+* Language: English

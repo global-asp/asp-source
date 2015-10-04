@@ -66,7 +66,7 @@ other things that people know
 how to do.
 
 ##
-License: [CC-BY]
-Writer: Ghanaian folktale
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Ghanaian folktale
+* Illustration: Wiehan de Jager
+* Language: English

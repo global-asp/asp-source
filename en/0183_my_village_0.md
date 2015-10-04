@@ -34,7 +34,7 @@ grandparents tell us interesting stories.
 THE END.
 
 ##
-License: [CC-BY-NC]
-Writer: Agoro Christine
-Illustration: Rob Owen and Jesse Breytenbach
-Language: English
+* License: [CC-BY-NC]
+* Writer: Agoro Christine
+* Illustration: Rob Owen and Jesse Breytenbach
+* Language: English

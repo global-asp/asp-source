@@ -272,7 +272,7 @@ Winter's not long. Be brave, little
 one. Together we're strong!”
 
 ##
-License: [CC-BY]
-Writer: Liesl Jobson
-Illustration: Alice Toich
-Language: English
+* License: [CC-BY]
+* Writer: Liesl Jobson
+* Illustration: Alice Toich
+* Language: English

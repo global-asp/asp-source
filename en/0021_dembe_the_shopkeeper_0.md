@@ -50,8 +50,8 @@ pay school fees for their
 children.
 
 ##
-License: [CC-BY]
-Writer: Annet Ssebaggala
-Illustration: Zablon Alex Nguku
+* License: [CC-BY]
+* Writer: Annet Ssebaggala
+* Illustration: Zablon Alex Nguku
 Translated By: Annet Ssebaggala
-Language: English
+* Language: English

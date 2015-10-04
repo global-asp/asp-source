@@ -34,7 +34,7 @@ Babies babble...
 ##
 
 ##
-License: [CC-BY-NC]
-Writer: Carole Bloch
-Illustration: Jean Fullalove
-Language: English
+* License: [CC-BY-NC]
+* Writer: Carole Bloch
+* Illustration: Jean Fullalove
+* Language: English

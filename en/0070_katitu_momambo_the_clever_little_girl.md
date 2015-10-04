@@ -207,7 +207,7 @@ manipulations of the Manyeka Art Collection of paintings made by
 San artists.
 
 ##
-License: [CC-BY]
-Writer: Traditional San story
-Illustration: Manyeka Arts Trust
-Language: English
+* License: [CC-BY]
+* Writer: Traditional San story
+* Illustration: Manyeka Arts Trust
+* Language: English

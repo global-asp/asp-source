@@ -47,10 +47,10 @@ never accepted to eat that apple
 the talking lion gave me"
 
 ##
-License: [CC-BY]
-Writer: Jonathan Githui, Gavin Gatamu and Eissa elzaki
-Illustration: Wiehan de Jager, Zablon Alex Nguku, Vusi
+* License: [CC-BY]
+* Writer: Jonathan Githui, Gavin Gatamu and Eissa elzaki
+* Illustration: Wiehan de Jager, Zablon Alex Nguku, Vusi
 Malindi, Robert McEwan and Catherine Groenewald
-Language: English
+* Language: English
 
 The writers are young charismatic boys with a thirst for writing

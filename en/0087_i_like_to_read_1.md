@@ -28,8 +28,8 @@ Who can I read to? I can
 read to myself!
 
 ##
-License: [CC-BY]
-Writer: Letta Machoga
-Illustration: Wiehan de Jager
+* License: [CC-BY]
+* Writer: Letta Machoga
+* Illustration: Wiehan de Jager
 Translated By: Letta Machoga
-Language: English
+* Language: English

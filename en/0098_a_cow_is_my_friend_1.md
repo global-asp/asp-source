@@ -16,7 +16,7 @@ bag, and I have very
 good shoes.
 
 ##
-License: [CC-BY]
-Writer: Frista and Fatima
-Illustration: Marleen Visser and Felicity Bell
-Language: English
+* License: [CC-BY]
+* Writer: Frista and Fatima
+* Illustration: Marleen Visser and Felicity Bell
+* Language: English

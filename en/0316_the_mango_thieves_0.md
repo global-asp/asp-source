@@ -66,8 +66,8 @@ to steal anything again.
 
 ##
 The mango thieves
-License: [CC-BY]
-Writer: Ritah Katetemera
-Illustration: Wiehan de Jager, Cathy Feek, Eden Daniels,
+* License: [CC-BY]
+* Writer: Ritah Katetemera
+* Illustration: Wiehan de Jager, Cathy Feek, Eden Daniels,
 Ketan Raut, Herminder Ohri and Benjamin Mitchley
-Language: English
+* Language: English

@@ -56,8 +56,8 @@ everything in life!
 Hurray!
 
 ##
-License: [CC-BY]
-Writer: Agnes Mabururu
-Illustration: Wiehan de Jager, Jesse Breytenbach and
+* License: [CC-BY]
+* Writer: Agnes Mabururu
+* Illustration: Wiehan de Jager, Jesse Breytenbach and
 Jesse Pietersen
-Language: English
+* Language: English

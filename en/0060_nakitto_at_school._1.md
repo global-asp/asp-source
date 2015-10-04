@@ -33,7 +33,7 @@ Nakitto reads with her
 mother at home.
 
 ##
-License: [CC-BY]
-Writer: Annet Ssebaggala
-Illustration: Genevieve Terblanche, Wiehan de Jager, Vusi Malindi and Karlien de Villiers
-Language: English and Luganda
+* License: [CC-BY]
+* Writer: Annet Ssebaggala
+* Illustration: Genevieve Terblanche, Wiehan de Jager, Vusi Malindi and Karlien de Villiers
+* Language: English and Luganda

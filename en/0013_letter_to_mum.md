@@ -87,7 +87,7 @@ When I woke up the following
 morning, the letter was gone.
 
 ##
-License: [CC-BY]
-Writer: Ursula Nafula
-Illustration: Catherine Groenewald
-Language: English
+* License: [CC-BY]
+* Writer: Ursula Nafula
+* Illustration: Catherine Groenewald
+* Language: English

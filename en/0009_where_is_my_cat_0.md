@@ -25,8 +25,8 @@ Is it outside the house?
 Here it is!
 
 ##
-License: [CC-BY-NC]
-Writer: Clare Verbeek, Thembani Dladla and Zanele
+* License: [CC-BY-NC]
+* Writer: Clare Verbeek, Thembani Dladla and Zanele
 Buthelezi
-Illustration: Bronwen Heath
-Language: English
+* Illustration: Bronwen Heath
+* Language: English

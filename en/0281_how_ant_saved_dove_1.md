@@ -131,7 +131,7 @@ thanked White Dove for
 saving him.
 
 ##
-License: [CC-BY]
-Writer: Kholeka Mabeta and Judith Baker
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Kholeka Mabeta and Judith Baker
+* Illustration: Wiehan de Jager
+* Language: English

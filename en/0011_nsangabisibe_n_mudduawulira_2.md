@@ -71,7 +71,7 @@ very fast!
 
 ##
 Nsangabisibe n' Mudduawulira
-License: [CC-BY]
-Writer: Frista Nattabira
-Illustration: Wiehan de Jager and João Carlos Brito
-Language: English and Luganda
+* License: [CC-BY]
+* Writer: Frista Nattabira
+* Illustration: Wiehan de Jager and João Carlos Brito
+* Language: English and Luganda

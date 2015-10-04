@@ -58,7 +58,7 @@ back to her parents.
 The story ends there!
 
 ##
-License: [CC-BY]
-Writer: Caroline Lentupuru
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Caroline Lentupuru
+* Illustration: Wiehan de Jager
+* Language: English

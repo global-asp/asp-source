@@ -110,7 +110,7 @@ enjoyed eating a big piece of
 roast meat.
 
 ##
-License: [CC-BY]
-Writer: Ursula Nafula
-Illustration: Catherine Groenewald
-Language: English
+* License: [CC-BY]
+* Writer: Ursula Nafula
+* Illustration: Catherine Groenewald
+* Language: English

@@ -113,11 +113,11 @@ slaap hy weg van die oë van
 ander voëls.
 
 ##
-License: [CC-BY]
-Writer: South African Folktale
-Illustration: Wiehan de Jager
+* License: [CC-BY]
+* Writer: South African Folktale
+* Illustration: Wiehan de Jager
 Translated By: Danielle McGarry
-Language: English
+* Language: English
 
 Adapted from a story in 'SouthAfrican Folk-Tales', by James A.
 Honey, 1910.

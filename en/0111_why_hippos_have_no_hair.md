@@ -54,7 +54,7 @@ Fire.
 Hare was very happy when Hippo got burned, saying, “I got her back!”
 
 ##
-License: [CC-BY]
-Writer: Basilio Gimo and David Ker
-Illustration: Carol Liddiment
-Language: English
+* License: [CC-BY]
+* Writer: Basilio Gimo and David Ker
+* Illustration: Carol Liddiment
+* Language: English

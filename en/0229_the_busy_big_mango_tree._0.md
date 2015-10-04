@@ -33,7 +33,7 @@ prayers.
 Ee..ee, what blessed mango tree
 
 ##
-License: [CC-BY]
-Writer: Rose Alungho
-Illustration: Wiehan de Jager, Jesse Pietersen, Melany Pietersen, Johanna Kistner, Eden Daniels, Catherine Groenewald and Karlien de Villiers
-Language: English
+* License: [CC-BY]
+* Writer: Rose Alungho
+* Illustration: Wiehan de Jager, Jesse Pietersen, Melany Pietersen, Johanna Kistner, Eden Daniels, Catherine Groenewald and Karlien de Villiers
+* Language: English

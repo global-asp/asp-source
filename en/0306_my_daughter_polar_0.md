@@ -29,7 +29,7 @@ cake and all became
 happy.
 
 ##
-License: [CC-BY]
-Writer: Cissy Namugerwa
-Illustration: Vusi Malindi
-Language: English
+* License: [CC-BY]
+* Writer: Cissy Namugerwa
+* Illustration: Vusi Malindi
+* Language: English

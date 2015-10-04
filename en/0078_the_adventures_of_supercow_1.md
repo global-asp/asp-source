@@ -31,7 +31,7 @@ Cow might come to visit you too!
 The end.
 
 ##
-License: [CC-BY-NC]
-Writer: Danielle Bruckert
-Illustration: Danielle Bruckert
-Language: English
+* License: [CC-BY-NC]
+* Writer: Danielle Bruckert
+* Illustration: Danielle Bruckert
+* Language: English

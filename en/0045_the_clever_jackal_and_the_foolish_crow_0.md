@@ -59,7 +59,7 @@ bush and crow was left angry and
 hungry.
 
 ##
-License: [CC-BY]
-Writer: Kholeka Mabeta
-Illustration: Benjamin Mitchley
-Language: English
+* License: [CC-BY]
+* Writer: Kholeka Mabeta
+* Illustration: Benjamin Mitchley
+* Language: English

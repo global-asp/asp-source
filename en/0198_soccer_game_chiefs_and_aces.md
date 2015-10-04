@@ -53,9 +53,9 @@ you, coach! You are a wonderful
 coach!
 
 ##
-License: [CC-BY]
-Writer: Letta Machoga
-Illustration: Vusi Malindi
+* License: [CC-BY]
+* Writer: Letta Machoga
+* Illustration: Vusi Malindi
 Translated By: Nolitha Bikitsha and Thandabantu
 Magengelele
-Language: English
+* Language: English

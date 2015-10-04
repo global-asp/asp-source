@@ -31,8 +31,8 @@ We like to run after the pigs.
 We like to play with our friends.
 
 ##
-License: [CC-BY]
-Writer: Wendy Parry
-Illustration: Vusi Malindi, Mario Kart, Laura Libertore,
+* License: [CC-BY]
+* Writer: Wendy Parry
+* Illustration: Vusi Malindi, Mario Kart, Laura Libertore,
 Wiehan de Jager and Catherine Groenewald
-Language: English
+* Language: English

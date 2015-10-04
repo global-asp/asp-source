@@ -54,7 +54,7 @@ and cosy dreams.
 Good night Mouse.
 
 ##
-License: [CC-BY]
-Writer: Michele Fry
-Illustration: Amy Uzzell
-Language: English
+* License: [CC-BY]
+* Writer: Michele Fry
+* Illustration: Amy Uzzell
+* Language: English

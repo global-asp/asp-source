@@ -48,8 +48,8 @@ woman never had
 naughty fingers again!
 
 ##
-License: [CC-BY]
-Writer: Danica Strydom
-Illustration: Danica Strydom
+* License: [CC-BY]
+* Writer: Danica Strydom
+* Illustration: Danica Strydom
 Edited by: Lisa Treffry-Goatley
-Language: English
+* Language: English

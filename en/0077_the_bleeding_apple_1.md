@@ -66,8 +66,8 @@ with a cross face. All that Kala felt as he escaped through the door, was his
 behind getting warm from his Mom's dish cloth!
 
 ##
-License: [CC-BY]
-Writer: Sara Mohale
-Illustration: Catherine Groenewald, Wiehan de Jager and Marion Drew
+* License: [CC-BY]
+* Writer: Sara Mohale
+* Illustration: Catherine Groenewald, Wiehan de Jager and Marion Drew
 Adapted By: Sara Motlhago Mohale
-Language: English
+* Language: English

@@ -55,8 +55,8 @@ And she thanked her
 mother.
 
 ##
-License: [CC-BY]
-Writer: Annet Ssebaggala
-Illustration: Melany Pietersen
+* License: [CC-BY]
+* Writer: Annet Ssebaggala
+* Illustration: Melany Pietersen
 Translated By: Annet Ssebaggala
-Language: English
+* Language: English

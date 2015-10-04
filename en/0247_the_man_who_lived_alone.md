@@ -53,8 +53,8 @@ to live near his
 neighbours.
 
 ##
-License: [CC-BY]
-Writer: Carlos Kanembera
-Illustration: Trevor Kellog
+* License: [CC-BY]
+* Writer: Carlos Kanembera
+* Illustration: Trevor Kellog
 Translated By: Little Zebra Books
-Language: English
+* Language: English

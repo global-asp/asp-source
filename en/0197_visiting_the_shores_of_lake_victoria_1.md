@@ -19,7 +19,7 @@ school and started telling
 Her where she we.
 
 ##
-License: [CC-BY]
-Writer: Mbabazi Hellenah
-Illustration: Rob Owen and Catherine Groenewald
-Language: English
+* License: [CC-BY]
+* Writer: Mbabazi Hellenah
+* Illustration: Rob Owen and Catherine Groenewald
+* Language: English

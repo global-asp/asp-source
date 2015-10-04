@@ -42,7 +42,7 @@ big, either! All of us are
 small!"
 
 ##
-License: [CC-BY]
-Writer: Sara Saunders
-Illustration: Wiehan de Jager, blackmoondev.com and Karen Lilje
-Language: English
+* License: [CC-BY]
+* Writer: Sara Saunders
+* Illustration: Wiehan de Jager, blackmoondev.com and Karen Lilje
+* Language: English

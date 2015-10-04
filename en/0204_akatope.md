@@ -87,7 +87,7 @@ Akatope grew up to be the most
 beautiful girl in the village.
 
 ##
-License: [CC-BY]
-Writer: Alice Kapolondo
-Illustration: Catherine Groenewald, Microsoft Clip Art and Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Alice Kapolondo
+* Illustration: Catherine Groenewald, Microsoft Clip Art and Wiehan de Jager
+* Language: English

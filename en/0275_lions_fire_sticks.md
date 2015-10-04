@@ -128,7 +128,7 @@ came to be the enemy of all
 animals and all people.
 
 ##
-License: [CC-BY]
-Writer: Traditional San story
-Illustration: Manyeka Arts Trust
-Language: English
+* License: [CC-BY]
+* Writer: Traditional San story
+* Illustration: Manyeka Arts Trust
+* Language: English

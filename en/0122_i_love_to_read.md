@@ -29,8 +29,8 @@ I will sit and read for
 myself
 
 ##
-License: [CC-BY]
-Writer: Letta Machoga
-Illustration: Wiehan de Jager
+* License: [CC-BY]
+* Writer: Letta Machoga
+* Illustration: Wiehan de Jager
 Translated By: Letta Machoga and Bathokwa book club
-Language: English
+* Language: English

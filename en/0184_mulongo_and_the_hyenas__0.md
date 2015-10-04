@@ -142,7 +142,7 @@ From that day, Mulongo and the other children never again went back to the
 forest alone.
 
 ##
-License: [CC-BY]
-Writer: Sarah Nangobi
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Sarah Nangobi
+* Illustration: Wiehan de Jager
+* Language: English

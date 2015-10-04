@@ -42,7 +42,7 @@ I think she is feeling
 shy.
 
 ##
-License: [CC-BY]
-Writer: Madhav Chavan
-Illustration: Rijuta Ghate
-Language: English
+* License: [CC-BY]
+* Writer: Madhav Chavan
+* Illustration: Rijuta Ghate
+* Language: English

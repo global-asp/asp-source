@@ -25,7 +25,7 @@ But these shoes are new.
 ... they fit well.
 
 ##
-License: [CC-BY-NC]
-Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
-Illustration: Mlungisi Dlamini
-Language: English
+* License: [CC-BY-NC]
+* Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Illustration: Mlungisi Dlamini
+* Language: English

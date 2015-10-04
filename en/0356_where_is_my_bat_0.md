@@ -35,7 +35,7 @@ anywhere.
 ##
 
 ##
-License: [CC-BY]
-Writer: Meera Tendolkar and Madhav Chavan
-Illustration: Rijuta Ghate
-Language: English
+* License: [CC-BY]
+* Writer: Meera Tendolkar and Madhav Chavan
+* Illustration: Rijuta Ghate
+* Language: English

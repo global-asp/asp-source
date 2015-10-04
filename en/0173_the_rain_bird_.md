@@ -191,7 +191,7 @@ to the forest to feed the bird that
 brought the rain.
 
 ##
-License: [CC-BY-NC]
-Writer: Joanne Bloch (retold folktale)
-Illustration: Wiehan de Jager and Nalibali
-Language: English
+* License: [CC-BY-NC]
+* Writer: Joanne Bloch (retold folktale)
+* Illustration: Wiehan de Jager and Nalibali
+* Language: English

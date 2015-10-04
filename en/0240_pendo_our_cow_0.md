@@ -47,8 +47,8 @@ Ndalo says, "Thank you
 Pendo!"
 
 ##
-License: [CC-BY]
-Writer: Ruth Odondi
-Illustration: Rob Owen
+* License: [CC-BY]
+* Writer: Ruth Odondi
+* Illustration: Rob Owen
 Adapted By: Ruth Odondi
-Language: English
+* Language: English

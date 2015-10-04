@@ -50,7 +50,7 @@ He carried on walking. He was
 hungrier than before.
 
 ##
-License: [CC-BY]
-Writer: Kholeka Mabeta
-Illustration: Benjamin Mitchley
-Language: English
+* License: [CC-BY]
+* Writer: Kholeka Mabeta
+* Illustration: Benjamin Mitchley
+* Language: English

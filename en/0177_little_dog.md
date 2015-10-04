@@ -65,10 +65,10 @@ play ball with a little
 cat!
 
 ##
-License: [CC-BY]
-Writer: Val Morris
-Illustration: Heslia Schon
-Language: English
+* License: [CC-BY]
+* Writer: Val Morris
+* Illustration: Heslia Schon
+* Language: English
 
 Books in Homes is supported by
 White River Rotary Club South

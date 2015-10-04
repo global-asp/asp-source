@@ -102,7 +102,7 @@ The family and the frog jumped and
 danced with joy.
 
 ##
-License: [CC-BY]
-Writer: South African Folktale
-Illustration: Emily Berg
-Language: English
+* License: [CC-BY]
+* Writer: South African Folktale
+* Illustration: Emily Berg
+* Language: English

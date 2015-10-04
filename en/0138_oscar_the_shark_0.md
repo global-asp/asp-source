@@ -45,8 +45,8 @@ Now he eats his carrots
 with fish!
 
 ##
-License: [CC-BY-NC]
-Writer: Ethan Alberts
-Illustration: Ethan Alberts
+* License: [CC-BY-NC]
+* Writer: Ethan Alberts
+* Illustration: Ethan Alberts
 Edited by: Lisa Treffry-Goatley
-Language: English
+* Language: English

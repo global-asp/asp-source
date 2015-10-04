@@ -31,7 +31,7 @@ But now I don't have
 many.
 
 ##
-License: [CC-BY-NC]
-Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
-Illustration: Kathy Arbuckle
-Language: English
+* License: [CC-BY-NC]
+* Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Illustration: Kathy Arbuckle
+* Language: English

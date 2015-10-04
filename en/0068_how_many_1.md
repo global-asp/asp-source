@@ -33,7 +33,7 @@ How many legs does
 one worm have?
 
 ##
-License: [CC-BY-NC]
-Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
-Illustration: Sandra McDougall
-Language: English
+* License: [CC-BY-NC]
+* Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Illustration: Sandra McDougall
+* Language: English

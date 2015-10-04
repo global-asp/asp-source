@@ -154,7 +154,7 @@ nor bedtime.
 I love my Bandit. He's my best!
 
 ##
-License: [CC-BY]
-Writer: Rachel Zadok
-Illustration: Candace di Talamo
-Language: English
+* License: [CC-BY]
+* Writer: Rachel Zadok
+* Illustration: Candace di Talamo
+* Language: English

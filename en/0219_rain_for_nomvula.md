@@ -58,8 +58,8 @@ Zimanz'iinwele zakho!
 Zimanz'iinwele zakho!
 
 ##
-License: [CC-BY]
-Writer: Letta Machoga
-Illustration: Marleen Visser
+* License: [CC-BY]
+* Writer: Letta Machoga
+* Illustration: Marleen Visser
 Translated By: Nolitha Bikitsha and Thandabantu Magengelele
-Language: English
+* Language: English

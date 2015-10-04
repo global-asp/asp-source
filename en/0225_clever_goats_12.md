@@ -52,9 +52,9 @@ He was very sorry about the
 incident.
 
 ##
-License: [CC-BY]
-Writer: Bukheye Mulongo Christopher and Alungho Rose
-Illustration: Rob Owen
-Language: English
+* License: [CC-BY]
+* Writer: Bukheye Mulongo Christopher and Alungho Rose
+* Illustration: Rob Owen
+* Language: English
 
 this story was written by a teacher and a librarian

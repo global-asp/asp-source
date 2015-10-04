@@ -60,7 +60,7 @@ flew away singing into
 the morning light.
 
 ##
-License: [CC-BY]
-Writer: Southern African Folktale
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Southern African Folktale
+* Illustration: Wiehan de Jager
+* Language: English

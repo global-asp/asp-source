@@ -48,7 +48,7 @@ They crept home very
 quietly.
 
 ##
-License: [CC-BY]
-Writer: Ingrid Schechter
-Illustration: Ingrid Schechter
-Language: English
+* License: [CC-BY]
+* Writer: Ingrid Schechter
+* Illustration: Ingrid Schechter
+* Language: English

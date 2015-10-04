@@ -16,7 +16,7 @@ I ran away from her.
 Grandma got very tired.
 
 ##
-License: [CC-BY]
-Writer: Augustine Napagi
-Illustration: Ingrid Schechter
-Language: English
+* License: [CC-BY]
+* Writer: Augustine Napagi
+* Illustration: Ingrid Schechter
+* Language: English

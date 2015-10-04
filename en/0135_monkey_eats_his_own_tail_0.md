@@ -94,7 +94,7 @@ became enemies!
 
 ##
 Monkey Eats his Own Tail
-License: [CC-BY]
-Writer: Mozambican folktale
-Illustration: Horácio José Cossa
-Language: English
+* License: [CC-BY]
+* Writer: Mozambican folktale
+* Illustration: Horácio José Cossa
+* Language: English

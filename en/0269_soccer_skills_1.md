@@ -54,8 +54,8 @@ punched the ball which
 was shot by Joseph.
 
 ##
-License: [CC-BY]
-Writer: Joseph Ejoyi
-Illustration: Joseph Ejoyi
+* License: [CC-BY]
+* Writer: Joseph Ejoyi
+* Illustration: Joseph Ejoyi
 Translated By: Nelson Acadri
-Language: English
+* Language: English

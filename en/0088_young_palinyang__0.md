@@ -121,7 +121,7 @@ bag for carrying books to school.
 And that is how Palinyang' started going to school.
 
 ##
-License: [CC-BY]
-Writer: Gaspah Emukuru Juma
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Gaspah Emukuru Juma
+* Illustration: Wiehan de Jager
+* Language: English

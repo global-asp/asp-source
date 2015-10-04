@@ -46,7 +46,7 @@ tore in two from one
 side to the other!
 
 ##
-License: [CC-BY]
-Writer: Dorothy Fetaru
-Illustration: Joshua Waswa
-Language: English
+* License: [CC-BY]
+* Writer: Dorothy Fetaru
+* Illustration: Joshua Waswa
+* Language: English

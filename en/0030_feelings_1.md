@@ -23,7 +23,7 @@ I feel loved when my
 mom gives me a hug.
 
 ##
-License: [CC-BY-NC]
-Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
-Illustration: Kathy Arbuckle
-Language: English
+* License: [CC-BY-NC]
+* Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Illustration: Kathy Arbuckle
+* Language: English

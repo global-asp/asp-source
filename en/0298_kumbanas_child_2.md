@@ -73,7 +73,7 @@ Kheri were both happy
 again.
 
 ##
-License: [CC-BY]
-Writer: Ingrid Schechter
-Illustration: Razaque Lázaro Quive
-Language: English
+* License: [CC-BY]
+* Writer: Ingrid Schechter
+* Illustration: Razaque Lázaro Quive
+* Language: English

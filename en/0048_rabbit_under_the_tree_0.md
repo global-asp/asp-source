@@ -129,8 +129,8 @@ of the wind. I'm the one who
 said, ‘Run rabbit run!'”
 
 ##
-License: [CC-BY]
-Writer: Phumy Zikode
-Illustration: Wiehan de Jager
+* License: [CC-BY]
+* Writer: Phumy Zikode
+* Illustration: Wiehan de Jager
 Translated By: Phumy Zikode
-Language: English
+* Language: English

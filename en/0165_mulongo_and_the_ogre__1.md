@@ -146,8 +146,8 @@ down the tree and took over the
 ogre's house and property.
 
 ##
-License: [CC-BY]
-Writer: Fabian Wakholi
-Illustration: Natalie Propa
+* License: [CC-BY]
+* Writer: Fabian Wakholi
+* Illustration: Natalie Propa
 Translated By: Fabian Wakholi
-Language: English
+* Language: English

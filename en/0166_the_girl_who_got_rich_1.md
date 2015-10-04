@@ -99,8 +99,8 @@ ended up in an elephant's
 mouth.”
 
 ##
-License: [CC-BY]
-Writer: Salaama Wanale
-Illustration: Mango Tree
+* License: [CC-BY]
+* Writer: Salaama Wanale
+* Illustration: Mango Tree
 Translated By: Salaama Wanale
-Language: English
+* Language: English

@@ -129,7 +129,7 @@ Achakakin nakim na,
 Chi...gi...gir.”
 
 ##
-License: [CC-BY]
-Writer: John Nga'sike
-Illustration: Zablon Alex Nguku
-Language: English
+* License: [CC-BY]
+* Writer: John Nga'sike
+* Illustration: Zablon Alex Nguku
+* Language: English

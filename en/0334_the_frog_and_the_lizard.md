@@ -47,7 +47,7 @@ The frog lost his tail to date the
 frog does not have its tail.
 
 ##
-License: [CC-BY]
-Writer: Nabune Beatres
-Illustration: Hélder de Paz Alexandre, Wiehan de Jager, Graham Paterson, Rob Owen, Maya Marshak and Marion Drew
-Language: English
+* License: [CC-BY]
+* Writer: Nabune Beatres
+* Illustration: Hélder de Paz Alexandre, Wiehan de Jager, Graham Paterson, Rob Owen, Maya Marshak and Marion Drew
+* Language: English

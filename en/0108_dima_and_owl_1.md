@@ -199,7 +199,7 @@ The Manyeka Arts Trust holds a !Xun audio telling of this story by
 Meneputo Mnaunga Maneka in archive.
 
 ##
-License: [CC-BY]
-Writer: Traditional San story
-Illustration: Manyeka Arts Trust
-Language: English
+* License: [CC-BY]
+* Writer: Traditional San story
+* Illustration: Manyeka Arts Trust
+* Language: English

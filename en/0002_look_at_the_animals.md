@@ -29,7 +29,7 @@ The farmer says,
 "Shhh!"
 
 ##
-License: [CC-BY-NC]
-Writer: Jenny Katz
-Illustration: Sandy Campbell
-Language: English
+* License: [CC-BY-NC]
+* Writer: Jenny Katz
+* Illustration: Sandy Campbell
+* Language: English

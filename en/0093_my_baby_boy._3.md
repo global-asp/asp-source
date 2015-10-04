@@ -11,9 +11,9 @@ and apples.
 After taking his breakfast, he goes to play with a friend.
 
 ##
-License: [CC-BY]
-Writer: Cissy Namugerwa and Nanyonga Allen
-Illustration: Genevieve Terblanche, Melany Pietersen, Catherine Groenewald, Marion Drew and Mlungisi Dlamini
-Language: English
+* License: [CC-BY]
+* Writer: Cissy Namugerwa and Nanyonga Allen
+* Illustration: Genevieve Terblanche, Melany Pietersen, Catherine Groenewald, Marion Drew and Mlungisi Dlamini
+* Language: English
 
 A very short and brief story talks about a little boy John Francis.

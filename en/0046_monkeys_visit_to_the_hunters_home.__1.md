@@ -95,10 +95,10 @@ She held her baby to her chest and
 she disappeared up the tree.
 
 ##
-License: [CC-BY]
-Writer: Wesley Kipkorir Rop
-Illustration: Jesse Breytenbach
+* License: [CC-BY]
+* Writer: Wesley Kipkorir Rop
+* Illustration: Jesse Breytenbach
 Adapted By: Nambubi Catherine, Haumba Herbert and Alungho Rose
-Language: English
+* Language: English
 
 This book should have all the pages sumerised at the end on one page

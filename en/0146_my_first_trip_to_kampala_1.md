@@ -34,10 +34,10 @@ A trip to kampala,
 do you wish to go back?
 
 ##
-License: [CC-BY]
-Writer: Barke Ramadhan
-Illustration: Wiehan de Jager, Laura Libertore, Catherine Groenewald, Rijuta Ghate and Jemma Kahn
+* License: [CC-BY]
+* Writer: Barke Ramadhan
+* Illustration: Wiehan de Jager, Laura Libertore, Catherine Groenewald, Rijuta Ghate and Jemma Kahn
 Adapted By: Herbert Haumba and ROSE ALUNGHO
-Language: English
+* Language: English
 
 An opportunity for children to understand their environment

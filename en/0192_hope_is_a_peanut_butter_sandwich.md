@@ -10,7 +10,7 @@ a hunger for
 fullness
 
 ##
-License: [CC-BY]
-Writer: Johanna Kistner
-Illustration: Johanna Kistner
-Language: English
+* License: [CC-BY]
+* Writer: Johanna Kistner
+* Illustration: Johanna Kistner
+* Language: English

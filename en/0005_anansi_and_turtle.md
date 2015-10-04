@@ -126,7 +126,7 @@ all of the delicious food!
 
 ##
 Anansi and Turtle
-License: [CC-BY]
-Writer: Ghanaian folktale
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Ghanaian folktale
+* Illustration: Wiehan de Jager
+* Language: English

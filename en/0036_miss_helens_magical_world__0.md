@@ -162,7 +162,7 @@ the way she left us, in the garden
 she made, looking East.
 
 ##
-License: [CC-BY]
-Writer: Jacqui L'ange
-Illustration: Wendy Morison
-Language: English
+* License: [CC-BY]
+* Writer: Jacqui L'ange
+* Illustration: Wendy Morison
+* Language: English

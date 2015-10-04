@@ -113,7 +113,7 @@ day!”
 And so that's what Vusi did.
 
 ##
-License: [CC-BY]
-Writer: Nina Orange
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Nina Orange
+* Illustration: Wiehan de Jager
+* Language: English

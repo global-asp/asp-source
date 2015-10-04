@@ -96,8 +96,8 @@ live in small groups today and do not live as a baboon nation, as
 do people and many other animals.
 
 ##
-License: [CC-BY]
-Writer: Southern African Folktale
-Illustration: Benjamin Mitchley
+* License: [CC-BY]
+* Writer: Southern African Folktale
+* Illustration: Benjamin Mitchley
 Adapted By: Sheila Drew
-Language: English
+* Language: English

@@ -49,7 +49,7 @@ knocked the door at once but the chief was no where to be seen.
 She knocked again. Then the chief opened the door.
 
 ##
-License: [CC-BY]
-Writer: Nannono milly
-Illustration: Jesse Breytenbach
-Language: English
+* License: [CC-BY]
+* Writer: Nannono milly
+* Illustration: Jesse Breytenbach
+* Language: English

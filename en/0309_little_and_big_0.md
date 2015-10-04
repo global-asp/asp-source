@@ -29,7 +29,7 @@ Little smile, big smile.
 The end.
 
 ##
-License: [CC-BY-NC]
-Writer: Carole Bloch
-Illustration: Vian Oelofsen
-Language: English
+* License: [CC-BY-NC]
+* Writer: Carole Bloch
+* Illustration: Vian Oelofsen
+* Language: English

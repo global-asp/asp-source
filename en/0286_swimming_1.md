@@ -54,8 +54,8 @@ Finally, Tortoise used the mouth-to-mouth method to remove
 more water.
 
 ##
-License: [CC-BY]
-Writer: Alice Inzikuru
-Illustration: Alice Inzikuru and Robert McEwan
+* License: [CC-BY]
+* Writer: Alice Inzikuru
+* Illustration: Alice Inzikuru and Robert McEwan
 Translated By: Nelson Acadri
-Language: English
+* Language: English

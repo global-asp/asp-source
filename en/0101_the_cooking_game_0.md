@@ -65,7 +65,7 @@ and the rabbit ate his
 best friend!
 
 ##
-License: [CC-BY]
-Writer: Mozambican folktale
-Illustration: Reginaldo Vicente Manhice
-Language: English
+* License: [CC-BY]
+* Writer: Mozambican folktale
+* Illustration: Reginaldo Vicente Manhice
+* Language: English

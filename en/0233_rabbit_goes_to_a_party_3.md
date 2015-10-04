@@ -51,7 +51,7 @@ why rabbits have big
 ears!
 
 ##
-License: [CC-BY]
-Writer: Mozambican folktale
-Illustration: Hélder de Paz Alexandre
-Language: English
+* License: [CC-BY]
+* Writer: Mozambican folktale
+* Illustration: Hélder de Paz Alexandre
+* Language: English

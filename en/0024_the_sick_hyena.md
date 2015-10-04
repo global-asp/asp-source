@@ -62,7 +62,7 @@ And the rabbit ran far away
 from that place!
 
 ##
-License: [CC-BY]
-Writer: Mozambican folktale
-Illustration: Razaque Lázaro Quive
-Language: English
+* License: [CC-BY]
+* Writer: Mozambican folktale
+* Illustration: Razaque Lázaro Quive
+* Language: English

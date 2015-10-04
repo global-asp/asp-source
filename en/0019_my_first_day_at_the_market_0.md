@@ -127,7 +127,7 @@ shiny blue helicopter.
 “It's yours!” she said.
 
 ##
-License: [CC-BY]
-Writer: Timothy Kabare and Ursula Nafula
-Illustration: Catherine Groenewald
-Language: English
+* License: [CC-BY]
+* Writer: Timothy Kabare and Ursula Nafula
+* Illustration: Catherine Groenewald
+* Language: English

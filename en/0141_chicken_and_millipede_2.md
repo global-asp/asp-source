@@ -78,10 +78,10 @@ From that time, chickens and
 millipedes were enemies.
 
 ##
-License: [CC-BY]
-Writer: Winny Asara
-Illustration: Winny Asara
+* License: [CC-BY]
+* Writer: Winny Asara
+* Illustration: Winny Asara
 Translated By: Nelson Acadrfi
-Language: English
+* Language: English
 
 This story was written by a student teacher at Arua PTC in Uganda.

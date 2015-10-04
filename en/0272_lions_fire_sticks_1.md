@@ -135,7 +135,7 @@ everyone's enemy and how people
 got the power of fire.
 
 ##
-License: [CC-BY]
-Writer: Traditional San story
-Illustration: Manyeka Arts Trust
-Language: English
+* License: [CC-BY]
+* Writer: Traditional San story
+* Illustration: Manyeka Arts Trust
+* Language: English

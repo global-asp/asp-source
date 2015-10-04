@@ -30,9 +30,9 @@ BUT our village Nandahabi has got
 the most beautiful huts.
 
 ##
-License: [CC-BY]
-Writer: Yusuf, Yvonne, Desire, Arafat, Judith, and Susan
-Illustration: Magriet Brink, Rob Owen, Danica Strydom, Wiehan de Jager and Kathy Arbuckle
-Language: English
+* License: [CC-BY]
+* Writer: Yusuf, Yvonne, Desire, Arafat, Judith, and Susan
+* Illustration: Magriet Brink, Rob Owen, Danica Strydom, Wiehan de Jager and Kathy Arbuckle
+* Language: English
 
 The story was created by primary three children of Mango Grove Junior school.

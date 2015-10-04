@@ -40,9 +40,9 @@ Now every one is back to him like
 before.
 
 ##
-License: [CC-BY-NC]
-Writer: Ivan higenyi
-Illustration: Natalie Propa, Karlien de Villiers, Vusi Malindi, Catherine Groenewald, Alice Toich, Alex Zablon and Jesse Pietersen
-Language: English
+* License: [CC-BY-NC]
+* Writer: Ivan higenyi
+* Illustration: Natalie Propa, Karlien de Villiers, Vusi Malindi, Catherine Groenewald, Alice Toich, Alex Zablon and Jesse Pietersen
+* Language: English
 
 Some time young need support from the adults to help them identify their weaker areas

@@ -19,7 +19,7 @@ On their way, Mr. Saucepan slid and fell onto Mr. Pot. Mr. Pot broke
 into pieces.
 
 ##
-License: [CC-BY]
-Writer: Namugosa and Nabune
-Illustration: Wiehan de Jager and Jemma Kahn
-Language: English
+* License: [CC-BY]
+* Writer: Namugosa and Nabune
+* Illustration: Wiehan de Jager and Jemma Kahn
+* Language: English

@@ -13,9 +13,9 @@ mamleze
 Three! You're out!
 
 ##
-License: [CC-BY]
-Writer: Traditional song
-Illustration: Kathy Arbuckle
+* License: [CC-BY]
+* Writer: Traditional song
+* Illustration: Kathy Arbuckle
 Translated By: Traditional song
-Language: English
+* Language: English
 

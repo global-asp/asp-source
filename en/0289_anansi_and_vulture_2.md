@@ -118,7 +118,7 @@ But Anansi was poor again, with no
 friends.
 
 ##
-License: [CC-BY]
-Writer: Ghanaian folktale
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Ghanaian folktale
+* Illustration: Wiehan de Jager
+* Language: English

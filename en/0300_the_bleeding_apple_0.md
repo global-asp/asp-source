@@ -70,7 +70,7 @@ as he escaped through the door, was his behind getting warm from his Mom's
 dish cloth!
 
 ##
-License: [CC-BY]
-Writer: Sara Mohale
-Illustration: Catherine Groenewald and Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Sara Mohale
+* Illustration: Catherine Groenewald and Wiehan de Jager
+* Language: English

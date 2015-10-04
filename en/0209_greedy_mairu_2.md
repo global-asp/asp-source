@@ -85,8 +85,8 @@ cursing never to serve two masters
 at ago.
 
 ##
-License: [CC-BY]
-Writer: Mutugi Kamundi
-Illustration: Alex Zablon, Zablon Alex Nguku, Wiehan de Jager, Felicity Bell and Jesse Breytenbach
+* License: [CC-BY]
+* Writer: Mutugi Kamundi
+* Illustration: Alex Zablon, Zablon Alex Nguku, Wiehan de Jager, Felicity Bell and Jesse Breytenbach
 Adapted By: Mubbalya charles, Tabingwa Aisha and Tulina Monica
-Language: English
+* Language: English

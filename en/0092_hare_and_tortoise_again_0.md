@@ -104,7 +104,7 @@ well that they reached the king well
 ahead of the deadline he had set!
 
 ##
-License: [CC-BY]
-Writer: Venkatramana Gowda and Divaspathy Hegde
-Illustration: Padmanabha
-Language: English
+* License: [CC-BY]
+* Writer: Venkatramana Gowda and Divaspathy Hegde
+* Illustration: Padmanabha
+* Language: English

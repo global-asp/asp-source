@@ -70,7 +70,7 @@ ready for bed.'
 ##
 
 ##
-License: [CC-BY]
-Writer: Tracy Lynn Chemaly and Sarah-Jane Williams
-Illustration: Robert McEwan
-Language: English
+* License: [CC-BY]
+* Writer: Tracy Lynn Chemaly and Sarah-Jane Williams
+* Illustration: Robert McEwan
+* Language: English

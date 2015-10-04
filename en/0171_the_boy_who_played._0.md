@@ -67,8 +67,8 @@ Am very sorry Aunt Merane.
 I played too much and lost the money.
 
 ##
-License: [CC-BY]
-Writer: Annet Ssebaggala
-Illustration: Kathy Arbuckle, Mlungisi Dlamini, Catherine
+* License: [CC-BY]
+* Writer: Annet Ssebaggala
+* Illustration: Kathy Arbuckle, Mlungisi Dlamini, Catherine
 Groenewald and Benjamin Mitchley
-Language: English
+* Language: English

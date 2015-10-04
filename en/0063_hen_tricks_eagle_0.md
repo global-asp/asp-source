@@ -49,8 +49,8 @@ for Hen's children. Whenever he
 catches one, he eats it.
 
 ##
-License: [CC-BY]
-Writer: Nathan Higenyi
-Illustration: Rob Owen
+* License: [CC-BY]
+* Writer: Nathan Higenyi
+* Illustration: Rob Owen
 Translated By: Nathan Higenyi
-Language: English
+* Language: English

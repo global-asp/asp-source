@@ -34,7 +34,7 @@ exercise. He kept on doing this until he was
 satisfied..
 
 ##
-License: [CC-BY-NC]
-Writer: Beatres Nabune and Wilson Lwagala
-Illustration: Rob Owen, Katrien Coetzer, Melany Pietersen, Wiehan de Jager and Graham Paterson
-Language: English
+* License: [CC-BY-NC]
+* Writer: Beatres Nabune and Wilson Lwagala
+* Illustration: Rob Owen, Katrien Coetzer, Melany Pietersen, Wiehan de Jager and Graham Paterson
+* Language: English

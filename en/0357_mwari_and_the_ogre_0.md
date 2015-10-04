@@ -50,7 +50,7 @@ She learnt her lesson to obey
 what she was told.
 
 ##
-License: [CC-BY]
-Writer: Alice Kapolondo
-Illustration: Catherine Groenewald, Jeremiah Dube and Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Alice Kapolondo
+* Illustration: Catherine Groenewald, Jeremiah Dube and Wiehan de Jager
+* Language: English

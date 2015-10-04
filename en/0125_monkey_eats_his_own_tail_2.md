@@ -70,8 +70,8 @@ And from then on they
 became enemies!
 
 ##
-License: [CC-BY]
-Writer: Mozambican folktale
-Illustration: Horácio José Cossa
+* License: [CC-BY]
+* Writer: Mozambican folktale
+* Illustration: Horácio José Cossa
 Adapted By: Simon Ipoo
-Language: English
+* Language: English

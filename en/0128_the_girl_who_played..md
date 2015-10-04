@@ -98,7 +98,7 @@ She gave her a small punishment and warned
 her never to do it again.
 
 ##
-License: [CC-BY]
-Writer: Annet Ssebaggala
-Illustration: Vusi Malindi, Eden Daniels, Wiehan de Jager, Angie & Upesh, Caroline Lentupuru and Sandy Campbell
-Language: English
+* License: [CC-BY]
+* Writer: Annet Ssebaggala
+* Illustration: Vusi Malindi, Eden Daniels, Wiehan de Jager, Angie & Upesh, Caroline Lentupuru and Sandy Campbell
+* Language: English

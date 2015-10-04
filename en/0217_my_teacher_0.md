@@ -36,8 +36,8 @@ I will grow up to be just
 like my teacher!
 
 ##
-License: [CC-BY]
-Writer: Zimbili Dlamini and Hlengiwe Zondi
-Illustration: Jesse Pietersen
+* License: [CC-BY]
+* Writer: Zimbili Dlamini and Hlengiwe Zondi
+* Illustration: Jesse Pietersen
 Translated By: Zimbili Dlamini and Hlengiwe Zondi
-Language: English
+* Language: English

@@ -38,7 +38,7 @@ With my hand...
 ...I take your hand.
 
 ##
-License: [CC-BY-NC]
-Writer: Carole Bloch
-Illustration: Thembinkosi Kohli
-Language: English
+* License: [CC-BY-NC]
+* Writer: Carole Bloch
+* Illustration: Thembinkosi Kohli
+* Language: English

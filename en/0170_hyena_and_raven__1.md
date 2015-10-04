@@ -97,7 +97,7 @@ And he and Raven are no longer
 friends.
 
 ##
-License: [CC-BY]
-Writer: Ann Nduku
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Ann Nduku
+* Illustration: Wiehan de Jager
+* Language: English

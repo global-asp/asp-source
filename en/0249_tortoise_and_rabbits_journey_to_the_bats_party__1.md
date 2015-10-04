@@ -46,7 +46,7 @@ hunger and rabbit runs so fast because he has
 to find food to eat somewhere else.
 
 ##
-License: [CC-BY-NC]
-Writer: Catherine Nambubi
-Illustration: Padmanabha, Wiehan de Jager, Sandra McDougall, Alice Inzikuru and Katrien Coetzer
-Language: English
+* License: [CC-BY-NC]
+* Writer: Catherine Nambubi
+* Illustration: Padmanabha, Wiehan de Jager, Sandra McDougall, Alice Inzikuru and Katrien Coetzer
+* Language: English

@@ -98,7 +98,7 @@ And they respond:
 “We are not fools. We will run.”
 
 ##
-License: [CC-BY]
-Writer: Ann Nduku
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Ann Nduku
+* Illustration: Wiehan de Jager
+* Language: English

@@ -30,7 +30,7 @@ birds like fruits so
 much.
 
 ##
-License: [CC-BY]
-Writer: Ritah Katetemera
-Illustration: Wiehan de Jager and Catherine Groenewald
-Language: English
+* License: [CC-BY]
+* Writer: Ritah Katetemera
+* Illustration: Wiehan de Jager and Catherine Groenewald
+* Language: English

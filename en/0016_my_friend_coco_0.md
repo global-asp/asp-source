@@ -88,7 +88,7 @@ We would go running in the
 fields again!
 
 ##
-License: [CC-BY]
-Writer: Ursula Nafula
-Illustration: Ursula Nafula
-Language: English
+* License: [CC-BY]
+* Writer: Ursula Nafula
+* Illustration: Ursula Nafula
+* Language: English

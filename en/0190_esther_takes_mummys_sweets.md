@@ -38,7 +38,7 @@ sweets
 Mummy and Daddy love Esther
 
 ##
-License: [CC-BY-NC]
-Writer: Dauson Tenywa
-Illustration: Catherine Groenewald, Melany Pietersen, Wiehan de Jager and Natalie Propa
-Language: English
+* License: [CC-BY-NC]
+* Writer: Dauson Tenywa
+* Illustration: Catherine Groenewald, Melany Pietersen, Wiehan de Jager and Natalie Propa
+* Language: English

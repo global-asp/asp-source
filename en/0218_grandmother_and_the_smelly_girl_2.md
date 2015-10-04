@@ -128,7 +128,7 @@ and his son.
 The grandmother was very happy, and very comfortable, and very important.
 
 ##
-License: [CC-BY]
-Writer: Southern African Folktale
-Illustration: Catherine Groenewald
-Language: English
+* License: [CC-BY]
+* Writer: Southern African Folktale
+* Illustration: Catherine Groenewald
+* Language: English

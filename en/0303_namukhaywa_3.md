@@ -119,8 +119,8 @@ a lot of wealth and happiness to
 her family.
 
 ##
-License: [CC-BY]
-Writer: Matthews M Wanga
-Illustration: Wiehan de Jager
+* License: [CC-BY]
+* Writer: Matthews M Wanga
+* Illustration: Wiehan de Jager
 Ursula Nafula
-Language: English
+* Language: English

@@ -43,7 +43,7 @@ Imagine a day.... when all the ground is covered with a
 carpet in the whole world.
 
 ##
-License: [CC-BY]
-Writer: Kabubbu pilote site
-Illustration: Jesse Breytenbach, Catherine Groenewald, Alice Toich, Razaque Lázaro Quive, Jano Strydom, Rob Owen and Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Kabubbu pilote site
+* Illustration: Jesse Breytenbach, Catherine Groenewald, Alice Toich, Razaque Lázaro Quive, Jano Strydom, Rob Owen and Wiehan de Jager
+* Language: English

@@ -133,7 +133,7 @@ carried them on its back wherever
 they wanted to go.
 
 ##
-License: [CC-BY]
-Writer: Cissy Kiwanuka Luyiga
-Illustration: Magriet Brink
-Language: English
+* License: [CC-BY]
+* Writer: Cissy Kiwanuka Luyiga
+* Illustration: Magriet Brink
+* Language: English

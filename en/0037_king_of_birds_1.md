@@ -116,9 +116,9 @@ from the sight of the other
 birds.
 
 ##
-License: [CC-BY]
-Writer: South African Folktale
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: South African Folktale
+* Illustration: Wiehan de Jager
+* Language: English
 
 Adapted from a story in 'South African Folk-Tales', by James A. Honey, 1910.

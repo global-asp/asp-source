@@ -37,8 +37,8 @@ Lekishon and his dog
 are very happy.
 
 ##
-License: [CC-BY]
-Writer: Paul Maseri
-Illustration: Wiehan de Jager
+* License: [CC-BY]
+* Writer: Paul Maseri
+* Illustration: Wiehan de Jager
 Translated By: Paul Maseri
-Language: English
+* Language: English

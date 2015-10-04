@@ -81,7 +81,7 @@ our bottoms were very warm.
 And it wasn't from the sun.
 
 ##
-License: [CC-BY]
-Writer: Nombulelo Thabane and Tessa Welch
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Nombulelo Thabane and Tessa Welch
+* Illustration: Wiehan de Jager
+* Language: English

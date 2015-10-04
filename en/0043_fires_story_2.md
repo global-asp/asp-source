@@ -33,8 +33,8 @@ I don't like to be left
 alone.
 
 ##
-License: [CC-BY]
-Writer: Deborah Namugosa, Beatrice Nabune, Alison Tukei and Rose Sabano
-Illustration: Rob Owen, Wiehan de Jager and Amir Bachir António Necas
+* License: [CC-BY]
+* Writer: Deborah Namugosa, Beatrice Nabune, Alison Tukei and Rose Sabano
+* Illustration: Rob Owen, Wiehan de Jager and Amir Bachir António Necas
 Adapted By: Nina Orange
-Language: English
+* Language: English

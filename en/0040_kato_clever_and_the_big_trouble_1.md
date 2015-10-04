@@ -93,7 +93,7 @@ to the Far Forest with its trees,
 flowers, ponds and soft earth.
 
 ##
-License: [CC-BY]
-Writer: Herminder Ohri
-Illustration: Herminder Ohri
-Language: English
+* License: [CC-BY]
+* Writer: Herminder Ohri
+* Illustration: Herminder Ohri
+* Language: English

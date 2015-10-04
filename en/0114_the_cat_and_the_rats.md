@@ -25,9 +25,9 @@ were losers.
 This is the end of the story. Bye, cat and rats!
 
 ##
-License: [CC-BY]
-Writer: Bwambale Peter
-Illustration: Bwambale Peter
-Language: English
+* License: [CC-BY]
+* Writer: Bwambale Peter
+* Illustration: Bwambale Peter
+* Language: English
 
 This book was written and illustrated by a primary school boy in Uganda.

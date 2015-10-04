@@ -58,7 +58,7 @@ That is why Hiryagaana
 eats hornbills.
 
 ##
-License: [CC-BY]
-Writer: Bukheye Mulongo Christopher
-Illustration: Joshua Waswa
-Language: English
+* License: [CC-BY]
+* Writer: Bukheye Mulongo Christopher
+* Illustration: Joshua Waswa
+* Language: English

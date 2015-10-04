@@ -118,7 +118,7 @@ Just as a woman does when she
 longs for her husband.
 
 ##
-License: [CC-BY]
-Writer: Southern African Folktale
-Illustration: Jemma Kahn
-Language: English
+* License: [CC-BY]
+* Writer: Southern African Folktale
+* Illustration: Jemma Kahn
+* Language: English

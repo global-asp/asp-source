@@ -52,8 +52,8 @@ because it's been that way ever
 since.
 
 ##
-License: [CC-BY]
-Writer: Basilio Gimo
-Illustration: Laura Libertore
+* License: [CC-BY]
+* Writer: Basilio Gimo
+* Illustration: Laura Libertore
 Translated By: Little Zebra Books
-Language: English
+* Language: English

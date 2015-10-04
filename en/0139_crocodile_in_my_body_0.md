@@ -105,9 +105,9 @@ a crocodile called Horrible InVader
 living in my body.
 
 ##
-License: [CC-BY]
-Writer: Val Morris
-Illustration: Felicity Bell
-Language: English
+* License: [CC-BY]
+* Writer: Val Morris
+* Illustration: Felicity Bell
+* Language: English
 
 Books in Homes is supported by White River Rotary Club South Africa.

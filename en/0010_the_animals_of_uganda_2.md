@@ -57,10 +57,10 @@ What are these two animal friends? Where do
 they live? Which one would you eat?
 
 ##
-License: [CC-BY]
-Writer: Wendy Parry
-Illustration: Rob Owen
+* License: [CC-BY]
+* Writer: Wendy Parry
+* Illustration: Rob Owen
 Adapted By: Wendy Parry
-Language: English
+* Language: English
 
 First paragraph story about animals found in Uganda

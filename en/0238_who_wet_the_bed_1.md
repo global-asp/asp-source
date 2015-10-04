@@ -44,9 +44,9 @@ Anna does not wet the bed but I
 do.
 
 ##
-License: [CC-BY]
-Writer: Ivan higenyi
-Illustration: Jesse Breytenbach, Rob Owen, Amy Uzzell, Rijuta Ghate, Bronwen Heath, Genevieve Terblanche, Catherine Groenewald, Felicity Bell and Melany Pietersen
-Language: English
+* License: [CC-BY]
+* Writer: Ivan higenyi
+* Illustration: Jesse Breytenbach, Rob Owen, Amy Uzzell, Rijuta Ghate, Bronwen Heath, Genevieve Terblanche, Catherine Groenewald, Felicity Bell and Melany Pietersen
+* Language: English
 
 Enjoyable to all children.

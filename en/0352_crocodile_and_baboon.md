@@ -58,8 +58,8 @@ And that was the end of their
 friendship.
 
 ##
-License: [CC-BY]
-Writer: Basilio Gimo
-Illustration: Jeremiah Dube
+* License: [CC-BY]
+* Writer: Basilio Gimo
+* Illustration: Jeremiah Dube
 Translated By: Little Zebra Books
-Language: English
+* Language: English

@@ -113,7 +113,7 @@ because she's always writing,
 telling and reading stories.
 
 ##
-License: [CC-BY]
-Writer: Cheré ne Pienaar
-Illustration: Jano Strydom and Candace di Talamo
-Language: English
+* License: [CC-BY]
+* Writer: Cheré ne Pienaar
+* Illustration: Jano Strydom and Candace di Talamo
+* Language: English

@@ -47,7 +47,7 @@ Why is salt white?
 I don't know!
 
 ##
-License: [CC-BY]
-Writer: Madhav Chavan
-Illustration: Rijuta Ghate
-Language: English
+* License: [CC-BY]
+* Writer: Madhav Chavan
+* Illustration: Rijuta Ghate
+* Language: English

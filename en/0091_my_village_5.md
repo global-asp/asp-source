@@ -24,7 +24,7 @@ is trying to find ways to helping my village my village by
 encouraging children to go and stay in school.
 
 ##
-License: [CC-BY]
-Writer: Kwiocwiny winnie
-Illustration: Rob Owen
-Language: English
+* License: [CC-BY]
+* Writer: Kwiocwiny winnie
+* Illustration: Rob Owen
+* Language: English

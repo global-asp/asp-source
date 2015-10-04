@@ -33,9 +33,9 @@ On our shoes we find flowers.
 We all like flowers.
 
 ##
-License: [CC-BY]
-Writer: Rashida, Joy, Jovia, Zulu and Phionah
-Illustration: Jonathan Field, Rob Owen and Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Rashida, Joy, Jovia, Zulu and Phionah
+* Illustration: Jonathan Field, Rob Owen and Wiehan de Jager
+* Language: English
 
 This story was created by children of Mango Grove Junior School

@@ -85,7 +85,7 @@ All the butterflies flew around the crocodiles, fluttering their wings.
 "That is what friends are for, to take care of each other."
 
 ##
-License: [CC-BY]
-Writer: Herminder Ohri
-Illustration: Herminder Ohri
-Language: English
+* License: [CC-BY]
+* Writer: Herminder Ohri
+* Illustration: Herminder Ohri
+* Language: English

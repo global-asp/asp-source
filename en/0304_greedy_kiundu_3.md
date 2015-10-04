@@ -86,7 +86,7 @@ Slowly, he walked home sad
 and hungry.
 
 ##
-License: [CC-BY]
-Writer: Mutugi Kamundi
-Illustration: Zablon Alex Nguku
-Language: English
+* License: [CC-BY]
+* Writer: Mutugi Kamundi
+* Illustration: Zablon Alex Nguku
+* Language: English

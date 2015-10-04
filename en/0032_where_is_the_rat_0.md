@@ -47,7 +47,7 @@ I can see the rat in the
 case.
 
 ##
-License: [CC-BY]
-Writer: Ritah Katetemera
-Illustration: Michael Nakuwa, Benjamin Mitchley, Wiehan de Jager, Bronwen Heath, Catherine Groenewald and Rijuta Ghate
-Language: English
+* License: [CC-BY]
+* Writer: Ritah Katetemera
+* Illustration: Michael Nakuwa, Benjamin Mitchley, Wiehan de Jager, Bronwen Heath, Catherine Groenewald and Rijuta Ghate
+* Language: English

@@ -97,7 +97,7 @@ interesting stories to the school
 children.
 
 ##
-License: [CC-BY]
-Writer: Kanyiva Sandi
-Illustration: Benjamin Mitchley
-Language: English
+* License: [CC-BY]
+* Writer: Kanyiva Sandi
+* Illustration: Benjamin Mitchley
+* Language: English

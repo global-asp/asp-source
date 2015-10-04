@@ -67,7 +67,7 @@ mother home. I am very happy!
 Goodbye!!!
 
 ##
-License: [CC-BY]
-Writer: Marion Drew
-Illustration: Marion Drew
-Language: English
+* License: [CC-BY]
+* Writer: Marion Drew
+* Illustration: Marion Drew
+* Language: English

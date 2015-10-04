@@ -25,7 +25,7 @@ ended marring each other, the woman gave
 birth to a baby boy, they named him David.
 
 ##
-License: [CC-BY]
-Writer: Godi Timothy
-Illustration: Rob Owen, Hélder de Paz Alexandre, Amir Bachir António Necas and Catherine Groenewald
-Language: English
+* License: [CC-BY]
+* Writer: Godi Timothy
+* Illustration: Rob Owen, Hélder de Paz Alexandre, Amir Bachir António Necas and Catherine Groenewald
+* Language: English

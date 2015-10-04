@@ -45,7 +45,7 @@ began to praise him for what he had done
 including the prince and the princes.
 
 ##
-License: [CC-BY]
-Writer: Kamugisha Darius
-Illustration: Rob Owen and Razaque Lázaro Quive
-Language: English
+* License: [CC-BY]
+* Writer: Kamugisha Darius
+* Illustration: Rob Owen and Razaque Lázaro Quive
+* Language: English

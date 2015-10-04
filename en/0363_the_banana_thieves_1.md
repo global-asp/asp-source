@@ -40,10 +40,10 @@ The boys were arrested, taken to school, called their parents, the teachers, and
 The boys were given a punishment. Each got some ten strokes and repented not to steal anything again.
 
 ##
-License: [CC-BY]
-Writer: Ritah Katetemera
-Illustration: Wiehan de Jager, Cathy Feek, Eden Daniels, Ketan Raut, Herminder Ohri, Benjamin Mitchley, Sean Whitehead, Vusi Malindi, Karlien de Villiers, Catherine Groenewald, Rob Owen, Rijuta Ghate, Magriet Brink and Melany Pietersen
+* License: [CC-BY]
+* Writer: Ritah Katetemera
+* Illustration: Wiehan de Jager, Cathy Feek, Eden Daniels, Ketan Raut, Herminder Ohri, Benjamin Mitchley, Sean Whitehead, Vusi Malindi, Karlien de Villiers, Catherine Groenewald, Rob Owen, Rijuta Ghate, Magriet Brink and Melany Pietersen
 Adapted By: ROSE ALUNGHO and HERBERT HAUMBA
-Language: English
+* Language: English
 This story was adapted basing on the true story in our comunity
 

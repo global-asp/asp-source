@@ -177,7 +177,7 @@ Kayanja's kingdom could marry
 anyone they wanted, rich or poor.
 
 ##
-License: [CC-BY]
-Writer: Amana Yunus
-Illustration: Natalie Propa
-Language: English
+* License: [CC-BY]
+* Writer: Amana Yunus
+* Illustration: Natalie Propa
+* Language: English

@@ -73,11 +73,11 @@ other way.
 That marked the end of their friendship.
 
 ##
-License: [CC-BY]
-Writer: Kennedy Amandu
-Illustration: Rob Owen
+* License: [CC-BY]
+* Writer: Kennedy Amandu
+* Illustration: Rob Owen
 Translated By: Nelson Acadri
-Language: English
+* Language: English
 
 This story was written by a student
 of Arua Core Primary Teachers'

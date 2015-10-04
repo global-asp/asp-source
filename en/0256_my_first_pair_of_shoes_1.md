@@ -92,8 +92,8 @@ I was wearing my new shoes in
 bed!
 
 ##
-License: [CC-BY]
-Writer: Ursula Nafula
-Illustration: Rob Owen
+* License: [CC-BY]
+* Writer: Ursula Nafula
+* Illustration: Rob Owen
 Translated By: Ursula Nafula
-Language: English
+* Language: English

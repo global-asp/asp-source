@@ -27,7 +27,7 @@ Why do I work so hard...
 busy playing?
 
 ##
-License: [CC-BY-NC]
-Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
-Illustration: Mlungisi Dlamini
-Language: English
+* License: [CC-BY-NC]
+* Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Illustration: Mlungisi Dlamini
+* Language: English

@@ -49,7 +49,7 @@ she was free from the
 wolf!
 
 ##
-License: [CC-BY]
-Writer: folktale
-Illustration: José Nhambo
-Language: English
+* License: [CC-BY]
+* Writer: folktale
+* Illustration: José Nhambo
+* Language: English

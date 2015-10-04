@@ -72,7 +72,7 @@ to be like Teacher
 Akinyi.
 
 ##
-License: [CC-BY]
-Writer: Lawrence A. Konjuro
-Illustration: Vusi Malindi
-Language: English
+* License: [CC-BY]
+* Writer: Lawrence A. Konjuro
+* Illustration: Vusi Malindi
+* Language: English

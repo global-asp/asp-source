@@ -23,7 +23,7 @@ want to be a doctor by profession and build
 my own hospital.
 
 ##
-License: [CC-BY]
-Writer: Jonathan erecho
-Illustration: Rob Owen
-Language: English
+* License: [CC-BY]
+* Writer: Jonathan erecho
+* Illustration: Rob Owen
+* Language: English

@@ -50,7 +50,7 @@ changed the song.
 ×4
 
 ##
-License: [CC-BY]
-Writer: Monica Tulina
-Illustration: Rob Owen, Alex Zablon, Benjamin Mitchley, Wiehan de Jager, Catherine Groenewald, Microsoft Clip Art, Genevieve Terblanche and Jesse Breytenbach
-Language: English
+* License: [CC-BY]
+* Writer: Monica Tulina
+* Illustration: Rob Owen, Alex Zablon, Benjamin Mitchley, Wiehan de Jager, Catherine Groenewald, Microsoft Clip Art, Genevieve Terblanche and Jesse Breytenbach
+* Language: English

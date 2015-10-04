@@ -113,7 +113,7 @@ sad because his daughter had gone
 with an animal.
 
 ##
-License: [CC-BY]
-Writer: John Emongot
-Illustration: Catherine Groenewald, Wiehan de Jager, Caroline Lentupuru, Laura Libertore and Benjamin Mitchley
-Language: English
+* License: [CC-BY]
+* Writer: John Emongot
+* Illustration: Catherine Groenewald, Wiehan de Jager, Caroline Lentupuru, Laura Libertore and Benjamin Mitchley
+* Language: English

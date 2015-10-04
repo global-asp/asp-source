@@ -155,7 +155,7 @@ biggest, brightest, most brilliant
 smile of all.
 
 ##
-License: [CC-BY]
-Writer: Vianne Venter
-Illustration: Genevieve Terblanche
-Language: English
+* License: [CC-BY]
+* Writer: Vianne Venter
+* Illustration: Genevieve Terblanche
+* Language: English

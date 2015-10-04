@@ -63,7 +63,7 @@ How many cats?
 Nine cats.
 
 ##
-License: [Unknown]
-Writer: Nina Orange
-Illustration: Jesse Breytenbach
-Language: English
+* License: [Unknown]
+* Writer: Nina Orange
+* Illustration: Jesse Breytenbach
+* Language: English

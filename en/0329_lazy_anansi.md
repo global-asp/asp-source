@@ -94,7 +94,7 @@ to any of his friends and share their
 food that day.
 
 ##
-License: [CC-BY]
-Writer: Ghanaian folktale
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Ghanaian folktale
+* Illustration: Wiehan de Jager
+* Language: English

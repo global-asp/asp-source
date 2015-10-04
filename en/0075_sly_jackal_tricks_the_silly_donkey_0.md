@@ -58,7 +58,7 @@ in the well. He started screaming
 and shouting: “Help! Anyone help!”
 
 ##
-License: [CC-BY]
-Writer: Kholeka Mabeta
-Illustration: Benjamin Mitchley
-Language: English
+* License: [CC-BY]
+* Writer: Kholeka Mabeta
+* Illustration: Benjamin Mitchley
+* Language: English

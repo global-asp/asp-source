@@ -63,7 +63,7 @@ Kwere sang.
 respect you.”
 
 ##
-License: [CC-BY]
-Writer: Rebecca Njuguna
-Illustration: Catherine Groenewald
-Language: English
+* License: [CC-BY]
+* Writer: Rebecca Njuguna
+* Illustration: Catherine Groenewald
+* Language: English

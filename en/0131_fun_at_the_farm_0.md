@@ -110,7 +110,7 @@ farm can also be fun without
 vandalising the place.
 
 ##
-License: [CC-BY]
-Writer: Phoebe Sibomana
-Illustration: Marion Drew
-Language: English
+* License: [CC-BY]
+* Writer: Phoebe Sibomana
+* Illustration: Marion Drew
+* Language: English

@@ -27,9 +27,9 @@ trapped inside her handbag.
 Matome was locked in jail for pickpocketing.
 
 ##
-License: [CC-BY]
-Writer: Kate Nkwane
-Illustration: Wiehan de Jager and Catherine Groenewald
-Language: English
+* License: [CC-BY]
+* Writer: Kate Nkwane
+* Illustration: Wiehan de Jager and Catherine Groenewald
+* Language: English
 
 Pickpockenting is a criminal case and it is unacceptable.

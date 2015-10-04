@@ -151,7 +151,7 @@ Since that day, Hare and Hyena
 have not been friends.
 
 ##
-License: [CC-BY]
-Writer: Mutugi Kamundi
-Illustration: Rob Owen
-Language: English
+* License: [CC-BY]
+* Writer: Mutugi Kamundi
+* Illustration: Rob Owen
+* Language: English

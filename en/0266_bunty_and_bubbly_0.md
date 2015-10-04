@@ -57,7 +57,7 @@ brushes and scrubs
 herself clean.
 
 ##
-License: [CC-BY]
-Writer: Sorit Gupto
-Illustration: Sorit Gupto
-Language: English
+* License: [CC-BY]
+* Writer: Sorit Gupto
+* Illustration: Sorit Gupto
+* Language: English

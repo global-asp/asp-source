@@ -52,7 +52,7 @@ will never grow taller than the
 head.”
 
 ##
-License: [CC-BY]
-Writer: Cornelius Wekunya
-Illustration: Joshua Waswa
-Language: English
+* License: [CC-BY]
+* Writer: Cornelius Wekunya
+* Illustration: Joshua Waswa
+* Language: English

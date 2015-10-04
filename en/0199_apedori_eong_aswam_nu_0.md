@@ -60,8 +60,8 @@ I can read.
 
 ##
 Apedori ɛɔng aswam nʉ
-License: [CC-BY-NC]
-Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
-Illustration: Cathy Feek
+* License: [CC-BY-NC]
+* Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Illustration: Cathy Feek
 Translated By: Simon Peter Ongodia
-Language: Ateso
+* Language: Ateso

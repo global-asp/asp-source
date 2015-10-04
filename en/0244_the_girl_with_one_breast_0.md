@@ -49,7 +49,7 @@ because of what he had done
 that he too died.
 
 ##
-License: [CC-BY]
-Writer: Cornelius Wekunya
-Illustration: Rachael Napagi
-Language: English
+* License: [CC-BY]
+* Writer: Cornelius Wekunya
+* Illustration: Rachael Napagi
+* Language: English

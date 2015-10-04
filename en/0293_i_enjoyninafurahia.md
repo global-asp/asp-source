@@ -34,7 +34,7 @@ I enjoy listening to mother telling interesting stories.
 Ooh! I enjoy doing all these things!
 
 ##
-License: [CC-BY]
-Writer: Ursula Nafula
-Illustration: Wiehan de Jager
-Language: Kiswahili and English
+* License: [CC-BY]
+* Writer: Ursula Nafula
+* Illustration: Wiehan de Jager
+* Language: Kiswahili and English

@@ -124,7 +124,7 @@ make sure to leave the biggest part
 of the comb for Honeyguide!
 
 ##
-License: [CC-BY]
-Writer: Zulu folktale
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Zulu folktale
+* Illustration: Wiehan de Jager
+* Language: English

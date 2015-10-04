@@ -113,7 +113,7 @@ always hiding in the fields trying to
 steal food from farms.
 
 ##
-License: [CC-BY]
-Writer: Phoebe Sibomana
-Illustration: Rob Owen
-Language: English
+* License: [CC-BY]
+* Writer: Phoebe Sibomana
+* Illustration: Rob Owen
+* Language: English

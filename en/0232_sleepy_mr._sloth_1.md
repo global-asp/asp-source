@@ -94,7 +94,7 @@ were happy to have Mr.
 Sloth in their tree.
 
 ##
-License: [CC-BY]
-Writer: Paul Kennedy
-Illustration: Graham Paterson
-Language: English
+* License: [CC-BY]
+* Writer: Paul Kennedy
+* Illustration: Graham Paterson
+* Language: English

@@ -46,7 +46,7 @@ He lived for many
 years.
 
 ##
-License: [CC-BY]
-Writer: Cornelius Gulere
-Illustration: Catherine Groenewald
-Language: English
+* License: [CC-BY]
+* Writer: Cornelius Gulere
+* Illustration: Catherine Groenewald
+* Language: English

@@ -43,8 +43,8 @@ because I've bought a
 new hook.”
 
 ##
-License: [CC-BY]
-Writer: Tom Sabwa and Children's Development Center at Masese
-Illustration: Zablon Alex Nguku
+* License: [CC-BY]
+* Writer: Tom Sabwa and Children's Development Center at Masese
+* Illustration: Zablon Alex Nguku
 Translated By: Cornelius Gulere
-Language: English
+* Language: English

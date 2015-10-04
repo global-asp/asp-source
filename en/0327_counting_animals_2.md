@@ -40,7 +40,7 @@ drinking water with the
 lion.
 
 ##
-License: [CC-BY]
-Writer: Zanele Buthelezi, Thembani Dladla and Clare Verbeek
-Illustration: Rob Owen
-Language: English
+* License: [CC-BY]
+* Writer: Zanele Buthelezi, Thembani Dladla and Clare Verbeek
+* Illustration: Rob Owen
+* Language: English

@@ -21,7 +21,7 @@ realized how wonderful that holiday was
 with Liz! THE END.
 
 ##
-License: [CC-BY]
-Writer: Bulage Vicky
-Illustration: Rob Owen
-Language: English
+* License: [CC-BY]
+* Writer: Bulage Vicky
+* Illustration: Rob Owen
+* Language: English

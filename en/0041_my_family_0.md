@@ -32,7 +32,7 @@ Soon I will be able to
 read everything!
 
 ##
-License: [CC-BY-NC]
-Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
-Illustration: Kathy Arbuckle
-Language: English
+* License: [CC-BY-NC]
+* Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Illustration: Kathy Arbuckle
+* Language: English

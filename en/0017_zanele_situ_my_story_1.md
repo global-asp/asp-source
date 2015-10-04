@@ -108,7 +108,7 @@ go to the Paralympics in Rio de
 Janeiro.
 
 ##
-License: [CC-BY]
-Writer: Liz Sparg
-Illustration: Jesse Breytenbach and Graham Paterson
-Language: English
+* License: [CC-BY]
+* Writer: Liz Sparg
+* Illustration: Jesse Breytenbach and Graham Paterson
+* Language: English

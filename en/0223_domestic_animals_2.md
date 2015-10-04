@@ -26,8 +26,8 @@ The farmer is carrying
 milk.
 
 ##
-License: [CC-BY-NC]
-Writer: Jenny Katz
-Illustration: Sandy Campbell
+* License: [CC-BY-NC]
+* Writer: Jenny Katz
+* Illustration: Sandy Campbell
 Adapted By: Lilian Wachira
-Language: English
+* Language: English

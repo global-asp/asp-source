@@ -25,9 +25,9 @@ My telephone number is
 033 – 3426587.
 
 ##
-License: [CC-BY-NC]
-Writer: Clare Verbeek, Thembani Dladla and Zanele
+* License: [CC-BY-NC]
+* Writer: Clare Verbeek, Thembani Dladla and Zanele
 Buthelezi
-Illustration: Kathy Arbuckle
-Language: English
+* Illustration: Kathy Arbuckle
+* Language: English
 

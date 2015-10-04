@@ -46,8 +46,8 @@ morning me and my cousins had to greet
 the elders and go to fetch water.
 
 ##
-License: [CC-BY]
-Writer: Ahebwa zahara
-Illustration: Diane Ross, Jesse Breytenbach and
+* License: [CC-BY]
+* Writer: Ahebwa zahara
+* Illustration: Diane Ross, Jesse Breytenbach and
 Catherine Groenewald
-Language: English
+* Language: English

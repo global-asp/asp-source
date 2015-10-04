@@ -23,9 +23,9 @@ The other two boys chased him
 and removed the birds from him.
 
 ##
-License: [CC-BY]
-Writer: Tukei A Cathy
-Illustration: Marleen Visser, Wiehan de Jager, Eden Daniels and Bronwen Heath
-Language: English
+* License: [CC-BY]
+* Writer: Tukei A Cathy
+* Illustration: Marleen Visser, Wiehan de Jager, Eden Daniels and Bronwen Heath
+* Language: English
 
 It is bad to cheat others

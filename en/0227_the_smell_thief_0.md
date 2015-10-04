@@ -159,9 +159,9 @@ breakfast? These buns are still warm, I bought them
 only half an hour ago.'
 
 ##
-License: [CC-BY-NC]
-Writer: Joanne Bloch (retold folktale)
-Illustration: Rebecca Riley and Nalibali
-Language: English
+* License: [CC-BY-NC]
+* Writer: Joanne Bloch (retold folktale)
+* Illustration: Rebecca Riley and Nalibali
+* Language: English
 
 The text is reproduced with permission of Nal'ibali – www.nalibali.org

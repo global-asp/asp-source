@@ -94,8 +94,8 @@ eat hares, but always avoid
 lions.
 
 ##
-License: [CC-BY]
-Writer: Francisco Escondido
-Illustration: Claudio Molina and Hélder de Paz Alexandre
+* License: [CC-BY]
+* Writer: Francisco Escondido
+* Illustration: Claudio Molina and Hélder de Paz Alexandre
 Adapted By: Little Zebra Books
-Language: English
+* Language: English

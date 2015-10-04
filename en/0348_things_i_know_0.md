@@ -81,7 +81,7 @@ I want to know many more.
 What I do not know, I ask my parents or my teacher.
 
 ##
-License: [CC-BY]
-Writer: Ursula Nafula
-Illustration: Michael Nakuwa
-Language: English
+* License: [CC-BY]
+* Writer: Ursula Nafula
+* Illustration: Michael Nakuwa
+* Language: English

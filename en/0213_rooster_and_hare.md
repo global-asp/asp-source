@@ -53,7 +53,7 @@ themselves!
 What do you think happened?
 
 ##
-License: [CC-BY]
-Writer: Geoffrey Thiiru
-Illustration: Duane Arthur
-Language: English
+* License: [CC-BY]
+* Writer: Geoffrey Thiiru
+* Illustration: Duane Arthur
+* Language: English

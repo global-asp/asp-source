@@ -56,8 +56,8 @@ the toad. The child was saved
 from death.
 
 ##
-License: [CC-BY]
-Writer: Cleófas Samo
-Illustration: Laura Libertore
+* License: [CC-BY]
+* Writer: Cleófas Samo
+* Illustration: Laura Libertore
 Translated By: David Ker
-Language: English
+* Language: English

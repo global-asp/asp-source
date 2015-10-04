@@ -157,10 +157,10 @@ happened. But he couldn't find her
 where he had left her.
 
 ##
-License: [CC-BY]
-Writer: Phumy Zikode
-Illustration: Wiehan de Jager
+* License: [CC-BY]
+* Writer: Phumy Zikode
+* Illustration: Wiehan de Jager
 Translated By: Phumy Zikode
-Language: English
+* Language: English
 
 This story is from the Family Literacy Project in South Africa.

@@ -30,7 +30,7 @@ But then daddy drove
 us home.
 
 ##
-License: [CC-BY]
-Writer: Mmapule Nkuna
-Illustration: Melany Pietersen, Rob Owen and Catherine Groenewald
-Language: English
+* License: [CC-BY]
+* Writer: Mmapule Nkuna
+* Illustration: Melany Pietersen, Rob Owen and Catherine Groenewald
+* Language: English

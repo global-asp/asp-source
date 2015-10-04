@@ -101,8 +101,8 @@ the following morning,
 the letter was gone.
 
 ##
-License: [CC-BY]
-Writer: Ursula Nafula
-Illustration: Catherine Groenewald
+* License: [CC-BY]
+* Writer: Ursula Nafula
+* Illustration: Catherine Groenewald
 Adapted By: Velasco Williams
-Language: English
+* Language: English

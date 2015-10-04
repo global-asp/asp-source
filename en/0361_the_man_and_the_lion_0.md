@@ -74,7 +74,7 @@ and escaped being
 eaten by the Lion!
 
 ##
-License: [CC-BY]
-Writer: Mozambican folktale
-Illustration: Hélder de Paz Alexandre
-Language: English
+* License: [CC-BY]
+* Writer: Mozambican folktale
+* Illustration: Hélder de Paz Alexandre
+* Language: English

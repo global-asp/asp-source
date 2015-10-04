@@ -47,10 +47,10 @@ Chicken and Millipede
 wasn't friends anymore.
 
 ##
-License: [CC-BY]
-Writer: Winny Asara
-Illustration: Winny Asara
+* License: [CC-BY]
+* Writer: Winny Asara
+* Illustration: Winny Asara
 Adapted By: Dedre Grobler
-Language: English
+* Language: English
 
 This story was written by a student teacher at Arua PTC in Uganda.

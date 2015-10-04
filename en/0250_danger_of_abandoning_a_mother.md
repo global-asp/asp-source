@@ -101,7 +101,7 @@ with the ram to live with the old
 woman.
 
 ##
-License: [CC-BY]
-Writer: John Nga'sike
-Illustration: Zablon Alex Nguku
-Language: English
+* License: [CC-BY]
+* Writer: John Nga'sike
+* Illustration: Zablon Alex Nguku
+* Language: English

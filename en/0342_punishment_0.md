@@ -61,8 +61,8 @@ promises. And we all
 believe him.
 
 ##
-License: [CC-BY]
-Writer: Adelheid Marie Bwire
-Illustration: Melany Pietersen
+* License: [CC-BY]
+* Writer: Adelheid Marie Bwire
+* Illustration: Melany Pietersen
 Adapted By: Adelheid Marie Bwire
-Language: English
+* Language: English

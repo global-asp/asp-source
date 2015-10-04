@@ -89,7 +89,7 @@ rooster crows in the morning, the
 sun rises and shines in the sky.
 
 ##
-License: [CC-BY]
-Writer: Indian Folktale
-Illustration: Pratham Books
-Language: English
+* License: [CC-BY]
+* Writer: Indian Folktale
+* Illustration: Pratham Books
+* Language: English

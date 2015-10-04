@@ -19,7 +19,7 @@ stars.
 I like clouds.
 
 ##
-License: [CC-BY]
-Writer: Clark Ness
-Illustration: Microsoft Clip Art
-Language: English
+* License: [CC-BY]
+* Writer: Clark Ness
+* Illustration: Microsoft Clip Art
+* Language: English

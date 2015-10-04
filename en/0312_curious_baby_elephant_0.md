@@ -135,7 +135,7 @@ elephants have very
 long and useful trunks.
 
 ##
-License: [CC-BY]
-Writer: Judith Baker and Lorato Trok
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Judith Baker and Lorato Trok
+* Illustration: Wiehan de Jager
+* Language: English

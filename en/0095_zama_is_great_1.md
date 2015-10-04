@@ -60,8 +60,8 @@ most, is to play and
 play!
 
 ##
-License: [CC-BY]
-Writer: Michael Oguttu
-Illustration: Vusi Malindi
+* License: [CC-BY]
+* Writer: Michael Oguttu
+* Illustration: Vusi Malindi
 Adapted By: Nina Orange
-Language: English
+* Language: English

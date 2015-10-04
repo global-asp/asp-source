@@ -185,7 +185,7 @@ mother at the new village – very
 happily!
 
 ##
-License: [CC-BY]
-Writer: Lorato Trok
-Illustration: Catherine Groenewald
-Language: English
+* License: [CC-BY]
+* Writer: Lorato Trok
+* Illustration: Catherine Groenewald
+* Language: English

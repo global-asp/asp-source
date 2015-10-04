@@ -87,7 +87,7 @@ San artists /Thaalu Rumao, /Tuoi Samcuia and Joao Wenne
 Dikuango, who have all passed away since.
 
 ##
-License: [CC-BY]
-Writer: Traditional San story
-Illustration: Manyeka Arts Trust
-Language: English
+* License: [CC-BY]
+* Writer: Traditional San story
+* Illustration: Manyeka Arts Trust
+* Language: English

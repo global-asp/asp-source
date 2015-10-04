@@ -17,8 +17,8 @@
 ##
 
 ##
-License: [CC-BY]
-Writer: Lawrence A. Konjuro
-Illustration: Natalie Propa
+* License: [CC-BY]
+* Writer: Lawrence A. Konjuro
+* Illustration: Natalie Propa
 Adapted By: Nina Orange
-Language: English
+* Language: English

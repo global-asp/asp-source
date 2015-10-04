@@ -48,8 +48,8 @@ Which shirt will he
 choose?
 
 ##
-License: [CC-BY]
-Writer: Adelheid Marie Bwire
-Illustration: Rob Owen
+* License: [CC-BY]
+* Writer: Adelheid Marie Bwire
+* Illustration: Rob Owen
 Translated By: Adelheid Marie Bwire
-Language: English
+* Language: English

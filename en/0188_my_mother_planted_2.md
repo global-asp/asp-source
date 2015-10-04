@@ -53,8 +53,8 @@ The large garden he
 planted was of flowers.
 
 ##
-License: [CC-BY]
-Writer: Tom Sabwa
-Illustration: Jonathan Field
+* License: [CC-BY]
+* Writer: Tom Sabwa
+* Illustration: Jonathan Field
 Translated By: Cornelius Gulere
-Language: English
+* Language: English

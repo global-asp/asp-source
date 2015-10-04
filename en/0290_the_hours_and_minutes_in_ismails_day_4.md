@@ -104,7 +104,7 @@ How much time did you spend
 reading this one?
 
 ##
-License: [CC-BY]
-Writer: Espen Stranger-Johannessen
-Illustration: Sue Kramer, Cathy Feek, Angie & Upesh, Jesse Pietersen, Wiehan de Jager, Eden Daniels, Magriet Brink, Bronwen Heath, Mango Tree and Rob Owen
-Language: English
+* License: [CC-BY]
+* Writer: Espen Stranger-Johannessen
+* Illustration: Sue Kramer, Cathy Feek, Angie & Upesh, Jesse Pietersen, Wiehan de Jager, Eden Daniels, Magriet Brink, Bronwen Heath, Mango Tree and Rob Owen
+* Language: English

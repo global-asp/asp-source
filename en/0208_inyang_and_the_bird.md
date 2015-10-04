@@ -53,10 +53,10 @@ Inyang and the cows were taken home.
 The bird had saved Inyang!!
 
 ##
-License: [CC-BY]
-Writer: Simon Ipoo
-Illustration: Catherine Groenewald, Wiehan de Jager,
+* License: [CC-BY]
+* Writer: Simon Ipoo
+* Illustration: Catherine Groenewald, Wiehan de Jager,
 Kathy Arbuckle, Rijuta Ghate and Jemma Kahn
-Language: English
+* Language: English
 
 Turkana practice pastoralism and nomadism.

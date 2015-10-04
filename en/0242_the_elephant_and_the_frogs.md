@@ -63,7 +63,7 @@ animals to always do
 exactly what he said.
 
 ##
-License: [CC-BY]
-Writer: Mozambican folktale
-Illustration: Amir Bachir António Necas
-Language: English
+* License: [CC-BY]
+* Writer: Mozambican folktale
+* Illustration: Amir Bachir António Necas
+* Language: English

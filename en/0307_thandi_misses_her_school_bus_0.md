@@ -40,7 +40,7 @@ nice, old man who helped her.
 THE END
 
 ##
-License: [CC-BY]
-Writer: Melissa Chetty
-Illustration: Wiehan de Jager, Marleen Visser, Catherine Groenewald and Cathy Feek
-Language: English
+* License: [CC-BY]
+* Writer: Melissa Chetty
+* Illustration: Wiehan de Jager, Marleen Visser, Catherine Groenewald and Cathy Feek
+* Language: English

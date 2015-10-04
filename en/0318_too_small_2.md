@@ -46,7 +46,7 @@
 "These clothes are all too big for me!"
 
 ##
-License: [CC-BY-NC]
-Writer: Media Matters
-Illustration: Sandy Lightly
-Language: English
+* License: [CC-BY-NC]
+* Writer: Media Matters
+* Illustration: Sandy Lightly
+* Language: English

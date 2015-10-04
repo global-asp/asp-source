@@ -155,7 +155,7 @@ At home Yusuf holds his gift up
 to the stars.
 
 ##
-License: [CC-BY]
-Writer: Liesl Jobson
-Illustration: Jesse Breytenbach
-Language: English
+* License: [CC-BY]
+* Writer: Liesl Jobson
+* Illustration: Jesse Breytenbach
+* Language: English

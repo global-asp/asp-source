@@ -169,7 +169,7 @@ what had happened. They prepared a feast and there
 was peace at the homestead from that day on.
 
 ##
-License: [CC-BY]
-Writer: Kholeka Mabeta
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Kholeka Mabeta
+* Illustration: Wiehan de Jager
+* Language: English

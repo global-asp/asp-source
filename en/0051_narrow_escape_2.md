@@ -35,8 +35,8 @@ Beside the bed, there lay a big snake that the cat
 had fought and successfully killed.
 
 ##
-License: [CC-BY-NC]
-Writer: Beatres Nabune and Samuel Mudenya
-Illustration: Karen Lilje, Catherine Groenewald, Karlien de
+* License: [CC-BY-NC]
+* Writer: Beatres Nabune and Samuel Mudenya
+* Illustration: Karen Lilje, Catherine Groenewald, Karlien de
 Villiers, Jesse Breytenbach and Marleen Visser
-Language: English
+* Language: English

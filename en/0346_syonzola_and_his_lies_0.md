@@ -66,7 +66,7 @@ screaming "Help Help" he now told everyone in the village
 about his brave son.
 
 ##
-License: [CC-BY]
-Writer: Phoebe Sibomana
-Illustration: Benjamin Mitchley
-Language: English
+* License: [CC-BY]
+* Writer: Phoebe Sibomana
+* Illustration: Benjamin Mitchley
+* Language: English

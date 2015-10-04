@@ -34,10 +34,10 @@ Joy goes to school.
 Joy is in class.
 
 ##
-License: [CC-BY]
-Writer: Augustine Napagi
-Illustration: Vusi Malindi
-Language: English
+* License: [CC-BY]
+* Writer: Augustine Napagi
+* Illustration: Vusi Malindi
+* Language: English
 
 The story is about Joy getting
 support to go to school from her

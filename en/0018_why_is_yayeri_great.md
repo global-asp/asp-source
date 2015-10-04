@@ -77,8 +77,8 @@ We ask ourselves, “Why
 is Yayeri great?”
 
 ##
-License: [CC-BY]
-Writer: Michael Oguttu
-Illustration: Vusi Malindi
+* License: [CC-BY]
+* Writer: Michael Oguttu
+* Illustration: Vusi Malindi
 Translated By: Cornelius Gulere
-Language: English
+* Language: English

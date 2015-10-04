@@ -31,8 +31,8 @@ I am screaming...
 I am travelling by Taxi...
 
 ##
-License: [CC-BY]
-Writer: Nina Orange
-Illustration: Wiehan de Jager, Angie & Upesh and Marion Drew
+* License: [CC-BY]
+* Writer: Nina Orange
+* Illustration: Wiehan de Jager, Angie & Upesh and Marion Drew
 Translated By: Silindile Dube
-Language: English
+* Language: English

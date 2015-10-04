@@ -29,8 +29,8 @@ Kabali did not sell any kittens. The people in the village did
 not want cats.
 
 ##
-License: [CC-BY]
-Writer: Milly Kasule
-Illustration: Franz Phooko
+* License: [CC-BY]
+* Writer: Milly Kasule
+* Illustration: Franz Phooko
 Adapted By: Milly Kasule
-Language: English
+* Language: English

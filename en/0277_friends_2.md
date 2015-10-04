@@ -59,8 +59,8 @@ Come, play hide-andseek with us.
 Come, read with us!
 
 ##
-License: [CC-BY]
-Writer: Zimbili Dlamini and Hlengiwe Zondi
-Illustration: Catherine Groenewald
+* License: [CC-BY]
+* Writer: Zimbili Dlamini and Hlengiwe Zondi
+* Illustration: Catherine Groenewald
 Translated By: Zimbili Dlamini and Hlengiwe Zondi
-Language: English
+* Language: English

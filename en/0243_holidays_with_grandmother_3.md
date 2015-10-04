@@ -172,7 +172,7 @@ agreed that Odongo and Apiyo
 had a wonderful grandmother!
 
 ##
-License: [CC-BY]
-Writer: Violet Otieno
-Illustration: Catherine Groenewald
-Language: English
+* License: [CC-BY]
+* Writer: Violet Otieno
+* Illustration: Catherine Groenewald
+* Language: English

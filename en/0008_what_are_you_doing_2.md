@@ -25,7 +25,7 @@ She is listening.
 What are you doing?
 
 ##
-License: [CC-BY]
-Writer: Nina Orange
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Nina Orange
+* Illustration: Wiehan de Jager
+* Language: English

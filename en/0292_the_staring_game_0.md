@@ -52,7 +52,7 @@ sleeps with his eyes
 open!
 
 ##
-License: [CC-BY]
-Writer: Mozambican folktale
-Illustration: Zito Jorge Ngovene
-Language: English
+* License: [CC-BY]
+* Writer: Mozambican folktale
+* Illustration: Zito Jorge Ngovene
+* Language: English

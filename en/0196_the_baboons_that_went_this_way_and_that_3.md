@@ -103,7 +103,7 @@ That is why baboons live in small groups today and do not live as a baboon
 nation.
 
 ##
-License: [CC-BY]
-Writer: Southern African Folktale
-Illustration: Benjamin Mitchley
-Language: English
+* License: [CC-BY]
+* Writer: Southern African Folktale
+* Illustration: Benjamin Mitchley
+* Language: English

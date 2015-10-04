@@ -47,10 +47,10 @@ frog cannot eat maize
 grain.
 
 ##
-License: [CC-BY]
-Writer: bubaali primary school
-Illustration: Stephanie Simpson, Hélder de Paz
+* License: [CC-BY]
+* Writer: bubaali primary school
+* Illustration: Stephanie Simpson, Hélder de Paz
 Alexandre, Magriet Brink and Emily Berg
-Language: English
+* Language: English
 
 This story was created by teachers of p.3 at Bubaali primary school

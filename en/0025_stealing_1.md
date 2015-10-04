@@ -21,10 +21,10 @@ When they reached Kato's home,
 they found him roasting the meat.
 
 ##
-License: [CC-BY]
-Writer: Deborah
-Illustration: Jemma Kahn, Wiehan de Jager, Catherine Groenewald and Kathy Arbuckle
-Language: English
+* License: [CC-BY]
+* Writer: Deborah
+* Illustration: Jemma Kahn, Wiehan de Jager, Catherine Groenewald and Kathy Arbuckle
+* Language: English
 
 People should have respect for
 others property.

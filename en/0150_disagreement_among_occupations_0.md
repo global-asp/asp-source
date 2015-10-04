@@ -60,7 +60,7 @@ But everyone has to be a
 student first!
 
 ##
-License: [CC-BY]
-Writer: Beatrice Inzikuru
-Illustration: Wiehan de Jager
-Language: English
+* License: [CC-BY]
+* Writer: Beatrice Inzikuru
+* Illustration: Wiehan de Jager
+* Language: English

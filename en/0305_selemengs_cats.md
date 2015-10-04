@@ -97,8 +97,8 @@ do you have
 at home?
 
 ##
-License: [CC-BY-NC]
-Writer: Khothatso Ranoosi and Marion Drew
-Illustration: Jesse Breytenbach
+* License: [CC-BY-NC]
+* Writer: Khothatso Ranoosi and Marion Drew
+* Illustration: Jesse Breytenbach
 Translated By: Khothatso Ranoosi and Marion Drew
-Language: English
+* Language: English

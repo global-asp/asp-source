@@ -55,7 +55,7 @@ because she knows she
 paid her fare in full.
 
 ##
-License: [CC-BY]
-Writer: Fabian Wakholi
-Illustration: Marleen Visser
-Language: English
+* License: [CC-BY]
+* Writer: Fabian Wakholi
+* Illustration: Marleen Visser
+* Language: English

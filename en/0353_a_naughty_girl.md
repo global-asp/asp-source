@@ -61,7 +61,7 @@ to listen and to respect her
 mother.
 
 ##
-License: [CC-BY]
-Writer: Bathokwa book club
-Illustration: Catherine Groenewald, Vusi Malindi, Rob Owen, Natalie Propa, Ingrid Schechter and Melany Pietersen
-Language: English
+* License: [CC-BY]
+* Writer: Bathokwa book club
+* Illustration: Catherine Groenewald, Vusi Malindi, Rob Owen, Natalie Propa, Ingrid Schechter and Melany Pietersen
+* Language: English

@@ -63,7 +63,7 @@ are tired but very
 happy!
 
 ##
-License: [CC-BY]
-Writer: Neo
-Illustration: Neo
-Language: English
+* License: [CC-BY]
+* Writer: Neo
+* Illustration: Neo
+* Language: English
