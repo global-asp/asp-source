@@ -57,5 +57,5 @@ in the open.
 * License: [CC-BY]
 * Writer: Zimbili Dlamini
 * Illustration: Magriet Brink
-Translated By: Zimbili Dlamini
+* Translated By: Zimbili Dlamini
 * Language: English

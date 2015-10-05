@@ -100,5 +100,5 @@ at home?
 * License: [CC-BY-NC]
 * Writer: Khothatso Ranoosi and Marion Drew
 * Illustration: Jesse Breytenbach
-Translated By: Khothatso Ranoosi and Marion Drew
+* Translated By: Khothatso Ranoosi and Marion Drew
 * Language: English

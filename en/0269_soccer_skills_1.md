@@ -57,5 +57,5 @@ was shot by Joseph.
 * License: [CC-BY]
 * Writer: Joseph Ejoyi
 * Illustration: Joseph Ejoyi
-Translated By: Nelson Acadri
+* Translated By: Nelson Acadri
 * Language: English

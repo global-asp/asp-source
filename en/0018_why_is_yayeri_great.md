@@ -80,5 +80,5 @@ is Yayeri great?”
 * License: [CC-BY]
 * Writer: Michael Oguttu
 * Illustration: Vusi Malindi
-Translated By: Cornelius Gulere
+* Translated By: Cornelius Gulere
 * Language: English

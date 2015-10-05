@@ -40,5 +40,5 @@ are very happy.
 * License: [CC-BY]
 * Writer: Paul Maseri
 * Illustration: Wiehan de Jager
-Translated By: Paul Maseri
+* Translated By: Paul Maseri
 * Language: English

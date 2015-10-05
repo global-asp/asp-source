@@ -51,5 +51,5 @@ choose?
 * License: [CC-BY]
 * Writer: Adelheid Marie Bwire
 * Illustration: Rob Owen
-Translated By: Adelheid Marie Bwire
+* Translated By: Adelheid Marie Bwire
 * Language: English

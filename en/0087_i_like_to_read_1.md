@@ -31,5 +31,5 @@ read to myself!
 * License: [CC-BY]
 * Writer: Letta Machoga
 * Illustration: Wiehan de Jager
-Translated By: Letta Machoga
+* Translated By: Letta Machoga
 * Language: English

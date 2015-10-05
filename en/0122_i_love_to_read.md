@@ -32,5 +32,5 @@ myself
 * License: [CC-BY]
 * Writer: Letta Machoga
 * Illustration: Wiehan de Jager
-Translated By: Letta Machoga and Bathokwa book club
+* Translated By: Letta Machoga and Bathokwa book club
 * Language: English

@@ -81,5 +81,5 @@ goal keeping.
 * License: [CC-BY]
 * Writer: Benard Agasi
 * Illustration: Benard Agasi
-Translated By: Nelson Acadri
+* Translated By: Nelson Acadri
 * Language: English

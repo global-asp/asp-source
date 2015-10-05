@@ -53,5 +53,5 @@ children.
 * License: [CC-BY]
 * Writer: Annet Ssebaggala
 * Illustration: Zablon Alex Nguku
-Translated By: Annet Ssebaggala
+* Translated By: Annet Ssebaggala
 * Language: English

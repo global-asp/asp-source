@@ -62,5 +62,5 @@ Come, read with us!
 * License: [CC-BY]
 * Writer: Zimbili Dlamini and Hlengiwe Zondi
 * Illustration: Catherine Groenewald
-Translated By: Zimbili Dlamini and Hlengiwe Zondi
+* Translated By: Zimbili Dlamini and Hlengiwe Zondi
 * Language: English

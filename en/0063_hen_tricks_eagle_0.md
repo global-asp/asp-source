@@ -52,5 +52,5 @@ catches one, he eats it.
 * License: [CC-BY]
 * Writer: Nathan Higenyi
 * Illustration: Rob Owen
-Translated By: Nathan Higenyi
+* Translated By: Nathan Higenyi
 * Language: English

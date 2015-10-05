@@ -57,5 +57,5 @@ more water.
 * License: [CC-BY]
 * Writer: Alice Inzikuru
 * Illustration: Alice Inzikuru and Robert McEwan
-Translated By: Nelson Acadri
+* Translated By: Nelson Acadri
 * Language: English

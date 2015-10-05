@@ -61,5 +61,5 @@ friendship.
 * License: [CC-BY]
 * Writer: Basilio Gimo
 * Illustration: Jeremiah Dube
-Translated By: Little Zebra Books
+* Translated By: Little Zebra Books
 * Language: English

@@ -82,5 +82,5 @@ the site of Namoratunga.
 * License: [CC-BY]
 * Writer: Simon Ipoo
 * Illustration: Zablon Alex Nguku
-Translated By: Simon Ipoo
+* Translated By: Simon Ipoo
 * Language: English

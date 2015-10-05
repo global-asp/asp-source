@@ -139,5 +139,5 @@ around!”
 * License: [CC-BY]
 * Writer: Nambi Sseppuuya Community Resource Centre
 * Illustration: Wiehan de Jager
-Translated By: Maganda Isa and Cornelius Gulere
+* Translated By: Maganda Isa and Cornelius Gulere
 * Language: English

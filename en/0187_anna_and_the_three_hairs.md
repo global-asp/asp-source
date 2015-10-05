@@ -105,5 +105,5 @@ has never been seen since.
 * License: [CC-BY]
 * Writer: Tessa Welch
 * Illustration: Wiehan de Jager
-Translated By: M. Davidson
+* Translated By: M. Davidson
 * Language: English

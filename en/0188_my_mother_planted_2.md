@@ -56,5 +56,5 @@ planted was of flowers.
 * License: [CC-BY]
 * Writer: Tom Sabwa
 * Illustration: Jonathan Field
-Translated By: Cornelius Gulere
+* Translated By: Cornelius Gulere
 * Language: English

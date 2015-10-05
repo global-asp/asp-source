@@ -122,5 +122,5 @@ gedoen het.
 * License: [CC-BY]
 * Writer: Nina Orange
 * Illustration: Wiehan de Jager
-Translated By: Errin Labuschagne
+* Translated By: Errin Labuschagne
 * Language: English and Afrikaans

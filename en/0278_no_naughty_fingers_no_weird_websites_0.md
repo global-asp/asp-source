@@ -51,5 +51,5 @@ naughty fingers again!
 * License: [CC-BY]
 * Writer: Danica Strydom
 * Illustration: Danica Strydom
-Edited by: Lisa Treffry-Goatley
+* Edited By: Lisa Treffry-Goatley
 * Language: English

@@ -58,5 +58,5 @@ Azizi beside me.
 * License: [CC-BY]
 * Writer: Lawrence A. Konjuro
 * Illustration: Natalie Propa
-Translated By: l
+* Translated By: l
 * Language: English

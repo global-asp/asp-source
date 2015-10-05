@@ -155,5 +155,5 @@ them all at Ombalantu?
 * License: [CC-BY]
 * Writer: Karen von Wiese, Beryl Salt, Muhdni Grimwood and Barbara Meyerowitz
 * Illustration: Julia te Water Naude
-Translated By: Sheila Drew
+* Translated By: Sheila Drew
 * Language: English

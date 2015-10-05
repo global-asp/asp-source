@@ -160,7 +160,7 @@ where he had left her.
 * License: [CC-BY]
 * Writer: Phumy Zikode
 * Illustration: Wiehan de Jager
-Translated By: Phumy Zikode
+* Translated By: Phumy Zikode
 * Language: English
 
 This story is from the Family Literacy Project in South Africa.

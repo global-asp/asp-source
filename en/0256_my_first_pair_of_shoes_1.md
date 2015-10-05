@@ -95,5 +95,5 @@ bed!
 * License: [CC-BY]
 * Writer: Ursula Nafula
 * Illustration: Rob Owen
-Translated By: Ursula Nafula
+* Translated By: Ursula Nafula
 * Language: English

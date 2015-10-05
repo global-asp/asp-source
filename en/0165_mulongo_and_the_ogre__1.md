@@ -149,5 +149,5 @@ ogre's house and property.
 * License: [CC-BY]
 * Writer: Fabian Wakholi
 * Illustration: Natalie Propa
-Translated By: Fabian Wakholi
+* Translated By: Fabian Wakholi
 * Language: English

@@ -55,5 +55,5 @@ since.
 * License: [CC-BY]
 * Writer: Basilio Gimo
 * Illustration: Laura Libertore
-Translated By: Little Zebra Books
+* Translated By: Little Zebra Books
 * Language: English

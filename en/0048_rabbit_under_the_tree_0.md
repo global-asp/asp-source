@@ -132,5 +132,5 @@ said, ‘Run rabbit run!'”
 * License: [CC-BY]
 * Writer: Phumy Zikode
 * Illustration: Wiehan de Jager
-Translated By: Phumy Zikode
+* Translated By: Phumy Zikode
 * Language: English

@@ -102,5 +102,5 @@ you, ‘M'e Maneo!” they cried.
 * License: [CC-BY]
 * Writer: Marion Drew
 * Illustration: Marion Drew
-Translated By: Khothatso Ranoosi and Marion Drew
+* Translated By: Khothatso Ranoosi and Marion Drew
 * Language: English
