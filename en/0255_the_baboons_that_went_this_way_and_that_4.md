@@ -99,5 +99,5 @@ do people and many other animals.
 * License: [CC-BY]
 * Writer: Southern African Folktale
 * Illustration: Benjamin Mitchley
-Adapted By: Sheila Drew
+* Adapted By: Sheila Drew
 * Language: English

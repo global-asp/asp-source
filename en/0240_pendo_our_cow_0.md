@@ -50,5 +50,5 @@ Pendo!"
 * License: [CC-BY]
 * Writer: Ruth Odondi
 * Illustration: Rob Owen
-Adapted By: Ruth Odondi
+* Adapted By: Ruth Odondi
 * Language: English

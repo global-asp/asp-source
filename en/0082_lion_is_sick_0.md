@@ -97,5 +97,5 @@ lions.
 * License: [CC-BY]
 * Writer: Francisco Escondido
 * Illustration: Claudio Molina and Hélder de Paz Alexandre
-Adapted By: Little Zebra Books
+* Adapted By: Little Zebra Books
 * Language: English

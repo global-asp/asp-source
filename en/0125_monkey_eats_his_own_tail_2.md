@@ -73,5 +73,5 @@ became enemies!
 * License: [CC-BY]
 * Writer: Mozambican folktale
 * Illustration: Horácio José Cossa
-Adapted By: Simon Ipoo
+* Adapted By: Simon Ipoo
 * Language: English

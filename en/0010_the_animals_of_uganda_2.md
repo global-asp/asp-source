@@ -60,7 +60,7 @@ they live? Which one would you eat?
 * License: [CC-BY]
 * Writer: Wendy Parry
 * Illustration: Rob Owen
-Adapted By: Wendy Parry
+* Adapted By: Wendy Parry
 * Language: English
 
 First paragraph story about animals found in Uganda

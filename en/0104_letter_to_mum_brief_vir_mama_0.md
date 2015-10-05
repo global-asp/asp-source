@@ -104,5 +104,5 @@ the letter was gone.
 * License: [CC-BY]
 * Writer: Ursula Nafula
 * Illustration: Catherine Groenewald
-Adapted By: Velasco Williams
+* Adapted By: Velasco Williams
 * Language: English

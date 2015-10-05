@@ -40,7 +40,8 @@ to have a bright future.
 ##
 * License: [CC-BY]
 * Writer: Cissy Namugerwa and Nanyonga Allen
-* Illustration: Genevieve Terblanche, Melany Pietersen, Catherine Groenewald, Marion Drew, Mlungisi Dlamini, Rob Owen, Natalie Propa, Franz Phooko and Wiehan de Jager Adapted By: Ritah Katetemera
+* Illustration: Genevieve Terblanche, Melany Pietersen, Catherine Groenewald, Marion Drew, Mlungisi Dlamini, Rob Owen, Natalie Propa, Franz Phooko and Wiehan de Jager
+* Adapted By: Ritah Katetemera
 * Language: English
 
 A very short and brief story that talks about a little boy named John Francis.

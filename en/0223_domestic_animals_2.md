@@ -29,5 +29,5 @@ milk.
 * License: [CC-BY-NC]
 * Writer: Jenny Katz
 * Illustration: Sandy Campbell
-Adapted By: Lilian Wachira
+* Adapted By: Lilian Wachira
 * Language: English

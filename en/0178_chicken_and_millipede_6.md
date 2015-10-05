@@ -50,7 +50,7 @@ wasn't friends anymore.
 * License: [CC-BY]
 * Writer: Winny Asara
 * Illustration: Winny Asara
-Adapted By: Dedre Grobler
+* Adapted By: Dedre Grobler
 * Language: English
 
 This story was written by a student teacher at Arua PTC in Uganda.
