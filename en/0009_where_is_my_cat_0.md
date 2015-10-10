@@ -26,7 +26,6 @@ Here it is!
 
 ##
 * License: [CC-BY-NC]
-* Writer: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
 * Illustration: Bronwen Heath
 * Language: English

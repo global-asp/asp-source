@@ -13,7 +13,6 @@ It is too hot.
 Can this water be cold.
 
 ##
-Looking for water
 * License: [CC-BY]
 * Writer: Augustine Napagi
 * Illustration: Hélder de Paz Alexandre
