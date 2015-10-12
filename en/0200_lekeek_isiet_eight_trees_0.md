@@ -1,5 +1,4 @@
-# Lekeek isiet!
-Eight trees
+# Lekeek isiet! Eight trees
 
 ##
 The children compete to name the different

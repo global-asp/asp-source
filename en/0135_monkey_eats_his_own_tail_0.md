@@ -93,7 +93,6 @@ And from then on they
 became enemies!
 
 ##
-Monkey Eats his Own Tail
 * License: [CC-BY]
 * Writer: Mozambican folktale
 * Illustration: Horácio José Cossa

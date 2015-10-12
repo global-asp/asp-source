@@ -65,9 +65,7 @@ The boys were given a punishment. Each got some ten strokes and repented not
 to steal anything again.
 
 ##
-The mango thieves
 * License: [CC-BY]
 * Writer: Ritah Katetemera
-* Illustration: Wiehan de Jager, Cathy Feek, Eden Daniels,
-Ketan Raut, Herminder Ohri and Benjamin Mitchley
+* Illustration: Wiehan de Jager, Cathy Feek, Eden Daniels, Ketan Raut, Herminder Ohri and Benjamin Mitchley
 * Language: English

@@ -171,7 +171,6 @@ and Demazane ate delicious honey
 from that hive.
 
 ##
-Demane and Demazane
 * License: [CC-BY]
 * Writer: South African Folktale
 * Illustration: Jemma Kahn

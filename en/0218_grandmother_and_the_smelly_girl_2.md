@@ -59,7 +59,6 @@ smelly makgabe and ran home to
 her parents.
 She sang …
 
-##
 Mother, open the door for me, I am smelling;
 Mother, open the door for me, I am smelling,
 I am smelling very bad.
@@ -75,7 +74,6 @@ She ran off to the house of her aunt
 and uncle.
 They heard her singing …
 
-##
 Open the door for me, I am smelling;
 Open the door for me, I am smelling,
 I am smelling very bad.

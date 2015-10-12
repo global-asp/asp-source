@@ -9,8 +9,6 @@ anything but the Great Race and its
 two contestants.
 
 ##
-
-##
 We all know that the rabbit was defeated because he was lazy and
 overconfident.
 We know that the tortoise won the race because he was slow and

@@ -36,8 +36,6 @@ chickens of yours and come and help me with these
 pots please!"
 
 ##
-
-##
 Refiloe's mother was very proud of her house, and wanted it to be
 perfect for the wedding. She cleaned and washed and scrubbed
 and scoured and polished everything in sight. When she had
@@ -125,8 +123,6 @@ Mme Pedi climbed up onto the garden wall and put the chickens in
 a row on the thatched roof.
 
 ##
-
-##
 The next day the sun rose in good time for the wedding. Refiloe
 was up first and went to see her chickens.
 She saw that they were no longer lying on the grass.
@@ -165,8 +161,6 @@ All the other chickens decided to join the first two. You couldn't see
 Mme Ngwe for all those chickens!
 
 ##
-
-##
 The guests screamed with laughter.
 The men had to hold onto their bellies.
 The women rolled around in their chairs.
@@ -179,8 +173,6 @@ back her head and laughed until all her chins shook.
 Refiloe couldn't believe it!
 
 ##
-
-##
 All the guests agreed that it was the best wedding entertainment
 ever known in Malealea.
 "Oh you are so lucky!" Refiloe said to her chickens as she put them
@@ -188,8 +180,6 @@ into their coop for the night, "Mme says that she will never put you
 in the supper pot."
 "But look how dirty you are again," she told them, "I think I'll have
 to give you another wash tomorrow!"
-
-##
 
 ##
 * License: [CC-BY]

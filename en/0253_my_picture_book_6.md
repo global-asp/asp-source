@@ -4,13 +4,13 @@
 A girl
 
 ##
-Bird
+A bird
 
 ##
-lion
+A lion
 
 ##
-Cat
+A cat
 
 ##
 * License: [CC-BY]

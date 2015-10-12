@@ -4,7 +4,7 @@
 I am Ana Maria Namata
 
 ##
-My dad is Mr.Agaba Ali.
+My dad is Mr. Agaba Ali.
 
 ##
 My mum is Ananga
