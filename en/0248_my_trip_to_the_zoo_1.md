@@ -31,6 +31,6 @@ us home.
 
 ##
 * License: [CC-BY]
-* Writer: Mmapule Nkuna
+* Text: Mmapule Nkuna
 * Illustration: Melany Pietersen, Rob Owen and Catherine Groenewald
 * Language: English

@@ -66,6 +66,6 @@ to steal anything again.
 
 ##
 * License: [CC-BY]
-* Writer: Ritah Katetemera
+* Text: Ritah Katetemera
 * Illustration: Wiehan de Jager, Cathy Feek, Eden Daniels, Ketan Raut, Herminder Ohri and Benjamin Mitchley
 * Language: English

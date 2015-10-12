@@ -36,7 +36,7 @@ do you wish to go back?
 
 ##
 * License: [CC-BY]
-* Writer: Barke Ramadhan
+* Text: Barke Ramadhan
 * Illustration: Wiehan de Jager, Laura Libertore, Catherine Groenewald and Rijuta Ghate
 * Language: English
 

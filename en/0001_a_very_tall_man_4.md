@@ -47,6 +47,6 @@ years.
 
 ##
 * License: [CC-BY]
-* Writer: Cornelius Gulere
+* Text: Cornelius Gulere
 * Illustration: Catherine Groenewald
 * Language: English

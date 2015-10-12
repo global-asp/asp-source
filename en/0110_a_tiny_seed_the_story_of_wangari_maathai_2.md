@@ -66,6 +66,6 @@ Wangari died in 2011, but we can think of her every time we see a beautiful tree
 
 ##
 * License: [CC-BY]
-* Writer: Nicola Rijsdijk
+* Text: Nicola Rijsdijk
 * Illustration: Maya Marshak
 * Language: English

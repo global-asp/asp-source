@@ -102,6 +102,6 @@ woman.
 
 ##
 * License: [CC-BY]
-* Writer: John Nga'sike
+* Text: John Nga'sike
 * Illustration: Zablon Alex Nguku
 * Language: English

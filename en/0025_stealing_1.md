@@ -22,7 +22,7 @@ they found him roasting the meat.
 
 ##
 * License: [CC-BY]
-* Writer: Deborah
+* Text: Deborah
 * Illustration: Jemma Kahn, Wiehan de Jager, Catherine Groenewald and Kathy Arbuckle
 * Language: English
 

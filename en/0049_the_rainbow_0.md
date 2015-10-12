@@ -21,6 +21,6 @@ beautiful.
 
 ##
 * License: [CC-BY]
-* Writer: Ursula Nafula
+* Text: Ursula Nafula
 * Illustration: Catherine Groenewald and Wiehan de Jager
 * Language: English

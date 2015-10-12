@@ -18,6 +18,6 @@
 
 ##
 * License: [CC-BY]
-* Writer: Ursula Nafula
+* Text: Ursula Nafula
 * Illustration: Wiehan de Jager
 * Language: English

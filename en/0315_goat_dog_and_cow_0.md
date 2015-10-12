@@ -18,6 +18,6 @@
 
 ##
 * License: [CC-BY]
-* Writer: Fabian Wakholi
+* Text: Fabian Wakholi
 * Illustration: Marleen Visser
 * Language: English

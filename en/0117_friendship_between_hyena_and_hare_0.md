@@ -41,6 +41,6 @@ who is always a friend.
 
 ##
 * License: [CC-BY]
-* Writer: Adapted Aesop's Fable
+* Text: Adapted Aesop's Fable
 * Illustration: Rob Owen
 * Language: English

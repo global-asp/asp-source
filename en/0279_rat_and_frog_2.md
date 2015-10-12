@@ -48,7 +48,7 @@ grain.
 
 ##
 * License: [CC-BY]
-* Writer: bubaali primary school
+* Text: bubaali primary school
 * Illustration: Stephanie Simpson, Hélder de Paz
 Alexandre, Magriet Brink and Emily Berg
 * Language: English

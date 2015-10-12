@@ -16,7 +16,7 @@
 
 ##
 * License: [CC-BY]
-* Writer: Marion Drew
+* Text: Marion Drew
 * Illustration: Marion Drew
 * Language: English
 

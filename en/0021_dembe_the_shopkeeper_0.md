@@ -51,7 +51,7 @@ children.
 
 ##
 * License: [CC-BY]
-* Writer: Annet Ssebaggala
+* Text: Annet Ssebaggala
 * Illustration: Zablon Alex Nguku
 * Translated By: Annet Ssebaggala
 * Language: English

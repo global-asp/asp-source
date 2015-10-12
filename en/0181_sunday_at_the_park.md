@@ -64,6 +64,6 @@ happy!
 
 ##
 * License: [CC-BY]
-* Writer: Neo
+* Text: Neo
 * Illustration: Neo
 * Language: English

@@ -117,6 +117,6 @@ return to the wild.
 
 ##
 * License: [CC-BY]
-* Writer: Ursula Nafula and Nina Orange
+* Text: Ursula Nafula and Nina Orange
 * Illustration: Magriet Brink
 * Language: English

@@ -48,7 +48,7 @@ wasn't friends anymore.
 
 ##
 * License: [CC-BY]
-* Writer: Winny Asara
+* Text: Winny Asara
 * Illustration: Winny Asara
 * Adapted By: Dedre Grobler
 * Language: English

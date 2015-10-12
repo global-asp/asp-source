@@ -96,7 +96,7 @@ no longer friends.
 
 ##
 * License: [CC-BY]
-* Writer: Agnes Gachaba and Ursula Nafula
+* Text: Agnes Gachaba and Ursula Nafula
 * Illustration: Wiehan de Jager
 * Translated By: Ursula Nafula
 * Language: English

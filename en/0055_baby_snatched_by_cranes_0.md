@@ -103,6 +103,6 @@ danced with joy.
 
 ##
 * License: [CC-BY]
-* Writer: South African Folktale
+* Text: South African Folktale
 * Illustration: Emily Berg
 * Language: English

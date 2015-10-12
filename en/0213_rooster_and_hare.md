@@ -54,6 +54,6 @@ What do you think happened?
 
 ##
 * License: [CC-BY]
-* Writer: Geoffrey Thiiru
+* Text: Geoffrey Thiiru
 * Illustration: Duane Arthur
 * Language: English

@@ -124,6 +124,6 @@ advisors of Kgosi Mogale.
 
 ##
 * License: [CC-BY]
-* Writer: Ugandan folktale
+* Text: Ugandan folktale
 * Illustration: Wiehan de Jager
 * Language: English

@@ -132,6 +132,6 @@ was going to town.
 
 ##
 * License: [CC-BY]
-* Writer: Mecelin Kakoro
+* Text: Mecelin Kakoro
 * Illustration: Mango Tree
 * Language: English

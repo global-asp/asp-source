@@ -26,7 +26,7 @@ My telephone number is
 
 ##
 * License: [CC-BY-NC]
-* Writer: Clare Verbeek, Thembani Dladla and Zanele
+* Text: Clare Verbeek, Thembani Dladla and Zanele
 Buthelezi
 * Illustration: Kathy Arbuckle
 * Language: English

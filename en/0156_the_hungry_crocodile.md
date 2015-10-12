@@ -26,6 +26,6 @@ again.
 
 ##
 * License: [CC-BY]
-* Writer: Christian G.
+* Text: Christian G.
 * Illustration: Wiehan de Jager
 * Language: English

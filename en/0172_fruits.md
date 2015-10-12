@@ -31,6 +31,6 @@ much.
 
 ##
 * License: [CC-BY]
-* Writer: Ritah Katetemera
+* Text: Ritah Katetemera
 * Illustration: Wiehan de Jager and Catherine Groenewald
 * Language: English

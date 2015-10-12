@@ -160,7 +160,7 @@ only half an hour ago.'
 
 ##
 * License: [CC-BY-NC]
-* Writer: Joanne Bloch (retold folktale)
+* Text: Joanne Bloch (retold folktale)
 * Illustration: Rebecca Riley and Nalibali
 * Language: English
 

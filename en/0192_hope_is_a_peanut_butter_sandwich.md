@@ -11,6 +11,6 @@ fullness
 
 ##
 * License: [CC-BY]
-* Writer: Johanna Kistner
+* Text: Johanna Kistner
 * Illustration: Johanna Kistner
 * Language: English

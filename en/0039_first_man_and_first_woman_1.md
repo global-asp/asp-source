@@ -67,6 +67,6 @@ And they walked out together into their new world.
 
 ##
 * License: [CC-BY]
-* Writer: Southern African Folktale
+* Text: Southern African Folktale
 * Illustration: Jemma Kahn
 * Language: English

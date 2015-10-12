@@ -37,6 +37,6 @@ continue drinking?
 
 ##
 * License: [CC-BY-NC]
-* Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
 * Illustration: Gay Galsworthy
 * Language: English

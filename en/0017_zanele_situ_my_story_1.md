@@ -109,6 +109,6 @@ Janeiro.
 
 ##
 * License: [CC-BY]
-* Writer: Liz Sparg
+* Text: Liz Sparg
 * Illustration: Jesse Breytenbach and Graham Paterson
 * Language: English

@@ -28,7 +28,7 @@ Matome was locked in jail for pickpocketing.
 
 ##
 * License: [CC-BY]
-* Writer: Kate Nkwane
+* Text: Kate Nkwane
 * Illustration: Wiehan de Jager and Catherine Groenewald
 * Language: English
 

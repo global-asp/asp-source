@@ -37,7 +37,7 @@ What a great surprise!
 
 ##
 * License: [CC-BY]
-* Writer: Letta Machoga
+* Text: Letta Machoga
 * Illustration: Vusi Malindi
 * Translated By: Lorato Trok
 * Language: English

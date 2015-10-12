@@ -46,6 +46,6 @@ including the prince and the princes.
 
 ##
 * License: [CC-BY]
-* Writer: Kamugisha Darius
+* Text: Kamugisha Darius
 * Illustration: Rob Owen and Razaque Lázaro Quive
 * Language: English

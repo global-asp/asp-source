@@ -48,6 +48,6 @@ frog does not have its tail.
 
 ##
 * License: [CC-BY]
-* Writer: Nabune Beatres
+* Text: Nabune Beatres
 * Illustration: Hélder de Paz Alexandre, Wiehan de Jager, Graham Paterson, Rob Owen, Maya Marshak and Marion Drew
 * Language: English

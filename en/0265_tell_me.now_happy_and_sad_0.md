@@ -43,6 +43,6 @@ shy.
 
 ##
 * License: [CC-BY]
-* Writer: Madhav Chavan
+* Text: Madhav Chavan
 * Illustration: Rijuta Ghate
 * Language: English

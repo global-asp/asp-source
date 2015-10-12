@@ -183,6 +183,6 @@ to give you another wash tomorrow!"
 
 ##
 * License: [CC-BY]
-* Writer: Marion Drew
+* Text: Marion Drew
 * Illustration: Wiehan de Jager
 * Language: English

@@ -46,7 +46,7 @@ with fish!
 
 ##
 * License: [CC-BY-NC]
-* Writer: Ethan Alberts
+* Text: Ethan Alberts
 * Illustration: Ethan Alberts
 * Edited By: Lisa Treffry-Goatley
 * Language: English

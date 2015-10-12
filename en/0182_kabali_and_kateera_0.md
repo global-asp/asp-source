@@ -30,7 +30,7 @@ not want cats.
 
 ##
 * License: [CC-BY]
-* Writer: Milly Kasule
+* Text: Milly Kasule
 * Illustration: Franz Phooko
 * Adapted By: Milly Kasule
 * Language: English

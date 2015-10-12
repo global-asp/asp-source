@@ -45,6 +45,6 @@ In Africa.
 
 ##
 * License: [CC-BY-NC]
-* Writer: Reviva Schermbrucker
+* Text: Reviva Schermbrucker
 * Illustration: Sue Kramer
 * Language: English

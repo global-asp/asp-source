@@ -84,6 +84,6 @@ piece of land to farm.
 
 ##
 * License: [CC-BY]
-* Writer: Maimouna Jallow and Haji Gora Haji
+* Text: Maimouna Jallow and Haji Gora Haji
 * Illustration: João Carlos Brito, Katrien Coetzer, Wiehan de Jager, Claudio Molina, Padmanabha, Catherine Groenewald and Marion Drew
 * Language: English

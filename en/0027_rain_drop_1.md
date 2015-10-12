@@ -18,6 +18,6 @@
 
 ##
 * License: [CC-BY]
-* Writer: Sheila Drew
+* Text: Sheila Drew
 * Illustration: Wiehan de Jager
 * Language: English

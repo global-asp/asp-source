@@ -130,7 +130,7 @@ said, ‘Run rabbit run!'”
 
 ##
 * License: [CC-BY]
-* Writer: Phumy Zikode
+* Text: Phumy Zikode
 * Illustration: Wiehan de Jager
 * Translated By: Phumy Zikode
 * Language: English

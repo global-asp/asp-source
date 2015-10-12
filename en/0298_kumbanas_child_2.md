@@ -74,6 +74,6 @@ again.
 
 ##
 * License: [CC-BY]
-* Writer: Ingrid Schechter
+* Text: Ingrid Schechter
 * Illustration: Razaque Lázaro Quive
 * Language: English

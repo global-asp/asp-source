@@ -129,6 +129,6 @@ said sadly.
 
 ##
 * License: [CC-BY]
-* Writer: Joseph Sanchez Nadimo
+* Text: Joseph Sanchez Nadimo
 * Illustration: Rob Owen
 * Language: English

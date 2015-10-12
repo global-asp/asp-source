@@ -29,6 +29,6 @@ My entire family and I live together in great happiness!
 
 ##
 * License: [CC-BY]
-* Writer: Waako Joshua and Cornelius Gulere
+* Text: Waako Joshua and Cornelius Gulere
 * Illustration: Wiehan de Jager
 * Language: English

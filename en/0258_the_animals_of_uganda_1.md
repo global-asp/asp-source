@@ -59,7 +59,7 @@ Where do they live? Which one would you eat?
 
 ##
 * License: [CC-BY]
-* Writer: Wendy Parry
+* Text: Wendy Parry
 * Illustration: Rob Owen
 * Language: English
 

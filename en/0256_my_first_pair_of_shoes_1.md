@@ -93,7 +93,7 @@ bed!
 
 ##
 * License: [CC-BY]
-* Writer: Ursula Nafula
+* Text: Ursula Nafula
 * Illustration: Rob Owen
 * Translated By: Ursula Nafula
 * Language: English

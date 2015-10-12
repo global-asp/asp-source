@@ -186,6 +186,6 @@ happily!
 
 ##
 * License: [CC-BY]
-* Writer: Lorato Trok
+* Text: Lorato Trok
 * Illustration: Catherine Groenewald
 * Language: English

@@ -61,7 +61,7 @@ play!
 
 ##
 * License: [CC-BY]
-* Writer: Michael Oguttu
+* Text: Michael Oguttu
 * Illustration: Vusi Malindi
 * Adapted By: Nina Orange
 * Language: English

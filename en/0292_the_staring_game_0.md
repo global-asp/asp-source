@@ -53,6 +53,6 @@ open!
 
 ##
 * License: [CC-BY]
-* Writer: Mozambican folktale
+* Text: Mozambican folktale
 * Illustration: Zito Jorge Ngovene
 * Language: English

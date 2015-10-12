@@ -33,6 +33,6 @@ read everything!
 
 ##
 * License: [CC-BY-NC]
-* Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
 * Illustration: Kathy Arbuckle
 * Language: English

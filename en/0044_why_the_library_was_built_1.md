@@ -45,6 +45,6 @@ book from the library.
 
 ##
 * License: [CC-BY-NC]
-* Writer: Kabubbu Remedial class
+* Text: Kabubbu Remedial class
 * Illustration: Marleen Visser, Wiehan de Jager, Rob Owen, Jesse Breytenbach, Magriet Brink, Karlien de Villiers, Alice Toich, Jano Strydom, Catherine Groenewald and Mlungisi Dlamini
 * Language: English

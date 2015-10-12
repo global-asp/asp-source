@@ -109,7 +109,7 @@ Tortoise got such a fright he shrank into his shell. It was warm and cosy there.
 
 ##
 * License: [CC-BY]
-* Writer: Maya Fowler
+* Text: Maya Fowler
 * Illustration: Katrien Coetzer
 * Translated By: Maya Fowler
 * Language: English

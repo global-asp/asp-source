@@ -182,6 +182,6 @@ And that is the end of the story.
 
 ##
 * License: [CC-BY]
-* Writer: Alan Kenyon and Viv Kenyon
+* Text: Alan Kenyon and Viv Kenyon
 * Illustration: Wiehan de Jager
 * Language: English

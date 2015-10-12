@@ -39,6 +39,6 @@ Mummy and Daddy love Esther
 
 ##
 * License: [CC-BY-NC]
-* Writer: Dauson Tenywa
+* Text: Dauson Tenywa
 * Illustration: Catherine Groenewald, Melany Pietersen, Wiehan de Jager and Natalie Propa
 * Language: English

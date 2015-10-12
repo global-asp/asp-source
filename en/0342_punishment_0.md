@@ -62,7 +62,7 @@ believe him.
 
 ##
 * License: [CC-BY]
-* Writer: Adelheid Marie Bwire
+* Text: Adelheid Marie Bwire
 * Illustration: Melany Pietersen
 * Adapted By: Adelheid Marie Bwire
 * Language: English

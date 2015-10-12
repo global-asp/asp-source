@@ -43,6 +43,6 @@ small!"
 
 ##
 * License: [CC-BY]
-* Writer: Sara Saunders
+* Text: Sara Saunders
 * Illustration: Wiehan de Jager, blackmoondev.com and Karen Lilje
 * Language: English

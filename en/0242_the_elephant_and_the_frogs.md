@@ -64,6 +64,6 @@ exactly what he said.
 
 ##
 * License: [CC-BY]
-* Writer: Mozambican folktale
+* Text: Mozambican folktale
 * Illustration: Amir Bachir António Necas
 * Language: English

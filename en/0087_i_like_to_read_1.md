@@ -29,7 +29,7 @@ read to myself!
 
 ##
 * License: [CC-BY]
-* Writer: Letta Machoga
+* Text: Letta Machoga
 * Illustration: Wiehan de Jager
 * Translated By: Letta Machoga
 * Language: English

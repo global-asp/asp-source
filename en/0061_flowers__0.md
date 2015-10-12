@@ -34,7 +34,7 @@ We all like flowers.
 
 ##
 * License: [CC-BY]
-* Writer: Rashida, Joy, Jovia, Zulu and Phionah
+* Text: Rashida, Joy, Jovia, Zulu and Phionah
 * Illustration: Jonathan Field, Rob Owen and Wiehan de Jager
 * Language: English
 

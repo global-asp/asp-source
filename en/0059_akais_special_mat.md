@@ -111,6 +111,6 @@ roast meat.
 
 ##
 * License: [CC-BY]
-* Writer: Ursula Nafula
+* Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Language: English

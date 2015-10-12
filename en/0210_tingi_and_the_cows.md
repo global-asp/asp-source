@@ -49,6 +49,6 @@ quietly.
 
 ##
 * License: [CC-BY]
-* Writer: Ingrid Schechter
+* Text: Ingrid Schechter
 * Illustration: Ingrid Schechter
 * Language: English

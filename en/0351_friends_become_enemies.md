@@ -74,7 +74,7 @@ That marked the end of their friendship.
 
 ##
 * License: [CC-BY]
-* Writer: Kennedy Amandu
+* Text: Kennedy Amandu
 * Illustration: Rob Owen
 * Translated By: Nelson Acadri
 * Language: English

@@ -117,7 +117,7 @@ birds.
 
 ##
 * License: [CC-BY]
-* Writer: South African Folktale
+* Text: South African Folktale
 * Illustration: Wiehan de Jager
 * Language: English
 

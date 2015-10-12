@@ -30,6 +30,6 @@ The farmer says,
 
 ##
 * License: [CC-BY-NC]
-* Writer: Jenny Katz
+* Text: Jenny Katz
 * Illustration: Sandy Campbell
 * Language: English

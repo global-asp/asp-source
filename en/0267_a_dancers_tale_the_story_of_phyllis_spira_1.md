@@ -139,6 +139,6 @@ dreaming from our seats.
 
 ##
 * License: [CC-BY]
-* Writer: Samantha Cutler
+* Text: Samantha Cutler
 * Illustration: Thea Nicole de Klerk and Book Dash
 * Language: English

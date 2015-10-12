@@ -108,7 +108,7 @@ too much to strangers.
 
 ##
 * License: [CC-BY]
-* Writer: Gaspah Juma
+* Text: Gaspah Juma
 * Illustration: Jesse Breytenbach
 * Translated By: Gaspah Juma
 * Language: English

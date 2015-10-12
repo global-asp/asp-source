@@ -51,6 +51,6 @@ changed the song.
 
 ##
 * License: [CC-BY-NC]
-* Writer: Monica Tulina
+* Text: Monica Tulina
 * Illustration: Rob Owen, Alex Zablon, Benjamin Mitchley, Wiehan de Jager, Catherine Groenewald, Microsoft Clip Art, Genevieve Terblanche and Jesse Breytenbach
 * Language: English

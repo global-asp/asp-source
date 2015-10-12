@@ -31,7 +31,7 @@ much .
 
 ##
 * License: [CC-BY-NC]
-* Writer: Jenny Katz
+* Text: Jenny Katz
 * Illustration: Sandy Campbell, Rob Owen and Wiehan de Jager
 * Adapted By: Tabingwa Aisha, Mubbalya Charles and Tulina Monica
 * Language: English

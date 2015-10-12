@@ -32,6 +32,6 @@ The end.
 
 ##
 * License: [CC-BY-NC]
-* Writer: Danielle Bruckert
+* Text: Danielle Bruckert
 * Illustration: Danielle Bruckert
 * Language: English

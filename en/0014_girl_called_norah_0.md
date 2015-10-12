@@ -56,7 +56,7 @@ mother.
 
 ##
 * License: [CC-BY]
-* Writer: Annet Ssebaggala
+* Text: Annet Ssebaggala
 * Illustration: Melany Pietersen
 * Translated By: Annet Ssebaggala
 * Language: English

@@ -80,7 +80,7 @@ snake were enemies.
 
 ##
 * License: [CC-BY]
-* Writer: Winny Asara
+* Text: Winny Asara
 * Illustration: Winny Asara and Alice Inzikuru
 * Adapted By: Christopher Bukheye Mulongo and Rose Alungho
 * Language: English

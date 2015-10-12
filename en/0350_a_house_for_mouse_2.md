@@ -55,6 +55,6 @@ Good night Mouse.
 
 ##
 * License: [CC-BY]
-* Writer: Michele Fry
+* Text: Michele Fry
 * Illustration: Amy Uzzell
 * Language: English

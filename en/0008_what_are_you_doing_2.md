@@ -26,6 +26,6 @@ What are you doing?
 
 ##
 * License: [CC-BY]
-* Writer: Nina Orange
+* Text: Nina Orange
 * Illustration: Wiehan de Jager
 * Language: English

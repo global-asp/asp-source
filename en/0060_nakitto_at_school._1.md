@@ -34,6 +34,6 @@ mother at home.
 
 ##
 * License: [CC-BY]
-* Writer: Annet Ssebaggala
+* Text: Annet Ssebaggala
 * Illustration: Genevieve Terblanche, Wiehan de Jager, Vusi Malindi and Karlien de Villiers
 * Language: English and Luganda

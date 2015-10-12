@@ -59,7 +59,7 @@ Zimanz'iinwele zakho!
 
 ##
 * License: [CC-BY]
-* Writer: Letta Machoga
+* Text: Letta Machoga
 * Illustration: Marleen Visser
 * Translated By: Nolitha Bikitsha and Thandabantu Magengelele
 * Language: English

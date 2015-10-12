@@ -58,7 +58,7 @@ Or even read together
 
 ##
 * License: [CC-BY]
-* Writer: Zimbili Dlamini and Hlengiwe Zondi
+* Text: Zimbili Dlamini and Hlengiwe Zondi
 * Illustration: Catherine Groenewald
 * Adapted By: Bathokwa book club
 * Language: English

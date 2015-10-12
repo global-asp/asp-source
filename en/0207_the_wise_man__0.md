@@ -53,6 +53,6 @@ head.”
 
 ##
 * License: [CC-BY]
-* Writer: Cornelius Wekunya
+* Text: Cornelius Wekunya
 * Illustration: Joshua Waswa
 * Language: English

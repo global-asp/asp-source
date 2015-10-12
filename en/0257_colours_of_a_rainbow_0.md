@@ -71,7 +71,7 @@ colours of the rainbow?
 
 ##
 * License: [CC-BY]
-* Writer: Caren Echesa
+* Text: Caren Echesa
 * Illustration: Jesse Breytenbach
 * Translated By: Caren Echesa
 * Language: English

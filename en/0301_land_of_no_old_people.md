@@ -57,7 +57,7 @@ from death.
 
 ##
 * License: [CC-BY]
-* Writer: Cleófas Samo
+* Text: Cleófas Samo
 * Illustration: Laura Libertore
 * Translated By: David Ker
 * Language: English

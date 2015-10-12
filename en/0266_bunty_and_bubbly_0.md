@@ -58,6 +58,6 @@ herself clean.
 
 ##
 * License: [CC-BY]
-* Writer: Sorit Gupto
+* Text: Sorit Gupto
 * Illustration: Sorit Gupto
 * Language: English

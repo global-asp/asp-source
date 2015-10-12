@@ -87,6 +87,6 @@ All the butterflies flew around the crocodiles, fluttering their wings.
 
 ##
 * License: [CC-BY]
-* Writer: Herminder Ohri
+* Text: Herminder Ohri
 * Illustration: Herminder Ohri
 * Language: English

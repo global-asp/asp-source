@@ -14,7 +14,7 @@ Can this water be cold.
 
 ##
 * License: [CC-BY]
-* Writer: Augustine Napagi
+* Text: Augustine Napagi
 * Illustration: Hélder de Paz Alexandre
 * Language: English
 

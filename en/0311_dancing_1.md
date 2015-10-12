@@ -43,6 +43,6 @@ good,' they'll say.”
 
 ##
 * License: [CC-BY]
-* Writer: Mary Nabire and Tessa Welch
+* Text: Mary Nabire and Tessa Welch
 * Illustration: Catherine Groenewald
 * Language: English

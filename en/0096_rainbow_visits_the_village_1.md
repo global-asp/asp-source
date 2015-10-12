@@ -68,7 +68,7 @@ already gone away.
 
 ##
 * License: [CC-BY]
-* Writer: Ursula Nafula
+* Text: Ursula Nafula
 * Illustration: Wiehan de Jager
 * Translated By: Ursula Nafula
 * Language: English

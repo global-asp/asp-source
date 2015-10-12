@@ -172,6 +172,6 @@ from that hive.
 
 ##
 * License: [CC-BY]
-* Writer: South African Folktale
+* Text: South African Folktale
 * Illustration: Jemma Kahn
 * Language: English

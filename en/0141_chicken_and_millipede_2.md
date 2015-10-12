@@ -79,7 +79,7 @@ millipedes were enemies.
 
 ##
 * License: [CC-BY]
-* Writer: Winny Asara
+* Text: Winny Asara
 * Illustration: Winny Asara
 * Translated By: Nelson Acadrfi
 * Language: English

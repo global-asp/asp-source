@@ -50,6 +50,6 @@ wolf!
 
 ##
 * License: [CC-BY]
-* Writer: folktale
+* Text: folktale
 * Illustration: José Nhambo
 * Language: English

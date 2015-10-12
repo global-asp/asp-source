@@ -58,7 +58,7 @@ they live? Which one would you eat?
 
 ##
 * License: [CC-BY]
-* Writer: Wendy Parry
+* Text: Wendy Parry
 * Illustration: Rob Owen
 * Adapted By: Wendy Parry
 * Language: English

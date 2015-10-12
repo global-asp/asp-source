@@ -64,6 +64,6 @@ Nine cats.
 
 ##
 * License: [Unknown]
-* Writer: Nina Orange
+* Text: Nina Orange
 * Illustration: Jesse Breytenbach
 * Language: English

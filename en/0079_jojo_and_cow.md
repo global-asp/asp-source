@@ -45,6 +45,6 @@ and go to bed to sleep.
 
 ##
 * License: [CC-BY]
-* Writer: Isiira Patrick
+* Text: Isiira Patrick
 * Illustration: Rob Owen and Catherine Groenewald
 * Language: English

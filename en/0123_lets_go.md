@@ -39,6 +39,6 @@ With my hand...
 
 ##
 * License: [CC-BY-NC]
-* Writer: Carole Bloch
+* Text: Carole Bloch
 * Illustration: Thembinkosi Kohli
 * Language: English

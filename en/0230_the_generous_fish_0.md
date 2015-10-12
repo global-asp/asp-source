@@ -170,6 +170,6 @@ was peace at the homestead from that day on.
 
 ##
 * License: [CC-BY]
-* Writer: Kholeka Mabeta
+* Text: Kholeka Mabeta
 * Illustration: Wiehan de Jager
 * Language: English

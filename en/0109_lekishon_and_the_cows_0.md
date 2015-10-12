@@ -38,7 +38,7 @@ are very happy.
 
 ##
 * License: [CC-BY]
-* Writer: Paul Maseri
+* Text: Paul Maseri
 * Illustration: Wiehan de Jager
 * Translated By: Paul Maseri
 * Language: English

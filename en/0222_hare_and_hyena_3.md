@@ -114,6 +114,6 @@ steal food from farms.
 
 ##
 * License: [CC-BY]
-* Writer: Phoebe Sibomana
+* Text: Phoebe Sibomana
 * Illustration: Rob Owen
 * Language: English

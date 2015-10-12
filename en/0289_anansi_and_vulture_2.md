@@ -119,6 +119,6 @@ friends.
 
 ##
 * License: [CC-BY]
-* Writer: Ghanaian folktale
+* Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Language: English

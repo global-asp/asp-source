@@ -54,7 +54,7 @@ The bird had saved Inyang!!
 
 ##
 * License: [CC-BY]
-* Writer: Simon Ipoo
+* Text: Simon Ipoo
 * Illustration: Catherine Groenewald, Wiehan de Jager,
 Kathy Arbuckle, Rijuta Ghate and Jemma Kahn
 * Language: English

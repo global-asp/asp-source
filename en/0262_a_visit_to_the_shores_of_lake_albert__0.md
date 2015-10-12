@@ -47,7 +47,7 @@ the elders and go to fetch water.
 
 ##
 * License: [CC-BY]
-* Writer: Ahebwa zahara
+* Text: Ahebwa zahara
 * Illustration: Diane Ross, Jesse Breytenbach and
 Catherine Groenewald
 * Language: English

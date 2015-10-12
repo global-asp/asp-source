@@ -76,6 +76,6 @@ stories and games.
 
 ##
 * License: [CC-BY]
-* Writer: Caroline Lentupuru
+* Text: Caroline Lentupuru
 * Illustration: Caroline Lentupuru
 * Language: English

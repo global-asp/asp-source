@@ -27,7 +27,7 @@ milk.
 
 ##
 * License: [CC-BY-NC]
-* Writer: Jenny Katz
+* Text: Jenny Katz
 * Illustration: Sandy Campbell
 * Adapted By: Lilian Wachira
 * Language: English

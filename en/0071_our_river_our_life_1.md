@@ -51,7 +51,7 @@ River Temu.”
 
 ##
 * License: [CC-BY]
-* Writer: Rebecca Njuguna
+* Text: Rebecca Njuguna
 * Illustration: Catherine Groenewald
 * Adapted By: Ursula Nafula
 * Language: English

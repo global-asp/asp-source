@@ -100,7 +100,7 @@ mouth.”
 
 ##
 * License: [CC-BY]
-* Writer: Salaama Wanale
+* Text: Salaama Wanale
 * Illustration: Mango Tree
 * Translated By: Salaama Wanale
 * Language: English

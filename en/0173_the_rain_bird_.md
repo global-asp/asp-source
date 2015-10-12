@@ -192,6 +192,6 @@ brought the rain.
 
 ##
 * License: [CC-BY-NC]
-* Writer: Joanne Bloch (retold folktale)
+* Text: Joanne Bloch (retold folktale)
 * Illustration: Wiehan de Jager and Nalibali
 * Language: English

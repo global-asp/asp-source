@@ -24,7 +24,7 @@ and removed the birds from him.
 
 ##
 * License: [CC-BY]
-* Writer: Tukei A Cathy
+* Text: Tukei A Cathy
 * Illustration: Marleen Visser, Wiehan de Jager, Eden Daniels and Bronwen Heath
 * Language: English
 

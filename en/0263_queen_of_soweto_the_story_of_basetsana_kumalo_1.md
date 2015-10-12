@@ -154,6 +154,6 @@ our beautiful Queen.
 
 ##
 * License: [CC-BY]
-* Writer: Jessica Taylor
+* Text: Jessica Taylor
 * Illustration: Mia du Plessis
 * Language: English

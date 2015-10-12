@@ -63,6 +63,6 @@ from that place!
 
 ##
 * License: [CC-BY]
-* Writer: Mozambican folktale
+* Text: Mozambican folktale
 * Illustration: Razaque Lázaro Quive
 * Language: English

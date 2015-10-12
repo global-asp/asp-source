@@ -89,6 +89,6 @@ fields again!
 
 ##
 * License: [CC-BY]
-* Writer: Ursula Nafula
+* Text: Ursula Nafula
 * Illustration: Ursula Nafula
 * Language: English

@@ -25,6 +25,6 @@ encouraging children to go and stay in school.
 
 ##
 * License: [CC-BY]
-* Writer: Kwiocwiny winnie
+* Text: Kwiocwiny winnie
 * Illustration: Rob Owen
 * Language: English

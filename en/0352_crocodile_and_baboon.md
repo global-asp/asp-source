@@ -59,7 +59,7 @@ friendship.
 
 ##
 * License: [CC-BY]
-* Writer: Basilio Gimo
+* Text: Basilio Gimo
 * Illustration: Jeremiah Dube
 * Translated By: Little Zebra Books
 * Language: English

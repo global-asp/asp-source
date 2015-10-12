@@ -48,7 +48,7 @@ the talking lion gave me"
 
 ##
 * License: [CC-BY]
-* Writer: Jonathan Githui, Gavin Gatamu and Eissa elzaki
+* Text: Jonathan Githui, Gavin Gatamu and Eissa elzaki
 * Illustration: Wiehan de Jager, Zablon Alex Nguku, Vusi
 Malindi, Robert McEwan and Catherine Groenewald
 * Language: English

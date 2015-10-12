@@ -20,7 +20,7 @@ goat with a coat!
 
 ##
 * License: [CC-BY]
-* Writer: Bukheye Mulongo
+* Text: Bukheye Mulongo
 * Illustration: Marion Drew, Rob Owen, Catherine
 Groenewald and Magriet Brink
 * Language: English

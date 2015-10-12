@@ -127,6 +127,6 @@ The grandmother was very happy, and very comfortable, and very important.
 
 ##
 * License: [CC-BY]
-* Writer: Southern African Folktale
+* Text: Southern African Folktale
 * Illustration: Catherine Groenewald
 * Language: English

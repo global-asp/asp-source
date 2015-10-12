@@ -53,7 +53,7 @@ incident.
 
 ##
 * License: [CC-BY]
-* Writer: Bukheye Mulongo Christopher and Alungho Rose
+* Text: Bukheye Mulongo Christopher and Alungho Rose
 * Illustration: Rob Owen
 * Language: English
 

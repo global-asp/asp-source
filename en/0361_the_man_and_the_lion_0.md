@@ -75,6 +75,6 @@ eaten by the Lion!
 
 ##
 * License: [CC-BY]
-* Writer: Mozambican folktale
+* Text: Mozambican folktale
 * Illustration: Hélder de Paz Alexandre
 * Language: English

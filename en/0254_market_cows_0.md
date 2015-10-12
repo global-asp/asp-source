@@ -118,6 +118,6 @@ followed closely by Sorimpan.
 
 ##
 * License: [CC-BY-NC]
-* Writer: Ursula Nafula
+* Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Language: English

@@ -49,7 +49,7 @@ choose?
 
 ##
 * License: [CC-BY]
-* Writer: Adelheid Marie Bwire
+* Text: Adelheid Marie Bwire
 * Illustration: Rob Owen
 * Translated By: Adelheid Marie Bwire
 * Language: English

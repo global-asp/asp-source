@@ -46,7 +46,7 @@ My friend and I like green apple.
 
 ##
 * License: [CC-BY]
-* Writer: Annet Ssebaggala
+* Text: Annet Ssebaggala
 * Illustration: Sandy Lightly, Catherine Groenewald,
 Wiehan de Jager, Sue Kramer, Rijuta Ghate and Amir
 Bachir António Necas

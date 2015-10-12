@@ -129,6 +129,6 @@ So let us, YOU and I, look after this wonderful world.
 
 ##
 * License: [CC-BY]
-* Writer: Herminder Ohri
+* Text: Herminder Ohri
 * Illustration: Herminder Ohri and Baaraan Ijal
 * Language: English

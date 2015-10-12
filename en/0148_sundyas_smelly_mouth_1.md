@@ -41,7 +41,7 @@ before.
 
 ##
 * License: [CC-BY-NC]
-* Writer: Ivan higenyi
+* Text: Ivan higenyi
 * Illustration: Natalie Propa, Karlien de Villiers, Vusi Malindi, Catherine Groenewald, Alice Toich, Alex Zablon and Jesse Pietersen
 * Language: English
 

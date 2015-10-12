@@ -17,6 +17,6 @@ good shoes.
 
 ##
 * License: [CC-BY]
-* Writer: Frista and Fatima
+* Text: Frista and Fatima
 * Illustration: Marleen Visser and Felicity Bell
 * Language: English

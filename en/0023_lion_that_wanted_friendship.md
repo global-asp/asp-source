@@ -59,6 +59,6 @@ know if you can be together peacefully.
 
 ##
 * License: [CC-BY]
-* Writer: Joachim Muhindo
+* Text: Joachim Muhindo
 * Illustration: Marleen Visser
 * Language: English

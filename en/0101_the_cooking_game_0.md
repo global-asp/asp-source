@@ -66,6 +66,6 @@ best friend!
 
 ##
 * License: [CC-BY]
-* Writer: Mozambican folktale
+* Text: Mozambican folktale
 * Illustration: Reginaldo Vicente Manhice
 * Language: English

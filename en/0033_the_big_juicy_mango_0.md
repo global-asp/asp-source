@@ -58,6 +58,6 @@ my last!
 
 ##
 * License: [CC-BY]
-* Writer: Katelyn Mostert
+* Text: Katelyn Mostert
 * Illustration: Catherine Groenewald and Wiehan de Jager
 * Language: English

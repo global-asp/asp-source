@@ -28,6 +28,6 @@ busy playing?
 
 ##
 * License: [CC-BY-NC]
-* Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
 * Illustration: Mlungisi Dlamini
 * Language: English

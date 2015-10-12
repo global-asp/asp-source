@@ -99,6 +99,6 @@ And they respond:
 
 ##
 * License: [CC-BY]
-* Writer: Ann Nduku
+* Text: Ann Nduku
 * Illustration: Wiehan de Jager
 * Language: English

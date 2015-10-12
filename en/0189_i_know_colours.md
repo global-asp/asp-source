@@ -14,7 +14,7 @@
 
 ##
 * License: [CC-BY]
-* Writer: Caren Echesa
+* Text: Caren Echesa
 * Illustration: Jesse Breytenbach
 * Adapted By: Nina Orange
 * Language: English

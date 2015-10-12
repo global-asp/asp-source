@@ -102,7 +102,7 @@ the letter was gone.
 
 ##
 * License: [CC-BY]
-* Writer: Ursula Nafula
+* Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Adapted By: Velasco Williams
 * Language: English

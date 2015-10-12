@@ -47,6 +47,6 @@
 
 ##
 * License: [CC-BY-NC]
-* Writer: Media Matters
+* Text: Media Matters
 * Illustration: Sandy Lightly
 * Language: English

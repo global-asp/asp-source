@@ -196,6 +196,6 @@ her father and her stepmother.
 
 ##
 * License: [CC-BY]
-* Writer: Rukia Nantale
+* Text: Rukia Nantale
 * Illustration: Benjamin Mitchley
 * Language: English

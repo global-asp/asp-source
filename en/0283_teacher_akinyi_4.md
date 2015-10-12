@@ -73,6 +73,6 @@ Akinyi.
 
 ##
 * License: [CC-BY]
-* Writer: Lawrence A. Konjuro
+* Text: Lawrence A. Konjuro
 * Illustration: Vusi Malindi
 * Language: English

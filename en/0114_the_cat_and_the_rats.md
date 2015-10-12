@@ -26,7 +26,7 @@ This is the end of the story. Bye, cat and rats!
 
 ##
 * License: [CC-BY]
-* Writer: Bwambale Peter
+* Text: Bwambale Peter
 * Illustration: Bwambale Peter
 * Language: English
 

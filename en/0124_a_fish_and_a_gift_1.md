@@ -156,6 +156,6 @@ to the stars.
 
 ##
 * License: [CC-BY]
-* Writer: Liesl Jobson
+* Text: Liesl Jobson
 * Illustration: Jesse Breytenbach
 * Language: English

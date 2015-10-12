@@ -22,6 +22,6 @@ The end of the story
 
 ##
 * License: [CC-BY]
-* Writer: Masika Grace and Sara Saunders
+* Text: Masika Grace and Sara Saunders
 * Illustration: Masika Grace and Sara Saunders
 * Language: English

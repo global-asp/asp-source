@@ -61,6 +61,6 @@ wearing today!
 
 ##
 * License: [CC-BY]
-* Writer: Noni
+* Text: Noni
 * Illustration: Angie & Upesh
 * Language: English

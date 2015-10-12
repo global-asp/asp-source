@@ -152,6 +152,6 @@ have not been friends.
 
 ##
 * License: [CC-BY]
-* Writer: Mutugi Kamundi
+* Text: Mutugi Kamundi
 * Illustration: Rob Owen
 * Language: English

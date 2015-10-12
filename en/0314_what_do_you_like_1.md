@@ -19,7 +19,7 @@ I can read.
 
 ##
 * License: [CC-BY-NC]
-* Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
 * Illustration: Cathy Feek, Catherine Groenewald, Razaque Lázaro Quive, Melany Pietersen and Wiehan de Jager
 * Adapted By: Beatres Nabune and Rose Alungho
 * Language: English

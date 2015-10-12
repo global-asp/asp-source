@@ -181,7 +181,7 @@ after.
 
 ##
 * License: [CC-BY]
-* Writer: Val Morris
+* Text: Val Morris
 * Illustration: Felicity Bell
 * Language: English
 

@@ -208,6 +208,6 @@ San artists.
 
 ##
 * License: [CC-BY]
-* Writer: Traditional San story
+* Text: Traditional San story
 * Illustration: Manyeka Arts Trust
 * Language: English

@@ -37,7 +37,7 @@ Cat?
 
 ##
 * License: [CC-BY]
-* Writer: Nicola Rijsdijk
+* Text: Nicola Rijsdijk
 * Illustration: Karen Lilje
 * Translated By: Nicola Rijsdijk
 * Language: English

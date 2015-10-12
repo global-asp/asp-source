@@ -60,7 +60,7 @@ infinity and beyond!!" he cried.
 
 ##
 * License: [CC-BY]
-* Writer: Melissa Anne Bottcher
+* Text: Melissa Anne Bottcher
 * Illustration: Wiehan de Jager, Catherine Groenewald, Ketan Raut, Laura Libertore and Benjamin Mitchley
 * Language: English
 

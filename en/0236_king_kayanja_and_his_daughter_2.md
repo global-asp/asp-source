@@ -178,6 +178,6 @@ anyone they wanted, rich or poor.
 
 ##
 * License: [CC-BY]
-* Writer: Amana Yunus
+* Text: Amana Yunus
 * Illustration: Natalie Propa
 * Language: English

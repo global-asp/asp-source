@@ -66,7 +66,7 @@ cat!
 
 ##
 * License: [CC-BY]
-* Writer: Val Morris
+* Text: Val Morris
 * Illustration: Heslia Schon
 * Language: English
 

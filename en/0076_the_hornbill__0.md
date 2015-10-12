@@ -59,6 +59,6 @@ eats hornbills.
 
 ##
 * License: [CC-BY]
-* Writer: Bukheye Mulongo Christopher
+* Text: Bukheye Mulongo Christopher
 * Illustration: Joshua Waswa
 * Language: English

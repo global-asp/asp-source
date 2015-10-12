@@ -23,7 +23,7 @@ Tell me more about weather........
 
 ##
 * License: [CC-BY]
-* Writer: Clark Ness
+* Text: Clark Ness
 * Illustration: Microsoft Clip Art, Jesse Breytenbach, Wiehan de Jager, Rijuta Ghate and Vusi Malindi
 * Adapted By: Nabune Beatres, Hamba Dinah and Alungho Rose
 * Language: English

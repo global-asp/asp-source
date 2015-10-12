@@ -30,6 +30,6 @@ happy.
 
 ##
 * License: [CC-BY]
-* Writer: Cissy Namugerwa
+* Text: Cissy Namugerwa
 * Illustration: Vusi Malindi
 * Language: English

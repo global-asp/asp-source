@@ -38,7 +38,7 @@ have?
 
 ##
 * License: [CC-BY]
-* Writer: Zanele Buthelezi, Thembani Dladla, Clare Verbeek, Abu Enock, Dudu Mary and Ajuru Florence
+* Text: Zanele Buthelezi, Thembani Dladla, Clare Verbeek, Abu Enock, Dudu Mary and Ajuru Florence
 * Illustration: Rob Owen
 * Translated By: Abu Enock, Dudu Mary and Ajuru Florence
 * Language: English

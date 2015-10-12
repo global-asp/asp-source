@@ -273,6 +273,6 @@ one. Together we're strong!”
 
 ##
 * License: [CC-BY]
-* Writer: Liesl Jobson
+* Text: Liesl Jobson
 * Illustration: Alice Toich
 * Language: English

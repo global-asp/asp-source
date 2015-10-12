@@ -49,7 +49,7 @@ naughty fingers again!
 
 ##
 * License: [CC-BY]
-* Writer: Danica Strydom
+* Text: Danica Strydom
 * Illustration: Danica Strydom
 * Edited By: Lisa Treffry-Goatley
 * Language: English

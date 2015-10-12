@@ -65,7 +65,7 @@ reads the newspaper.
 
 ##
 * License: [CC-BY]
-* Writer: Ursula Nafula
+* Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translated By: Ursula Nafula
 * Language: English

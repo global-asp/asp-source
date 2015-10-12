@@ -34,6 +34,6 @@ one worm have?
 
 ##
 * License: [CC-BY-NC]
-* Writer: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
 * Illustration: Sandra McDougall
 * Language: English

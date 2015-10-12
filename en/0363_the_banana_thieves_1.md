@@ -41,7 +41,7 @@ The boys were given a punishment. Each got some ten strokes and repented not to 
 
 ##
 * License: [CC-BY]
-* Writer: Ritah Katetemera
+* Text: Ritah Katetemera
 * Illustration: Wiehan de Jager, Cathy Feek, Eden Daniels, Ketan Raut, Herminder Ohri, Benjamin Mitchley, Sean Whitehead, Vusi Malindi, Karlien de Villiers, Catherine Groenewald, Rob Owen, Rijuta Ghate, Magriet Brink and Melany Pietersen
 * Adapted By: ROSE ALUNGHO and HERBERT HAUMBA
 * Language: English

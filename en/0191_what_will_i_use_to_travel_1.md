@@ -67,7 +67,7 @@ tractor.
 
 ##
 * License: [CC-BY]
-* Writer: Ursula Nafula
+* Text: Ursula Nafula
 * Illustration: Catherine Groenewald, Rob Owen, Louwrisa Blaauw, Jesse Breytenbach, Vusi Malindi, Marion Drew, Mango Tree, Jano Strydom, Sue Kramer, Natalie Propa and Wiehan de Jager
 * Translated By: Ursual Nafula
 * Language: English

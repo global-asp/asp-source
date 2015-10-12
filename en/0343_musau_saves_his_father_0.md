@@ -98,6 +98,6 @@ children.
 
 ##
 * License: [CC-BY]
-* Writer: Kanyiva Sandi
+* Text: Kanyiva Sandi
 * Illustration: Benjamin Mitchley
 * Language: English

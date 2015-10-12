@@ -156,6 +156,6 @@ smile of all.
 
 ##
 * License: [CC-BY]
-* Writer: Vianne Venter
+* Text: Vianne Venter
 * Illustration: Genevieve Terblanche
 * Language: English

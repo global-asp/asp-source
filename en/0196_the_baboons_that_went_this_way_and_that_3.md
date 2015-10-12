@@ -104,6 +104,6 @@ nation.
 
 ##
 * License: [CC-BY]
-* Writer: Southern African Folktale
+* Text: Southern African Folktale
 * Illustration: Benjamin Mitchley
 * Language: English

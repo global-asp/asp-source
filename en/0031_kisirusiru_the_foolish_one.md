@@ -111,6 +111,6 @@ happily ever after.
 
 ##
 * License: [CC-BY]
-* Writer: Cissy Kiwanuka Luyiga
+* Text: Cissy Kiwanuka Luyiga
 * Illustration: Catherine Groenewald
 * Language: English

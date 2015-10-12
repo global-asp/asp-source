@@ -14,7 +14,7 @@ Three! You're out!
 
 ##
 * License: [CC-BY]
-* Writer: Traditional song
+* Text: Traditional song
 * Illustration: Kathy Arbuckle
 * Translated By: Traditional song
 * Language: English

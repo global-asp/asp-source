@@ -50,6 +50,6 @@ She knocked again. Then the chief opened the door.
 
 ##
 * License: [CC-BY]
-* Writer: Nannono milly
+* Text: Nannono milly
 * Illustration: Jesse Breytenbach
 * Language: English

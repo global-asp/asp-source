@@ -35,7 +35,7 @@ Joy is in class.
 
 ##
 * License: [CC-BY]
-* Writer: Augustine Napagi
+* Text: Augustine Napagi
 * Illustration: Vusi Malindi
 * Language: English
 

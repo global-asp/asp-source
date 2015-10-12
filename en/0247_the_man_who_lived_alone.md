@@ -54,7 +54,7 @@ neighbours.
 
 ##
 * License: [CC-BY]
-* Writer: Carlos Kanembera
+* Text: Carlos Kanembera
 * Illustration: Trevor Kellog
 * Translated By: Little Zebra Books
 * Language: English

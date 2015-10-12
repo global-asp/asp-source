@@ -99,6 +99,6 @@ her never to do it again.
 
 ##
 * License: [CC-BY]
-* Writer: Annet Ssebaggala
+* Text: Annet Ssebaggala
 * Illustration: Vusi Malindi, Eden Daniels, Wiehan de Jager, Angie & Upesh, Caroline Lentupuru and Sandy Campbell
 * Language: English

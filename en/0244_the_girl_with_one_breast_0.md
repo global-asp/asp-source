@@ -50,6 +50,6 @@ that he too died.
 
 ##
 * License: [CC-BY]
-* Writer: Cornelius Wekunya
+* Text: Cornelius Wekunya
 * Illustration: Rachael Napagi
 * Language: English

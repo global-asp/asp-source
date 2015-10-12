@@ -20,6 +20,6 @@ I like clouds.
 
 ##
 * License: [CC-BY]
-* Writer: Clark Ness
+* Text: Clark Ness
 * Illustration: Microsoft Clip Art
 * Language: English

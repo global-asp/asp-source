@@ -47,6 +47,6 @@ side to the other!
 
 ##
 * License: [CC-BY]
-* Writer: Dorothy Fetaru
+* Text: Dorothy Fetaru
 * Illustration: Joshua Waswa
 * Language: English

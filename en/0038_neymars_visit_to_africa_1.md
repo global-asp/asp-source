@@ -79,7 +79,7 @@ goal keeping.
 
 ##
 * License: [CC-BY]
-* Writer: Benard Agasi
+* Text: Benard Agasi
 * Illustration: Benard Agasi
 * Translated By: Nelson Acadri
 * Language: English

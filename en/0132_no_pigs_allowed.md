@@ -53,7 +53,7 @@ since.
 
 ##
 * License: [CC-BY]
-* Writer: Basilio Gimo
+* Text: Basilio Gimo
 * Illustration: Laura Libertore
 * Translated By: Little Zebra Books
 * Language: English

@@ -62,6 +62,6 @@ mother.
 
 ##
 * License: [CC-BY]
-* Writer: Bathokwa book club
+* Text: Bathokwa book club
 * Illustration: Catherine Groenewald, Vusi Malindi, Rob Owen, Natalie Propa, Ingrid Schechter and Melany Pietersen
 * Language: English

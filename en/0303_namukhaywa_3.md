@@ -120,7 +120,7 @@ her family.
 
 ##
 * License: [CC-BY]
-* Writer: Matthews M Wanga
+* Text: Matthews M Wanga
 * Illustration: Wiehan de Jager
 Ursula Nafula
 * Language: English

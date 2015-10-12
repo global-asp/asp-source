@@ -40,6 +40,6 @@ very fast!
 
 ##
 * License: [CC-BY]
-* Writer: Frista Nattabira
+* Text: Frista Nattabira
 * Illustration: Wiehan de Jager and João Carlos Brito
 * Language: English

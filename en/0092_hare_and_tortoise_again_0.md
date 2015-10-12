@@ -103,6 +103,6 @@ ahead of the deadline he had set!
 
 ##
 * License: [CC-BY]
-* Writer: Venkatramana Gowda and Divaspathy Hegde
+* Text: Venkatramana Gowda and Divaspathy Hegde
 * Illustration: Padmanabha
 * Language: English

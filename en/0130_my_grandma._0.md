@@ -17,6 +17,6 @@ Grandma got very tired.
 
 ##
 * License: [CC-BY]
-* Writer: Augustine Napagi
+* Text: Augustine Napagi
 * Illustration: Ingrid Schechter
 * Language: English

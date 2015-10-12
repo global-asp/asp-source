@@ -51,6 +51,6 @@ hungrier than before.
 
 ##
 * License: [CC-BY]
-* Writer: Kholeka Mabeta
+* Text: Kholeka Mabeta
 * Illustration: Benjamin Mitchley
 * Language: English

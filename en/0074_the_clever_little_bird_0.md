@@ -88,7 +88,7 @@ birds.
 
 ##
 * License: [CC-BY]
-* Writer: South African Folktale
+* Text: South African Folktale
 * Illustration: Wiehan de Jager
 * Adapted By: Liz Ralfe and Suzanne Singh
 * Language: English

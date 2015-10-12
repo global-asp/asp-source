@@ -133,6 +133,6 @@ all," she says.
 
 ##
 * License: [CC-BY]
-* Writer: Karen von Wiese, Beryl Salt, Muhdni Grimwood and Barbara Meyerowitz
+* Text: Karen von Wiese, Beryl Salt, Muhdni Grimwood and Barbara Meyerowitz
 * Illustration: Julia te Water Naude
 * Language: English

@@ -30,6 +30,6 @@ The end.
 
 ##
 * License: [CC-BY-NC]
-* Writer: Carole Bloch
+* Text: Carole Bloch
 * Illustration: Vian Oelofsen
 * Language: English

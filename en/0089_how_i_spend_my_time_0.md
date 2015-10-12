@@ -24,6 +24,6 @@ my own hospital.
 
 ##
 * License: [CC-BY]
-* Writer: Jonathan erecho
+* Text: Jonathan erecho
 * Illustration: Rob Owen
 * Language: English

@@ -90,6 +90,6 @@ sun rises and shines in the sky.
 
 ##
 * License: [CC-BY]
-* Writer: Indian Folktale
+* Text: Indian Folktale
 * Illustration: Pratham Books
 * Language: English
