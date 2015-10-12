@@ -37,7 +37,7 @@ do you wish to go back?
 * License: [CC-BY]
 * Text: Barke Ramadhan
 * Illustration: Wiehan de Jager, Laura Libertore, Catherine Groenewald, Rijuta Ghate and Jemma Kahn
-* Adapted By: Herbert Haumba and ROSE ALUNGHO
+* Adaptation: Herbert Haumba and ROSE ALUNGHO
 * Language: English
 
 An opportunity for children to understand their environment

@@ -90,5 +90,5 @@ birds.
 * License: [CC-BY]
 * Text: South African Folktale
 * Illustration: Wiehan de Jager
-* Adapted By: Liz Ralfe and Suzanne Singh
+* Adaptation: Liz Ralfe and Suzanne Singh
 * Language: English

@@ -79,5 +79,5 @@ them again.
 * License: [CC-BY]
 * Text: Um conto tradicional dos Manyungwes de Moçambique
 * Illustration: João Carlos Brito
-* Adapted By: Traditional Mozambican folktale
+* Adaptation: Traditional Mozambican folktale
 * Language: English

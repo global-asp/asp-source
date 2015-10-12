@@ -16,5 +16,5 @@
 * License: [CC-BY]
 * Text: Caren Echesa
 * Illustration: Jesse Breytenbach
-* Adapted By: Nina Orange
+* Adaptation: Nina Orange
 * Language: English

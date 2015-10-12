@@ -64,5 +64,5 @@ believe him.
 * License: [CC-BY]
 * Text: Adelheid Marie Bwire
 * Illustration: Melany Pietersen
-* Adapted By: Adelheid Marie Bwire
+* Adaptation: Adelheid Marie Bwire
 * Language: English

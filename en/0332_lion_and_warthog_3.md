@@ -155,5 +155,5 @@ with their tails lifted up to see that everyone is safe.
 * License: [CC-BY]
 * Text: South African traditional
 * Illustration: Wiehan de Jager
-* Adapted By: Judith Baker
+* Adaptation: Judith Baker
 * Language: English

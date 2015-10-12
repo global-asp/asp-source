@@ -36,5 +36,5 @@ alone.
 * License: [CC-BY]
 * Text: Deborah Namugosa, Beatrice Nabune, Alison Tukei and Rose Sabano
 * Illustration: Rob Owen, Wiehan de Jager and Amir Bachir António Necas
-* Adapted By: Nina Orange
+* Adaptation: Nina Orange
 * Language: English

@@ -20,5 +20,5 @@
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald and Wiehan de Jager
-* Adapted By: Nina Orange
+* Adaptation: Nina Orange
 * Language: English

@@ -63,5 +63,5 @@ play!
 * License: [CC-BY]
 * Text: Michael Oguttu
 * Illustration: Vusi Malindi
-* Adapted By: Nina Orange
+* Adaptation: Nina Orange
 * Language: English

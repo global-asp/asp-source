@@ -20,5 +20,5 @@
 * License: [CC-BY]
 * Text: Lawrence A. Konjuro
 * Illustration: Natalie Propa
-* Adapted By: Nina Orange
+* Adaptation: Nina Orange
 * Language: English

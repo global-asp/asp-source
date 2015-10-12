@@ -32,5 +32,5 @@ not want cats.
 * License: [CC-BY]
 * Text: Milly Kasule
 * Illustration: Franz Phooko
-* Adapted By: Milly Kasule
+* Adaptation: Milly Kasule
 * Language: English
