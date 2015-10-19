@@ -157,4 +157,4 @@ feu.
 * Text: Traditional San story
 * Illustration: Manyeka Arts Trust
 * Translation: Lina Scarpellini, Translators without Borders
-* Language: French
+* Language: fr

@@ -62,4 +62,4 @@ Zimanz'iinwele zakho!
 * Text: Letta Machoga
 * Illustration: Marleen Visser
 * Translated By: Nolitha Bikitsha and Thandabantu Magengelele
-* Language: English
+* Language: en

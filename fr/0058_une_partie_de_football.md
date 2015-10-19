@@ -41,4 +41,4 @@ Quelle belle surprise !
 * Text: Letta Machoga
 * Illustration: Vusi Malindi
 * Translation: Gilles, Translators without Borders
-* Language: French
+* Language: fr

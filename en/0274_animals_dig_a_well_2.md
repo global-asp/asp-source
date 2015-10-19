@@ -80,4 +80,4 @@ them again.
 * Text: Um conto tradicional dos Manyungwes de Moçambique
 * Illustration: João Carlos Brito
 * Adaptation: Traditional Mozambican folktale
-* Language: English
+* Language: en

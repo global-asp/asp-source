@@ -69,4 +69,4 @@ how to do.
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

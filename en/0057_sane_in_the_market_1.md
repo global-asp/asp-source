@@ -35,6 +35,5 @@ Thank you mum!
 ##
 * License: [CC-BY]
 * Text: Alice Kapolondo
-* Illustration: Felicity Bell, Wiehan de Jager, Cathy Feek
-and Melany Pietersen
-* Language: Kiswahili
+* Illustration: Felicity Bell, Wiehan de Jager, Cathy Feek, Melany Pietersen
+* Language: en

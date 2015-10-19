@@ -21,4 +21,4 @@
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald and Wiehan de Jager
 * Adaptation: Nina Orange
-* Language: English
+* Language: en

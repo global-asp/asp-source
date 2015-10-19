@@ -17,4 +17,4 @@
 * Text: Caren Echesa
 * Illustration: Jesse Breytenbach
 * Adaptation: Nina Orange
-* Language: English
+* Language: en

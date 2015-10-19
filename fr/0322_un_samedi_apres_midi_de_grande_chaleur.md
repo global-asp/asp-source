@@ -97,4 +97,4 @@ cause du soleil.
 * Text: Nombulelo Thabane, Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Isabelle Barth, Translators without Borders
-* Language: French
+* Language: fr

@@ -77,4 +77,4 @@ entrèrent ensemble dans leur nouveau monde.
 * Text: Southern African Folktale
 * Illustration: Jemma Kahn
 * Translation: Marianne Pasty-Abdul Wahid, Translators without Borders
-* Language: French
+* Language: fr

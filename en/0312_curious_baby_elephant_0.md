@@ -138,4 +138,4 @@ long and useful trunks.
 * License: [CC-BY]
 * Text: Judith Baker and Lorato Trok
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

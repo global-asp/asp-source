@@ -98,4 +98,4 @@ Rien de mal ne pouvait lui arriver.
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Isabelle Duston et Véronique Biddau
-* Language: French
+* Language: fr

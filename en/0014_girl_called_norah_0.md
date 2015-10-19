@@ -59,4 +59,4 @@ mother.
 * Text: Annet Ssebaggala
 * Illustration: Melany Pietersen
 * Translated By: Annet Ssebaggala
-* Language: English
+* Language: en

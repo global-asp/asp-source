@@ -94,4 +94,4 @@ And that is how night came to Opio's village.
 * License: [CC-BY]
 * Text: Robert Ekuka
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

@@ -54,4 +54,4 @@ children.
 * Text: Annet Ssebaggala
 * Illustration: Zablon Alex Nguku
 * Translated By: Annet Ssebaggala
-* Language: English
+* Language: en

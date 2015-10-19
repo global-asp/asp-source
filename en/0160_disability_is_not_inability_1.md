@@ -60,4 +60,4 @@ Hurray!
 * Text: Agnes Mabururu
 * Illustration: Wiehan de Jager, Jesse Breytenbach and
 Jesse Pietersen
-* Language: English
+* Language: en

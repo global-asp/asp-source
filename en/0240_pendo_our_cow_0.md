@@ -51,4 +51,4 @@ Pendo!"
 * Text: Ruth Odondi
 * Illustration: Rob Owen
 * Adaptation: Ruth Odondi
-* Language: English
+* Language: en

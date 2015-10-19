@@ -120,7 +120,7 @@ Envahisseur !
 * Text: Val Morris
 * Illustration: Felicity Bell
 * Translation: Ode Laforge, Translators without Borders
-* Language: French
+* Language: fr
 
 Books in Homes » est un organisme
 soutenu par le Rotary Club de White

@@ -44,4 +44,4 @@ What about you?
 * License: [CC-BY]
 * Text: Annet Ssebaggala
 * Illustration: Mlungisi Dlamini, Eden Daniels, Wiehan de Jager, Sue Kramer, Zablon Alex Nguku, Catherine Groenewald and Angie & Upesh
-* Language: English
+* Language: en

@@ -36,4 +36,4 @@ haricots.
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Mlungisi Dlamini
 * Translation: Isabelle Barth, Translators without Borders
-* Language: French
+* Language: fr

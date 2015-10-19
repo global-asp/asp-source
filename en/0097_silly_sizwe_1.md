@@ -182,6 +182,6 @@ after.
 * License: [CC-BY]
 * Text: Val Morris
 * Illustration: Felicity Bell
-* Language: English
+* Language: en
 
 Books in Homes is supported by White River Rotary Club South Africa.

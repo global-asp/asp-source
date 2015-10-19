@@ -124,4 +124,4 @@ Africa's children.
 * License: [CC-BY]
 * Text: Melissa Fagan
 * Illustration: Karlien de Villiers
-* Language: English
+* Language: en

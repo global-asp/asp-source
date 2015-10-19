@@ -55,4 +55,4 @@ open!
 * License: [CC-BY]
 * Text: Mozambican folktale
 * Illustration: Zito Jorge Ngovene
-* Language: English
+* Language: en

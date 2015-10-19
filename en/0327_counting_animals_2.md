@@ -43,4 +43,4 @@ lion.
 * License: [CC-BY]
 * Text: Zanele Buthelezi, Thembani Dladla and Clare Verbeek
 * Illustration: Rob Owen
-* Language: English
+* Language: en

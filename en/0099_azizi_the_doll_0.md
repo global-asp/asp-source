@@ -59,4 +59,4 @@ Azizi beside me.
 * Text: Lawrence A. Konjuro
 * Illustration: Natalie Propa
 * Translated By: l
-* Language: English
+* Language: en

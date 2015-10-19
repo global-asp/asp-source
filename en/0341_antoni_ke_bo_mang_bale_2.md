@@ -17,5 +17,5 @@ Three! You're out!
 * Text: Traditional song
 * Illustration: Kathy Arbuckle
 * Translated By: Traditional song
-* Language: English
+* Language: en
 

@@ -49,4 +49,4 @@ years.
 * License: [CC-BY]
 * Text: Cornelius Gulere
 * Illustration: Catherine Groenewald
-* Language: English
+* Language: en

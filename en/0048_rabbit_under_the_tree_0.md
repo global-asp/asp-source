@@ -133,4 +133,4 @@ said, ‘Run rabbit run!'”
 * Text: Phumy Zikode
 * Illustration: Wiehan de Jager
 * Translated By: Phumy Zikode
-* Language: English
+* Language: en

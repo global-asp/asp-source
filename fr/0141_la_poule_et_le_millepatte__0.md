@@ -90,7 +90,7 @@ millepattes sont ennemis.
 * Text: Winny Asara
 * Illustration: Winny Asara
 * Translation: Isabelle Duston et Véronique Biddau
-* Language: French
+* Language: fr
 
 Cet histoire a été écrite par un
 élève enseignant de Arua PTC en

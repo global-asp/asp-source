@@ -113,4 +113,4 @@ et dansèrent de joie.
 * Text: South African Folktale
 * Illustration: Emily Berg
 * Translation: Stéphanie Bellumat, Translators without Borders
-* Language: French
+* Language: fr

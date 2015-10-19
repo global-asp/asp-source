@@ -67,7 +67,7 @@ wasn't from the sun.
 * Text: Nathi and David
 * Illustration: Wiehan de Jager
 * * Translated By: Nathi and David
-* Language: English
+* Language: en
 
 We Nathi and David versioned this
 story and it is amazing!!

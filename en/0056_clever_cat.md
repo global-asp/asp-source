@@ -68,4 +68,4 @@ reads the newspaper.
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translated By: Ursula Nafula
-* Language: English
+* Language: en

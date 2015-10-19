@@ -84,4 +84,4 @@ And it wasn't from the sun.
 * License: [CC-BY]
 * Text: Nombulelo Thabane and Tessa Welch
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

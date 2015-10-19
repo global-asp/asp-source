@@ -61,6 +61,6 @@ Where do they live? Which one would you eat?
 * License: [CC-BY]
 * Text: Wendy Parry
 * Illustration: Rob Owen
-* Language: English
+* Language: en
 
 first paragraph story about animals found in Uganda

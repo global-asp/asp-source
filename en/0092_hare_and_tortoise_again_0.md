@@ -105,4 +105,4 @@ ahead of the deadline he had set!
 * License: [CC-BY]
 * Text: Venkatramana Gowda and Divaspathy Hegde
 * Illustration: Padmanabha
-* Language: English
+* Language: en

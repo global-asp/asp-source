@@ -34,4 +34,4 @@ The end.
 * License: [CC-BY-NC]
 * Text: Danielle Bruckert
 * Illustration: Danielle Bruckert
-* Language: English
+* Language: en

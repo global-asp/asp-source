@@ -52,4 +52,4 @@ wolf!
 * License: [CC-BY]
 * Text: folktale
 * Illustration: José Nhambo
-* Language: English
+* Language: en

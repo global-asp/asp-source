@@ -90,4 +90,4 @@ morning, the letter was gone.
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
-* Language: English
+* Language: en

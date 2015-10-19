@@ -63,4 +63,4 @@ Come, read with us!
 * Text: Zimbili Dlamini and Hlengiwe Zondi
 * Illustration: Catherine Groenewald
 * Translated By: Zimbili Dlamini and Hlengiwe Zondi
-* Language: English
+* Language: en

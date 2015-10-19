@@ -26,4 +26,4 @@ mom gives me a hug.
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
 * Illustration: Kathy Arbuckle
-* Language: English
+* Language: en

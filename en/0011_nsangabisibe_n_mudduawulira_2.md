@@ -42,4 +42,4 @@ very fast!
 * License: [CC-BY]
 * Text: Frista Nattabira
 * Illustration: Wiehan de Jager and João Carlos Brito
-* Language: English
+* Language: en

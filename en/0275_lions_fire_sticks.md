@@ -131,4 +131,4 @@ animals and all people.
 * License: [CC-BY]
 * Text: Traditional San story
 * Illustration: Manyeka Arts Trust
-* Language: English
+* Language: en

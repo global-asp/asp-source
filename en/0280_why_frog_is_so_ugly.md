@@ -57,4 +57,4 @@ even more ugly!
 * License: [CC-BY]
 * Text: Mozambican folktale
 * Illustration: Hélder de Paz Alexandre
-* Language: English
+* Language: en

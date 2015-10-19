@@ -28,4 +28,4 @@ again.
 * License: [CC-BY]
 * Text: Christian G.
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

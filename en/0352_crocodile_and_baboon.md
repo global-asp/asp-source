@@ -62,4 +62,4 @@ friendship.
 * Text: Basilio Gimo
 * Illustration: Jeremiah Dube
 * Translated By: Little Zebra Books
-* Language: English
+* Language: en

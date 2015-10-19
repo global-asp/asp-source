@@ -52,4 +52,4 @@ choose?
 * Text: Adelheid Marie Bwire
 * Illustration: Rob Owen
 * Translated By: Adelheid Marie Bwire
-* Language: English
+* Language: en

@@ -140,4 +140,4 @@ around!”
 * Text: Nambi Sseppuuya Community Resource Centre
 * Illustration: Wiehan de Jager
 * Translated By: Maganda Isa and Cornelius Gulere
-* Language: English
+* Language: en

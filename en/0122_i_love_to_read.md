@@ -33,4 +33,4 @@ myself
 * Text: Letta Machoga
 * Illustration: Wiehan de Jager
 * Translated By: Letta Machoga and Bathokwa book club
-* Language: English
+* Language: en

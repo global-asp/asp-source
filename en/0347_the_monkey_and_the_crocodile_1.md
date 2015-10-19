@@ -106,4 +106,4 @@ clever monkey!
 * License: [CC-BY]
 * Text: Mozambican folktale
 * Illustration: Amir Bachir António Necas
-* Language: English
+* Language: en

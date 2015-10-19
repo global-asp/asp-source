@@ -40,4 +40,4 @@ What a great surprise!
 * Text: Letta Machoga
 * Illustration: Vusi Malindi
 * Translated By: Lorato Trok
-* Language: English
+* Language: en

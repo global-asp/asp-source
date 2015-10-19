@@ -129,4 +129,4 @@ autres oiseaux.
 * Text: South African Folktale
 * Illustration: Wiehan de Jager
 * Translation: Nathalie Hecker, Translators without Borders
-* Language: French
+* Language: fr

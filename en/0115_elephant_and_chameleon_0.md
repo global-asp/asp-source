@@ -66,4 +66,4 @@ Elephant went home annoyed.
 * License: [CC-BY]
 * Text: Stella Badaru
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

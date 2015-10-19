@@ -58,4 +58,4 @@ Now I am a lady, but I still miss my friend Muthoni.
 * Text: Ursula Nafula
 * Illustration: Rijuta Ghate, Catherine Groenewald,
 Benjamin Mitchley and Wiehan de Jager
-* Language: English
+* Language: en

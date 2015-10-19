@@ -33,4 +33,4 @@ not want cats.
 * Text: Milly Kasule
 * Illustration: Franz Phooko
 * Adaptation: Milly Kasule
-* Language: English
+* Language: en

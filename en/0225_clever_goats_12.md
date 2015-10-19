@@ -55,6 +55,6 @@ incident.
 * License: [CC-BY]
 * Text: Bukheye Mulongo Christopher and Alungho Rose
 * Illustration: Rob Owen
-* Language: English
+* Language: en
 
 this story was written by a teacher and a librarian

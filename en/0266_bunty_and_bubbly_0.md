@@ -60,4 +60,4 @@ herself clean.
 * License: [CC-BY]
 * Text: Sorit Gupto
 * Illustration: Sorit Gupto
-* Language: English
+* Language: en

@@ -148,4 +148,4 @@ sauvé la vie.
 * Text: Kholeka Mabeta, Judith Baker
 * Illustration: Wiehan de Jager
 * Translation: Isabelle Duston et Véronique Biddau
-* Language: French
+* Language: fr

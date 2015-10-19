@@ -210,4 +210,4 @@ San artists.
 * License: [CC-BY]
 * Text: Traditional San story
 * Illustration: Manyeka Arts Trust
-* Language: English
+* Language: en

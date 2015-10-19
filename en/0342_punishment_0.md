@@ -65,4 +65,4 @@ believe him.
 * Text: Adelheid Marie Bwire
 * Illustration: Melany Pietersen
 * Adaptation: Adelheid Marie Bwire
-* Language: English
+* Language: en

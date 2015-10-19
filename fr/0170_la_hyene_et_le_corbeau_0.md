@@ -118,4 +118,4 @@ amis.
 * Text: Ann Nduku
 * Illustration: Wiehan de Jager
 * Translation: Nadine Verdier, Translators without Borders
-* Language: French
+* Language: fr

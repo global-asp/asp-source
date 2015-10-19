@@ -57,6 +57,6 @@ The bird had saved Inyang!!
 * Text: Simon Ipoo
 * Illustration: Catherine Groenewald, Wiehan de Jager,
 Kathy Arbuckle, Rijuta Ghate and Jemma Kahn
-* Language: English
+* Language: en
 
 Turkana practice pastoralism and nomadism.

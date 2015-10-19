@@ -56,4 +56,4 @@ bruit.
 * Text: Ingrid Schechter
 * Illustration: Ingrid Schechter
 * Translation: Tingi et les vaches, Translators without Borders
-* Language: French
+* Language: fr

@@ -44,4 +44,4 @@ sont très contents.
 * Text: Paul Maseri
 * Illustration: Wiehan de Jager
 * Translation: Lina Scarpellini, Translators without Borders
-* Language: French
+* Language: fr

@@ -111,4 +111,4 @@ too much to strangers.
 * Text: Gaspah Juma
 * Illustration: Jesse Breytenbach
 * Translated By: Gaspah Juma
-* Language: English
+* Language: en

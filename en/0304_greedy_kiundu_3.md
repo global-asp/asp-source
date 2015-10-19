@@ -89,4 +89,4 @@ and hungry.
 * License: [CC-BY]
 * Text: Mutugi Kamundi
 * Illustration: Zablon Alex Nguku
-* Language: English
+* Language: en

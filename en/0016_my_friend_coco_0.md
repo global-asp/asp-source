@@ -91,4 +91,4 @@ fields again!
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Ursula Nafula
-* Language: English
+* Language: en

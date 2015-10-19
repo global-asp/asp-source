@@ -77,4 +77,4 @@ jambes.
 * Text: Frista Nattabira
 * Illustration: Wiehan de Jager
 * Translation: Suzanne Alban, Translators without Borders
-* Language: French
+* Language: fr

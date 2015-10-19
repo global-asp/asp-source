@@ -130,4 +130,4 @@ shiny blue helicopter.
 * License: [CC-BY]
 * Text: Timothy Kabare and Ursula Nafula
 * Illustration: Catherine Groenewald
-* Language: English
+* Language: en

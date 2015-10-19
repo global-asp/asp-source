@@ -61,4 +61,4 @@ and shouting: “Help! Anyone help!”
 * License: [CC-BY]
 * Text: Kholeka Mabeta
 * Illustration: Benjamin Mitchley
-* Language: English
+* Language: en

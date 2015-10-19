@@ -20,4 +20,4 @@
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

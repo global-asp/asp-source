@@ -96,4 +96,4 @@ became enemies!
 * License: [CC-BY]
 * Text: Mozambican folktale
 * Illustration: Horácio José Cossa
-* Language: English
+* Language: en

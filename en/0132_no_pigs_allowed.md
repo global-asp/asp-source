@@ -56,4 +56,4 @@ since.
 * Text: Basilio Gimo
 * Illustration: Laura Libertore
 * Translated By: Little Zebra Books
-* Language: English
+* Language: en

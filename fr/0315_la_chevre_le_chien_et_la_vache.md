@@ -62,4 +62,4 @@ qu’elle a payé son dû.
 * Text: Fabian Wakholi
 * Illustration: Marleen Visser
 * Translation: Claire Sjaarda, Translators without Borders
-* Language: French
+* Language: fr

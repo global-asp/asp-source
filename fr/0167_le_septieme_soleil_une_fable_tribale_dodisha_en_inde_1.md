@@ -94,4 +94,4 @@ dans le ciel.
 * Text: Indian Folktale
 * Illustration: Pratham Books
 * Translation: Olivia Mahe, Translators without Borders
-* Language: French
+* Language: fr

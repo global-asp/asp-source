@@ -104,4 +104,4 @@ dans la bouche d’un éléphant. »
 * Text: Salaama Wanale
 * Illustration: Mango Tree
 * Translation: Claire Sjaarda, Translators without Borders
-* Language: French
+* Language: fr

@@ -50,4 +50,4 @@ the elders and go to fetch water.
 * Text: Ahebwa zahara
 * Illustration: Diane Ross, Jesse Breytenbach and
 Catherine Groenewald
-* Language: English
+* Language: en

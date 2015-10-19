@@ -202,4 +202,4 @@ Meneputo Mnaunga Maneka in archive.
 * License: [CC-BY]
 * Text: Traditional San story
 * Illustration: Manyeka Arts Trust
-* Language: English
+* Language: en

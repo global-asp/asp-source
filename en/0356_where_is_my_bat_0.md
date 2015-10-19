@@ -38,4 +38,4 @@ anywhere.
 * License: [CC-BY]
 * Text: Meera Tendolkar and Madhav Chavan
 * Illustration: Rijuta Ghate
-* Language: English
+* Language: en

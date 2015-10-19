@@ -103,4 +103,4 @@ you, ‘M'e Maneo!” they cried.
 * Text: Marion Drew
 * Illustration: Marion Drew
 * Translated By: Khothatso Ranoosi and Marion Drew
-* Language: English
+* Language: en

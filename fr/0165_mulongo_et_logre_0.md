@@ -152,4 +152,4 @@ propriété.
 * Text: Fabian Wakholi
 * Illustration: Natalie Propa
 * Translation: Victoria Surtees
-* Language: French
+* Language: fr

@@ -37,4 +37,4 @@ alone.
 * Text: Deborah Namugosa, Beatrice Nabune, Alison Tukei and Rose Sabano
 * Illustration: Rob Owen, Wiehan de Jager and Amir Bachir António Necas
 * Adaptation: Nina Orange
-* Language: English
+* Language: en

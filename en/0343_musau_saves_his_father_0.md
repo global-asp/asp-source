@@ -100,4 +100,4 @@ children.
 * License: [CC-BY]
 * Text: Kanyiva Sandi
 * Illustration: Benjamin Mitchley
-* Language: English
+* Language: en

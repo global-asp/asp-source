@@ -73,4 +73,4 @@ je porte aujourd'hui !
 * Text: Noni
 * Illustration: Angie & Upesh
 * Translation: Sébastien Rolland (freisk!), Translators without Borders
-* Language: French
+* Language: fr

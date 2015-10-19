@@ -61,4 +61,4 @@ Ils se retrouvèrent à l’extérieur,
 * Text: Zimbili Dlamini
 * Illustration: Magriet Brink
 * Translation: Maïté Indacochéa, Translators without Borders
-* Language: French
+* Language: fr

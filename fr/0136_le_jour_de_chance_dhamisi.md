@@ -57,4 +57,4 @@ choisir ?
 * Text: Adelheid Marie Bwire
 * Illustration: Rob Owen
 * Translation: Nadine Verdier, Translators without Borders
-* Language: French
+* Language: fr

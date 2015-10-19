@@ -58,4 +58,4 @@ in the open.
 * Text: Zimbili Dlamini
 * Illustration: Magriet Brink
 * Translated By: Zimbili Dlamini
-* Language: English
+* Language: en

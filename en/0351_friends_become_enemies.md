@@ -77,7 +77,7 @@ That marked the end of their friendship.
 * Text: Kennedy Amandu
 * Illustration: Rob Owen
 * Translated By: Nelson Acadri
-* Language: English
+* Language: en
 
 This story was written by a student
 of Arua Core Primary Teachers'

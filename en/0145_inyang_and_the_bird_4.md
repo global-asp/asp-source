@@ -103,6 +103,6 @@ the bird for saving his life too.
 * Text: Simon Ipoo
 * Illustration: Catherine Groenewald, Wiehan de Jager, Kathy Arbuckle, Rijuta Ghate and Jemma Kahn
 * Adaptation: Simon Ipoo
-* Language: English
+* Language: en
 
 Turkana practice pastoralism and nomadism.

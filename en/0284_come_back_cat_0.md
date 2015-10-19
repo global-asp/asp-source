@@ -40,4 +40,4 @@ Cat?
 * Text: Nicola Rijsdijk
 * Illustration: Karen Lilje
 * Translated By: Nicola Rijsdijk
-* Language: English
+* Language: en

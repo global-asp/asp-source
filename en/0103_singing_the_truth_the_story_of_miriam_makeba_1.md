@@ -114,4 +114,4 @@ all of my songs.
 * License: [CC-BY]
 * Text: Jade Mathieson
 * Illustration: Louwrisa Blaauw
-* Language: English
+* Language: en

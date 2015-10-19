@@ -172,4 +172,4 @@ was peace at the homestead from that day on.
 * License: [CC-BY]
 * Text: Kholeka Mabeta
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

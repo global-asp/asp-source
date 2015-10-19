@@ -58,4 +58,4 @@ paid her fare in full.
 * License: [CC-BY]
 * Text: Fabian Wakholi
 * Illustration: Marleen Visser
-* Language: English
+* Language: en

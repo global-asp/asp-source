@@ -147,4 +147,4 @@ hélicoptère bleu tout brillant.
 * Text: Timothy Kabare, Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Isabelle Duston et Véronique Biddau
-* Language: French
+* Language: fr

@@ -50,4 +50,4 @@ hameçon. »
 * Text: Tom Sabwa, Children’s Development Center at Masese
 * Illustration: Zablon Alex Nguku
 * Translation: Johanne Jean-maître, Translators without Borders
-* Language: French
+* Language: fr

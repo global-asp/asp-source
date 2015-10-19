@@ -127,4 +127,4 @@ toute la nourriture délicieuse !
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Boulanger Mirei, Translators without Borders
-* Language: French
+* Language: fr

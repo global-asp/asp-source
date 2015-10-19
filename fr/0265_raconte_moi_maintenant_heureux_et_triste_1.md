@@ -52,4 +52,4 @@ timide.
 * Text: Madhav Chavan
 * Illustration: Rijuta Ghate
 * Translation: Nadine Verdier, Translators without Borders
-* Language: French
+* Language: fr

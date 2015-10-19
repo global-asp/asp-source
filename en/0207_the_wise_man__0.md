@@ -55,4 +55,4 @@ head.”
 * License: [CC-BY]
 * Text: Cornelius Wekunya
 * Illustration: Joshua Waswa
-* Language: English
+* Language: en

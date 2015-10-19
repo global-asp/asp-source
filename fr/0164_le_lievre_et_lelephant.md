@@ -127,4 +127,4 @@ boite et ses sabots sont plats.
 * Text: Lawrence A. Konjuro
 * Illustration: Wiehan de Jager
 * Translation: Lina Scarpellini, Translators without Borders
-* Language: French
+* Language: fr

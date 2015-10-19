@@ -23,4 +23,4 @@ goat with a coat!
 * Text: Bukheye Mulongo
 * Illustration: Marion Drew, Rob Owen, Catherine
 Groenewald and Magriet Brink
-* Language: English
+* Language: en

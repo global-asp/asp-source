@@ -24,4 +24,4 @@ with Liz! THE END.
 * License: [CC-BY]
 * Text: Bulage Vicky
 * Illustration: Rob Owen
-* Language: English
+* Language: en

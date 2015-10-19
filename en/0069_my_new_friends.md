@@ -61,4 +61,4 @@ Or even read together
 * Text: Zimbili Dlamini and Hlengiwe Zondi
 * Illustration: Catherine Groenewald
 * Adaptation: Bathokwa book club
-* Language: English
+* Language: en

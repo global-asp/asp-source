@@ -30,4 +30,4 @@ milk.
 * Text: Jenny Katz
 * Illustration: Sandy Campbell
 * Adaptation: Lilian Wachira
-* Language: English
+* Language: en

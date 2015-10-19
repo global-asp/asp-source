@@ -97,4 +97,4 @@ Sloth in their tree.
 * License: [CC-BY]
 * Text: Paul Kennedy
 * Illustration: Graham Paterson
-* Language: English
+* Language: en

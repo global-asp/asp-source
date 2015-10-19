@@ -116,4 +116,4 @@ And so that's what Vusi did.
 * License: [CC-BY]
 * Text: Nina Orange
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

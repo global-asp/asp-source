@@ -47,6 +47,6 @@ do.
 * License: [CC-BY]
 * Text: Ivan higenyi
 * Illustration: Jesse Breytenbach, Rob Owen, Amy Uzzell, Rijuta Ghate, Bronwen Heath, Genevieve Terblanche, Catherine Groenewald, Felicity Bell and Melany Pietersen
-* Language: English
+* Language: en
 
 Enjoyable to all children.

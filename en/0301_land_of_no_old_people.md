@@ -60,4 +60,4 @@ from death.
 * Text: Cleófas Samo
 * Illustration: Laura Libertore
 * Translated By: David Ker
-* Language: English
+* Language: en

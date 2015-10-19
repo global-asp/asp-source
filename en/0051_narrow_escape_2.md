@@ -39,4 +39,4 @@ had fought and successfully killed.
 * Text: Beatres Nabune and Samuel Mudenya
 * Illustration: Karen Lilje, Catherine Groenewald, Karlien de
 Villiers, Jesse Breytenbach and Marleen Visser
-* Language: English
+* Language: en

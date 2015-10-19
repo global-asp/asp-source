@@ -89,4 +89,4 @@ at ago.
 * Text: Mutugi Kamundi
 * Illustration: Alex Zablon, Zablon Alex Nguku, Wiehan de Jager, Felicity Bell and Jesse Breytenbach
 * Adaptation: Mubbalya charles, Tabingwa Aisha and Tulina Monica
-* Language: English
+* Language: en

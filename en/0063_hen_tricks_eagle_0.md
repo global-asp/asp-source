@@ -53,4 +53,4 @@ catches one, he eats it.
 * Text: Nathan Higenyi
 * Illustration: Rob Owen
 * Translated By: Nathan Higenyi
-* Language: English
+* Language: en

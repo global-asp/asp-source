@@ -40,4 +40,4 @@ like my teacher!
 * Text: Zimbili Dlamini and Hlengiwe Zondi
 * Illustration: Jesse Pietersen
 * Translated By: Zimbili Dlamini and Hlengiwe Zondi
-* Language: English
+* Language: en

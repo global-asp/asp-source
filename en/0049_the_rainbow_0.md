@@ -23,4 +23,4 @@ beautiful.
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald and Wiehan de Jager
-* Language: English
+* Language: en

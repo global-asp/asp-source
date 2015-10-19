@@ -32,4 +32,4 @@ read to myself!
 * Text: Letta Machoga
 * Illustration: Wiehan de Jager
 * Translated By: Letta Machoga
-* Language: English
+* Language: en

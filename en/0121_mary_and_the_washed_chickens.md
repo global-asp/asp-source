@@ -189,4 +189,4 @@ to give you another wash tomorrow!"
 * Text: Marion Drew
 * Illustration: Wiehan de Jager
 * Translated By: M. Davidson
-* Language: English
+* Language: en

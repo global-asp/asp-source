@@ -158,4 +158,4 @@ smile of all.
 * License: [CC-BY]
 * Text: Vianne Venter
 * Illustration: Genevieve Terblanche
-* Language: English
+* Language: en

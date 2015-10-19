@@ -159,4 +159,4 @@ cadeau aux étoiles.
 * Text: Liesl Jobson
 * Illustration: Jesse Breytenbach
 * Translation: Lina Scarpellini, Translators without Borders
-* Language: French
+* Language: fr

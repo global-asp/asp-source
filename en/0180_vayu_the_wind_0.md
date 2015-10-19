@@ -71,4 +71,4 @@ The wind!
 * License: [CC-BY]
 * Text: Madhuri Pai and Rohini Nilekani
 * Illustration: Rijuta Ghate
-* Language: English
+* Language: en

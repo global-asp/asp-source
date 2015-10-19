@@ -54,4 +54,4 @@ près de ses voisins.
 * Text: Carlos Kanembera
 * Illustration: Trevor Kellog
 * Translation: Véronique Thomas, Translators without Borders
-* Language: French
+* Language: fr

@@ -61,4 +61,4 @@ know if you can be together peacefully.
 * License: [CC-BY]
 * Text: Joachim Muhindo
 * Illustration: Marleen Visser
-* Language: English
+* Language: en

@@ -28,4 +28,4 @@ What are you doing?
 * License: [CC-BY]
 * Text: Nina Orange
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

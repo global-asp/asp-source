@@ -154,4 +154,4 @@ have not been friends.
 * License: [CC-BY]
 * Text: Mutugi Kamundi
 * Illustration: Rob Owen
-* Language: English
+* Language: en

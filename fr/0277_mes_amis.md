@@ -62,4 +62,4 @@ Viens lire avec nous.
 * Text: Zimbili Dlamini, Hlengiwe Zondi
 * Illustration: Catherine Groenewald
 * Translation: Véronique Thomas, Translators without Borders
-* Language: French
+* Language: fr

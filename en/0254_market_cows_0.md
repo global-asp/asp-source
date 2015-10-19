@@ -120,4 +120,4 @@ followed closely by Sorimpan.
 * License: [CC-BY-NC]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
-* Language: English
+* Language: en

@@ -52,4 +52,4 @@ naughty fingers again!
 * Text: Danica Strydom
 * Illustration: Danica Strydom
 * Editing: Lisa Treffry-Goatley
-* Language: English
+* Language: en

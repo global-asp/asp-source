@@ -35,4 +35,4 @@ I am travelling by Taxi...
 * Text: Nina Orange
 * Illustration: Wiehan de Jager, Angie & Upesh and Marion Drew
 * Translated By: Silindile Dube
-* Language: English
+* Language: en

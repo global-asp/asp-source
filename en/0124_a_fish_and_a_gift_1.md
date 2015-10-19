@@ -158,4 +158,4 @@ to the stars.
 * License: [CC-BY]
 * Text: Liesl Jobson
 * Illustration: Jesse Breytenbach
-* Language: English
+* Language: en

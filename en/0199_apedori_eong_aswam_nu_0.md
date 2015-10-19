@@ -37,4 +37,4 @@ I can read.
 * Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
 * Illustration: Cathy Feek
 * Translated By: Simon Peter Ongodia
-* Language: English
+* Language: en

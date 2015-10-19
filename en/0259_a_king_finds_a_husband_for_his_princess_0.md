@@ -116,4 +116,4 @@ with an animal.
 * License: [CC-BY]
 * Text: John Emongot
 * Illustration: Catherine Groenewald, Wiehan de Jager, Caroline Lentupuru, Laura Libertore and Benjamin Mitchley
-* Language: English
+* Language: en

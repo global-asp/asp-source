@@ -100,4 +100,4 @@ tout en haut des arbres.
 * Text: Wesley Kipkorir Rop
 * Illustration: Jesse Breytenbach
 * Translation: Nathalie Hecker, Translators without Borders
-* Language: French
+* Language: fr

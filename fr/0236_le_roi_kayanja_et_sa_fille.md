@@ -186,4 +186,4 @@ qu’elle soit riche ou pauvre.
 * Text: Amana Yunus
 * Illustration: Natalie Propa
 * Translation: Cecilia Divett, Translators without Borders
-* Language: French
+* Language: fr

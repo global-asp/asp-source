@@ -88,7 +88,7 @@ gardant le but.
 * Text: Benard Agasi
 * Illustration: Benard Agasi
 * Translation: Binek Muriel, Translators without Borders
-* Language: French
+* Language: fr
 
 Ce texte a été écrit et illustré par un
 étudiant en formation d’enseignant

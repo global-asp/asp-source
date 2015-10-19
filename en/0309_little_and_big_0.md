@@ -32,4 +32,4 @@ The end.
 * License: [CC-BY-NC]
 * Text: Carole Bloch
 * Illustration: Vian Oelofsen
-* Language: English
+* Language: en

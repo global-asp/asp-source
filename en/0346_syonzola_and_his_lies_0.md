@@ -69,4 +69,4 @@ about his brave son.
 * License: [CC-BY]
 * Text: Phoebe Sibomana
 * Illustration: Benjamin Mitchley
-* Language: English
+* Language: en

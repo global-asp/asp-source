@@ -47,4 +47,4 @@ new hook.”
 * Text: Tom Sabwa and Children's Development Center at Masese
 * Illustration: Zablon Alex Nguku
 * Translated By: Cornelius Gulere
-* Language: English
+* Language: en

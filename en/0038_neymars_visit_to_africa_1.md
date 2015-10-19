@@ -82,4 +82,4 @@ goal keeping.
 * Text: Benard Agasi
 * Illustration: Benard Agasi
 * Translated By: Nelson Acadri
-* Language: English
+* Language: en

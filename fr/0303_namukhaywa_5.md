@@ -126,4 +126,4 @@ bonheur à sa famille.
 * Text: Matthews M Wanga
 * Illustration: Wiehan de Jager
 * Translation: Isabelle Duston et Véronique Biddau
-* Language: French
+* Language: fr

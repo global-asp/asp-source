@@ -213,7 +213,7 @@ forêt pour nourrir l’oiseau de pluie.
 * Text: Joanne Bloch (retold folktale)
 * Illustration: Wiehan de Jager, Nalibali
 * Translation: Nathalie Hecker, Translators without Borders
-* Language: French
+* Language: fr
 
 Le texte est reproduit avec la
 permission de Nal’ibali www.nalibali.org

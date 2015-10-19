@@ -91,4 +91,4 @@ birds.
 * Text: South African Folktale
 * Illustration: Wiehan de Jager
 * Adaptation: Liz Ralfe and Suzanne Singh
-* Language: English
+* Language: en

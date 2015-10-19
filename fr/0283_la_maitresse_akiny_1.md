@@ -80,4 +80,4 @@ maîtresse Akinyi.
 * Text: Lawrence A. Konjuro
 * Illustration: Vusi Malindi
 * Translation: Nadine Verdier, Translators without Borders
-* Language: French
+* Language: fr

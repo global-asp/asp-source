@@ -161,6 +161,6 @@ where he had left her.
 * Text: Phumy Zikode
 * Illustration: Wiehan de Jager
 * Translated By: Phumy Zikode
-* Language: English
+* Language: en
 
 This story is from the Family Literacy Project in South Africa.

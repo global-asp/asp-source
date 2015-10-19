@@ -41,4 +41,4 @@ garden.
 * License: [CC-BY]
 * Text: Jane Tsharane and Mmapule Nkuna
 * Illustration: Natalie Propa, Jesse Breytenbach, Wiehan de Jager, Marleen Visser, Maya Marshak, Benjamin Mitchley, Magriet Brink and Michael Nakuwa
-* Language: English
+* Language: en

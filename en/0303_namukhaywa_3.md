@@ -123,4 +123,4 @@ her family.
 * Text: Matthews M Wanga
 * Illustration: Wiehan de Jager
 Ursula Nafula
-* Language: English
+* Language: en

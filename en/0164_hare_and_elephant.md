@@ -122,4 +122,4 @@ and his hooves are flat.
 * License: [CC-BY]
 * Text: Lawrence A. Konjuro
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

@@ -38,6 +38,6 @@ do you wish to go back?
 * Text: Barke Ramadhan
 * Illustration: Wiehan de Jager, Laura Libertore, Catherine Groenewald, Rijuta Ghate and Jemma Kahn
 * Adaptation: Herbert Haumba and ROSE ALUNGHO
-* Language: English
+* Language: en
 
 An opportunity for children to understand their environment

@@ -144,4 +144,4 @@ c'est très utile.
 * Text: Judith Baker, Lorato Trok
 * Illustration: Wiehan de Jager
 * Translation: Isabelle Duston et Véronique Biddau
-* Language: French
+* Language: fr

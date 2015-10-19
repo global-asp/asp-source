@@ -55,7 +55,7 @@ bonheur.
 * Text: Waako Joshua, Cornelius Gulere
 * Illustration: Wiehan de Jager
 * Translation: Isabelle Duston et Véronique Biddau
-* Language: French
+* Language: fr
 
 Cette histoire a été créée par les
 membres de 'The Ugandan

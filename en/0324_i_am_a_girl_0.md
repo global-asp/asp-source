@@ -29,4 +29,4 @@
 * Text: Ursula Nafula
 * Illustration: Rob Owen
 * Adaptation: Ursula Nafula
-* Language: English
+* Language: en

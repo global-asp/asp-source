@@ -49,4 +49,4 @@ with fish!
 * Text: Ethan Alberts
 * Illustration: Ethan Alberts
 * Editing: Lisa Treffry-Goatley
-* Language: English
+* Language: en

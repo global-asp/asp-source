@@ -174,4 +174,4 @@ from that hive.
 * License: [CC-BY]
 * Text: South African Folktale
 * Illustration: Jemma Kahn
-* Language: English
+* Language: en

@@ -50,4 +50,4 @@ I don't know!
 * License: [CC-BY]
 * Text: Madhav Chavan
 * Illustration: Rijuta Ghate
-* Language: English
+* Language: en

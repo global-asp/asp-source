@@ -119,4 +119,4 @@ carapace. C’était chaud et douillet à l’intérieur.
 * Text: Maya Fowler
 * Illustration: Katrien Coetzer
 * Translation: Translators without Borders
-* Language: French
+* Language: fr

@@ -22,4 +22,4 @@ into pieces.
 * License: [CC-BY]
 * Text: Namugosa and Nabune
 * Illustration: Wiehan de Jager and Jemma Kahn
-* Language: English
+* Language: en

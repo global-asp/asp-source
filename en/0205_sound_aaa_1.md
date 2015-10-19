@@ -51,6 +51,6 @@ Sound Aaa i will never forget you.
 * Text: Cissy Namugerwa and Ritah Katetemera
 * Illustration: Wiehan de Jager, Benjamin Mitchley, Cathy Feek, Sue Kramer, Kathy Arbuckle, Mlungisi Dlamini, Sean Whitehead, Jesse Breytenbach, Franz Phooko, Jesse Pietersen, Catherine Groenewald, Jano Strydom, Karlien de Villiers and Vusi Malindi
 * Adaptation: Cissy Namugerwa
-* Language: English
+* Language: en
 
 The rhyme has got a good number of pages with different words having sound A.

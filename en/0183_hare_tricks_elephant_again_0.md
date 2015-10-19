@@ -99,4 +99,4 @@ no longer friends.
 * Text: Agnes Gachaba and Ursula Nafula
 * Illustration: Wiehan de Jager
 * Translated By: Ursula Nafula
-* Language: English
+* Language: en

@@ -92,4 +92,4 @@ sun rises and shines in the sky.
 * License: [CC-BY]
 * Text: Indian Folktale
 * Illustration: Pratham Books
-* Language: English
+* Language: en

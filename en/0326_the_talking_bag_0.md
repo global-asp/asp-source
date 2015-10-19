@@ -61,4 +61,4 @@ The story ends there!
 * License: [CC-BY]
 * Text: Caroline Lentupuru
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

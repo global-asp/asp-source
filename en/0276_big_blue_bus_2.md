@@ -134,4 +134,4 @@ was going to town.
 * License: [CC-BY]
 * Text: Mecelin Kakoro
 * Illustration: Mango Tree
-* Language: English
+* Language: en

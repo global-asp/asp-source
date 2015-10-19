@@ -63,4 +63,4 @@ student first!
 * License: [CC-BY]
 * Text: Beatrice Inzikuru
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

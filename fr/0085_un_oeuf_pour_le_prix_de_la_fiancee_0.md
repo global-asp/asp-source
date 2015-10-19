@@ -149,4 +149,4 @@ Tout bienfait sera rendu » !
 * Text: Nambi Sseppuuya Community Resource Centre
 * Illustration: Wiehan de Jager
 * Translation: Marianne Pasty-Abdul Wahid, Translators without Borders
-* Language: French
+* Language: fr

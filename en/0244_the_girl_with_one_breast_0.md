@@ -52,4 +52,4 @@ that he too died.
 * License: [CC-BY]
 * Text: Cornelius Wekunya
 * Illustration: Rachael Napagi
-* Language: English
+* Language: en

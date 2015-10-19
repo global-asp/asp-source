@@ -37,4 +37,4 @@ satisfied..
 * License: [CC-BY-NC]
 * Text: Beatres Nabune and Wilson Lwagala
 * Illustration: Rob Owen, Katrien Coetzer, Melany Pietersen, Wiehan de Jager and Graham Paterson
-* Language: English
+* Language: en

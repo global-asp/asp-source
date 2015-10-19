@@ -94,4 +94,4 @@ And that is how night came to Opio’s village.
 * Text: Robert Ekuka
 * Illustration: Wiehan de Jager
 * Translation: Claire Sjaarda, Translators without Borders
-* Language: French
+* Language: fr

@@ -66,4 +66,4 @@ happy!
 * License: [CC-BY]
 * Text: Neo
 * Illustration: Neo
-* Language: English
+* Language: en

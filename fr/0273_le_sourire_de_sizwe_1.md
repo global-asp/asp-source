@@ -157,4 +157,4 @@ plus éclatant de tous les sourires.
 * Text: Vianne Venter
 * Illustration: Genevieve Terblanche
 * Translation: Isabelle Barth, Translators without Borders
-* Language: French
+* Language: fr

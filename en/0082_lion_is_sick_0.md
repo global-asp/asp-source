@@ -98,4 +98,4 @@ lions.
 * Text: Francisco Escondido
 * Illustration: Claudio Molina and Hélder de Paz Alexandre
 * Adaptation: Little Zebra Books
-* Language: English
+* Language: en

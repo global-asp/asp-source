@@ -133,7 +133,7 @@ Collection de peintures faites par des artistes San.
 * Text: Traditional San story
 * Illustration: Manyeka Arts Trust
 * Translation: Nadine Verdier, Translators without Borders
-* Language: French
+* Language: fr
 
 Le Manyeka Arts Trust célèbre les
 traditions des conteurs San Sud

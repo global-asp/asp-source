@@ -35,4 +35,4 @@ We like to play with our friends.
 * Text: Wendy Parry
 * Illustration: Vusi Malindi, Mario Kart, Laura Libertore,
 Wiehan de Jager and Catherine Groenewald
-* Language: English
+* Language: en

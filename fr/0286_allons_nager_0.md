@@ -64,7 +64,7 @@ l'eau.
 * Text: Alice Inzikuru
 * Illustration: Alice Inzikuru, Robert McEwan
 * Translation: Isabelle Barth, Translators without Borders
-* Language: French
+* Language: fr
 
 Ce texte a été écrit et illustré par
 une enseignante étudiante à Arua

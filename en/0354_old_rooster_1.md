@@ -136,4 +136,4 @@ they wanted to go.
 * License: [CC-BY]
 * Text: Cissy Kiwanuka Luyiga
 * Illustration: Magriet Brink
-* Language: English
+* Language: en

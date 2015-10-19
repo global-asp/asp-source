@@ -131,4 +131,4 @@ said sadly.
 * License: [CC-BY]
 * Text: Joseph Sanchez Nadimo
 * Illustration: Rob Owen
-* Language: English
+* Language: en

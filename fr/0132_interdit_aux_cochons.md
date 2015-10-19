@@ -59,4 +59,4 @@ c'est toujours comme cela.
 * Text: Basilio Gimo
 * Illustration: Laura Libertore
 * Translation: Isabelle Barth, Translators without Borders
-* Language: French
+* Language: fr

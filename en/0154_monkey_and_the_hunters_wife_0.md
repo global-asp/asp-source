@@ -89,4 +89,4 @@ She never lost another baby!
 * License: [CC-BY]
 * Text: Wesley Kipkorir Rop
 * Illustration: Jesse Breytenbach
-* Language: English
+* Language: en

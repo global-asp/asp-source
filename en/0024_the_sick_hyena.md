@@ -65,4 +65,4 @@ from that place!
 * License: [CC-BY]
 * Text: Mozambican folktale
 * Illustration: Razaque Lázaro Quive
-* Language: English
+* Language: en

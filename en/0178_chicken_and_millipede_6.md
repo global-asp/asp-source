@@ -51,6 +51,6 @@ wasn't friends anymore.
 * Text: Winny Asara
 * Illustration: Winny Asara
 * Adaptation: Dedre Grobler
-* Language: English
+* Language: en
 
 This story was written by a student teacher at Arua PTC in Uganda.

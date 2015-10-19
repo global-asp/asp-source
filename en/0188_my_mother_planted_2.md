@@ -57,4 +57,4 @@ planted was of flowers.
 * Text: Tom Sabwa
 * Illustration: Jonathan Field
 * Translated By: Cornelius Gulere
-* Language: English
+* Language: en

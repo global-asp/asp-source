@@ -63,4 +63,4 @@ the morning light.
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

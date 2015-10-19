@@ -70,4 +70,4 @@ behind getting warm from his Mom's dish cloth!
 * Text: Sara Mohale
 * Illustration: Catherine Groenewald, Wiehan de Jager and Marion Drew
 * Adaptation: Sara Motlhago Mohale
-* Language: English
+* Language: en

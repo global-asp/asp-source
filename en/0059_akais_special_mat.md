@@ -113,4 +113,4 @@ roast meat.
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
-* Language: English
+* Language: en

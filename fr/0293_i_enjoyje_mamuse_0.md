@@ -51,4 +51,4 @@ cela.
 * Text: Ursula Nafula
 * Illustration: Wiehan de Jager
 * Translation: Isabelle Duston
-* Language: French
+* Language: fr

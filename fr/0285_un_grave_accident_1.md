@@ -47,4 +47,4 @@ Nous étions choqués.
 * Text: Zanele Buthelezi, Thembani Dladla, Clare Verbeek
 * Illustration: Rob Owen
 * Translation: Isabelle Barth, Translators without Borders
-* Language: French
+* Language: fr

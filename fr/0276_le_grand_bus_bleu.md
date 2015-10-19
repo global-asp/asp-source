@@ -130,4 +130,4 @@ que le bus allait en ville
 * Text: Mecelin Kakoro
 * Illustration: Mango Tree
 * Translation: Véronique Thomas, Translators without Borders
-* Language: French
+* Language: fr

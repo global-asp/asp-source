@@ -26,6 +26,6 @@ Tell me more about weather........
 * Text: Clark Ness
 * Illustration: Microsoft Clip Art, Jesse Breytenbach, Wiehan de Jager, Rijuta Ghate and Vusi Malindi
 * Adaptation: Nabune Beatres, Hamba Dinah and Alungho Rose
-* Language: English
+* Language: en
 
 This story was adapted during story time at Mugulu integrated primary school.

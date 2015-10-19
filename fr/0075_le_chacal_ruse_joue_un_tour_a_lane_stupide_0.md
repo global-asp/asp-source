@@ -64,4 +64,4 @@ crier : "À l'aide ! Il y a quelqu'un !"
 * Text: Kholeka Mabeta
 * Illustration: Benjamin Mitchley
 * Translation: Isabelle Barth, Translators without Borders
-* Language: French
+* Language: fr

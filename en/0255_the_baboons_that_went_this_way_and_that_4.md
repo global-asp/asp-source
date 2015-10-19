@@ -100,4 +100,4 @@ do people and many other animals.
 * Text: Southern African Folktale
 * Illustration: Benjamin Mitchley
 * Adaptation: Sheila Drew
-* Language: English
+* Language: en

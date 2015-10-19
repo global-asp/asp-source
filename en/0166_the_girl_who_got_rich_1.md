@@ -103,4 +103,4 @@ mouth.”
 * Text: Salaama Wanale
 * Illustration: Mango Tree
 * Translated By: Salaama Wanale
-* Language: English
+* Language: en

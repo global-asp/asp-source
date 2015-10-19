@@ -68,4 +68,4 @@ arbre.
 * Text: Nicola Rijsdijk
 * Illustration: Maya Marshak
 * Translation: Boulanger Mirei, Translators without Borders
-* Language: French
+* Language: fr

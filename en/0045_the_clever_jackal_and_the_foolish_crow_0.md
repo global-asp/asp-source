@@ -62,4 +62,4 @@ hungry.
 * License: [CC-BY]
 * Text: Kholeka Mabeta
 * Illustration: Benjamin Mitchley
-* Language: English
+* Language: en

@@ -113,4 +113,4 @@ vandalising the place.
 * License: [CC-BY]
 * Text: Phoebe Sibomana
 * Illustration: Marion Drew
-* Language: English
+* Language: en

@@ -119,6 +119,6 @@ birds.
 * License: [CC-BY]
 * Text: South African Folktale
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en
 
 Adapted from a story in 'South African Folk-Tales', by James A. Honey, 1910.

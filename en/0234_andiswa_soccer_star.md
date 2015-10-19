@@ -41,4 +41,4 @@ allowed to play soccer at the school.
 * Text: Eden Daniels
 * Illustration: Eden Daniels
 Lisa Treffry-Goatley (ed.)
-* Language: English
+* Language: en

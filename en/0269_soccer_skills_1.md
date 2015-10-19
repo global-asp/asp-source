@@ -58,4 +58,4 @@ was shot by Joseph.
 * Text: Joseph Ejoyi
 * Illustration: Joseph Ejoyi
 * Translated By: Nelson Acadri
-* Language: English
+* Language: en

@@ -38,4 +38,4 @@ Les bébés babillent…
 * Text: Carole Bloch
 * Illustration: Jean Fullalove
 * Translation: Claire Sjaarda, Translators without Borders
-* Language: French
+* Language: fr

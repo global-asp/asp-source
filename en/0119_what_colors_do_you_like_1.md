@@ -50,6 +50,6 @@ My friend and I like green apple.
 * Illustration: Sandy Lightly, Catherine Groenewald,
 Wiehan de Jager, Sue Kramer, Rijuta Ghate and Amir
 Bachir António Necas
-* Language: English
+* Language: en
 
 Children and teachers will enjoy reading this story.

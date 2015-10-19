@@ -84,4 +84,4 @@ What I do not know, I ask my parents or my teacher.
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Michael Nakuwa
-* Language: English
+* Language: en

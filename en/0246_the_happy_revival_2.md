@@ -80,4 +80,4 @@ respect you.”
 * License: [CC-BY]
 * Text: Rebecca Njuguna
 * Illustration: Catherine Groenewald
-* Language: English
+* Language: en

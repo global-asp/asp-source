@@ -31,4 +31,4 @@ de nouveau.
 * Text: Christian G.
 * Illustration: Wiehan de Jager
 * Translation: Marianne Pasty-Abdul Wahid, Translators without Borders
-* Language: French
+* Language: fr

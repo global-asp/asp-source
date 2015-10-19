@@ -61,6 +61,6 @@ they live? Which one would you eat?
 * Text: Wendy Parry
 * Illustration: Rob Owen
 * Adaptation: Wendy Parry
-* Language: English
+* Language: en
 
 First paragraph story about animals found in Uganda

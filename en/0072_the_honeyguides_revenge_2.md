@@ -127,4 +127,4 @@ of the comb for Honeyguide!
 * License: [CC-BY]
 * Text: Zulu folktale
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

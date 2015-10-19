@@ -90,4 +90,4 @@ Dikuango, who have all passed away since.
 * License: [CC-BY]
 * Text: Traditional San story
 * Illustration: Manyeka Arts Trust
-* Language: English
+* Language: en

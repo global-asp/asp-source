@@ -60,4 +60,4 @@ my last!
 * License: [CC-BY]
 * Text: Katelyn Mostert
 * Illustration: Catherine Groenewald and Wiehan de Jager
-* Language: English
+* Language: en

@@ -150,4 +150,4 @@ ogre's house and property.
 * Text: Fabian Wakholi
 * Illustration: Natalie Propa
 * Translated By: Fabian Wakholi
-* Language: English
+* Language: en

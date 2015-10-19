@@ -68,4 +68,4 @@ ensemble en paix.
 * Text: Joachim Muhindo
 * Illustration: Marleen Visser
 * Translation: Murielle Brugoux, Translators without Borders
-* Language: French
+* Language: fr

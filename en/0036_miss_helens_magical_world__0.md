@@ -165,4 +165,4 @@ she made, looking East.
 * License: [CC-BY]
 * Text: Jacqui L'ange
 * Illustration: Wendy Morison
-* Language: English
+* Language: en

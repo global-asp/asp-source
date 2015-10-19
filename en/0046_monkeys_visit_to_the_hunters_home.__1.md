@@ -99,6 +99,6 @@ she disappeared up the tree.
 * Text: Wesley Kipkorir Rop
 * Illustration: Jesse Breytenbach
 Adapted By: Nambubi Catherine, Haumba Herbert and Alungho Rose
-* Language: English
+* Language: en
 
 This book should have all the pages sumerised at the end on one page

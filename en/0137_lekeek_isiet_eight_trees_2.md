@@ -78,4 +78,4 @@ stories and games.
 * License: [CC-BY]
 * Text: Caroline Lentupuru
 * Illustration: Caroline Lentupuru
-* Language: English
+* Language: en

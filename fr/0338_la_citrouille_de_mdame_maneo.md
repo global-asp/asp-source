@@ -115,4 +115,4 @@ M'dame Maneo.
 * Text: Marion Drew
 * Illustration: Marion Drew
 * Translation: Véronique mazet, Translators without Borders
-* Language: French
+* Language: fr

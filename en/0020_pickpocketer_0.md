@@ -30,6 +30,6 @@ Matome was locked in jail for pickpocketing.
 * License: [CC-BY]
 * Text: Kate Nkwane
 * Illustration: Wiehan de Jager and Catherine Groenewald
-* Language: English
+* Language: en
 
 Pickpockenting is a criminal case and it is unacceptable.

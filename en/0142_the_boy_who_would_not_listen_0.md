@@ -51,6 +51,6 @@ the talking lion gave me"
 * Text: Jonathan Githui, Gavin Gatamu and Eissa elzaki
 * Illustration: Wiehan de Jager, Zablon Alex Nguku, Vusi
 Malindi, Robert McEwan and Catherine Groenewald
-* Language: English
+* Language: en
 
 The writers are young charismatic boys with a thirst for writing

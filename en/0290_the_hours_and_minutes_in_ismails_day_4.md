@@ -107,4 +107,4 @@ reading this one?
 * License: [CC-BY]
 * Text: Espen Stranger-Johannessen
 * Illustration: Sue Kramer, Cathy Feek, Angie & Upesh, Jesse Pietersen, Wiehan de Jager, Eden Daniels, Magriet Brink, Bronwen Heath, Mango Tree and Rob Owen
-* Language: English
+* Language: en

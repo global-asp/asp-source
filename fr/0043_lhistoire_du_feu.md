@@ -39,4 +39,4 @@ laisse seul.
 * Text: Deborah Namugosa, Beatres Nabune, Alison Tukei, Rose Sabano
 * Illustration: Rob Owen, Wiehan de Jager, Amir Bachir António Necas
 * Translation: Marianne Pasty-Abdul Wahid, Translators without Borders
-* Language: French
+* Language: fr

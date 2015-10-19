@@ -95,4 +95,4 @@ together!”
 * Text: Marion Drew and Khothatso Ranoosi
 * Illustration: Marion Drew
 * Translated By: Khothatso Ranoosi and Marion Drew
-* Language: English
+* Language: en

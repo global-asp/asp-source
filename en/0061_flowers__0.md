@@ -36,6 +36,6 @@ We all like flowers.
 * License: [CC-BY]
 * Text: Rashida, Joy, Jovia, Zulu and Phionah
 * Illustration: Jonathan Field, Rob Owen and Wiehan de Jager
-* Language: English
+* Language: en
 
 This story was created by children of Mango Grove Junior School

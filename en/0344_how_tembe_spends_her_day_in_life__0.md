@@ -61,7 +61,7 @@ How do you spend your day?
 * Text: Espen Stranger-Johannessen
 * Illustration: Sue Kramer, Cathy Feek, Angie & Upesh, Jesse Pietersen, Wiehan de Jager, Eden Daniels, Magriet Brink, Bronwen Heath, Mango Tree, Rob Owen, Jesse Breytenbach, Vusi Malindi and Marion Drew
 * Adaptation: Mubbalya charles and Tabingwas Aisha
-* Language: English
+* Language: en
 
 This story was adapted by teachers
 of Bubaali primary school in

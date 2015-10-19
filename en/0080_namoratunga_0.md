@@ -83,4 +83,4 @@ the site of Namoratunga.
 * Text: Simon Ipoo
 * Illustration: Zablon Alex Nguku
 * Translated By: Simon Ipoo
-* Language: English
+* Language: en

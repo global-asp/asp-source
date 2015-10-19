@@ -47,4 +47,4 @@ In Africa.
 * License: [CC-BY-NC]
 * Text: Reviva Schermbrucker
 * Illustration: Sue Kramer
-* Language: English
+* Language: en

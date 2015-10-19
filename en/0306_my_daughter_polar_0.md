@@ -32,4 +32,4 @@ happy.
 * License: [CC-BY]
 * Text: Cissy Namugerwa
 * Illustration: Vusi Malindi
-* Language: English
+* Language: en

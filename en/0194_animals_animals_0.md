@@ -34,4 +34,4 @@ much .
 * Text: Jenny Katz
 * Illustration: Sandy Campbell, Rob Owen and Wiehan de Jager
 * Adaptation: Tabingwa Aisha, Mubbalya Charles and Tulina Monica
-* Language: English
+* Language: en

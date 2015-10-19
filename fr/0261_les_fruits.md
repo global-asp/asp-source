@@ -130,4 +130,4 @@ célébrer le mariage.
 * Text: Shakira Bodio
 * Illustration: Wiehan de Jager
 * Translation: Nathalie Hecker, Translators without Borders
-* Language: French
+* Language: fr

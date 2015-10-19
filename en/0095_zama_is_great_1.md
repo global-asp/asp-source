@@ -64,4 +64,4 @@ play!
 * Text: Michael Oguttu
 * Illustration: Vusi Malindi
 * Adaptation: Nina Orange
-* Language: English
+* Language: en

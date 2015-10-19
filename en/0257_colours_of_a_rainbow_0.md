@@ -74,4 +74,4 @@ colours of the rainbow?
 * Text: Caren Echesa
 * Illustration: Jesse Breytenbach
 * Translated By: Caren Echesa
-* Language: English
+* Language: en

@@ -116,4 +116,4 @@ bavarde avec les étrangers.
 * Text: Gaspah Juma
 * Illustration: Jesse Breytenbach
 * Translation: Johanne Jean-maître, Translators without Borders
-* Language: French
+* Language: fr

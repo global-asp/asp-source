@@ -116,4 +116,4 @@ telling and reading stories.
 * License: [CC-BY]
 * Text: Cheré ne Pienaar
 * Illustration: Jano Strydom and Candace di Talamo
-* Language: English
+* Language: en

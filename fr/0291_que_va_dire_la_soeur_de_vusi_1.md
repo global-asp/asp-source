@@ -129,4 +129,4 @@ Et c'est ce que fit Vusi.
 * Text: Nina Orange
 * Illustration: Wiehan de Jager
 * Translation: Isabelle Duston et Véronique Biddau
-* Language: French
+* Language: fr

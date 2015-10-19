@@ -86,4 +86,4 @@ There was no one in the class.
 * License: [CC-BY]
 * Text: Madhav Chavan and Meera Tendolkar
 * Illustration: Ketan Raut
-* Language: English
+* Language: en

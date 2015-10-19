@@ -119,4 +119,4 @@ return to the wild.
 * License: [CC-BY]
 * Text: Ursula Nafula and Nina Orange
 * Illustration: Magriet Brink
-* Language: English
+* Language: en

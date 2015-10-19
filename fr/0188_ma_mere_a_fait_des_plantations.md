@@ -66,4 +66,4 @@ jardin de fleurs.
 * Text: Tom Sabwa
 * Illustration: Jonathan Field
 * Translation: Muriel Binek, Translators without Borders
-* Language: French
+* Language: fr

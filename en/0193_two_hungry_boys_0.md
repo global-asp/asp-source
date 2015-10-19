@@ -35,4 +35,4 @@ are left for granny?
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
 * Illustration: Bronwen Heath
-* Language: English
+* Language: en

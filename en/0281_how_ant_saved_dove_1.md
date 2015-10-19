@@ -134,4 +134,4 @@ saving him.
 * License: [CC-BY]
 * Text: Kholeka Mabeta and Judith Baker
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

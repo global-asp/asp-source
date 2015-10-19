@@ -51,6 +51,6 @@ grain.
 * Text: bubaali primary school
 * Illustration: Stephanie Simpson, Hélder de Paz
 Alexandre, Magriet Brink and Emily Berg
-* Language: English
+* Language: en
 
 This story was created by teachers of p.3 at Bubaali primary school

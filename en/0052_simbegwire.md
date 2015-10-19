@@ -198,4 +198,4 @@ her father and her stepmother.
 * License: [CC-BY]
 * Text: Rukia Nantale
 * Illustration: Benjamin Mitchley
-* Language: English
+* Language: en

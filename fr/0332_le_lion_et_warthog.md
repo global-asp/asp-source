@@ -153,4 +153,4 @@ monde est en sécurité.
 * Text: South African Folktale
 * Illustration: Wiehan de Jager
 * Translation: Muriel Binek, Translators without Borders
-* Language: French
+* Language: fr

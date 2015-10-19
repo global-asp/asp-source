@@ -42,4 +42,4 @@ maman à la maison.
 * Text: Annet Ssebaggala
 * Illustration: Genevieve Terblanche, Wiehan de Jager, Vusi Malindi, Karlien de Villiers
 * Translation: Isabelle Duston et Véronique Biddau
-* Language: French
+* Language: fr

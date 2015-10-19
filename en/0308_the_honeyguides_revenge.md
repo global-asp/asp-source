@@ -127,4 +127,4 @@ of the comb for Honeyguide!
 * Text: Zulu folktale
 * Illustration: Wiehan de Jager
 * Translated By: M. Davidson
-* Language: English
+* Language: en

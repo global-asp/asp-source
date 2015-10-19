@@ -52,4 +52,4 @@ longues années.
 * Text: Cornelius Gulere
 * Illustration: Catherine Groenewald
 * Translation: Isabelle Duston et Véronique Biddau
-* Language: French
+* Language: fr

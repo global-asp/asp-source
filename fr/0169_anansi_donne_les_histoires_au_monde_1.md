@@ -148,4 +148,4 @@ dans des boîtes de bois.
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Anne Duranceau, Translators without Borders
-* Language: French
+* Language: fr

@@ -41,4 +41,4 @@ With my hand...
 * License: [CC-BY-NC]
 * Text: Carole Bloch
 * Illustration: Thembinkosi Kohli
-* Language: English
+* Language: en

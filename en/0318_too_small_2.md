@@ -49,4 +49,4 @@
 * License: [CC-BY-NC]
 * Text: Media Matters
 * Illustration: Sandy Lightly
-* Language: English
+* Language: en

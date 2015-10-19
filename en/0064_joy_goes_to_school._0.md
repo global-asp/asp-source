@@ -37,7 +37,7 @@ Joy is in class.
 * License: [CC-BY]
 * Text: Augustine Napagi
 * Illustration: Vusi Malindi
-* Language: English
+* Language: en
 
 The story is about Joy getting
 support to go to school from her

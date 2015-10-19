@@ -41,4 +41,4 @@ are very happy.
 * Text: Paul Maseri
 * Illustration: Wiehan de Jager
 * Translated By: Paul Maseri
-* Language: English
+* Language: en

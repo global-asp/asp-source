@@ -175,4 +175,4 @@ had a wonderful grandmother!
 * License: [CC-BY]
 * Text: Violet Otieno
 * Illustration: Catherine Groenewald
-* Language: English
+* Language: en

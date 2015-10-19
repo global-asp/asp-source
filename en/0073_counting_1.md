@@ -39,4 +39,4 @@ continue drinking?
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
 * Illustration: Gay Galsworthy
-* Language: English
+* Language: en

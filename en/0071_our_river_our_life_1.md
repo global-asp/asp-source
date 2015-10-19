@@ -54,4 +54,4 @@ River Temu.”
 * Text: Rebecca Njuguna
 * Illustration: Catherine Groenewald
 * Adaptation: Ursula Nafula
-* Language: English
+* Language: en

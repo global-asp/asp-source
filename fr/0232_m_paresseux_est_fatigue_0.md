@@ -105,4 +105,4 @@ arbre.
 * Text: Paul Kennedy
 * Illustration: Graham Paterson
 * Translation: Isabelle Barth, Translators without Borders
-* Language: French
+* Language: fr

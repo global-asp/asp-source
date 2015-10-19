@@ -32,4 +32,4 @@ The farmer says,
 * License: [CC-BY-NC]
 * Text: Jenny Katz
 * Illustration: Sandy Campbell
-* Language: English
+* Language: en

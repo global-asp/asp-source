@@ -61,4 +61,4 @@ maman.
 * Text: Annet Ssebaggala
 * Illustration: Melany Pietersen
 * Translation: Marianne Pasty-Abdul Wahid, Translators without Borders
-* Language: French
+* Language: fr

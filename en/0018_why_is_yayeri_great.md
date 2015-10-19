@@ -81,4 +81,4 @@ is Yayeri great?”
 * Text: Michael Oguttu
 * Illustration: Vusi Malindi
 * Translated By: Cornelius Gulere
-* Language: English
+* Language: en

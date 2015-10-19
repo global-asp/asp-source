@@ -82,6 +82,6 @@ millipedes were enemies.
 * Text: Winny Asara
 * Illustration: Winny Asara
 * Translated By: Nelson Acadrfi
-* Language: English
+* Language: en
 
 This story was written by a student teacher at Arua PTC in Uganda.

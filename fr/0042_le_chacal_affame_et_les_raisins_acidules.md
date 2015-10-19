@@ -57,4 +57,4 @@ chemin plus affamé que jamais.
 * Text: Kholeka Mabeta
 * Illustration: Benjamin Mitchley
 * Translation: Lina Scarpellini, Translators without Borders
-* Language: French
+* Language: fr

@@ -180,4 +180,4 @@ anyone they wanted, rich or poor.
 * License: [CC-BY]
 * Text: Amana Yunus
 * Illustration: Natalie Propa
-* Language: English
+* Language: en

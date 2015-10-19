@@ -33,4 +33,4 @@ in the bean.
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
 * Illustration: Mlungisi Dlamini
-* Language: English
+* Language: en

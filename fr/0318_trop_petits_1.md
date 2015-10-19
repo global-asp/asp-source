@@ -88,4 +88,4 @@ moi ! »
 * Text: Media Matters
 * Illustration: Sandy Lightly
 * Translation: Sébastien Rolland (freisk!), Translators without Borders
-* Language: French
+* Language: fr

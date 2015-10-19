@@ -52,4 +52,4 @@ She knocked again. Then the chief opened the door.
 * License: [CC-BY]
 * Text: Nannono milly
 * Illustration: Jesse Breytenbach
-* Language: English
+* Language: en

@@ -73,4 +73,4 @@ dish cloth!
 * License: [CC-BY]
 * Text: Sara Mohale
 * Illustration: Catherine Groenewald and Wiehan de Jager
-* Language: English
+* Language: en

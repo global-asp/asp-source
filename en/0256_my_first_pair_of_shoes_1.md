@@ -96,4 +96,4 @@ bed!
 * Text: Ursula Nafula
 * Illustration: Rob Owen
 * Translated By: Ursula Nafula
-* Language: English
+* Language: en

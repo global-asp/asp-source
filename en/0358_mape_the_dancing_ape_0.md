@@ -85,4 +85,4 @@ dancing ape.
 * Text: Sean Whitehead
 * Illustration: Sean Whitehead
 * Editing: Lisa Treffry-Goatley
-* Language: English
+* Language: en

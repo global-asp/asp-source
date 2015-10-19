@@ -145,4 +145,4 @@ forest alone.
 * License: [CC-BY]
 * Text: Sarah Nangobi
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

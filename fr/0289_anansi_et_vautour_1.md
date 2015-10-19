@@ -128,4 +128,4 @@ pauvre… et sans ami.
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Hacène Dramchini, Translators without Borders
-* Language: French
+* Language: fr

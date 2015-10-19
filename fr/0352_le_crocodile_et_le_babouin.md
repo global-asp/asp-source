@@ -67,4 +67,4 @@ fâchés.
 * Text: Basilio Gimo
 * Illustration: Jeremiah Dube
 * Translation: Gilles Falcone, Translators without Borders
-* Language: French
+* Language: fr

@@ -45,4 +45,4 @@ Avec ma main…
 * Text: Carole Bloch
 * Illustration: Thembinkosi Kohli
 * Translation: Isabelle Duston et Véronique Biddau
-* Language: French
+* Language: fr

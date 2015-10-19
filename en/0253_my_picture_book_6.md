@@ -17,4 +17,4 @@ A cat
 * Text: Oku Modesto
 * Illustration: Rob Owen, Marleen Visser, Katrien Coetzer, Wiehan de Jager, Karen Lilje, Catherine Groenewald and Alice Toich
 * Adaptation: Rose Alungho
-* Language: English
+* Language: en

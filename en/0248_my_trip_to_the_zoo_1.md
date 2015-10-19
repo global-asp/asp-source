@@ -33,4 +33,4 @@ us home.
 * License: [CC-BY]
 * Text: Mmapule Nkuna
 * Illustration: Melany Pietersen, Rob Owen and Catherine Groenewald
-* Language: English
+* Language: en

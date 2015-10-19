@@ -117,4 +117,4 @@ disais:« Cours lapin cours! »
 * Text: Phumy Zikode
 * Illustration: Wiehan de Jager
 * Translation: Ode Laforge, Translators without Borders
-* Language: French
+* Language: fr

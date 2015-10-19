@@ -140,4 +140,4 @@ toutes mes chansons.
 * Text: Jade Mathieson
 * Illustration: Louwrisa Blaauw
 * Translation: Isabelle Barth, Translators without Borders
-* Language: French
+* Language: fr

@@ -157,4 +157,4 @@ plus jamais seul dans la forêt
 * Text: Sarah Nangobi
 * Illustration: Wiehan de Jager
 * Translation: Isabelle Duston et Véronique Biddau
-* Language: French
+* Language: fr

@@ -96,4 +96,4 @@ flowers, ponds and soft earth.
 * License: [CC-BY]
 * Text: Herminder Ohri
 * Illustration: Herminder Ohri
-* Language: English
+* Language: en

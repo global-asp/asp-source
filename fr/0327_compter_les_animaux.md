@@ -41,4 +41,4 @@ l’eau avec le lion.
 * Text: Zanele Buthelezi, Thembani Dladla, Clare Verbeek
 * Illustration: Rob Owen
 * Translation: Gilles Falcone, Translators without Borders
-* Language: French
+* Language: fr

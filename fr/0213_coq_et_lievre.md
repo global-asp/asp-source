@@ -58,4 +58,4 @@ Et que croyez-vous qu’il arriva
 * Text: Geoffrey Thiiru
 * Illustration: Duane Arthur
 * Translation: Gilles, Translators without Borders
-* Language: French
+* Language: fr

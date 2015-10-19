@@ -103,4 +103,4 @@ ensemble !"
 * Text: Marion Drew, Khothatso Ranoosi
 * Illustration: Marion Drew
 * Translation: Isabelle Barth, Translators without Borders
-* Language: French
+* Language: fr

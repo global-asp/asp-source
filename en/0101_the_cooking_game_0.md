@@ -68,4 +68,4 @@ best friend!
 * License: [CC-BY]
 * Text: Mozambican folktale
 * Illustration: Reginaldo Vicente Manhice
-* Language: English
+* Language: en

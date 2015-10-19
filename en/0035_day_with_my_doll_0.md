@@ -21,4 +21,4 @@
 * Text: Lawrence A. Konjuro
 * Illustration: Natalie Propa
 * Adaptation: Nina Orange
-* Language: English
+* Language: en

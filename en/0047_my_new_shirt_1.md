@@ -42,4 +42,4 @@ new school shirt.
 * License: [CC-BY-NC]
 * Text: Ivan higenyi
 * Illustration: Wiehan de Jager, Rob Owen, Joseph Ejoyi, Catherine Groenewald, Jano Strydom, Benard Agasi, Vusi Malindi, Jesse Breytenbach and Sandy Lightly
-* Language: English
+* Language: en

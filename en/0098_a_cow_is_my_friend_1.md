@@ -19,4 +19,4 @@ good shoes.
 * License: [CC-BY]
 * Text: Frista and Fatima
 * Illustration: Marleen Visser and Felicity Bell
-* Language: English
+* Language: en

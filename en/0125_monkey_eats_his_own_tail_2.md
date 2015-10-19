@@ -74,4 +74,4 @@ became enemies!
 * Text: Mozambican folktale
 * Illustration: Horácio José Cossa
 * Adaptation: Simon Ipoo
-* Language: English
+* Language: en

@@ -100,4 +100,4 @@ friends.
 * License: [CC-BY]
 * Text: Ann Nduku
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

@@ -98,4 +98,4 @@ professeur.
 * Text: Ursula Nafula
 * Illustration: Michael Nakuwa
 * Translation: Translators without Borders
-* Language: French
+* Language: fr

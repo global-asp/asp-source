@@ -120,4 +120,4 @@ morceau de viande rôtie.
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Boulanger Mirei, Translators without Borders
-* Language: French
+* Language: fr

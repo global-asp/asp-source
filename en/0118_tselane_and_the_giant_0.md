@@ -188,4 +188,4 @@ happily!
 * License: [CC-BY]
 * Text: Lorato Trok
 * Illustration: Catherine Groenewald
-* Language: English
+* Language: en

@@ -131,4 +131,4 @@ voulaient aller.
 * Text: Cissy Kiwanuka Luyiga
 * Illustration: Magriet Brink
 * Translation: Isabelle Barth, Translators without Borders
-* Language: French
+* Language: fr

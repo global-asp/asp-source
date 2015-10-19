@@ -70,4 +70,4 @@ Or, chacun doit d’abord être un
 * Text: Beatrice Inzikuru
 * Illustration: Wiehan de Jager
 * Translation: Translators without Borders
-* Language: French
+* Language: fr

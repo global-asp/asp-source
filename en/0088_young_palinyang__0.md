@@ -124,4 +124,4 @@ And that is how Palinyang' started going to school.
 * License: [CC-BY]
 * Text: Gaspah Emukuru Juma
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

@@ -121,4 +121,4 @@ longs for her husband.
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Jemma Kahn
-* Language: English
+* Language: en

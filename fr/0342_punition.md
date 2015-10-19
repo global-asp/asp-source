@@ -74,4 +74,4 @@ croyons.
 * Text: Adelheid Marie Bwire
 * Illustration: Melany Pietersen
 * Translation: Suzanne Alban, Translators without Borders
-* Language: French
+* Language: fr

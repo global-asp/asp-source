@@ -68,7 +68,7 @@ cat!
 * License: [CC-BY]
 * Text: Val Morris
 * Illustration: Heslia Schon
-* Language: English
+* Language: en
 
 Books in Homes is supported by
 White River Rotary Club South

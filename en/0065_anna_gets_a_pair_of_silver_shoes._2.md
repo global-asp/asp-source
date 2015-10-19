@@ -74,4 +74,4 @@ Then all the children clapped and Anna was very happy.
 * License: [CC-BY]
 * Text: Chana Emmy Pius Smart
 * Illustration: Rob Owen and Maya Marshak
-* Language: English
+* Language: en

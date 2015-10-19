@@ -157,4 +157,4 @@ I love my Bandit. He's my best!
 * License: [CC-BY]
 * Text: Rachel Zadok
 * Illustration: Candace di Talamo
-* Language: English
+* Language: en

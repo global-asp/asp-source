@@ -227,4 +227,4 @@ Collection de tableaux réalisés par les artistes San.
 * Text: Traditional San story
 * Illustration: Manyeka Arts Trust
 * Translation: Berthelot Paul (Bruno), Translators without Borders
-* Language: French
+* Language: fr

@@ -90,4 +90,4 @@ beautiful girl in the village.
 * License: [CC-BY]
 * Text: Alice Kapolondo
 * Illustration: Catherine Groenewald, Microsoft Clip Art and Wiehan de Jager
-* Language: English
+* Language: en

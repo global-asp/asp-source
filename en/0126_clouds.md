@@ -22,4 +22,4 @@ I like clouds.
 * License: [CC-BY]
 * Text: Clark Ness
 * Illustration: Microsoft Clip Art
-* Language: English
+* Language: en

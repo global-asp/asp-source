@@ -81,4 +81,4 @@ Cet événement marqua la fin de leur amitié.
 * Text: Kennedy Amandu
 * Illustration: Rob Owen
 * Translation: Lina Scarpellini, Translators without Borders
-* Language: French
+* Language: fr

@@ -39,4 +39,4 @@ using their cocoons.
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
 * Illustration: Cathy Feek
-* Language: English
+* Language: en

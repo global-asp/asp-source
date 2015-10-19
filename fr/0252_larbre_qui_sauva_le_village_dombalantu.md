@@ -155,4 +155,4 @@ tous sauvés," conclut-elle.
 * Text: Karen von Wiese, Beryl Salt, Muhdni Grimwood, Barbara Meyerowitz
 * Illustration: Julia te Water Naude
 * Translation: Olivia Mahe, Translators without Borders
-* Language: French
+* Language: fr

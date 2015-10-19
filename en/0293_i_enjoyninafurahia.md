@@ -1,4 +1,4 @@
-# I enjoy/Ninafurahia
+# I enjoy
 
 ##
 I enjoy skipping rope...
@@ -37,4 +37,4 @@ Ooh! I enjoy doing all these things!
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Wiehan de Jager
-* Language: Kiswahili and English
+* Language: en

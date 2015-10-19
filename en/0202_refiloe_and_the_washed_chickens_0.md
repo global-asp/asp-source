@@ -185,4 +185,4 @@ to give you another wash tomorrow!"
 * License: [CC-BY]
 * Text: Marion Drew
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

@@ -58,4 +58,4 @@ coach!
 * Illustration: Vusi Malindi
 * Translated By: Nolitha Bikitsha and Thandabantu
 Magengelele
-* Language: English
+* Language: en

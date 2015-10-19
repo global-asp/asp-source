@@ -110,4 +110,4 @@ repas ce jour-là.
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Isabelle Barth, Translators without Borders
-* Language: French
+* Language: fr

@@ -72,4 +72,4 @@ Au revoir!
 * Text: Marion Drew
 * Illustration: Marion Drew
 * Translation: Véronique Thomas, Translators without Borders
-* Language: French
+* Language: fr

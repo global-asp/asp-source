@@ -57,4 +57,4 @@ neighbours.
 * Text: Carlos Kanembera
 * Illustration: Trevor Kellog
 * Translated By: Little Zebra Books
-* Language: English
+* Language: en

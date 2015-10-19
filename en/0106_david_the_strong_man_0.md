@@ -28,4 +28,4 @@ birth to a baby boy, they named him David.
 * License: [CC-BY]
 * Text: Godi Timothy
 * Illustration: Rob Owen, Hélder de Paz Alexandre, Amir Bachir António Necas and Catherine Groenewald
-* Language: English
+* Language: en

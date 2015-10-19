@@ -66,4 +66,4 @@ moi.
 * Text: Lawrence A. Konjuro
 * Illustration: Natalie Propa
 * Translation: Marianne Pasty-Abdul Wahid, Translators without Borders
-* Language: French
+* Language: fr

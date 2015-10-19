@@ -28,6 +28,6 @@ This is the end of the story. Bye, cat and rats!
 * License: [CC-BY]
 * Text: Bwambale Peter
 * Illustration: Bwambale Peter
-* Language: English
+* Language: en
 
 This book was written and illustrated by a primary school boy in Uganda.

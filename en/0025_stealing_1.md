@@ -24,7 +24,7 @@ they found him roasting the meat.
 * License: [CC-BY]
 * Text: Deborah
 * Illustration: Jemma Kahn, Wiehan de Jager, Catherine Groenewald and Kathy Arbuckle
-* Language: English
+* Language: en
 
 People should have respect for
 others property.

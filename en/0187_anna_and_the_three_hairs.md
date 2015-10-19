@@ -106,4 +106,4 @@ has never been seen since.
 * Text: Tessa Welch
 * Illustration: Wiehan de Jager
 * Translated By: M. Davidson
-* Language: English
+* Language: en

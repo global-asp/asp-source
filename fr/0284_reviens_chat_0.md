@@ -40,4 +40,4 @@ Chat ?
 * Text: Nicola Rijsdijk
 * Illustration: Karen Lilje
 * Translation: Gilles Falcone, Translators without Borders
-* Language: French
+* Language: fr

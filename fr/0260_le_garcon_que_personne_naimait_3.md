@@ -160,7 +160,7 @@ l’avait laissée.
 * Text: Phumy Zikode
 * Illustration: Wiehan de Jager
 * Translation: Hacène Dramchini, Translators without Borders
-* Language: French
+* Language: fr
 
 Cette histoire est tirée du Projet
 d’alphabétisation familiale d’Afrique

@@ -20,4 +20,4 @@
 * License: [CC-BY]
 * Text: Sheila Drew
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

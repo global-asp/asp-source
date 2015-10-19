@@ -42,6 +42,6 @@ to have a bright future.
 * Text: Cissy Namugerwa and Nanyonga Allen
 * Illustration: Genevieve Terblanche, Melany Pietersen, Catherine Groenewald, Marion Drew, Mlungisi Dlamini, Rob Owen, Natalie Propa, Franz Phooko and Wiehan de Jager
 * Adaptation: Ritah Katetemera
-* Language: English
+* Language: en
 
 A very short and brief story that talks about a little boy named John Francis.

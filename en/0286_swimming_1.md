@@ -58,4 +58,4 @@ more water.
 * Text: Alice Inzikuru
 * Illustration: Alice Inzikuru and Robert McEwan
 * Translated By: Nelson Acadri
-* Language: English
+* Language: en

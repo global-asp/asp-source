@@ -117,4 +117,4 @@ with an animal.
 * Text: John Emongot
 * Illustration: Catherine Groenewald, Wiehan de Jager, Caroline Lentupuru, Laura Libertore and Benjamin Mitchley
 * Adaptation: Rose Alungho, Beatresnabune and Herbert humba
-* Language: English
+* Language: en

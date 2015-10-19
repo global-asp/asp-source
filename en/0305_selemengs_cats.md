@@ -101,4 +101,4 @@ at home?
 * Text: Khothatso Ranoosi and Marion Drew
 * Illustration: Jesse Breytenbach
 * Translated By: Khothatso Ranoosi and Marion Drew
-* Language: English
+* Language: en

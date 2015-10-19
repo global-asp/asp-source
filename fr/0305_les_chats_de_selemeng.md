@@ -86,4 +86,4 @@ Combien de chiens as-tu chez toi ?
 * Text: Khothatso Ranoosi, Marion Drew
 * Illustration: Jesse Breytenbach
 * Translation: Gilles, Translators without Borders
-* Language: French
+* Language: fr

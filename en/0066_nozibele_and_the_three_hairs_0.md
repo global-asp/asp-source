@@ -107,4 +107,4 @@ has never been seen since.
 * License: [CC-BY]
 * Text: Tessa Welch
 * Illustration: Wiehan de Jager
-* Language: English
+* Language: en

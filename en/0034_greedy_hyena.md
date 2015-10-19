@@ -132,4 +132,4 @@ Chi...gi...gir.”
 * License: [CC-BY]
 * Text: John Nga'sike
 * Illustration: Zablon Alex Nguku
-* Language: English
+* Language: en

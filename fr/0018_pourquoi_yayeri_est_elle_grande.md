@@ -81,4 +81,4 @@ Nous nous demandons :
 * Text: Michael Oguttu
 * Illustration: Vusi Malindi
 * Translation: Nathalie Hecker, Translators without Borders
-* Language: French
+* Language: fr

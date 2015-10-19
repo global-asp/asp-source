@@ -105,4 +105,4 @@ the letter was gone.
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Adaptation: Velasco Williams
-* Language: English
+* Language: en
