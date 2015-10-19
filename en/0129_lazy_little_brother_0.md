@@ -22,8 +22,7 @@ I wash the dishes.
 ##
 Why do I work so hard...
 
-##
-…when my brother is
+... when my brother is
 busy playing?
 
 ##

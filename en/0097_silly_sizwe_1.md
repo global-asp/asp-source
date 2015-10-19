@@ -117,7 +117,6 @@ The next day, Sizwe had to work in the Chief's kitchen. He
 worked hard all day washing the dishes. When all the work
 was done, the cook gave Sizwe a big fish to take home.
 
-##
 Sizwe was very happy with the fish, and remembering what his mother had said,
 he tied a rope to the fish and went off home, pulling it behind him.
 
