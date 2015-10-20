@@ -1,4 +1,4 @@
-French translations from the [African Storybook Project](http://africanstorybook.org).
+[French translations](http://africanstorybook.org/language/french) of stories from the [African Storybook Project](http://africanstorybook.org).
 
 Story ID | Title | License
 -------- | ----- | -------

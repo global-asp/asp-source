@@ -1,4 +1,4 @@
-English translations from the [African Storybook Project](http://africanstorybook.org).
+[English translations](http://africanstorybook.org/language/english) of stories from the [African Storybook Project](http://africanstorybook.org).
 
 Story ID | Title | License
 -------- | ----- | -------
@@ -55,7 +55,7 @@ Story ID | Title | License
 0051 | [Narrow escape](http://africanstorybook.org/stories/narrow-escape) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0052 | [Simbegwire](http://africanstorybook.org/stories/simbegwire) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0053 | [This is me](http://africanstorybook.org/stories/me) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
-0054 | [ANNA GETS  A  PAIR OF SILVER  SHOES.](http://africanstorybook.org/stories/anna-gets-pair-silver-shoes-0) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0054 | [How tortoise's nose became crooked](http://africanstorybook.org/stories/how-tortoise%E2%80%99s-nose-became-crooked) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0055 | [Baby snatched by cranes](http://africanstorybook.org/stories/baby-snatched-cranes) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0056 | [Clever cat](http://africanstorybook.org/stories/clever-cat) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0057 | [Sane in the market](http://africanstorybook.org/stories/sane-market) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
