@@ -18,16 +18,14 @@ fried fish and chips.
 I can draw my hand.
 
 ##
-I am six years old.
+I like skipping rope.
 
 ##
 My telephone number is
-033 – 3426587.
+(033) 342-6587.
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Kathy Arbuckle
 * Language: en
-
