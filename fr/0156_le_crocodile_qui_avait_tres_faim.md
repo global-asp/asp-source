@@ -10,7 +10,6 @@ Il cherchait de quoi
 manger, doucement et
 sans faire de bruit.
 
-##
 Et soudain …
 
 ##

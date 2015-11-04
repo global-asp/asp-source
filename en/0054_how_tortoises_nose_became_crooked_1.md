@@ -70,8 +70,8 @@ so hasty.
 
 
 ##
-License: [CC-BY]
-Writer: Taiwo Ẹhinẹni
-Illustration: Marleen Visser
-Translated By: Taiwo Ẹhinẹni
-Language: en
+* License: [CC-BY]
+* Text: Taiwo Ẹhinẹni
+* Illustration: Marleen Visser
+* Translation: Taiwo Ẹhinẹni
+* Language: en

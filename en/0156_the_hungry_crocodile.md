@@ -8,7 +8,6 @@ hungry crocodile.
 He searched for food
 slowly and quietly.
 
-##
 And then...
 
 ##
