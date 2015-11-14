@@ -65,8 +65,8 @@ direcção e assim
 escapou da morte!
 
 ##
-License: [CC-BY]
-Writer: Mozambican folktale
-Illustration: Hélder de Paz Alexandre
-Translated By: Jorge Eusébio Eusébio
-Language: pt
+* License: [CC-BY]
+* Text: Mozambican folktale
+* Illustration: Hélder de Paz Alexandre
+* Translation: Jorge Eusébio Eusébio
+* Language: pt

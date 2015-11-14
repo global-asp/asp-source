@@ -62,8 +62,8 @@ O Coelho ficou muito feliz quando a Hipopótama foi queimada pelo fogo, dizendo:
 "Vinguei-me!”
 
 ##
-License: [CC-BY]
-Writer: Basilio Gimo and David Ker
-Illustration: Carol Liddiment
-Translated By: Little Zebra Books
-Language: pt
+* License: [CC-BY]
+* Text: Basilio Gimo and David Ker
+* Illustration: Carol Liddiment
+* Translation: Little Zebra Books
+* Language: pt

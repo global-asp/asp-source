@@ -43,8 +43,8 @@ estava livre das
 garras do lobo!
 
 ##
-License: [CC-BY]
-Writer: Folktale
-Illustration: José Nhambo
-Translated By: Jorge Eusébio Eusébio
-Language: pt
+* License: [CC-BY]
+* Text: Folktale
+* Illustration: José Nhambo
+* Translation: Jorge Eusébio Eusébio
+* Language: pt

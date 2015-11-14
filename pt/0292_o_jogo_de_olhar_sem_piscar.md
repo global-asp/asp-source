@@ -56,8 +56,8 @@ dorme com os olhos
 abertos!
 
 ##
-License: [CC-BY]
-Writer: Mozambican folktale
-Illustration: Zito Jorge Ngovene
-Translated By: Jorge Eusébio Eusébio
-Language: pt
+* License: [CC-BY]
+* Text: Mozambican folktale
+* Illustration: Zito Jorge Ngovene
+* Translation: Jorge Eusébio Eusébio
+* Language: pt

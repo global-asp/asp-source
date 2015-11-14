@@ -104,8 +104,8 @@ que a Lebre os tinha enganado
 outra vez.
 
 ##
-License: [CC-BY]
-Writer: Um conto tradicional dos Manyungwes de Moçambique
-Illustration: João Carlos Brito
-Translated By: Missing
-Language: pt
+* License: [CC-BY]
+* Text: Um conto tradicional dos Manyungwes de Moçambique
+* Illustration: João Carlos Brito
+* Translation: Missing
+* Language: pt

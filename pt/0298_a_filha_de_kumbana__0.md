@@ -79,8 +79,8 @@ ficaram feliz
 novamente.
 
 ##
-License: [CC-BY]
-Writer: Ingrid Schechter
-Illustration: Razaque Lázaro Quive
-Translated By: Barbara Torres and Graça Rafael Dzucule
-Language: pt
+* License: [CC-BY]
+* Text: Ingrid Schechter
+* Illustration: Razaque Lázaro Quive
+* Translation: Barbara Torres and Graça Rafael Dzucule
+* Language: pt

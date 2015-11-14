@@ -98,8 +98,8 @@ inimigos!
 
 ##
 O Macaco que Comeu a sua Própria Cauda
-License: [CC-BY]
-Writer: Mozambican folktale
-Illustration: Horácio José Cossa
-Translated By: Jorge Eusébio Eusébio
-Language: pt
+* License: [CC-BY]
+* Text: Mozambican folktale
+* Illustration: Horácio José Cossa
+* Translation: Jorge Eusébio Eusébio
+* Language: pt

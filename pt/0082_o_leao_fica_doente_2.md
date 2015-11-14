@@ -111,7 +111,7 @@ Por isso, a Hiena acabou por fugir e
 nunca mais foi visitar o Leão.
 
 ##
-License: [CC-BY]
-Writer: Francisco Escondido
-Illustration: Claudio Molina and Hélder de Paz Alexandre
-Language: pt
+* License: [CC-BY]
+* Text: Francisco Escondido
+* Illustration: Claudio Molina and Hélder de Paz Alexandre
+* Language: pt

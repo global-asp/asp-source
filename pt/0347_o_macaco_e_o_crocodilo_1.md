@@ -88,8 +88,8 @@ nunca conseguiu pegar o
 macaco esperto!
 
 ##
-License: [CC-BY]
-Writer: Mozambican folktale
-Illustration: Amir Bachir António Necas
-Adapted By: Catarina Ribas
-Language: pt
+* License: [CC-BY]
+* Text: Mozambican folktale
+* Illustration: Amir Bachir António Necas
+* Adaptation: Catarina Ribas
+* Language: pt

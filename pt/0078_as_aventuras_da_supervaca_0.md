@@ -35,8 +35,8 @@ Talvez vaca venha visitar você também!
 Fim.
 
 ##
-License: [CC-BY-NC]
-Writer: Danielle Bruckert
-Illustration: Danielle Bruckert
-Translated By: Catarina Ribas
-Language: pt
+* License: [CC-BY-NC]
+* Text: Danielle Bruckert
+* Illustration: Danielle Bruckert
+* Translation: Catarina Ribas
+* Language: pt

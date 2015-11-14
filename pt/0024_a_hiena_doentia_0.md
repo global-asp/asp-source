@@ -63,8 +63,8 @@ noutro dia.”
 E o coelho pôs-se a correr!
 
 ##
-License: [CC-BY]
-Writer: Mozambican folktale
-Illustration: Razaque Lázaro Quive
-Translated By: Jorge Eusébio Eusébio
-Language: pt
+* License: [CC-BY]
+* Text: Mozambican folktale
+* Illustration: Razaque Lázaro Quive
+* Translation: Jorge Eusébio Eusébio
+* Language: pt

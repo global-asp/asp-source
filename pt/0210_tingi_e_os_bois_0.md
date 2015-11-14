@@ -48,8 +48,8 @@ Eles foram à casa
 muito rapidamente.
 
 ##
-License: [CC-BY]
-Writer: Ingrid Schechter
-Illustration: Ingrid Schechter
-Translated By: Ingrid Schechter
-Language: pt
+* License: [CC-BY]
+* Text: Ingrid Schechter
+* Illustration: Ingrid Schechter
+* Translation: Ingrid Schechter
+* Language: pt
