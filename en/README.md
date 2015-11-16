@@ -92,7 +92,7 @@ Story ID | Title | License
 0088 | [Young Palinyang’](http://africanstorybook.org/stories/young-palinyang%E2%80%99) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0089 | [Khalai talks to plants](http://africanstorybook.org/stories/khalai-talks-plants) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0090 | [Huts in our village](http://africanstorybook.org/stories/huts-our-village) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
-0091 | [Monkey loses his tail](http://africanstorybook.org/stories/monkey-loses-his-tail) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0091 | [Adun, the beautiful](http://africanstorybook.org/stories/adun-beautiful) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0092 | [Hare and Tortoise (Again!)](http://africanstorybook.org/stories/hare-and-tortoise-again) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0093 | [My baby boy](http://africanstorybook.org/stories/my-baby-boy) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0094 | [Anansi, the crows, and the crocodiles](http://africanstorybook.org/stories/anansi-crows-and-crocodiles) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
