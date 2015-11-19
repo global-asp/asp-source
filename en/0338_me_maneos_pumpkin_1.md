@@ -71,7 +71,6 @@ moloi?" "It is a very special
 pumpkin," said the shepherds'
 parents. "You must leave it alone."
 
-##
 "Next summer the pumpkin will open again and the moloi will
 scatter pumpkin seeds all over our villages. We will have many,
 many pumpkins to eat," said the shepherd's parents.

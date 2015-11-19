@@ -32,7 +32,6 @@ some eggs to take to his mother. He was very happy as he ran off with the eggs
 in his hands. But just as he passed the Chief's house, he tripped over a stone and
 dropped the eggs.
 
-##
 The Chief's daughter watched as he tried to catch them
 before they fell on the ground. He looked very funny, but
 the girl did not even smile.

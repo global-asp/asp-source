@@ -8,7 +8,7 @@ He likes yellow bananas
 and apples.
 
 ##
-After taking his breakfast,he goes to play with a friend.
+After taking his breakfast, he goes to play with a friend.
 
 ##
 He likes swimming
@@ -39,8 +39,8 @@ to have a bright future.
 
 ##
 * License: [CC-BY]
-* Text: Cissy Namugerwa and Nanyonga Allen
-* Illustration: Genevieve Terblanche, Melany Pietersen, Catherine Groenewald, Marion Drew, Mlungisi Dlamini, Rob Owen, Natalie Propa, Franz Phooko and Wiehan de Jager
+* Text: Cissy Namugerwa, Nanyonga Allen
+* Illustration: Genevieve Terblanche, Melany Pietersen, Catherine Groenewald, Marion Drew, Mlungisi Dlamini, Rob Owen, Natalie Propa, Franz Phooko, Wiehan de Jager
 * Adaptation: Ritah Katetemera
 * Language: en
 
