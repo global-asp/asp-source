@@ -10,7 +10,6 @@ nendeni nje mcheze!” Mama
 alitwambia.
 “Siwataki miguuni mwangu.”
 
-
 ##
 Tulikimbia nje ya nyumba.
 “Twendeni mtoni,” Lerato
@@ -21,7 +20,6 @@ Bontle.
 “Hatutaogelea,” alijibu Lerato.
 “Tutachezea tu kwenye kivuli
 karibu na maji,”
-
 
 ##
 Lakini kucheza ‘kati’ ni kazi ya
@@ -35,14 +33,12 @@ mashati.
 Lakini tulikuwa bado tunahisi
 joto.
 
-
 ##
 Tuliweka miguu yetu ndani ya
 mto kuifanya iwe baridi.
 Kisha tulirushiana maji.
 Punde kidogo tulikuwa tumeloa
 maji.
-
 
 ##
 “Ah njoo! Hebu tuogelee,”
@@ -52,19 +48,16 @@ Tuliogelea kwa muda mrefu na
 kusahau kuwa saa zilikuwa
 zikiendelea.
 
-
 ##
 Jua lilianza kutua, na tulihisi
 baridi.
 Lakini je, nguo zetu zilikuwa
 wapi?
 
-
 ##
 Tuliangalia chini ya miti.
 Tuliangalia juu ya vichaka.
 Tuliangalia kila mahali.
-
 
 ##
 Ng’ombe walikuwa wakifurahia
@@ -74,7 +67,6 @@ ng’ombe! Nini kilicho mdomoni
 mwake?”
 “Anakula ua jekundu,” Lerato
 alisema.
-
 
 ##
 “Sio ua jekundu,” Mpho alipiga
@@ -86,7 +78,6 @@ kisamwati.
 “Hiyo ni sketi yangu!” alipiga
 kelele Bontle.
 
-
 ##
 Tulienda nyumbani tukiwa tumevaa tu suruali
 zetu tukitetemeka. Lakini sio tu kwa ajili ya
@@ -96,7 +87,6 @@ baridi.
 Lakini Mme alituamini?
 Punde kidogo matako yetu yalikuwa na joto
 sana. Lakini sio kwa ajili ya jua.
-
 
 ##
 * License: [CC-BY]

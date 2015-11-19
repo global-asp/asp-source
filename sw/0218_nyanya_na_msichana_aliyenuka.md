@@ -5,13 +5,11 @@ Tasneem alikuwa msichana mrembo
 mno na nyanya yake alimrehemu
 sana.
 
-
 ##
 Nyanyake alitumia saa nyingi
 kumtengenezea Tasneem sketi ya
 kuvutia.
 Tasneem alipenda kuivaa ile sketi.
-
 
 ##
 Wasichana wengine wa pale kijijini
@@ -20,7 +18,6 @@ ya sketi yake.
 Waliona heri waiondoe.
 Lakini ni vigumu kuchukuwa nguo
 ya mtu ikiwa ameivaa.
-
 
 ##
 Asubuhi moja wasichana wale
@@ -32,7 +29,6 @@ ili zisiharibike.
 Kisha waliruka ndani ya maji na
 kurushania maji kwa muda.
 
-
 ##
 Walikamilisha kuogelea.
 Aliyekuwa kiongozi wa wale wasichana wenye wivu,
@@ -41,7 +37,6 @@ sehemu ambamo kulikuwa na nyoka mkubwa.
 Halafu wasichana wale wengine waliondoka na
 kumuacha Tasneem akilia kando ya mto.
 
-
 ##
 Nyoka yule mkubwa alimsikia mtu
 akilia.
@@ -49,7 +44,6 @@ Alitokezea na kumwona Tasneem
 mrembo.
 Aliimeza ile sketi pamoja na
 Tasneem akiwa mzima.
-
 
 ##
 Kwa bahati nzuri, nyoka yule hakupenda ladha ya
@@ -60,13 +54,11 @@ wakiwa wamepakwa tope la kunata kutoka tumbo ya
 nyoka.
 Tope hili lilinuka vibaya mno.
 
-
 ##
 Tansneem aliivaa sketi yake
 iliyonuka na kukimbilia nyumbani
 kwa wazazi wake.
 Aliimba:
-
 
 ##
 Mama, nifungulie mlango, miye nanuka;
@@ -78,13 +70,11 @@ Nenda mbali, unanuka;
 Nenda mbali, unanuka;
 Nenda mbali, unanuka vibaya mno.
 
-
 ##
 Tasneem alihuzunika sana.
 Alikimbilia nyumba ya mjombake na
 shangaziye.
 Walimsikia akiimba:
-
 
 ##
 Nifungulie mlango, miye nanuka;
@@ -96,7 +86,6 @@ Nenda mbali,unanuka,
 Nenda mbali, unanuka,
 Nenda mbali, unanuka vibaya mno.
 
-
 ##
 Tasneem alibakisha tu nyumba ya
 nyanyake kukimbilia.
@@ -105,7 +94,6 @@ Aliwaza kuwa hakuna aliyetaka
 kumshughulikia msichana aliyenuka
 vibaya.
 
-
 ##
 Lakini alikosea.
 Nyanyake hakumfukuza.
@@ -113,20 +101,17 @@ Alimwosha Tasneem, na sketi yake,
 huku akihakikisha kwamba kila kitu
 kilinukia vizuri.
 
-
 ##
 Tasneem aliishi na nyanyake kwa
 miaka mingi.
 Siku moja mvulana wa mtu tajiri
 sana alitaka amwoe Tasneem.
 
-
 ##
 Wazazi wake Tasneem walisikia juu
 ya jambo hilo na wakataka Tasneem
 kurudi kuishi nao katika nyumba
 yao.
-
 
 ##
 Tasneem alikumbuka jinsi alivyonuka vibaya.
@@ -136,17 +121,14 @@ nyumba yao tena.
 “Lazima wazazi wawapende watoto wao,” alisema,
 “hata kama watoto wao wananuka vibaya.”
 
-
 ##
 Badala yake Tasneem alimwalika
 nyanyake kwenda kuishi naye
 katika ile nyumba ya yule chifu tajiri
 na mvulana wake.
 
-
 ##
 Nyanyake alifurahi sana, akastarehe sana, na kuwa mtu wa maana sana.
-
 
 ##
 * License: [CC-BY]

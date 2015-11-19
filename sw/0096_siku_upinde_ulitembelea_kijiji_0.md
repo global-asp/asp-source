@@ -4,7 +4,6 @@
 Kijiji cha Kobole
 kilikuwa kidogo.
 
-
 ##
 Alasiri moja, Kobole
 alikuwa akiokota
@@ -13,11 +12,9 @@ Alishuhudia tukio
 lisilokuwa
 la kawaida.
 
-
 ##
 Aliona mistari ya rangi
 rangi angani.
-
 
 ##
 Aliangusha matunda
@@ -25,12 +22,10 @@ chini.
 Alikimbia nyumbani
 kuwaambia wanakijiji.
 
-
 ##
 Aliwapata watu wote
 wamesimama nje
 wakiangalia angani.
-
 
 ##
 Kobole alisema,
@@ -42,7 +37,6 @@ Neno alisema,
 rangi
 tofauti kutoka angani.”
 
-
 ##
 Watu wengine
 walikubaliana na Kobole
@@ -51,18 +45,15 @@ wakimwamini Neno.
 Vikundi hivyo viwili
 vilibishana.
 
-
 ##
 Mwanamme kutoka kijiji
 cha mbali alitokea na
 kusema, “Mmekosea
 nyote.”
 
-
 ##
 Watu walipiga mayowe,
 “Kwa hivyo ni nini?”
-
 
 ##
 Yule mgeni alisema,
@@ -70,13 +61,11 @@ Yule mgeni alisema,
 humjawahi kuona
 upinde?”
 
-
 ##
 “La, u-p-i-n-d-e ni nini?”
 waliuliza wote huku
 wakimwangalia yule
 mgeni.
-
 
 ##
 Neno aliuliza, “Je, ni
@@ -85,7 +74,6 @@ kuuweka hapa?”
 Lakini mwanamme
 huyu alikuwa tayari
 ameenda zake.
-
 
 ##
 * License: [CC-BY]

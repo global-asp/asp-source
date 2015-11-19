@@ -9,7 +9,6 @@ Nani husababisha hilo
 kutendeka?
 Vayu, upepo!
 
-
 ##
 Maziwa ndani ya
 kikombe-moto sana,
@@ -21,7 +20,6 @@ Nani husababisha hilo
 kutendeka?
 Vayu, upepo!
 
-
 ##
 Mapazia ya madirisha
 yanapapatika
@@ -32,7 +30,6 @@ Nani husababisha hiki
 kutendeka?
 Vayu, upepo!
 
-
 ##
 Radi kwa umbali.
 Mawingu meusi
@@ -42,7 +39,6 @@ Nani husababisha hilo
 kutendeka?
 Vayu, upepo!
 
-
 ##
 Matawi yanawayawaya
 na majani kutetemeka.
@@ -50,7 +46,6 @@ Maua yanaanguka kwa
 upole.
 Nani alifanya yote?
 Vayu, upepo!
-
 
 ##
 Mbali na nyumba,
@@ -61,7 +56,6 @@ mama anatayarisha.
 Nani husababisha hiki
 kutendeka?
 Vayu, upepo!
-
 
 ##
 Bilauri iliyo dirisahani,
@@ -82,7 +76,6 @@ mlio wake.
 Nani husababisha hilo
 kutendeka?
 Vayu, upepo!
-
 
 ##
 Haionekani.

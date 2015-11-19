@@ -17,7 +17,6 @@
 ##
 Naweza kusoma.
 
-
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi

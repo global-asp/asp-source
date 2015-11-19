@@ -8,7 +8,6 @@ maana ya ‘aliye mzuri’
 katika lugha yake ya
 Lubukusu.
 
-
 ##
 Khalai anaamka na
 kuaongea na mmea
@@ -19,14 +18,12 @@ mkubwa uzae
 machungwa mengi
 mabivu.”
 
-
 ##
 Khalai anaenda shuleni
 na njiani anaongea na
 Nyasi, “Tafadhali Nyasi,
 kua kijani zaidi na zaidi
 na wala usikauke.”
-
 
 ##
 Khalai anayapita Maua
@@ -35,7 +32,6 @@ ya mwituni na kusema,
 endelea kunawiri ili
 niweze kukuweka
 kwenye nywele zangu.”
-
 
 ##
 Akiwa shuleni, Khalai
@@ -46,7 +42,6 @@ matawi makubwa ili
 tusomee chini ya kivuli
 chako.”
 
-
 ##
 Khalai anauzungumzia
 ua unaoizingira shule
@@ -54,7 +49,6 @@ yake, “Tafadhali Ua, kua
 mwenye nguvu ili uzuie
 shule yetu kutokana na
 watu wabaya.”
-
 
 ##
 Anaporudi nyumbani
@@ -64,7 +58,6 @@ Mchungwa kuangalia
 ikiwa machungwa
 yameiva.
 
-
 ##
 “Machungwa bado
 mabichi,” Khalai
@@ -73,7 +66,6 @@ anashusha pumzi.
 mti Mchungwa. Labda
 utanipa chungwa mbivu
 wakati huo.”
-
 
 ##
 * License: [CC-BY]

@@ -7,7 +7,6 @@ wote.
 Kila alipozaa mtoto, aliaga
 dunia.
 
-
 ##
 Uchungu wa kuwapoteza
 watoto ulimfanya Kima kuruka
@@ -16,13 +15,11 @@ Angeruka juu ya tawi moja,
 kisha lingine, akilia, "Kwi! Kwi!
 Kwi!"
 
-
 ##
 kima alihuzunika wakati wote.
 Alihuzunika zaidi alipowaona
 kima wengine wazazi wakiwa
 na watoto wao.
-
 
 ##
 Yule Kima mwenye huzuni
@@ -31,13 +28,11 @@ kuangalia juu!
 Siku zilipita na Kima alilia zaidi
 na zaidi.
 
-
 ##
 Halafu, alizaa tena.
 Aliamua kumpeleka mtoto wake
 njiani ili watu waliopita
 wamwone na kumtakia la heri.
-
 
 ##
 Kima alishuka na kumweka
@@ -47,7 +42,6 @@ akirudi nyumbani.
 Alimwona mtoto wa kima
 akilala karibu na njia.
 
-
 ##
 Mwindaji alimbeba mtoto wa
 kima na kumpeleka nyumbani
@@ -55,7 +49,6 @@ kwake.
 Alipofika, wavulana wake
 watatu walitaka kumbeba mtoto
 wa kima.
-
 
 ##
 Wale watatu walicheza na
@@ -67,14 +60,12 @@ Mtupie yeye!"
 Mtoto wa kima alitupwa kutoka
 kwa mmoja hadi kwa mwingine.
 
-
 ##
 Walipokuwa wakicheza na
 mtoto wa kima, mama Kima
 alijificha mtini na kuangalia.
 Aliogopa kwamba mtoto huyo
 angefariki kama wengine.
-
 
 ##
 Kisha mke wa mwindaji
@@ -83,11 +74,9 @@ wakicheza na yule kima mtoto.
 Alisema, "Tahadharini! Mlete
 hapa. Mtamwangusha!"
 
-
 ##
 Alimchukuwa mtoto wa kima
 mikononi mwake na kumbariki.
-
 
 ##
 Mke wa mwindaji alimweka
@@ -97,7 +86,6 @@ wake kifuani.
 Alitoweka mtini.
 Hakumpoteza tena mtoto
 mwingine!
-
 
 ##
 * License: [CC-BY]

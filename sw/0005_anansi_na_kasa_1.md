@@ -8,7 +8,6 @@ sana.
 Alivichoma taratibu kwenye moto
 na akaanza kula.
 
-
 ##
 Punde tu Anansi alipokuwa akitia tonge la kwanza
 kinywani, mlango wake ulibishwa. “Lo! Lo! Lo!”
@@ -20,7 +19,6 @@ Kasa akamwambia Anansi, “Tafadhali niruhusu
 niingie. Nimetembea mwendo mrefu leo. Nina
 uchovu mwingi na njaa.”
 Ilimbidi Anansi amruhusu aingie ndani.
-
 
 ##
 Lakini Anansi alikuwa mchoyo sana. Hangemgawia
@@ -36,7 +34,6 @@ Hivyo basi, Kasa alijikokota hadi mtoni akanawa
 mikono yake. Kisha, akajikokota tena akarudi hadi
 mezani.
 
-
 ##
 Anansi alibaki akibugia viazi kwa
 haraka. Kasa aliporejea hakupata
@@ -48,7 +45,6 @@ upitie kwangu siku moja ili nami
 nikuandalie chakula kitamu.”
 Kisha, Kasa akaanza kujikokota
 kuelekea kwake nyumbani.
-
 
 ##
 Baada ya siku kadhaa, Anansi alifikiria sana vile Kasa
@@ -64,7 +60,6 @@ nami?”
 Anansi akaitikia, “Naam, nitafurahia sana, asante.”
 Njaa ilikuwa ikimwuma kwelikweli.
 
-
 ##
 Kasa alipiga mbizi na kuzama chini ya mto akaandaa
 chakula cha jioni. Naye Anansi alingoja kwenye
@@ -75,7 +70,6 @@ karibu. Twende tukafurahie mapochopocho.”
 Kasa alipiga mbizi tena na akaanza kula majani
 matamu aliyoandaa.
 
-
 ##
 Anansi alijaribu kujizamisha ndani ya mto lakini,
 wapi! Yeye alikuwa buibui wala sio kasa.
@@ -83,7 +77,6 @@ Alishindwa kupiga mbizi kabisa. Kila mara alikuwa
 akielea juu ya maji.
 Alijaribu kuruka majini tena na tena lakini ng’o!
 Hakufanikiwa kukifikia chakula chini ya maji.
-
 
 ##
 Hatimaye, Anansi alipata wazo zuri. Alitia mawe
@@ -93,7 +86,6 @@ Alikuwa mwerevu kwelikweli!
 Sasa aliweza kuiona meza iliyojaa majani matamu na
 laini pamoja na vyakula vingine vya kupendeza.
 Alidondokwa na mate alipoviona vyakula hivyo.
-
 
 ##
 Anansi alipokuwa akinyoosha mkono kuchukua
@@ -105,7 +97,6 @@ Bila kufikiri, Anansi akasema, “Samahani! Bila shaka
 usemavyo ni kweli. Sikufikiria kuhusu hilo.” Kisha
 akavua koti lake.
 
-
 ##
 Punde tu alipovua koti, Anansi
 alielea juu ya maji kwa sababu
@@ -115,7 +106,6 @@ Anansi alihuzunika na akachopeka
 kichwa chake majini akawa
 anamtazama Kasa akila chakula
 hicho chote kitamu peke yake.
-
 
 ##
 * License: [CC-BY]

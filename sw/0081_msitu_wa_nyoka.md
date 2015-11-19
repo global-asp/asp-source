@@ -10,7 +10,6 @@ wanakijiji.
 Nyoka huyu aliwatisha wengi kwani
 alimeza mbuzi na kondoo wazima.
 
-
 ##
 Siku moja, Apiyo, Ajoh na Atieno
 walikuwa wakikwenda msituni
@@ -22,7 +21,6 @@ msituni ila kuni.”
 Ni Ajoh pekee hakuzingatia onyo la
 nyanyake.
 
-
 ##
 Wasichana hao walifunga maziwa,
 ndizi, viazi vitamu na maji.
@@ -31,14 +29,12 @@ kuni pamoja na panga kali ya
 kukatia kuni.
 Halafu waliondoka kwenda msituni.
 
-
 ##
 Njiani, dada wale waliongea na
 kucheka.
 Ghafla, Apiyo, mkubwa kwao,
 alisema, “Kimya. Tunakaribia
 anapoishi Unyalego.”
-
 
 ##
 Atieno aliwaita wengine, “Angalia,
@@ -47,7 +43,6 @@ dhahabu. Hebu tuyachukuwe.”
 Apiyo aliwakumbusha, “Msisahau
 onyo la nyanya. Tusichukuwe
 chochote kutoka msituni ila kuni.”
-
 
 ##
 Ajoh alisema, “Simwamini nyanya.
@@ -58,7 +53,6 @@ Nitayachukuwa meno ya dhahabu.”
 Dada zake walikuwa na wasiwasi.
 “Ajoh, tulikuonya,” walisema.
 Ajoh hakujali.
-
 
 ##
 Wakati huo Unyalego alikuja
@@ -71,7 +65,6 @@ Alijificha pembeni mwa barabara
 chini ya mwamba ambapo
 wasichana wale wangepita.
 
-
 ##
 Dada wale walibeba kuni zao
 vichwani.
@@ -79,7 +72,6 @@ Ghafla, walisikia “Hzzzzzzzzz!”
 Waliogopa na kujaribu kujificha.
 Unyalego alikuwa pale, kinywa wazi
 tayari kuwauma.
-
 
 ##
 Unyalego aliwauliza, “Nani
@@ -93,7 +85,6 @@ na kuni zake. Lakini aliye na hatia
 atakosea. Atakuwa chakula changu
 kwa siku tatu zijazo!”
 
-
 ##
 Apiyo alianza kuimba kwa sauti
 nyororo:
@@ -101,7 +92,6 @@ Sio mimi, sio mimi aliye na meno,
 Mwenye meno bado yuko nyuma
 aaaah
 Kisha Atieno akaimba wimbo ule.
-
 
 ##
 Mwishowe, ilikuwa zamu ya Ajoh.
@@ -115,12 +105,10 @@ Nyoka alijua wazi kwamba ni Ajoh
 aliyechukuwa meno yake ya
 dhahabu.
 
-
 ##
 Unyalego alimmeza Ajoh. Dada
 zake walikimbia kijijini kueleza
 yaliyotokea.
-
 
 ##
 * License: [CC-BY]

@@ -6,14 +6,12 @@ wa Kima.
 Walishiriki mambo mengi
 pamoja.
 
-
 ##
 Siku moja Sungura alisema,
 "Hebu twende matembezi
 tukatafute chakula."
 Kima alikubali bila kujua
 yaliyomsubiri!
-
 
 ##
 Walienda katika shamba la
@@ -22,7 +20,6 @@ mahindi.
 Sungura alikuwa na njama ya
 kumtendea Kima uovu.
 
-
 ##
 Sungura alimwonea Kima wivu
 kwa kuwa na mkia mrefu.
@@ -30,7 +27,6 @@ Alikuwa amezungumza na
 wenye shamba.
 "Kima atakuja kula mahindi
 yenu leo. Mfunze adabu!"
-
 
 ##
 Walipokuwa wakila mahindi,
@@ -42,7 +38,6 @@ zake.
 Kima hakujua lililokuwa
 likiendelea.
 
-
 ##
 Ghafla, wenyewe walifika na
 kumpata Kima akijaribu
@@ -50,18 +45,15 @@ kutoroka.
 Hata hivyo, mkia wake mrefu
 ulimzuia kwenda haraka.
 
-
 ##
 Walimfuata wakipiga kelele,
 "Simama! Simama!
 Umetumalizia mahindi yetu."
 
-
 ##
 Walimshika na kuanza kumpiga.
 Kima alijaribu kuponyoka na
 kutoroka tena lakini hakuweza.
-
 
 ##
 Kima hakuweza kuvumilia
@@ -72,7 +64,6 @@ yalivyokuwa.
 Sungura. Ni yeye aliyenialika,"
 alilia.
 
-
 ##
 Hata hivyo, wenyewe
 hawakumsikiza.
@@ -81,7 +72,6 @@ Mmoja alitoa panga na kusema,
 Aliukata mkia wake.
 Sungura alishuhudia kila kitu
 kutoka alikojificha.
-
 
 ##
 Wenye shamba waliondoka na
@@ -93,7 +83,6 @@ kuupika.
 "Nitamwalika Kima kwa chakula
 cha mchana," alitabasamu.
 
-
 ##
 Baada ya mlo, Kima alisema,
 "Asante rafiki yangu kwa
@@ -101,7 +90,6 @@ kuandaa chakula kitamu."
 Sungura alimwuliza Kima ikiwa
 alijua alichokula. Bila kujua,
 Kima alijibu,"La, sijui!"
-
 
 ##
 Sungura alisema, "Hicho
@@ -111,7 +99,6 @@ Baada ya kusema hivyo,
 alitoroka.
 Na kutoka siku hiyo
 walikuwa maadui!
-
 
 ##
 * License: [CC-BY]

@@ -9,7 +9,6 @@ Walikuwa na ngamia,
 ng’ombe na kondoo
 wengi.
 
-
 ##
 Walilisha wanyama hao
 katika bonde la Kingilo.
@@ -19,7 +18,6 @@ milimani ambako kulikuwa
 na nyasi na maji
 kwa wingi.
 
-
 ##
 Wanyama walipokula,
 Sungura na Ndovu
@@ -28,14 +26,12 @@ Walifurahia sana
 kucheza mpira
 wa miguu.
 
-
 ##
 Kila walipocheza,
 Ndovu aliingiza mabao
 mengi kuliko Sungura.
 Hili lilimkasirisha
 Sungura mno.
-
 
 ##
 Siku moja Sungura
@@ -46,7 +42,6 @@ maarufu?”
 Ndovu alijibu kwa haraka,
 “Miguu yangu minene.”
 
-
 ##
 Siku iliyofuata,
 Sungura alipendekeza
@@ -54,7 +49,6 @@ wawe na mashindano
 ya mbio.
 Ndovu alikubali na
 wakaanza mbio.
-
 
 ##
 Sungura alishinda
@@ -69,7 +63,6 @@ maarufu?”
 Sungura alijibu,
 “Miguu yangu myembamba.”
 
-
 ##
 Bila kuwaza zaidi,
 Ndovu aliuliza kile
@@ -80,7 +73,6 @@ Sungura alisema,
 nitakuonyesha.
 Tafuta kuni na
 ukoke moto.”
-
 
 ##
 Ndovu alikusanya
@@ -94,7 +86,6 @@ ndani ya moto.
 Alipiga kelele,
 “Nateketea! Nateketea!”
 
-
 ##
 Sungura alifurahi.
 Alimhimiza Ndovu
@@ -102,7 +93,6 @@ aendelea hivyo hivyo
 maanake hivyo tu
 ndivyo miguu yake
 ingelikuwa myembamba.
-
 
 ##
 Miguu ya Ndovu
@@ -112,13 +102,11 @@ motoni.
 Hangeweza kusimama
 kwa hivyo alala chini.
 
-
 ##
 Ndovu aliketi kwa siku
 nyingi kabla kuweza
 kusimama kwa miguu
 yake.
-
 
 ##
 Hatimaye, aliweza
@@ -126,11 +114,9 @@ kuchechemea na
 kwenda nyumbani
 kwa familia yake.
 
-
 ##
 Sungura na Ndovu
 si marafiki tena.
-
 
 ##
 * License: [CC-BY]

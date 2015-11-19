@@ -5,7 +5,6 @@ Kila mtu anafahamu
 kuwa tembo ana
 mkonga mrefu.
 
-
 ##
 Lakini hapo kale, pua la
 tembo lilikuwa fupi na
@@ -13,7 +12,6 @@ nono.
 Lilikuwa kama kiatu
 kilichowekwa katikati
 mwa uso wake.
-
 
 ##
 Siku moja tembo
@@ -23,13 +21,11 @@ Alikuwa na swali kwa
 kila mnyama
 aliyemuona.
 
-
 ##
 Mtoto wa tembo
 alimdadisi twiga.
 “Kwa nini shingo
 lako ni refu?” aliuliza.
-
 
 ##
 Pia alidadisi kuhusu
@@ -38,19 +34,16 @@ kifaru.
 yako ina ncha
 iliyochongoka sana?"
 
-
 ##
 Mtoto wa tembo pia
 alimdadisi kiboko, “Kwa
 nini una macho
 mekundu?" alimuuliza.
 
-
 ##
 “Hivi wewe huwa
 unakula nini?”
 Alimdadisi mamba.
-
 
 ##
 “Mwanangu usiulize
@@ -60,7 +53,6 @@ yake alimwambia.
 Aliondoka akiwa kanuna
 na kwenda kucheza.
 
-
 ##
 Lakini Kunguru
 mwerevu alisema upesi,
@@ -68,12 +60,10 @@ mwerevu alisema upesi,
 Kule utaona ambacho
 mamba hula jioni”.
 
-
 ##
 Mtoto wa Tembo
 alimfuata Kunguru
 mpaka mtoni.
-
 
 ##
 Alijipenyeza kwenye
@@ -82,7 +72,6 @@ kwenye kingo ya mto.
 Alitazama ndani ya maji
 na kuuliza, “Mamba
 mwenyewe yuko wapi?”
-
 
 ##
 “Habari,” jiwe lilisema
@@ -93,7 +82,6 @@ akasema. “Labda
 unaweza ukanieleza
 mamba hula chakula
 gani jioni?”
-
 
 ##
 
@@ -107,7 +95,6 @@ aliinama chini karibu
 kabisa na jiwe lile
 kisha...
 
-
 ##
 “Tap!” Pua ya mtoto wa
 mamba ilikuwa
@@ -118,7 +105,6 @@ kunguru mjanja
 aliyemshawishi mtoto
 wa tembo kwenda
 mtoni.
-
 
 ##
 Mtoto wa tembo akakita
@@ -131,7 +117,6 @@ Mamba nae akaikamata
 vema pua ya mtoto wa
 tembo, hakuiachia.
 
-
 ##
 Pua ya mtoto wa
 tembo, ikavutika ndefu,
@@ -141,13 +126,11 @@ mpaka....
 kufika chini kwa
 mgongo.
 
-
 ##
 Baada ya kukosa
 chakula chake, mamba
 alizama na kutokomea
 kwenye maji.
-
 
 ##
 Mtoto wa tembo
@@ -156,7 +139,6 @@ Hakuweza kuona ni
 wapi iliishia kwa jinsi
 ilivyokuwa ndefu.
 
-
 ##
 Ilirefuka sana na
 kumuwezesha kuchuma
@@ -164,18 +146,15 @@ matunda yaliyokuwa
 kwenye matawi ya juu
 ya mti.
 
-
 ##
 Pia, aliweza kuoga
 kutumia pua yake
 wakati wa joto.
 
-
 ##
 Mpaka leo, tembo wote
 wana mikonga mirefu
 na yenye faida kwao.
-
 
 ##
 * License: [CC-BY]

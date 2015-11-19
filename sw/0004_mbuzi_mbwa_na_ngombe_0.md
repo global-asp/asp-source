@@ -7,7 +7,6 @@ marafiki wakubwa.
 Siku moja walienda
 safari kwa teksi.
 
-
 ##
 Walipofika mwisho wa
 safari yao, dereva
@@ -16,13 +15,11 @@ zao.
 Ng’ombe alilipa nauli
 yake.
 
-
 ##
 Mbwo alilipa zaidi
 kidogo kwa sababu
 hakuwa na kiasi kamili
 cha pesa.
-
 
 ##
 Dereva alikuwa karibu
@@ -32,14 +29,12 @@ wakati Mbuzi
 alipotoroka bila kulipa
 chochote.
 
-
 ##
 Dereva alikasirika sana.
 Aliondoka huku
 akiendesha gari bila
 kumrudishia Mbwa pesa
 zake zilizobaki.
-
 
 ##
 Hiyo ndiyo sababu, hata
@@ -49,14 +44,12 @@ nia ya kuangalia ndani
 ili kumpata dereva aliye
 na pesa zake zilizosalia.
 
-
 ##
 Mbuzi naye hutoroka
 anaposikia mlio wa gari.
 Anaogopa kushikwa
 kwa kukosa kulipa nauli
 yake.
-
 
 ##
 Na Ng’ombe

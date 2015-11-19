@@ -7,14 +7,12 @@ Ilikuwa kubwa na ya
 bluu.
 Ilitoa kelele sana.
 
-
 ##
 Siku moja mama ya
 Ebei alisema, "Kesho
 tutakwenda mjini
 kununua sare yako ya
 shule."
-
 
 ##
 Ebei alifurahi sana.
@@ -23,13 +21,11 @@ basi kubwa ya bluu.
 Hakuweza kulala usiku
 huo.
 
-
 ##
 Ebei alikuwa tayari
 amevaa wakati mama
 yake alikwenda
 kumuamsha.
-
 
 ##
 Ebei na mama yake
@@ -39,7 +35,6 @@ Walisubiri ile basi
 kubwa ya bluu.
 Lakini basi haikufika.
 
-
 ##
 Watu wengine walifika
 pale kwenye kituo.
@@ -48,7 +43,6 @@ ilichelewa.
 "Basi imetuacha?"
 waliuliza.
 
-
 ##
 Ebei alikuwa na
 wasiswasi.
@@ -56,7 +50,6 @@ wasiswasi.
 mjini. Sitapata sare
 yangu ya shule,"
 aliwaza.
-
 
 ##
 Baadhi ya watu
@@ -67,13 +60,11 @@ akakataa kwenda.
 Mama yake alimtuliza,
 "Tutasubiri zaidi."
 
-
 ##
 Ghafla, walisikia kelele.
 Wakaona vumbi
 hewani.
 Basi ilikuwa inakuja.
-
 
 ##
 Lakini basi haikuwa
@@ -84,13 +75,11 @@ nyekundu na ndogo.
 Waliosubiri waliiangalia.
 Hawakuingia ndani.
 
-
 ##
 “Ingieni! Ingieni!"
 dereva aliita.
 "Tumechelewa sana
 leo," alisema.
-
 
 ##
 Ebei na mama yake
@@ -100,13 +89,11 @@ Mara kila mmoja
 aliingia ndani ya basi ile
 ndogo nyekundu.
 
-
 ##
 Ebei aliangalia
 dirishani.
 Aliona watu wengi zaidi
 katika kituo cha basi.
-
 
 ##
 Hata wengine zaidi
@@ -115,7 +102,6 @@ Lakini walikuwa
 wamechelewa.
 Basi iliondoka kwenda
 mjini.
-
 
 ##
 “Wapi basi kubwa ya
@@ -126,7 +112,6 @@ alimjibu.
 "Twaitengeneza. Kesho
 itakuja," aliongeza.
 
-
 ##
 Ebei hakujali rangi ya
 basi.
@@ -135,7 +120,6 @@ basi.
 Alifurahi kuwa basi hii
 ilikuwa inakwenda
 mjini.
-
 
 ##
 * License: [CC-BY]

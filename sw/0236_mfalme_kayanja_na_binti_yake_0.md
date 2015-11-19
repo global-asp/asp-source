@@ -10,7 +10,6 @@ na kila mwanmme alitaka kumwoa.
 Lakini mfalme Kayanja alitaka
 mahari ya juu sana.
 
-
 ##
 Karibu na kasri la mfalme Kayanja,
 plaiishi chifu kwa jina Aludah, Mkuu.
@@ -23,7 +22,6 @@ amefariki kutokana na ugonjwa wa
 malaria naye alitaka kuoa mke
 mwingine.
 
-
 ##
 Kwa hivyo yule chifu mnene mzee
 alimwendea mfalme Kayanja
@@ -33,7 +31,6 @@ mahari, msichana wa kazai kwa jina
 Kakembo, alisikia mazungumzo yao.
 Kakembo alikuwa na uhusiano wa
 karibu sana na Apenyo.
-
 
 ##
 Chifu Aludah alikubali kumpatia
@@ -46,7 +43,6 @@ kisirisiri.
 Mfalme alijua kwamba bintiye
 hangefurahia uamuzi huo.
 
-
 ##
 Juma moja kabla ya siku ya harusi
 hiyo ya kifalme, Kakembo
@@ -55,7 +51,6 @@ alimwendea Apenyo.
 amekupangia harusi na Chifu
 Aludah, na itafanyika katika muda
 wa juma moja," Kakembo alisema.
-
 
 ##
 Apenyo alishtuka, mwanzoni, asijue
@@ -69,7 +64,6 @@ muda."
 Trevor alikuwa mpenzi wake
 Apenyo.
 
-
 ##
 Usiku huo Apenyo alitoka katika
 kasri kisiri. Babake angegundua
@@ -82,7 +76,6 @@ Alipowasili nyumbani kwake,
 alikuwa amechoka, mwenye njaa na
 kiu.
 
-
 ##
 "Mpenzi wangu, mbona umekimbia
 umbali huu peke yako wakati huu
@@ -91,7 +84,6 @@ Alimletea maji ya kunywa na kumpa
 muda wa kupumzika.
 Trevor hakuweza kutulia
 alipomsubiri Apenyo kuongea.
-
 
 ##
 "Mpendwa, kuna shida gani?" Trevor
@@ -103,7 +95,6 @@ kuolewa na yule mwanamme
 mwovu. Trevor, ningependa niolewa
 kwako hata ukiwa maskini. Niko
 tayari kuumia. Nakupenda."
-
 
 ##
 "Lakini sina chochote cha kulipia
@@ -118,7 +109,6 @@ mwenye mashua ili atusafirishe
 hadi upande mwingine wa mto.
 Hivyo tutaepuka na kamwe
 babangu hatatupata."
-
 
 ##
 Mfalme Kayanja alipogundua kuwa
@@ -135,14 +125,12 @@ mkamtafute," Mfalme Kayanja
 aliamrisha. Alikuwa amekasirika
 sana.
 
-
 ##
 Trevor na Apenyo walipokuwa
 wakiharakisha kwenda kwenye mto,
 mawingu meusi yalianza
 kukusanyika angani.
 Dhoruba kubwa ilikuwa inakuja.
-
 
 ##
 Kategga, mwenye mashua alikuwa
@@ -155,7 +143,6 @@ dhoruba kubwa ilikuwa inakaribia
 kwa haraka na kwamba ingekuwa
 hatari sana.
 
-
 ##
 Trevor alisizitiza akimwelezea
 sababu iliyowalizimu kuvuka. Kisha
@@ -167,7 +154,6 @@ kuona ganda hilo, aliwaonea
 huruma. Alikubali kuwavukisha licha
 ya hali ya anga ilivyokuwa.
 
-
 ##
 Kategga alivuta mashua karibu na
 kando ya mto kisha akawaambie
@@ -178,7 +164,6 @@ walipofika kando ya mto,
 waliowaona watu watatu mashuani.
 Waligundua kwamba wapenzi wale
 wawili walikuwa wametoroka.
-
 
 ##
 Upepo mkali ulitingiza mashua na
@@ -194,7 +179,6 @@ Baada ya siku hiyo, yeyote aliyeishi
 katika ufalme wa mfalme Kayanja,
 angemwoa yeyote aliyemtaka, tajiri
 au maskini.
-
 
 ##
 * License: [CC-BY]

@@ -8,13 +8,11 @@ Lakini jinsi alivyokuwa akizeeka ndivyo alivyokuwa
 akihuzunika kwani alikosa kitu fulani.
 Hakuwa na mke.
 
-
 ##
 Alipokuwa chini ya mti siku moja,
 alipata wazo zuri sana.
 Sasa kama hatapata mke, labda
 atajitengenezea mmoja.
-
 
 ##
 Sasa akaanza kazi ya kumchonga
@@ -24,13 +22,11 @@ kuchonga sanamu, aliigusa macho
 ikaanza kuona.
 Kisha aliipulizia pumzi ikawa hai.
 
-
 ##
 Akawa mwanamke mrembo zaidi ya
 wote aliokuwa ameona.
 Alipiga magoti mbele yake na
 kumwomba awe mkewe.
-
 
 ##
 Yule mume alimvisha kimori,
@@ -42,7 +38,6 @@ matope na nyasi.
 alisema. “Usimwambie mtu yeyote
 mahali ulikotoka.”
 
-
 ##
 Lakini kabla ya kipindi kirefu, vijana
 kutoka kijiji jirani walianza kusema,
@@ -52,7 +47,6 @@ hii!”
 Basi wakaamua kumwiba msichana
 yule wampeleke kijijini kwao.
 
-
 ##
 Mkewe alipoibiwa, mzee alihuzunika sana.
 Alihisi kwamba hangeishi bila mkewe.
@@ -61,7 +55,6 @@ kutoka kwake nitapata faraja.”
 Kwa hivyo, alituma njiwa wawili wakamtafute
 mkewe, wamwimbie na wamletee kitu chochote
 kutoka kwa mkewe.
-
 
 ##
 Walipomwona walimwimbia wimbo
@@ -73,11 +66,9 @@ Tunakujia kimori,
 Turudishe kwa mumeo,
 Asije kukusahau.
 
-
 ##
 Aliwapa Kimori chake wakapuruka, juu ya milima, juu ya mito, hadi wakarudi kwa mumewe.
 Mzee alipokea kimori akakishika usoni mwake kwa furaha akapata faraja.
-
 
 ##
 Lakini hiyo faraja haikudumu muda mrefu:
@@ -90,7 +81,6 @@ Turudishe kwa mumeo,
 Asije kukusahau.
 Basi wakarudi tena wakibeba mkufu ambao ulikuwa
 ishara ya mwanamke aliyeolewa.
-
 
 ##
 Aliuchukuwa ule mkufu wa kichwani akapata faraja
@@ -105,7 +95,6 @@ Ataka maisha yako,
 Turudishe kwa mumeo,
 Asije kukusahau.
 
-
 ##
 kwa hivyo, walienda tena mara ya tatu wakatua
 mabegani mwake.
@@ -114,7 +103,6 @@ kumng’oa jicho.
 Punde si punde, akageuka na kuwa sanamu.
 Miguu na mikono yake ilidondoka.
 Kichwa vilevile kilianguka. Akaanguka chini, pu!
-
 
 ##
 Mumewe alilisukuma lile gogo la
@@ -125,13 +113,11 @@ Na baada ya kupata maji na
 kupigwa na miale ya jua lile gogo
 liliota majani tena kama zamani.
 
-
 ##
 Na wakati upepo uvumapo,majani
 yake hushusha pumzi kama vile
 mwanamke hushusha pumzi
 anapotamani kumwona mumewe.
-
 
 ##
 * License: [CC-BY]

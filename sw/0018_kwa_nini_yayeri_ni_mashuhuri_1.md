@@ -8,14 +8,12 @@ Tunajiuliza,
 "Kwa nini Yayeri ni
 mashuhuri?"
 
-
 ##
 Anashukuru kwa usiku
 uliopita.
 Tunajiuliza,
 "Kwa nini Yayeri ni
 mashuhuri?"
-
 
 ##
 Anatandika kitanda
@@ -24,7 +22,6 @@ Tunajiuliza,
 "Kwa nini Yayeri ni
 mashuhuri?"
 
-
 ##
 Anawasalimu wazazi
 wake na mababu zake.
@@ -32,14 +29,12 @@ Tunajiuliza,
 "Kwa nini Yayeri ni
 mashuhuri?"
 
-
 ##
 Anaosha uso wake kwa
 sabuni ya bluu.
 Tunajiuliza,
 "Kwa nini Yayeri ni
 mashuhuri?"
-
 
 ##
 Anapiga mswaki meno
@@ -49,13 +44,11 @@ Tunajiuliza,
 "Kwa nini Yayeri ni
 mashuhuri?"
 
-
 ##
 Anaoga kwa maji baridi.
 Tunajiuliza,
 "Kwa nini Yayeri ni
 mashuhuri?"
-
 
 ##
 Anavaa sare ya shule
@@ -65,7 +58,6 @@ Tunajiuliza,
 "Kwa nini Yayeri ni
 mashuhuri?"
 
-
 ##
 Anavaa viatu vyake
 nyeusi.
@@ -73,14 +65,12 @@ Tunajiuliza,
 "Kwa nini Yayeri ni
 mashuhuri?"
 
-
 ##
 Anafika shuleni
 mapema.
 Tunajiuliza,
 "Kwa nini Yayeri ni
 mashuhuri?"
-
 
 ##
 Anajifunza masomo ya
@@ -90,7 +80,6 @@ Tunajiuliza,
 "Kwa nini Yayeri ni
 mashuhuri?"
 
-
 ##
 Anaimba, na kucheza
 otamenhaibuga,
@@ -99,7 +88,6 @@ miguu.
 Tunajiuliza,
 "Kwa nini Yayeri ni
 mashuhuri?"
-
 
 ##
 * License: [CC-BY]

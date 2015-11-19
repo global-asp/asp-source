@@ -4,21 +4,17 @@
 Padà wá, olóńgbò!
 Ṣeré pẹ̀lú mi.
 
-
-##
+#
 Jòkó sínú apẹ̀rẹ̀ rẹ.
 Dúró síbí!
-
 
 ##
 Padà wá, olóńgbò!
 Ọ̀nà yẹn ti ga jù.
 
-
 ##
 Padà wá, olóńgbò!
 Má lọ síta.
-
 
 ##
 
@@ -26,20 +22,16 @@ Má lọ síta.
 Padà wá, olóńgbò!
 Iyẹn kì í ṣe tìrẹ.
 
-
 ##
 Padà wá, olóńgbò!
-Kí ni o ní?
+Kí ni o ní?wá, oló
 
-
-##
-Padà wá, olóńgbò!
+ńgbò!
 Iyẹn kì í ṣe ọ̀rẹ́ rẹ.
 
 ##
 Báwo ni, olóńgbò!
 Ṣé o ti padà?
-
 
 ##
 Dúró sínú apẹ̀rẹ̀ rẹ.
@@ -48,13 +40,11 @@ Dúró sínú apẹ̀rẹ̀ rẹ.
 ##
 Olóńgbò?
 
-
 ##
 
 ##
-License: [CC-BY]
-Writer: Nicola Rijsdijk
-Illustration: Karen Lilje
-Translated By: Taiwo Ẹhinẹni
-Language: Yoruba
-
+* License: [CC-BY]
+* Text: Nicola Rijsdijk
+* Illustration: Karen Lilje
+* Translation: Taiwo Ẹhinẹni
+* Language: yo

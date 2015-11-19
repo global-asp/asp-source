@@ -5,12 +5,10 @@ Sungura alikuwa amelala chini
 ya mtofaa. Tofaa lilianguka chini
 kutoka tawi moja.
 
-
 ##
 Sauti ilisikika, “kimbia sungura
 kimbia!” Aliamkia na bila ya
 kukawia akakimbia mbio sana.
-
 
 ##
 Alikutana na kuku. “Mbona
@@ -20,11 +18,9 @@ tu kitu kikianguka nayo sauti
 ikipiga makelele, “kimbia
 sungura kimbia!”
 
-
 ##
 Kuku alishtuka akaanza
 kukimbia alipomsikia sungura.
-
 
 ##
 Walikutana na mbwa naye
@@ -35,12 +31,10 @@ hajui. Alisikia kitu kikianguka
 pamoja na sauti ikisema,
 “kimbia sungura kimbia!”
 
-
 ##
 Mbwa akashangaa alivyosikia
 akaanza kukimbia pamoja na
 sungura na kuku.
-
 
 ##
 Walikutana na farasi. Farasi
@@ -53,11 +47,9 @@ kikianguka pamoja na sauti
 ikipiga makelele, “kimbia
 sungura kimbia!”
 
-
 ##
 Naye farasi akaanza kukimbia
 pamoja na wanyama wengine.
-
 
 ##
 Walikutana na punda. Punda
@@ -71,11 +63,9 @@ alisikia kitu kikianguka pamoja
 na sauti ikisema, “kimbia
 sungura, kimbia!”
 
-
 ##
 Basi punda pia akaanza
 kukimbia.
-
 
 ##
 Walikutana na ng’ombe.
@@ -90,12 +80,10 @@ alisikia kitu kikianguka na sauti
 ikipiga makelele, “kimbia
 sungura, kimbia!”
 
-
 ##
 Ng’ombe akapata wasiwasi na
 pamoja na wengine akaanza
 kukimbia.
-
 
 ##
 Walikutana na paka. Paka
@@ -111,11 +99,9 @@ hajui yeye alisikia kitu
 kikianguka na sauti ikisema,
 “kimbia sungura, kimbia!”
 
-
 ##
 Paka naye akaanza kukimbia
 pamoja na wanyama wengine.
-
 
 ##
 Walikutana na mvulana
@@ -128,13 +114,11 @@ naye hajui. Alisikia kitu
 kikianguka na sauti ikisema,
 “kimbia sungura, kimbia!”
 
-
 ##
 Mvulana alicheka akasema,
 “upepo uliangusha tofaa, ndiye
 mimi aliyesema, “kimbia
 sungura kimbia!”
-
 
 ##
 * License: [CC-BY]

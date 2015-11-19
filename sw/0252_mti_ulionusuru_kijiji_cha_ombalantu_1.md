@@ -14,7 +14,6 @@ katika kijiji cha Ombalantu!"
 “Tafadhali tueleze kuhusu mti huo," Toivo alisema.
 “Basi keti usikilize," nyanya alisema huku akianza kuhadithia.
 
-
 ##
 
 ##
@@ -74,7 +73,6 @@ ambapo yeye na Angula walipokwenda kucheza wakati mwingine.
 Mahali salama.
 Mahali pa siri.
 
-
 ##
 
 ##
@@ -88,7 +86,6 @@ Wanakijiji wote walitulia.
 Thaimi akawaambia kwa sauti, “Ninajua mahali pa kujificha.
 Nifuateni.”
 Alimshika Angula mkono wakondoka.
-
 
 ##
 
@@ -124,7 +121,6 @@ harakaharaka.
 Baada ya muda mfupi cheche za moto zikashika kwenye nyasi.
 Kisha moto mkubwa ukawaka wakaanza kuota.
 
-
 ##
 
 ##
@@ -137,7 +133,6 @@ mvamizi mmoja aligeuka na kukimbia. Kisha
 mwengine, na mwengine. Hadi wote wakaenda zao.
 Watu wa kijiji cha Ombalantu wakaokolewa.
 
-
 ##
 Nyanya akanyamaza.
 Wakati huu wote Selma alikuwa
@@ -145,7 +140,6 @@ anashikilia shina la mbuyu.
 “Kwa hivyo, ni mti huo uliowaokoa
 wanakijiji.” Nyanya akamaliza
 hadithi.
-
 
 ##
 * License: [CC-BY]

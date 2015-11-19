@@ -7,7 +7,6 @@ Walikuwa na mtoto mmoja pekee,
 mvulana.
 Aliitwa Kisirusiru.
 
-
 ##
 Siku moja wakati Kisirusiru alipokuwa akimpeleka
 mbuzi malishoni, mbuzi aliirarua shati lake.
@@ -15,7 +14,6 @@ Mamake alimtuma sokoni kununua sindano ili aweze
 kushona shati lake.
 Kisirusiru alinunua sindano na kuiweka katikia mfuko
 wa shati lake.
-
 
 ##
 Alipokuwa akienda nyumbani, aliwapata wavulana
@@ -27,7 +25,6 @@ kilichotokea.
 karatasi,”mamake alisema.
 “Ndiyo mama, naelewa,” Kisirusiru alijibu.
 
-
 ##
 Siku iliyofuata, mvulana yule alichukuwa chungu kwenda mtoni.
 Alikumbuka alichoambiwa na mamake, hivyo alikifungia chungu
@@ -38,7 +35,6 @@ Alipofika nyumbani, mamake alimweleza kwa subira, “Mtoto
 wangu, wakati ujao kiweke chungu kichwani. Hivyo utakibeba bila
 kumwaga maji.”
 “Ndiyo mama, naelewa,” Kisirusiru alisema.
-
 
 ##
 
@@ -53,7 +49,6 @@ kumkwaruza kichwa. Punde damu ilitiririka usoni.
 Usipokuwa na adabu, utalazimika kutoka nyumba
 hii.”
 
-
 ##
 Siku iliyofuata, baba alimtuma mwanawe kwenda
 kununua nyama sokoni.
@@ -65,7 +60,6 @@ muda mrefu.
 Hebu fikiria jinsi ile nyama ilivyofanana alipowasili
 nyumbani?
 
-
 ##
 Babake alikasirika mno akamwambia apange vitu
 vyake na kuondoka pale nyumbani.
@@ -75,7 +69,6 @@ Walipoondoka, walichukuwa mlango wa jikoni ili
 wawe na kitu cha kuanzia ujenzi wa nyumba yao
 mpya.
 
-
 ##
 Walitembea kwa muda mrefu.
 Lakini hawakufanikiwa kupata
@@ -83,7 +76,6 @@ mahali pa kujenga nyumba yao
 mpya.
 Giza lilipoingia, waliamua kukwea
 mti na kulala pale.
-
 
 ##
 Walikuwa wameshakwea mti huku wakiuvuta mlango
@@ -93,7 +85,6 @@ magunia makubwa.
 Waliogopa sana hata wakauachilia mlango.
 Ulianguka chini kwa kishindo na kuwaogofya wale
 watu hata wakaacha kila kitu na kutoroka.
-
 
 ##
 Kisirusiru na mamake walishuka
@@ -105,7 +96,6 @@ nyumba yao.
 Punde, walipata pahali pa kujenga
 nyumba na wakaishi kwa furaha
 tangu siku hiyo.
-
 
 ##
 * License: [CC-BY]

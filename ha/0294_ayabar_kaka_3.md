@@ -12,7 +12,6 @@ gaya mini abubuwa da dama.
 Amma akwai abin ba ta gaya mini:
 Wurin da take nana ayaba.
 
-
 ##
 Wata rana, na ga wani babban
 kwando na haki ajiye cikin rana a
@@ -28,7 +27,6 @@ wannan ganyen kaka?” na tambaye
 ta. Sai ta ba ni amsa kamar haka:
 ”Ganyen mamaki ne”.
 
-
 ##
 Akwai shawa in kana kallon kaka,
 ayaba, ganyen ayaba da kuma
@@ -41,7 +39,6 @@ kike gyarawa…”
 abin aka ce ki yi” kaka take faɗi. Sai
 ni kuma in tafi da gudu.
 
-
 ##
 Bayan na komo, kaka tana zamne
 waje, amma ba kwando, ba ayaba.
@@ -50,7 +47,6 @@ ayabar, kuma ina…”
 Sai ta ba ni amsa kamar haka:
 “Suna wani wuri na mamaki”. Ban ji
 daɗi ba.
-
 
 ##
 Bayan kwana biyu, kaka ta aike ni
@@ -63,7 +59,6 @@ mamaki na kaka. An ɓoye shi cikin
 wani babban bargo. Na ɗaka shi na
 ji wannan ƙamshi mai daɗi.
 
-
 ##
 Sai na ji muryar kaka, na zabura,
 “Mi kike yi? Ki yi maza ki kawo mini
@@ -75,7 +70,6 @@ Tambayar tata, ta sanya na gano da
 cewa, murmushina na gano wuri
 mamakin da kaka take faɗi.
 
-
 ##
 Washe–gari, lokacin da kaka ta zo ta
 ga ma’aifiyata, ni kuma sai na ruga
@@ -86,7 +80,6 @@ Bayan na gano kwando, sai na laɓe
 bayan ɗaki na canye da sauri. Ban
 taɓa cin ayaba mai daɗin wannan
 ayabar.
-
 
 ##
 Washe–gari, lokacin da kaka take
@@ -100,7 +93,6 @@ ji kaka ta yi wani ɗan tari waje. Na
 ɓoye ayabar cikin riga, kaka kuma
 ya wuce.
 
-
 ##
 Washe-gari, ranar kasuwa ce. Kaka
 ta tashi tun da safe.
@@ -109,7 +101,6 @@ ta saida a kasuwa.
 Ranan nan, ban je ba na gaida
 kaka. Amma zan je in iske ta.
 
-
 ##
 Can da maraice, babana da kaka
 sun kiranyo ni. Ni san abin da na yi.
@@ -117,11 +108,9 @@ Daren nan, da na kwanta, na yi
 tunanin da ba ni ƙara satar kakata
 ko ma’aifina ko wani can daban.
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
-* Adaptation: Plan Niger - Projet NECS - Usaid and Avec la
-contribution du comité asl du projet necs
-* Language: Hausa
+* Adaptation: Plan Niger - Projet NECS - Usaid, avec la contribution du comité asl du projet necs
+* Language: ha

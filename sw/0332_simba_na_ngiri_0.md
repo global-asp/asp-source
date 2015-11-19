@@ -7,14 +7,12 @@ Angeweza kuwashika wanyama wengine na kuwala.
 Lakini asubuhi moja alipokuwa akitafuta kifungua
 kinywa, alinaswa kwa mtego wa mwindaji.
 
-
 ##
 Simba alipiga yowe kubwa kutokana na uchungu.
 Alivuta na kuvuta ili kujinasua kutoka mtegoni.
 Mtego ulinasa zaidi na zaidi mguuni kila alipovuta.
 Simba alichoka na kuhisi uchungu mguuni.
 Alikata tamaa.
-
 
 ##
 Siku zilipita na Simba alichomwa kwa jua.
@@ -23,7 +21,6 @@ Alikuwa mnyonge zaidi na zaidi.
 "Nitakufa kwa njaa na kiu kwenye mtego huu,"
 aliwaza.
 
-
 ##
 Asubuhi moja, Simba alisikia sauti ikitokea kichakani.
 Alisikiliza na kuchunguza kwa karibu.
@@ -31,7 +28,6 @@ Aliona Ngiri akitembea na mkwewe na watoto
 wakizungumza na kucheka.
 Familia ya Ngiri ilikuwa inakwenda mtoni kunywa
 maji na kuchezea topeni kabla ya jua kuwa kali sana.
-
 
 ##
 "Ngiri! Tafadhali nisaidie! Ngiri!" Simba alilia.
@@ -42,7 +38,6 @@ na familia yangu kama kifungua kinywa."
 "Naahidi kamwe sitatenda jambo ovu kama hilo.
 Tutakuwa marafiki ikiwa utaniokoa," Simba alisema.
 
-
 ##
 Ngiri alimwonea Simba huruma.
 "Sipendi kukuona ukihisi uchungu,
@@ -51,7 +46,6 @@ Kwa hivyo alitumia pembe zake
 akavuta mtego kisha akamwokoa
 Simba.
 Ngiri alimwokoa rafikiye mpya.
-
 
 ##
 "Asante sana rafiki yangu kwa
@@ -65,7 +59,6 @@ rafiki yake. "Familia yangu
 haitakimbia kutoroka simba tena,"
 aliwaza.
 
-
 ##
 Simba aliondoka akichechemea na
 kwa unyonge.
@@ -75,7 +68,6 @@ wakicheza topeni.
 "Leo ni siku yangu ya bahati,"
 Simba alisema akidondokwa na
 mate.
-
 
 ##
 "Ngiri, rafiki yangu mpya," Simba
@@ -90,7 +82,6 @@ Ngiri alishtuka.
 Nilikuokoa kutoka mtegoni na sasa
 unataka kula watoto wangu?"
 
-
 ##
 "Nasikitika rafiki yangu," Simba
 alisema, "lakini ninakufa njaa.
@@ -102,7 +93,6 @@ kuonyesha meno yake.
 wako, mwenyewe nitamchukuwa
 mmoja," alinguruma.
 
-
 ##
 Ngiri alifahamu kuwa hakuwa na mbio wala nguvu za
 Simba.
@@ -113,7 +103,6 @@ hebu nionyeshe namna ulivyonaswa mtegoni.
 Ikiwa nitahitajika tena kumwokoa simba mwingine
 kutoka mtegoni."
 
-
 ##
 Simba alifikiria juu ya utamu wa
 kumla ngiri mchanga.
@@ -122,7 +111,6 @@ Simba alikwenda mtegoni na
 kuweka mguu wake ndani
 kumwonyesha rafiki yake jinsi
 alivyonaswa.
-
 
 ##
 “Ouch!” Lion roared.
@@ -134,7 +122,6 @@ wa simba.
 tena. Tuone ikiwa meno yako makali
 na yenye nguvu yatakusaidia sasa."
 
-
 ##
 "Kimbieni! Kimbilieni mbali!" Bibiye
 Ngiri aliwaambia wanawe kwa sauti
@@ -143,7 +130,6 @@ ya juu.
 baba yenu awaone," alisizitiza.
 Watoto walikimbia kwa kasi
 walivyoweza kupita kichakani.
-
 
 ##
 "Tafadhali Ngiri nisaidie!" Simba alimsihi tena.
@@ -155,7 +141,6 @@ kukwamini tena," Ngiri alisema.
 "Nitawaonya wanyama wengine vile vile ili
 wakuepuke kwa sababu wewe ni mjanja mno.
 
-
 ##
 Ngiri aliwaona watoto wake wakikimbia katika mstari
 pamoja na mama yao.
@@ -165,7 +150,6 @@ usalama wao.
 Hadi leo, Ngiri na watoto wao hukimbia huku mikia
 yao imeinuliwa kuhakikisha usalama wa kila mmoja
 wao.
-
 
 ##
 * License: [CC-BY]

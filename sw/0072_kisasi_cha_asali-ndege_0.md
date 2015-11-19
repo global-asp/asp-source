@@ -13,7 +13,6 @@ kutua kwenye mti uliokuwa karibu, tena na mwingine.
 “Chitik-chitik-chitik,” aliita, huku akinyamaza na kuhakikisha
 kwamba Gingile alikuwa amemfuata.
 
-
 ##
 
 ##
@@ -29,7 +28,6 @@ Gingile hakuweza kuona nyuki
 wowote kutoka chini ya mti, lakini
 alimwamini Ngede.
 
-
 ##
 Kwa hivyo Gingile aliweka chini ya
 mti mkuki wake alioutumia
@@ -43,7 +41,6 @@ mwingi ulipochomeka.
 Alianza kukwea mti huku akishika
 kwa meno yake sehemu isiyokuwa
 ikichomeka.
-
 
 ##
 Muda mfupi baadaye, aliweza
@@ -61,7 +58,6 @@ sababu hawakupenda moshi – lakini
 walifanya hivyo tu baada ya
 kumuuma Gingile kwa uchungu!
 
-
 ##
 Nyuki walipokuwa nje, Gingile
 aliingiza mikono yake ndani ya
@@ -71,7 +67,6 @@ mengi na chembe chembe nyeupe.
 Aliiweka taratibu ndani ya mkoba
 aliokuwa nao na kuanza kushuka
 kutoka mtini.
-
 
 ##
 Ngede alishuhudia kila kitu
@@ -85,7 +80,6 @@ Ngede alitua kwenye mwamba
 karibu na mvulana huyo na kusubiri
 zawadi yake.
 
-
 ##
 Lakini Gingile aliuzima moto, akachukuwa mkuki wake na kuanza
 safari kwenda nyumbani bila kumjali ndege yle.
@@ -97,7 +91,6 @@ Kwa nini nigawane nawe hii asali tamu?” Baada ya kusema hivyo,
 aliondoka na kwenda zake.
 Ngede alikasirika sana! Hivi sivyo ndivyo alistahill kutendewa!
 Lakin atalipiza kisasi.
-
 
 ##
 
@@ -112,7 +105,6 @@ Kwa harak aliwasha moto wake na kuanza kukwea mti huku
 akibeba kuni iliyotoa moshi kwenye meno yake.
 Ngede alikaa na kuangalia tu
 
-
 ##
 
 ##
@@ -123,7 +115,6 @@ alijikuta amekodolea mcaho uso wa Chui!
 Chui alikuwa na hasira sana kwa sababu usingizi wake ulikuwa
 umekatizwa. Aliiyafanya macho yake kuwa madogo, akaufungua
 mdomo wake na kuonyesha meno yake makubwa makali.
-
 
 ##
 
@@ -137,7 +128,6 @@ hakumfukuza.
 Ngede, Asali Ndege, alikuwa amelipiza kisasi chake na Gingile
 alikuwa amejifunza funzo lake.
 
-
 ##
 Kwa hivyo wakati watoto wa Gingile
 na watoto wa watoto wao
@@ -146,7 +136,6 @@ wanamheshima yule ndege.
 Kila wanapotoa asali, huhakikisha
 kwamba wanamwachia Asali Ndege
 fungu kubwa!
-
 
 ##
 * License: [CC-BY]

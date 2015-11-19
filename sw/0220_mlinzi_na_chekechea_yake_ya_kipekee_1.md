@@ -5,13 +5,11 @@ Hi ni hadithi ya Mlinzi
 na chekechea yake ya
 wanyama mayatima.
 
-
 ##
 Agosti ulikuwa mwezi wenye
 shughuli nyingi sana kwa
 Mlinzi na wasaidizi wake katika
 chekechea.
-
 
 ##
 Aliyefika kwanza alikuwa
@@ -20,14 +18,12 @@ mmoja.
 Alikuwa ambebebwa
 katika lori la kijani kibichi.
 
-
 ##
 Mlinzi na wasaidizi wake
 walimwonea Mkite huruma
 sana.
 Alikuwa amekonda na mwenye
 huzuni.
-
 
 ##
 Lakini muda mfupi baadaye,
@@ -36,12 +32,10 @@ afya.
 Alianza kucheza na wanyama
 wengine katika chekechea.
 
-
 ##
 Siku nyingine katika mwezi huo
 wa Agosti, helikopta ilitua
 mbele ya chekechea.
-
 
 ##
 Mlinzi na wasaidizi wake
@@ -50,14 +44,12 @@ Ndani ya helikopta, mtoto
 wa ndovu alifungwa katika
 blanketi kubwa.
 
-
 ##
 Ni Ndiwa aliyekuwa katika
 blanketi.
 Alikuwa na umri wa siku tano.
 Mlinzi alimlisha Ndiwa
 kutumia chupa.
-
 
 ##
 Yatima wa tatu mwezi huo
@@ -68,7 +60,6 @@ nyekundu.
 Alikuwa na umri wa miezi
 sita.
 
-
 ##
 Malea alikuwa kifaru.
 Alikuwa rafiki wa karibu wa
@@ -77,12 +68,10 @@ mtoto.
 Walienda pamoja kila
 mahali.
 
-
 ##
 Usiku mmoja, kila mmoja
 aliamshwa na kufika kwa
 Ambia.
-
 
 ##
 Ambia alikuwa na umri wa
@@ -90,12 +79,10 @@ miezi mitano.
 Alihisi njaa na uchovu
 baada ya safari ndefu.
 
-
 ##
 Kwa sababu ya shingo lake
 refu, Mlinzi aliishikia
 chupa juu ili kumlisha.
-
 
 ##
 Mapacha Abei na Moit
@@ -105,7 +92,6 @@ Walikuwa wamezaliwa
 saa chache tu.
 Walikuwa wagonjwa sana.
 
-
 ##
 Kila mmoja alihuzunika
 wakati Abei aliaga dunia
@@ -113,7 +99,6 @@ wiki moja baada ya kufika
 pale chekechea.
 Lakini Mlinzi na wasaidizi
 wake walimwokoa Moit.
-
 
 ##
 Mayatima wa mwisho kufika
@@ -123,18 +108,15 @@ Hawa wanasimba walikuwa na
 umri wa wiki mbili.
 Walihisi kiu sana walikpofika.
 
-
 ##
 Mlinzi na wasaidizi wake
 waliwapenda wanyama wote
 hata wale watukutu.
 
-
 ##
 Mtukutu zaidi alikuwa Lobolia.
 Lobolia alizoea kuficha miwani
 ya Mlinzi.
-
 
 ##
 Watu wote hapo chekechea
@@ -146,7 +128,6 @@ kujitegemea wenyewe siku
 moja.
 Halafu wataweza kurudi porini.
 
-
 ##
 Wana umri gani na ni wangapi?
 Soma tena hadithi kisha ujibu maswali haya.
@@ -157,7 +138,6 @@ Soma tena hadithi kisha ujibu maswali haya.
 5. Ni wanyama gani waliofika mwezi Agosti waliokuwa na umri wa chini zaidi?
 6. Walikuwa na umri gani?
 7. Ni mnyama yupi aliyefika mwezi Agosti aliyekuwa mzee kwa wote?
-
 
 ##
 * License: [CC-BY]

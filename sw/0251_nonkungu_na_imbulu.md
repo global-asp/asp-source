@@ -8,7 +8,6 @@ Nonkungu alikuwa mrembo na
 mkarimu. Wazazi wake walimpenda
 sana.
 
-
 ##
 Siku moja, wazazi wake waliamua
 kumtuma kwa mjombake tajiri
@@ -21,14 +20,12 @@ shanga.
 Kisha akamwambia aende kwa
 mjombake.
 
-
 ##
 Barabarani alifika kwenye mto.
 Akavuka kwa kukanyaga mawe.
 Upande ule mwingine wa mto
 akakutana na msichana aliyevaa
 matambara.
-
 
 ##
 “Unaenda wapi?” Yule msichana
@@ -41,7 +38,6 @@ Na mimi naenda kumtembelea,”
 yule msichana akasema.
 Basi wote wakatembea pamoja.
 
-
 ##
 Baada ya kutembea kidogo, yule
 msichana akasema, “Rinda lako ni
@@ -53,7 +49,6 @@ Basi Nonkungu akavua mkufu na
 rinda lake akampa yule msichana
 mdogo.
 
-
 ##
 Wakati msichana huyo alipovua
 matambara yake na kuvaa nguo za
@@ -62,7 +57,6 @@ kwamba huyo msichana alikuwa na
 mkia!
 Sasa alijua kuwa yule msichana
 alikuwa imbulu.
-
 
 ##
 Walitembea kwa pamoja.
@@ -74,7 +68,6 @@ mti."
 Alimwonyesha mti uliokuwa juu ya
 mlima.
 
-
 ##
 Walipofika kwenye ule mti,
 Nonkungu aliambia imbulu,
@@ -85,7 +78,6 @@ mto.”
 Kwa vile alikuwa na woga,
 Nonkungu alikubali.
 
-
 ##
 Hatimaye, wakafika kwenye mto.
 Kwa mara nyingine,Nonkungu
@@ -94,7 +86,6 @@ nirudishie mkufu na rinda langu."
 “Niruhusu nivae hadi tufike kwenye
 lile boma, pale wanawake wameketi
 ,” imbulu akasema.
-
 
 ##
 Walipofika kwenye boma, imbulu
@@ -106,7 +97,6 @@ akinifuata siku nzima.
 Nataka aniondokee.”
 Nonkungu aliaibika akakimbilia
 kichakani na kujificha.
-
 
 ##
 Basi imbulu akaenda katika boma la
@@ -120,7 +110,6 @@ ikamfurahia sana imbulu.
 Maskini Nonkungu alilala kichakani
 akila chakula cha mbwa.
 
-
 ##
 Wakati wa mchana Nonkungu
 alijificha kwenye shamba la mahindi
@@ -131,7 +120,6 @@ Kwa mjomba Mtonyama,
 Kakutana na imbulu,
 Nguo zangu kachukua,
 Matatizo, matatizo!
-
 
 ##
 Siku moja ndugu yake Mtonyama
@@ -147,7 +135,6 @@ Aliusikiliza wimbo kwa makini
 akatafuta mpaka akamwona
 Nonkungu.
 
-
 ##
 Nonkungu alimweleza kwamba
 imbulu alichukuwa nguo zake
@@ -158,7 +145,6 @@ akampeleka nyumbani akamficha
 ndani ya boma.
 Mtonyama alijua cha kufanya ili
 amshike yule imbulu.
-
 
 ##
 Mtonyama alikuwa amesikia
@@ -172,7 +158,6 @@ na maziwa lala.
 Kisha akawaita wasichana wote
 kijijini kwa mashindano ya kuruka.
 
-
 ##
 Msichana aliyevaa rinda na mkufu
 wa Nonkungu aliogopa. Hakutaka
@@ -184,7 +169,6 @@ kabisa kwenye mwili wake.
 Kisha akajiunga na wasichana
 wengine kuruka.
 
-
 ##
 Wasichana walikuwa wakiruka lile
 shimo mmoja baada ya mwingine.
@@ -194,7 +178,6 @@ Alijaribu kuruka juu ya shimo kabisa
 lakini mkia wake ulifunguka
 ukamvuta chini, chini, chini kwenye
 shimo la maziwa lala.
-
 
 ##
 Wakati imbulu alipokuwa
@@ -207,7 +190,6 @@ Naye Nonkungu aliishi na mjomba
 wake raha mustarehe kwa miaka
 mingi.
 Na huo ndio mwisho wa hadithi.
-
 
 ##
 * License: [CC-BY]

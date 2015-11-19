@@ -6,7 +6,6 @@ Kwa muda mrefu, hakuna yeyote katika miliki ya
 wanyama aliyeweza kuongea juu ya jambo tofauti ila
 ile Mbio Kuu na wapinzani wake wawili.
 
-
 ##
 
 ##
@@ -21,7 +20,6 @@ Kobe hakujivuna kwa sababu ya ushindi wake, na
 sungura, akifahamu kuwa alikuwa ameshindwa kwa
 uwazi, hakumshikia kobe kisasi.
 
-
 ##
 
 ##
@@ -34,7 +32,6 @@ wakati huo.
 Aliamua, badala yake, awatume sungura na kobe
 kama wawakilishi wake kwa yule mfalme mwingine.
 
-
 ##
 “Mmoja wenu angalau, atalazimika kwenda kwa
 ufalme jirani,” aliamrisha mfalme wakati sungura na
@@ -46,7 +43,6 @@ alisema alipomaliza.
 “Kumbukeni, mna siku moja tu ya kukamilisha kazi
 hiyo.”
 
-
 ##
 
 ##
@@ -55,7 +51,6 @@ jirani haikuwa laini wala rahisi.
 Ilikuwa ya mawe na iliyojaa miiba.
 Vile vile kulikuwa na mito miwili
 njiani.
-
 
 ##
 
@@ -69,7 +64,6 @@ kupita sehemu yenye miiba.
 Naye kobe ambebe sungura wakati wanavuka mito
 ile miwili.
 
-
 ##
 Siku iliyofuata, walikusanya jumbe tofauti kutoka kwa
 mfalme wao na kujitayarisha kuondoka.
@@ -78,7 +72,6 @@ mwendo wa kupita sehemu ya miiba kwa kasi.
 Kobe alijishikilia asije akaanguka na kupoteza maisha
 yake.
 
-
 ##
 Walipofikia mto, walibadilishana na sungura
 akampanda kobe mgongoni.
@@ -86,7 +79,6 @@ Kobe aliogelea kutoka upande mmoja wa mto hadi
 mwingine kwa wepesi.
 Baada ya kuvuka mito yote miwili, haikuwachukuwa
 muda mrefu kufika katika ule ufalme jirani.
-
 
 ##
 
@@ -97,7 +89,6 @@ mambo yote kutoka kwa mfalme
 wao, sungura na kobe walikuwa
 tayari kuondoka.
 
-
 ##
 Safari ya kurudi ilikuwa nyororo na nyepesi kuliko ya
 kwenda kwani wote wawili walijua kile kilitakikana
@@ -105,7 +96,6 @@ kufanywa.
 Hao wapinzani wawili walikuwa wamefanya kazi kwa
 pamoja kwa maelewano makubwa hata wakamfikia
 mfalme wao kabla ya muda waliopewa!
-
 
 ##
 * License: [CC-BY]

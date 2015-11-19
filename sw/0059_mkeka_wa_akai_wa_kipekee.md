@@ -10,7 +10,6 @@ ulitengezwa na
 shangaziye Akai kutoka
 majani ya mtende.
 
-
 ##
 Mkeka ulikuwa wa rangi
 ya waridi, bluu na
@@ -19,7 +18,6 @@ Ulikuwa tofauti na
 mikeka mingine
 ambayo mamake Akai
 alikuwa nayo nyumbani.
-
 
 ##
 Nyumbani kwao Akai
@@ -38,14 +36,12 @@ Mamake alisema,
 kipekee unamkinga na
 hatari yoyote.”
 
-
 ##
 Akai alikuwa mtoto
 mwerevu.
 Aliweza kujua mahali
 kisima cha karibu
 kilikokuwa.
-
 
 ##
 Alijua mahali manyatta
@@ -54,7 +50,6 @@ Mara kwa mara alienda
 kufurahia kunywa
 maziwa ya ngamia na
 nyanyake.
-
 
 ##
 Siku moja, Akai hakuwa
@@ -66,19 +61,16 @@ hakufika huko.
 Alipotelea milimani.
 Akai aliogopa.
 
-
 ##
 Aliketi chini ya mti wa
 edome kusubiri usaidizi.
 Muda mfupi baadaye,
 alilala na kuota ndoto.
 
-
 ##
 Hivi ndivyo ndoto
 ilivyokuwa:
 Alikuwa amelala
-
 
 kwenye mkeka wake
 maalumu.
@@ -98,7 +90,6 @@ alimwona ndege mdogo
 wa rangi ya bluu akiwa
 ametulia kwenye tawi.
 
-
 ##
 Akai aliposimama, yule
 ndege alipapatika
@@ -106,7 +97,6 @@ mbawa zake kisha
 akamwongozea Akai
 njia.
 Akai alimfuata.
-
 
 ##
 Akai alifika mahali njia
@@ -117,7 +107,6 @@ kipande cha mkeka
 kilichofanana na mkeka
 wa Akai.
 
-
 ##
 Akai alipokichukuwa
 kipande hicho, aliona
@@ -126,7 +115,6 @@ kuwa za mamake.
 Baadaye, alikiona
 kisima walimochota
 maji.
-
 
 ##
 Watu wote wa familia
@@ -138,14 +126,12 @@ wakachoma nyama na
 kusherehekea kurudi
 salama kwa mtoto wao.
 
-
 ##
 Naye Akai aliukalia
 mkeka wake maalumu
 huku akifurahi kula
 kipande kikubwa cha
 nyama iliyochomwa.
-
 
 ##
 * License: [CC-BY]

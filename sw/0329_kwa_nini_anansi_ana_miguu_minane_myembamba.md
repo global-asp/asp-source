@@ -10,7 +10,6 @@ Lakini kila mara Anansi alipenda
 kuonja vyakula vilivyopikwa na
 wanawake wengine wa pale kijijini.
 
-
 ##
 Siku moja, Anansi alipita kwa Sungura, rafikiye
 mpendwa.
@@ -25,7 +24,6 @@ hivyo Sungura, lakini nina majukumu ya kufanya.”
 Anansi alijua angesubiri, bila shaka Sungura
 angempa kazi za kufanya.
 
-
 ##
 Anansi akamwabia Sungura, “nitasokota utando
 nifunge ncha moja mguuni kwangu na nyingine
@@ -34,7 +32,6 @@ utando na nitakimbia nije.”
 
 Sungura aliona hilo ni wazo zuri sana.
 Wakafanya hivyo.
-
 
 ##
 Anansi alipoondoka kwa Sungura, njiani alinusa na
@@ -51,7 +48,6 @@ Baba Ngedere aliona hilo ni wazo zuri sana, na
 watoto wake wote pia wakaona hivyo. Kwa hiyo
 wakafanya hivyo.
 
-
 ##
 Anansi alipoondoka kwa Baba Ngedere, njiani alinusa
 kwa furaha akasema, “nasikia harufu ya viazi vitamu,
@@ -66,7 +62,6 @@ ncha nyingine kwenye chungu cha viazi vitamu.
 Rafiki yake Nguruwe akaona ni wazo zuri, na
 wakafanya hivyo.
 
-
 ##
 Wakati Anansi anafika mtoni, miguu yake yote
 ilikuwa imefungwa kwa ncha za utando.
@@ -76,7 +71,6 @@ kitaiva kwanza?”
 Pale pale Anansi akasikia mguu umevutwa. Akasema,
 “Ah, hii ni ncha ya utando iliyofungwa kwenye
 chungu cha Sungura cha mboga za majani."
-
 
 ##
 Akasikia mvuto mwingine, na mwingine. Anansi
@@ -90,7 +84,6 @@ akavuta zile ncha kwa wakati mmoja.
 Miguu yake ikavutwa ikawa myembamba na
 myembamba.
 
-
 ##
 Anansi akajirusha haraka mtoni.
 Wakati tando zote zimechukuliwa na maji, alijivuta
@@ -100,7 +93,6 @@ pengine hili halikuwa wazo zuri kabisa.”
 Hadi leo hii, Anansi Buibui ana miguu minane
 myembamba sana.
 Na siku ile hakupata chakula chochote.
-
 
 ##
 * License: [CC-BY]

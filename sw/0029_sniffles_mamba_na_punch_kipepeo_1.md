@@ -11,7 +11,6 @@ Lakini Sniffles angeangua kilio kwa lile wazo la kumla
 mnyama mwingine. Kwa hivyo mama na baba walilazimika
 kumlisha Sniffles kila siku.
 
-
 ##
 
 ##
@@ -27,7 +26,6 @@ walifurahisha sana. Sniffles alimkalia Punch kichwani
 wakiogelea. Mamba wengine walicheka na kuwafanyia
 mzaha. Hilo halikumsumbua Sniffles. Aliendelea kulia,
 kuvuta pua lake na kwa kuendeleza urafiki wake na Punch.
-
 
 ##
 
@@ -45,7 +43,6 @@ kwa kwi kwi.
 kuwatandaza juu ya ubao, shangazi yangu aliniambia,”
 Punch alisema halafu akaruka na kwenda zake.
 
-
 ##
 
 ##
@@ -60,7 +57,6 @@ mbali kilifanana kabisa na mamba. Wanaume hao
 hawakuona mamba wowote, ila mamia ya vipepeo ambao
 walirukia nyuso na nywele zao.
 
-
 ##
 
 ##
@@ -72,7 +68,6 @@ wote walikusanyika na kusema,
 “Asante Punch.”
 “Asante Vipepeo.”
 
-
 ##
 Siku iliyofuata, Sniffles aliwaona wanaume
 wakiwa wamebeba nyavu.
@@ -82,7 +77,6 @@ wenye nyavu wamekuja.”
 Mamba wote walienda kwenye ukingo wa mto.
 Vipepeo walitulia juu ya migongo na vichwa
 vya mamba.
-
 
 ##
 Mamba wachache waliwazingira wanaume walipokaribia.
@@ -97,7 +91,6 @@ kwa vile alikuwa ameonyesha umaarufu wake kama
 mamba kamili.
 Sasa, Sniffles pia alijivunia kuwa mmoja.
 
-
 ##
 
 ##
@@ -108,7 +101,6 @@ wakipeperusha mbawa zao.
 “Ni sawa,” Sniffles alijibu huku akiona haya.
 “Hiyo ndiyo sababu ya kuwa marafiki,
 Kuwasaidia wenzako.”
-
 
 ##
 * License: [CC-BY]

@@ -10,7 +10,6 @@ sana kwa kuwa hawakuhadithiana.
 Wakamwuliza Anansi, buibui,
 mwerevu awasaidie.
 
-
 ##
 Anansi alisokota utando mrefu
 unaonata, akautumia kupanda hadi
@@ -21,7 +20,6 @@ Lakini Nyamae alimcheka Anansi
 akisema, “Hadithi hizi ni ghali mno.
 Hutaweza kuzilipia, buibui mdogo,
 wee.”
-
 
 ##
 “Hadithi hugharimu pesa ngapi?”
@@ -36,7 +34,6 @@ Alicheka na kucheka. Alidhani
 kwamba hadithi zake zilikuwa
 salama.
 
-
 ##
 Kwa hivyo Anansi alishuka pole pole
 chini. Aliwaza na kuwazua kisha
@@ -50,7 +47,6 @@ ameanguka kwenye shimo. Alikuwa
 akikwaruza kuta za shimo kwa
 ghadahbu.
 
-
 ##
 “Hebu nikusaidie, rafiki yangu.”
 Anansi alisema.” “Hebu lalia vijiti
@@ -61,7 +57,6 @@ vijiti, kisha akamvuta hadi juu kwa
 Mungu wa Mbinguni.
 Lakini, Nyamae alimcheka akauliza,
 “Wale wengine wawili wako wapi?”
-
 
 ##
 Kwa hivyo, anansi alirudi tena ardhini kumtafuta
@@ -74,7 +69,6 @@ Kisha akatafuta jani la mgomba akajikinga nalo
 kichwani, halafu akajimwagilia maji yaliyobaki, kila
 sehemu ya mwili.
 
-
 ##
 Kisha akawaita manyigu, “Aisee
 manyigu! Njooni mwone! Mvua
@@ -85,7 +79,6 @@ Manyigu hawapendi kulowa maji;
 kwa hivyo, walikimbilia ndani ya
 kibuyu cha Anansi.
 
-
 ##
 Kwa haraka, Anansi aliutungia
 utando wake kwenye mlango ili
@@ -95,7 +88,6 @@ Mungu wa Mbinguni.
 Lakini Nyamae akasema, “Mnyama
 wa mwisho yu wapi?” (Wakati huu
 hakucheka).
-
 
 ##
 Kwa hivyo, Anansi akarudi ardhini tena. Alifikiri na
@@ -108,7 +100,6 @@ Walipofika karibu na mto alimoishi nyoka, walianza
 kubishana. “Kijiti hiki ni kirefu zaidi!” “hapana si
 kirefu!” “Ndio, ni kirefu!”
 
-
 ##
 Mara nyoka akatokea kwenye maji akawauliza
 sababu ya mabishano yao.
@@ -119,7 +110,6 @@ sikubaliani naye.”
 hicho!” nyoka alisema. “Mimi ni nyoka mrefu sana!
 Hebu weka kijiti karibu nami nijipime.”
 
-
 ##
 Anansi alifanya hivyo.
 Kisha akamfunga yule nyoka
@@ -127,7 +117,6 @@ kwenye kijiti kile kwa kutumia
 kamba ili kumnyoosha sawasawa.
 Baada ya kumfunga huyo nyoka
 vizuri, alimbeba hadi juu mbinguni.
-
 
 ##
 Nyamae akaridhika kwamba Anansi alikuwa ametoa
@@ -139,7 +128,6 @@ hadi ardhini.
 Akazigawa kwa mke wake, na watu wengine pamoja
 na wanyama, kwa sababu hadithi ni za kuhadithia
 wala si za kuficha kwenye sanduku.
-
 
 ##
 * License: [CC-BY]

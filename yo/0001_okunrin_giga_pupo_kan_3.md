@@ -44,11 +44,11 @@ o sì gbé ní igbó
 Ó gbé fún ọdún púpọ̀.
 
 ##
-License: [CC-BY]
-Writer: Cornelius Gulere
-Illustration: Catherine Groenewald
-Translated By: Taiwo Ẹhinẹni
-Language: yo
+* License: [CC-BY]
+* Text: Cornelius Gulere
+* Illustration: Catherine Groenewald
+* Translation: Taiwo Ẹhinẹni
+* Language: yo
 
 A gbé Ìtàn yìí jáde nípasẹ̀ àwọn ọmọ
 ẹgbẹ́ ilé-ìkàwé fún agbègbè tí

@@ -1,5 +1,4 @@
-# Mulongo da
-kuraye
+# Mulongo da kuraye
 
 ##
 A lokacin da, an yi wata yarinya
@@ -8,7 +7,6 @@ rayuwa ne tare da uwayenta da
 suke kusa da garin budongo.
 Wata rana, uwa Mulongo ta aike
 ta rijiya ɗibar ruwa.
-
 
 ##
 Bisan hanyarta, ta gamu da
@@ -21,7 +19,6 @@ tafiya in ɗebo ma uwata ruwa».
 Amma abokananta ba su son su
 jiraye ta.
 
-
 ##
 «Da kyau, za ni cimmaku cikin
 daji» in ji Mulongo.
@@ -29,7 +26,6 @@ Ta je da gudu ta ɗebo ruwan, ta
 kawoma uwarta. Kuma ta je
 cikin dajin ta tararda
 abokananta.
-
 
 ##
 Ta bi ta hanyar da za ta kaita
@@ -40,7 +36,6 @@ ko’ina.
 «Ta ina suka bi?» tana tambayar
 kanta.
 
-
 ##
 Ta ɗauki hanyar da ta fi nisa,
 take tafiya, take tafiya, amman
@@ -49,7 +44,6 @@ Ta gaji ƙwarai sai ta zamna
 ƙarƙashin wata bushiya don ta
 futa, daga nan kwana ya ɗauke
 ta.
-
 
 ##
 Lokacin da Mulongo ta farka,
@@ -61,7 +55,6 @@ sosai har ba ta iya kuwa. Ta so
 ta tsere amma kurayen da suka
 kewayeta suma yunwa suke ji.
 
-
 ##
 «Kar da kimotsa» inji babban
 kuren, da wata ƙwararar murya.
@@ -69,7 +62,6 @@ kuren, da wata ƙwararar murya.
 ki.»
 Sai ta roƙe su, «don Allah, ku
 bar ni in tafi gidanmu!»
-
 
 ##
 Amma maimakon haka,sai
@@ -79,7 +71,6 @@ Wani ɗaki ne mai dauɗa, cike
 da ƙasusuwa sai ƙuda suna ta
 yin bobowa. Ta yi kwance kamar
 ta yi barci.
-
 
 ##
 Cikin dufu, ta ji kurayen suna
@@ -92,7 +83,6 @@ aka bata amsa. «In janyo ta?»
 gurnani. «Yunwa muke ji !»
 Sun shirya su fito da Mulongo
 daga cikin ɗakin.
-
 
 ##
 Sai babban kuren ya ce, «Kai
@@ -107,7 +97,6 @@ matarshi. «Za ni je in kiranyo
 «Ni ko za ni tsayawa don in fake
 abincinmu» in ji babban kuren.
 
-
 ##
 Babban kure ya zauna bakin
 ƙofar ɗakin, sauran ko suka
@@ -120,13 +109,11 @@ nan! Amma, yaya za ta bi kusan
 da kuren? Sabida girmanshi ya
 tare ƙofar fitta.
 
-
 ##
 Hanya guda ce, ta tsalaka
 sama, ta faɗa wancen ɓangaren
 na kuren, sai ta zuba da gudu
 bakin ƙoƙarinta.
-
 
 ##
 Ko da sauran kurayen suka
@@ -134,7 +121,6 @@ dawo, suka lura da abun da
 yafaru, suka je neman Mulongo,
 cikin baƙin-ciki da takaici.
 Amma ,ina, ta yi nisa.
-
 
 ##
 Da ta iso cikin garinsu, wani
@@ -147,7 +133,6 @@ su na yi wa Allah godiya da ya
 ceci diyarsu, «Mulongo,
 Mulongo, mun aza kin mutu!»
 
-
 ##
 Tun daga wanna ranar, Mulongo da sauran yaran, basu sake komawa cikin daji su
 kaɗai.
@@ -157,4 +142,4 @@ kaɗai.
 * Text: Sarah Nangobi
 * Illustration: Wiehan de Jager
 * Translation: Plan Niger - Projet NECS - Usaid
-* Language: Hausa
+* Language: ha

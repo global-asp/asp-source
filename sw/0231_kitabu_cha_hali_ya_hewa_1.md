@@ -3,34 +3,26 @@
 ##
 Hakuna mvua.
 
-
 ##
 Jua linang’aa.
-
 
 ##
 Kuna upepo.
 
-
 ##
 Kuna mawingu mazito.
-
 
 ##
 Ni baridi.
 
-
 ##
 Mvua inanyesha.
-
 
 ##
 Kuna ngurumo za radi.
 
-
 ##
 Naona upinde.
-
 
 ##
 * License: [CC-BY-NC]

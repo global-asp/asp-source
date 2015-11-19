@@ -11,13 +11,11 @@ urembo wake ulisifiwa na watu
 wengi, macho meupe isitoshe tabia
 zake nzuri mno.
 
-
 ##
 Alipokulia kuwa msichana mzima,
 umati wa wanaume vijana kwa
 wazee walienda kwao msichana
 wakiwa na nia kumposa.
-
 
 ##
 Habari hiyo ilisambaa kijiji kizima.
@@ -30,7 +28,6 @@ Alikaa dakika chache lakini kabla ya
 muda kupita, akala matunda
 akaagwa kwenda zake.
 
-
 ##
 Aliyefuata alikuwa kiongozi wa
 wafugaji wanyama. Yeye pia alikuwa
@@ -39,7 +36,6 @@ Msichana alipendezwa naye. Lakini
 alipoandaliwa matunda bila ya
 kusita akala naye akaagwa kwenda
 zake.
-
 
 ##
 Aliyekuwa wa tatu kufuata akawa
@@ -53,7 +49,6 @@ akamwomba ale. Ilipofika saa kumi
 ya mchana njaa ikaanza kuumiza
 akala. Yeye pia akaagwa aende
 zake.
-
 
 ##
 Halafu akaja mtemi, mtu mlaji
@@ -70,7 +65,6 @@ Aliporudi, alinukia matunda huku
 midomo yake rangi nyekundu!
 Msichana alifarijika mtemi akaagwa
 na kwenda zake.
-
 
 ##
 Siku chache zilipita mwanamfalme,
@@ -90,7 +84,6 @@ kula akaagwa kwenda zake.
 Msichana masikini akalia machozi
 ya hasira na hasara.
 
-
 ##
 Siku iliyofuata akaja mkulima masikini na mvivu bali bado mbichi
 na mwenye sifa ya kubobea maneno ambayo yaliwafurahisha
@@ -102,7 +95,6 @@ moyoni. Hadi saa sita ya mchana hajala, saa nane hajala, saa kumi
 mkulima aliomba maji.
 Msichana alimwomba Mungu ale na ilipofika saa moja ya jioni yeye
 alikuwa angalisali.
-
 
 ##
 
@@ -119,7 +111,6 @@ akiimba wimbo mzuri kiasi
 kuwavutia watu wawafuate
 barabarani.
 
-
 ##
 Miongoni mwa watu wale walikuwa
 watumishi wa mwanamfalme.
@@ -129,7 +120,6 @@ akikubali kumwachia msichana.
 Bila ya kusita hata kwa dakika moja
 akakubali pesa pamoja na ng’ombe
 akaenda zake peke yake.
-
 
 ##
 Watumishi wale walimvalisha
@@ -141,7 +131,6 @@ Muda si mrefu, wazazi wake
 waliitwa na arusi ikaandaliwa.
 Niliwaacha wakisherehekea nami
 nilikuja kuwahadithini nyinyi.
-
 
 ##
 * License: [CC-BY]

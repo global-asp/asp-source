@@ -15,7 +15,6 @@ alimwonea Mjusi wivu
 kwa vile ngozi yake
 ilimetameta na kuvutia.
 
-
 ##
 Alisema:
 Kipi ulifanya ili
@@ -40,25 +39,21 @@ Fyata ulimi,
 rafiki yangu.
 Mara akaondoka.
 
-
 ##
 Kwa hivyo
 alifika nyumbani na
 kutia maji chunguni.
-
 
 ##
 Maji yalipoanza
 kuchemka,
 alijitumbukiza ndani.
 
-
 ##
 na ngozi yake
 ikachomeka
 na mkia wake
 ukakatika!
-
 
 ##
 Na badala ya

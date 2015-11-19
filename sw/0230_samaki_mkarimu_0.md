@@ -9,7 +9,6 @@ hawangeweza kupata watoto wengine.
 Mpunzi alimlaumu mkewe kwa kutompa mtoto wa
 kiume.
 
-
 ##
 Siku moja, Mpunzi alimgonga mkewe kwa fimbo.
 Mkewe alitorokea nyumbani kwa familia yake.
@@ -18,7 +17,6 @@ Nosisa.
 Mpunzi alimdhulumu bintiye namna alivyomdhulumu
 mkewe.
 Nosisa aliishi maisha ya huzuni sana.
-
 
 ##
 Mpunzi alioa mke mwingine. Alitumaini kwamba mke
@@ -29,7 +27,6 @@ Mpunzi alimtetesha wakati wote na kumlazimisha
 kumtumikia mke wake mpya.
 Nosisa alifanya kazi kama mtumwa.
 
-
 ##
 Mpunzi aliona fahari sana kutokana na mifugo wake.
 Alizoea kukaa nje ya boma lake na kuangalia mifugo wake wakila
@@ -38,7 +35,6 @@ Wengi wa wafanyi kazi wa Mpunzi walifagia boma lake, na
 kuwaangalia mbuzi, farasi, mifugo na kondoo wake.
 Waliwakama ng’ombe maziwa ambayo Mpunzi aliwauzia wanakijiji
 wengine.
-
 
 ##
 
@@ -54,7 +50,6 @@ mamake wa kambo alinung’unika kuwa chakula
 chake kilikuwa baridi, kuwa chai yake ilikuwa hafifu,
 na kwamba chumba chake hakikuwa kisafi.
 
-
 ##
 Siku moja Mpunzi alikasirika, akamkaripia na
 kumgonga Nosisa kwa kijiti.
@@ -67,7 +62,6 @@ alimkatiza, “Tafadhali binti yangu usitoroke, mimi ni
 mamako. Nimejibadilisha kuwa samaki ili babako
 asigundue kwamba ni mimi.”
 
-
 ##
 “Ni nini ndiyo shida?” samaki aliuliza. Nosisa
 alimwambia samaki kuhusu maisha yake ya huzuni.
@@ -77,7 +71,6 @@ Samaki alimpa Nosisa mboga mbichi. Alikuwa na
 sherehe. Alipoangalia juu, samaki alikuwa ametoeka.
 Siku hiyo Nosisa alienda nyumbani akitabasamu.
 Hataenda kulala tena bila chakula kama kawaida.
-
 
 ##
 Nosisa alienda mtoni kila siku.
@@ -90,7 +83,6 @@ Angezungumza chochote na samaki. Alianza kupata
 afya yake. Ngozi yake ilianza kuangaza naye akawa
 mtoto mwenye furaha.
 
-
 ##
 Nosisa alimtembelea samaki kila siku mpaka
 mamake wa kambo akawa anatilia shaka.
@@ -101,7 +93,6 @@ akimzungumzia samaki na kupokea chakula kitamu.
 Siri ya Nosisa ilikuwa nje.
 “Lazima nifanye jambo kumhusu huyu samaki,”
 alisema mama wa kambo.
-
 
 ##
 Jioni, Mpunzi alirejea nyumbani na kumpata mkewe
@@ -115,7 +106,6 @@ mwanamke alimsihi.
 “Nitakufanyia lolote bibi yangu mrembo,” Mpunzi
 akasema.
 
-
 ##
 Mpunzi alianza safari ya kwenda mtoni kabla giza
 kuingia.
@@ -127,7 +117,6 @@ samaki.
 “Nitatayarisha kitoweo kizuri kwetu,” mwanamke
 akamwelezea Mpunzi aliyefurahia sana.
 
-
 ##
 Usiku ule Mpunzi na mkewe walienda kitandani
 kulala baada ya chakula kitamu.
@@ -138,7 +127,6 @@ walikuwa bado wanalala.
 “Hili ni jambo geni,” Nosisa alifikiria. “Babangu
 huamka mapema mno kwenda mashambani.
 Nastaajabu kwa nini yeye bado analala.”
-
 
 ##
 “Haidhuru, naweza kukimbia mtoni kwa kiamsha
@@ -153,7 +141,6 @@ na kumwambia kilichotendeka.
 Alilia kwa nguvu akidhani kwamba mamake alikuwa
 ameshikwa na kuliwa.
 
-
 ##
 Ndege alimwambia aiokote mifupa kutoka mezani na
 kuirusha ndani ya mto.
@@ -162,7 +149,6 @@ Alimwambia pia awaache babake na mamake wa
 kambo walale hadi adhuhuri.
 Nosisa alifanya alivyoambiwa. Aliichukuwa mifupa,
 akiweka mfukoni kisha kuirusha mtoni.
-
 
 ##
 Nosisa alikimbaia kurudi nyumbani na kabla adhuhuri
@@ -175,7 +161,6 @@ na mali yake. Aliwaita wafanyi kazi wote na
 kuwaambia kilichotokea.
 Walisherehekea na kuwa na amani katika mji huo
 kutoka siku hiyo.
-
 
 ##
 * License: [CC-BY]

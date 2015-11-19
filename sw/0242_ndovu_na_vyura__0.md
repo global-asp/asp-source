@@ -5,7 +5,6 @@ Hapo kale, mfalme wa
 mwitu alikuwa Bw.
 Simba.
 
-
 ##
 Aliwatuma wanyama
 wake kukomesha kelele
@@ -13,13 +12,11 @@ zilizotoka kwenye ziwa
 ndogo mwituni.
 Lakini hawakufaulu!
 
-
 ##
 Ndovu alijitolea
 kukomesha.
 Ndovu alitumwa nje
 kuwa mlinzi.
-
 
 ##
 Usiku wa manane kelele
@@ -28,7 +25,6 @@ akaanza kuua vyura.
 Alifanya vile vile siku
 iliyofuata.
 
-
 ##
 Baada ya majuma
 kadhaa, Mfalme Simba
@@ -36,19 +32,16 @@ alikuwa mwenye furaha
 kwa kuwa ndovu
 alikomesha kelele.
 
-
 ##
 Lakini baada ya mwezi,
 waliona wadudu
 shambani mwao.
-
 
 ##
 Mfalme Simba
 alimuuliza ndovu
 kuwaita vyura waende
 kuwala wadudu.
-
 
 ##
 Ndovu alijawa na uoga
@@ -58,7 +51,6 @@ Alisema: Samahani,
 samahani, ni-li-waua
 wote!
 
-
 ##
 Kisha Mfalme Simba
 alisema: Ndovu,
@@ -67,13 +59,11 @@ kelele, siyo kuua vyura.
 Ndovu aliwekwa
 gerezani miaka mingi!
 
-
 ##
 Mfalme aliwaambia
 wanyama wote wafanye
 kila alilosema wakati
 wote.
-
 
 ##
 * License: [CC-BY]

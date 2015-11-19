@@ -7,7 +7,6 @@ Watu walilala wakati wowote ule
 waliposikia uchovu. Walifanya kazi
 walipokuwa hawajalala.
 
-
 ##
 Siku moja Opio alienda kuwinda na
 mbwa wake. Baada ya muda mfupi,
@@ -17,7 +16,6 @@ Alikimbia kwa masaa mengi. Kila
 alipochoka alipumzika na kisha
 kuanza kukimbia tena. Lakini
 hakuwaona mbwa wake.
-
 
 ##
 Baada ya siku nyingi alijipata katika
@@ -32,7 +30,6 @@ pombe kidogo?” Kwa vile Opio
 alikuwa na kiu alikunywa pombe
 kidogo kisha akalala.
 
-
 ##
 Alipoamka alishindwa kuona.
 Alifunga na kufungua macho yake
@@ -40,7 +37,6 @@ mara nyingi. “Ulinipa kinywaji
 kibaya,” alimwambia mwenye
 nyumba. “Siwezi tena kuona
 sawasawa.”
-
 
 ##
 “Hakuna kitu kibaya na macho yako
@@ -55,7 +51,6 @@ walizungumza hadi asubuhi. Alikaa
 kwake kwa siku nyingine moja ili
 aone usiku ukiingia tena.
 
-
 ##
 Asubuhi iliyofuata, yule jamaa,
 alimweleza Opio, “Giza likianza
@@ -65,7 +60,6 @@ mbele usiku utakufuata. Hupaswi
 kamwe kuangalia nyuma.
 Ukiangalia nyuma usiku utapotea.”
 
-
 ##
 Opio alifanya alivyoambiwa. Usiku
 huo alianza kutembea akielekea
@@ -73,7 +67,6 @@ kijijini kwao.
 Alisikia giza la usiku likimfuata
 nyuma yake. Alitaka kuangalia
 nyuma lakini hakuangalia.
-
 
 ##
 Alipofika kijijini kwao, wanakijiji
@@ -86,17 +79,14 @@ kinachonifuata kinaitwa usiku.
 Mnavyoogopa ndivyo nilivyoogopa
 pia.”
 
-
 ##
 “Lakini hata nyinyi mtapenda usiku.
 Mwangaza ukija tutaweza kufanya
 kazi. Na usiku ukiingia
 tutapumzika.”
 
-
 ##
 Na hivyo ndivyo usiku ulivyoingia kijijini kwa kina Opio.
-
 
 ##
 * License: [CC-BY]

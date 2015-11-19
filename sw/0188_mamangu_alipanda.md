@@ -6,24 +6,20 @@ Alipanda bustani ndogo.
 Alipanda bustani ndogo
 ya mbaazi.
 
-
 ##
 Baba yangu alipanda.
 Alipanda bustani ndogo.
 Alipanda bustani ndogo
 ya maua.
 
-
 ##
 Mama yangu alipalilia
 bustani zote mbili.
-
 
 ##
 Baba yangu
 alinyunyizia bustani
 zote mbili.
-
 
 ##
 Mimi na wazazi wangu
@@ -33,7 +29,6 @@ Mimi na dada yangu
 tulivuna maua na
 mbaazi.
 
-
 ##
 Bustani ndogo ya
 mbaazi ilizaa magunia
@@ -41,7 +36,6 @@ ya mbaazi.
 Bustani ndogo ya maua
 ilizaa magunia ya
 maua.
-
 
 ##
 Mama yangu alipanda.
@@ -51,7 +45,6 @@ Bustani kubwa
 aliyopanda ilikuwa ya
 mbaazi.
 
-
 ##
 Baba yangu alipanda.
 Alipanda bustani
@@ -59,7 +52,6 @@ kubwa.
 Bustani kubwa
 aliyopanda ilikuwa ya
 maua.
-
 
 ##
 * License: [CC-BY]

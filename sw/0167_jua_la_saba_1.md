@@ -9,7 +9,6 @@ iling’aa duniani hadi
 binadamu wakashindwa
 kustahimili.
 
-
 ##
 Ndugu saba wa kabila
 la Munda waliamua
@@ -18,11 +17,9 @@ Walizirushia mishale na
 kuweza kuziua jua sita
 pekee.
 
-
 ##
 Jua la saba lilijificha
 nyuma ya mlima.
-
 
 ##
 Baada ya jua hizo
@@ -36,7 +33,6 @@ kwenye miti.
 Sungura wakatembea
 kwenye hatari ya
 simba. Wanyama wote
-
 
 ##
 Ili kuweza kutatua shida
@@ -71,7 +67,6 @@ na kusema kwa sauti,
 “Jua, jua tafadhali rudi,”
 lakini jua lilikataa
 kusikiliza.
-
 
 ##
 Naye mrembo tausi alicheza densi
@@ -118,7 +113,6 @@ huwika kila asubuhi.
 Nalo jua lisikiapo sauti
 ya jogoo, huchomoka
 na kuangaza duniani.
-
 
 ##
 * License: [CC-BY]

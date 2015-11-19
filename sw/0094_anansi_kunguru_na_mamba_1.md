@@ -12,7 +12,6 @@ Alipoyaona matunda hayo, Buibui Anansi
 alidondokwa na mate.
 Je, angewezaje kuyapata matunda hayo?
 
-
 ##
 Alifikiri, akafikiri, na akapata wazo zuri.
 Alijipaka nta inayonata kwenye sehemu yake ya
@@ -27,7 +26,6 @@ mkuyu.
 Tunda hilo lilijinata kwenye makalio.
 Aliwashukuru kunguru na kuharakisha kwenda
 nyumbani kufurahia kuyu hilo.
-
 
 ##
 Lakini tunda moja halikutosha. Alirudi kwa mara ya
@@ -60,7 +58,6 @@ mfuko wake.
 Hatimaye, alichukuwa matunda yote na kunguru
 hawakupata chochote.
 
-
 ##
 Aliachwa peke yake, giza likaanza
 kutanda.
@@ -73,7 +70,6 @@ akaruka, na mara... CHUBWI!
 Akaanguka ndani ya mto baina ya
 mamba hatari.
 
-
 ##
 “Hapa tuna nyama tamu na nyororo...” Mamba
 mmoja alisema. “Tuanze mlo mm... nyum....”
@@ -82,7 +78,6 @@ Kisha akaanza kulia. “Kwani hamjui mimi ni mmoja
 wenu? Nilipotea wakati wa mababu zenu na hakuna
 aliyeweza kunipata. Sasa nyinyi ni ndugu zangu!”
 Alilia machozi hadi mamba wakamwonea huruma.
-
 
 ##
 Lakini mamba mzee hakuamini, “Tutajua kwamba
@@ -99,7 +94,6 @@ kumbe yalikuwa yakimwagika kupitia katikati ya
 miguu yake.
 “Tamu sana!” alisema huku akirudisha kibuyu.
 
-
 ##
 “Sasa tumejua wewe bila shaka ni
 mmoja wetu ,” mamba
@@ -111,7 +105,6 @@ hadithi kuhusu maisha yangu,”
 Anansi aliwaambia walipokuwa
 wakianza kulala.
 
-
 ##
 Siku iliyofuata, Anansi alimaka
 asubuhi na mapema akamwamsha
@@ -121,7 +114,6 @@ na watoto wangu ili wanisaidie
 kuhadithia.
 Je, utanisaidia niende kuwaleta
 kabla ya wengine kuamka?”
-
 
 ##
 Mamba huyo hakufurahi kwa kuamshwa mapema
@@ -134,13 +126,11 @@ Anansi alishuka kutoka kwa pua la mamba akasema,
 “Nitarudi hivi punde. Tafadhali ningoje papo hapo!”
 Kisha akatorokea kwenye nyasi haraka haraka.
 
-
 ##
 Tangu siku hiyo, mamba angali
 anamngoja Anansi kwenye ukingo
 wa mto, pua na macho yake
 makubwa yakijitokeza juu ya maji.
-
 
 ##
 * License: [CC-BY]

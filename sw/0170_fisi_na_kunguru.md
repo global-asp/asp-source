@@ -8,7 +8,6 @@ nyingine.
 Kunguru aliweza kuruka lakini fisi
 hakuweza isipokuwa kutembea tu.
 
-
 ##
 Siku moja fisi alikuwa na hamu
 kumfahamu zaidi rafiki yake.
@@ -21,7 +20,6 @@ Nimekuwa ninaila tangu muda
 mrefu hadi sasa imenibandika
 shingoni.”
 
-
 ##
 Aliposikia juu ya nyama fisi alitokwa na udenda katika tamaa yake
 ya kula nyama.
@@ -32,7 +30,6 @@ ya kuirukia?
 kujitengenezea mbawa. Nina hamu sana kuruka kama wewe.”
 Alimwomba kunguru.
 
-
 ##
 Kunguru kwa ukarimu wake alimpa
 fisi manyoya.
@@ -41,7 +38,6 @@ Akayaunganisha na mwili wake
 akajaribu kuruka.
 Lakini uzito wake ulimshinda.
 Sasa ilibidi afikirie mpango mpya.
-
 
 ##
 “Tafadhali rafiki yangu, naomba
@@ -55,7 +51,6 @@ Ilipokucha kesho yake, fisi alimshika
 kunguru kwa mkia wake naye
 kunguru akaruka angani.
 
-
 ##
 Fisi alikuwa akitamani nyama
 iliyokuwa juu mbele kidogo
@@ -64,7 +59,6 @@ Kunguru aliruka na kuruka mpaka
 akachoka kabisa. Lakini fisi
 akamwomba, “endelea kidogo tu
 rafiki yangu!”
-
 
 ##
 Walipofika kipande cha kwanza cha nyama nono, fisi alisikia
@@ -75,7 +69,6 @@ Aliimba, manyoya ya kunguru jinyonyoe . Manyoya ya kunguru
 jinyonyoe.
 Katika kuitikia, fisi aliimba kinyume, manyoya ya kunguru shikane
 yasijinyonyoe. Manyoya ya kunguru shikane yasijinyonyoe.
-
 
 ##
 
@@ -89,14 +82,12 @@ Lakini alipojaribu kushika “nyama”
 alichoshika kilikuwa mawingu ya
 majimaji tu!
 
-
 ##
 Sasa ameshaanza kuanguka upesi
 upesi. “Nisaidie, nisaidie!” Akafoka.
 Lakini hapakuwa na yeyote wa
 kumsikiliza. Kunguru alikwisha
 potea mawinguni.
-
 
 ##
 Fisi akaanguka kwa kishindo akalala
@@ -105,12 +96,10 @@ Akaamka akipiga yowe ya maumivu
 mguu umevunjika kovu nyingi
 mwilini.
 
-
 ##
 Hajaweza kuruka kamwe.
 Na urafiki baina yake na kunguru
 hakuwepo tena.
-
 
 ##
 * License: [CC-BY]

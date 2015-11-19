@@ -10,7 +10,6 @@ vilivyokuwa pembeni mwa mlima
 huo, kulitoka vijito vilivyokaribiana
 na kutengeza mto.
 
-
 ##
 Mambo yalikuwa swari hadi Matata
 alipokuwa mkuu wa mahali hapo.
@@ -22,7 +21,6 @@ Mlima wa Olokwango ulikasirika na
 uharibifu uliofanywa lakini alikuwa
 mvumilivu.
 
-
 ##
 Mwishoni mwa wiki, watoto wa
 Matata na marafiki zao
@@ -31,7 +29,6 @@ Wangekimbia kila mahali huku
 wakivunja vijiti na matawi,
 wakiasha mioto kwa michezo yao
 ambayo baadaye, waliacha ikiwaka.
-
 
 ##
 Kwa muda mrefu, Olokwango
@@ -67,7 +64,6 @@ Kidogo kidogo tabasamu iliyokuwa usoni mwa mlima
 wa Olokwango ilipanuka zaidi na vibonyeo vikarefuka
 zaidi.
 
-
 ##
 Kutoka kwenye vibonyeo vijito
 vilitiririka tena.
@@ -78,7 +74,6 @@ Paa walikimbia tena kwa furaha
 kutoka upande mmoja hadi
 mwingine wa nyasi.
 
-
 ##
 “Maisha marefu, Baraka! Maisha
 marefu, Baraka!” watu wa Kwere
@@ -88,7 +83,6 @@ Olokwango,”Baraka na watu wake
 walisema. “Heri watoto wetu na
 watoto wa watoto wao
 wakuheshima daima.”
-
 
 ##
 * License: [CC-BY]

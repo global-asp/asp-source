@@ -11,14 +11,12 @@ makubwa.
 Binamuye, Kato kutoka Msitu wa Mbali, alikuwa
 amekuja kumtembelea.
 
-
 ##
 Jioni moja, wanyama wote
 walioishi katika ile bustani
 ndogo walienda kulala.
 Mara walisikia sauti kubwa
 ikitoka uwanja uliokuwa karibu.
-
 
 ##
 Kato na kindi wengine waliona mashine kubwa
@@ -30,7 +28,6 @@ mwingine wa barabara.
 Walinuia kuzivunja vunja zote kisha wajenge
 uwanja wa kuegesha magari.
 
-
 ##
 Watu walioishi pale
 wangehamia nyumba zingine.
@@ -38,7 +35,6 @@ Lakini hakuna aliyewafikiria
 wanyama, ndege na wadudu
 walioishi katika ile bustani
 ndogo.
-
 
 ##
 Mashine zilionwa kwanza na
@@ -48,11 +44,9 @@ ambaye alimwelezea Bwana
 Mopples, naye akamwelezea
 mdogo wao, Popples Mdogo.
 
-
 ##
 Walipokuwa wachanga, waliitwa
 Pop, Mop na Pip.
-
 
 ##
 Bwana Popples aliwaambia kindi, kindi wakawaambia
@@ -82,7 +76,6 @@ labda tunaweza kwenda sote huko.”
 Kulikuwa na sauti za mchangamko na mmoja
 akasema, “Vipi?”
 
-
 ##
 Kato alikuna kichwa na kuwaza sana, “Sawa,
 Kindi ya Moja kwa Moja, inaweza kuwapeleka
@@ -94,7 +87,6 @@ wa nyasini wanaweza kutumia Fugo ya Moja
 kwa Moja ipitiayo chini kwa chini.
 Kila mmoja lifikiria kuwa hilo lilikuwa wazo
 murua kabisa.
-
 
 ##
 Bwana Popples aliharakisha kumuuliza Bwana
@@ -119,7 +111,6 @@ wote, iliendesha safari yake ya
 kuelekea Msitu wa Mbali ulio na
 miti, maua, vidimbwi na ardhi
 nyororo.
-
 
 ##
 * License: [CC-BY]

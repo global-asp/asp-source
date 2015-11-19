@@ -4,7 +4,6 @@
 Hapo zamani za kale paliondokea mvulana mmoja aliyeitwa
 Demane. Alikuwa na pacha mwenzake aliyeitwa Demazane.
 
-
 ##
 
 ##
@@ -13,7 +12,6 @@ kuishi na mjomba wao.
 Huko kwa mjomba wao, walitendewa mabaya. Walichapwa kwa
 vibiko virefu, na walipewa uji mwepesi mara moja tu kwa siku.
 Kwa sababu hiyo, walitoroka.
-
 
 ##
 
@@ -27,7 +25,6 @@ na mwangaza.
 Kisha Demane akamwambia dadake, “Baki humu pangoni
 nikatafute chakula. Na usipike nyama kamwe. Majitu hupenda
 sana harufu ya nyama."
-
 
 ##
 
@@ -43,7 +40,6 @@ nimewinda na korongo,
 tupike kwa kikaango, ufungue kwa mpango,
 asiingie muongo.”
 
-
 ##
 
 ##
@@ -55,7 +51,6 @@ akaendelea kustarehe. Alifurahia uhuru wa kucheza.
 “Labda hakuna majitu,” aliwaza. “Pengine mjomba
 alisema kuna majitu ili kututisha tu.”
 
-
 ##
 
 ##
@@ -64,7 +59,6 @@ Lakini aliwasha moto huo ndani ya pango kwa kuogopa majitu.
 Aliufunga mlango kabisa.
 “Nina hakika hakuna hatari nikichoma nyama kwa moto huu.
 Chakula cha kuchomwa ni kitamu.”
-
 
 ##
 
@@ -81,7 +75,6 @@ upesi.
 Kwa vile Demane alikuwa amechoka hakuuliza swali tena. Waliketi
 wakendelea kufurahia chakula.
 
-
 ##
 
 ##
@@ -94,7 +87,6 @@ nimewinda na korongo, tupike kwa kikaango,
 ufungue kwa mpango, asiingie muongo.”
 Lakini sauti hiyo haikuwa kama ya kakake. Basi akasema:
 "Hapana, wewe si kakangu. sauti hiyo si yake."
-
 
 ##
 
@@ -109,7 +101,6 @@ tupike kwa kikaango, ufungue kwa mpango,
 asiingie muongo.”
 Sauti hiyo ilifanana na ya kakake. Kwa hivyo alifungua mlango.
 
-
 ##
 
 ##
@@ -118,14 +109,12 @@ Likamchukua Demazane haraka. Hangeweza kutoka. Lakini
 Demazane aliokota jivu la jikoni akabeba.
 Alipokuwa akibebwa alimimina jivu lile njiani walikopitia.
 
-
 ##
 
 ##
 Demane aliporudi alipata mlango ukiwa wazi na Demazane
 hakuwa ndani ... Lakini aliona jivu lililomwagwa kulekea msituni.
 Alifuata jivu hilo mpaka alipoona moto mbali.
-
 
 ##
 
@@ -138,7 +127,6 @@ mguu. Naomba maji ya kunywa.”
 Jitu likasema, “Ngoja nikuletee maji lakini usiguse mfuko wangu."
 Jitu lilisema huku likiweka mfuko ule vizuri ndani ya nyumba.
 
-
 ##
 
 ##
@@ -147,7 +135,6 @@ mfuko. Ulifunguka na dadake akatoka.
 Demane alibadilisha mfuko huo na mfuko wake uliojaa nyuki. Kisha
 yeye na dadake wakajificha na kungoja kuona kile ambacho
 kingetokea.
-
 
 ##
 
@@ -161,7 +148,6 @@ walimwuma mkono akalia akisema kwa sauti, “Inauma, inauma...”
 “Nenda ukamsaidie,” jitu lilimwambia mvulana kwa sauti.
 Pia mvulana aliumwa akalia kwa uchungu.
 
-
 ##
 
 ##
@@ -170,7 +156,6 @@ nyumba. Lilifunga mlango na kufungua ule mfuko.
 Nyuki wale walichomoka kwa wingi na kumwuma kichwani,
 masikioni, na hata kwenye macho.
 Alishindwa kuona akarukaruka na kulia kwa uchungu mwingi.
-
 
 ##
 
@@ -181,7 +166,6 @@ Liligeuka na kuwa kisiki cha mti uliokatwa. Nyuki walijenga
 nyumba yao kwenye kisiki hicho.
 Baadaye, Demane na Demazane walifurahia asali tamu kutoka
 kwa mzinga huo wa nyuki.
-
 
 ##
 * License: [CC-BY]

@@ -8,7 +8,6 @@ binadamu na wanyama walivyo.
 Ni ndege yupi angestahili kuwa
 mfalme?
 
-
 ##
 “Samaki Tai, Nkwazi. Yeye ana nguvu tena ni
 wa kifalme!” mmoja alisema.
@@ -19,7 +18,6 @@ zaidi ya wengine na tena hunguruma kama
 simba,” mwingine aliwaelezea.
 “La, hawezi kuruka. Mfalme wa ndege lazima
 aweze kuruka.”
-
 
 ##
 “Nafikiri ninaweza kuwa mfalme,” Tausi
@@ -32,7 +30,6 @@ ndege wengine. Ninastahili kuwa mfalme.”
 “La, si wewe Bundi” walipiga kelele. “Wewe
 huenda kulala jua linapochomoza.”
 
-
 ##
 Na hivyo, hawakuafikiana.
 Kisha mmoja alipiga kelele,
@@ -41,7 +38,6 @@ atakuwa mfalme.”
 “Ndiyo, ndiyo,” walipiga kelele,
 na wote wakaruka juu, juu
 angani.
-
 
 ##
 Bata Bukini aliruka kwa siku nzima moja kwa
@@ -52,13 +48,11 @@ Lakini Tai mwenye mgongo mweupe aliruka juu
 angani kwa siku tatu bila kusimama, moja kwa
 moja kuelekea kwenye jua.
 
-
 ##
 Juu yao ndege walimsikia Tai
 akipaasa sauti akisema, “Ndimi
 wa juu zaidi, mimi ndiye
 mfalme.”
-
 
 ##
 Lakini alisikia sauti juu yake, “Tink, Tink, Tink.”
@@ -67,7 +61,6 @@ ndege wale wadogo kwa wote, Ncede,
 Neddicky.
 Alikuwa ameshikilia kwenye unyoya mmoja
 mkubwa wa Tai.
-
 
 ##
 “Hutanishinda tena,” Tai
@@ -79,7 +72,6 @@ yeyote.
 wengine. Mimi ndiye mfalme
 wenu,” alisema kwa sauti.
 
-
 ##
 Lakini kutoka chini ya ubawa palitokezea yule
 ndege mdogo.
@@ -87,7 +79,6 @@ ndege mdogo.
 Ndimi mfalme wenu.”
 Tai alikuwa amechoka, hangeweza kuruka zaidi
 ya hapo.
-
 
 ##
 Kwa hivyo alishuka chini akiwa
@@ -99,14 +90,12 @@ walikuwa na hasira.
 Walimsubiri, tayari kuyang’oa
 manyoya yake yote.
 
-
 ##
 Lakini ndege huyu mdogo
 alikuwa mwepesi wa kujua
 kwamba walikuwa na hasira.
 Kwa hivyo alikimbilia haraka
 katika shimo la nyoka.
-
 
 ##
 “Kwa kuwa na macho makubwa,
@@ -116,7 +105,6 @@ walimwambia Bundi.
 Kwa hivyo Bundi aliketi mbele
 ya shimo.
 
-
 ##
 Lakini kwa ajili ya joto la jua,
 muda mfupi tu baadaye, Bundi
@@ -124,14 +112,12 @@ alilala.
 Yule ndege mdogo alichungulia
 nje, na “z-zip” alitorokea mbali.
 
-
 ##
 Bundi aliabika mno kwa
 kutomzuia yule ndege kutoroka.
 Sasa yeye huwinda usiku peke.
 Wakati wa mchana, hulala mbali
 na macho ya ndege wengine.
-
 
 ##
 * License: [CC-BY]

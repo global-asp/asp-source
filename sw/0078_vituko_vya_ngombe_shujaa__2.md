@@ -4,33 +4,26 @@
 Huyu ni ng’ombe.
 Ng'ombe ni mtulivu.
 
-
 ##
 Mchana yeye ni
 ng’ombe wa kawaida.
 
-
 ##
 Hupeperusha tiara.
 
-
 ##
 Au kucheza mpira.
-
 
 ##
 Usiku ukifika,
 Ni Ng’ombe Shujaa.
 
-
 ##
 Yeye huokoa maisha,
-
 
 ##
 Na kupambana na
 uhalifu.
-
 
 ##
 Pia nawe ukifunga macho yako kabisa, na ukitamani...

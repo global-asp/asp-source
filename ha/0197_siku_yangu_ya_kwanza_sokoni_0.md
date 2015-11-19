@@ -10,7 +10,6 @@ kwenye maduka machache
 madogo. Miongoni mwa wenyeji,
 wengi wao hupanda baiskeli.
 
-
 ##
 Siku moja majira ya asubuhi mamangu aliniita
 akasema, “Etabo, leo umepata umri wa miaka sita
@@ -22,7 +21,6 @@ akajibu. “Na wewe utafuatana nasi!” Safari yangu ya
 kwanza kwenda mjini! Nilifurahi sana sikuweza kulala
 usiku ule.
 
-
 ##
 Kesho yake kwenye kituo cha basi,
 nilisimama kati ya mama na mama
@@ -32,14 +30,12 @@ sana nikiwa kati yao mama yangu
 mrefu na mama mdogo mkubwa
 sana.
 
-
 ##
 Basi ilikuwa imejaa kwa hivyo ilibidi
 nimkalie mama. Kwa vile nilikuwa
 nimechoka sana kutokana na joto
 na msisimko nikalala njia nzima pasi
 na kuona chochote.
-
 
 ##
 Jua lilikuwa limeanza kucha tulipofika soko la Eldoret.
@@ -51,7 +47,6 @@ akishika helikoputa iliyometameta rangi yake ya
 buluu.
 “Mama, mama, tazama helikoputa ile!”
 
-
 ##
 Katikati sokoni palikuwa na kibanda kikubwa
 yalipouzwa aina nyingi za matunda.
@@ -60,7 +55,6 @@ matunda haya?” Nilimwuliza mama.
 Naye alinionyesha machungwa na pera.
 Nilizunguka na kuuliza, “na haya je?”
 
-
 ##
 Kati ya matunda yote katika
 kibanda, nilipenda tofaa zaidi.
@@ -68,7 +62,6 @@ Nilipenda umbo na rangi yao.
 Niliwazia utamu ukoje.
 Nilimgeukia mama nikamwomba,
 “mama tafadhali ninunulie moja?”
-
 
 ##
 Pindi tu aliponipa tofaa, nilimwachia
@@ -79,7 +72,6 @@ Nilikuwa sijawahi kulifurahia tunda
 kama nilivyofurahia tofaa lile.
 Niliridhika kabisa na tufaha yangu.
 
-
 ##
 Nilipomaliza kula tofaa, nikamwelekea mama
 kuongea naye lakini hakuwepo! Nilimtafuta pale
@@ -87,7 +79,6 @@ tulipotoka lakini yeye pamoja na mama mdogo
 hawakuonekana. Nikawauliza wanawake wauzaji wa
 viazi vitamu lakini wapi?
 Nikaanza kulia.
-
 
 ##
 Muda mfupi baadaye, mwanamke
@@ -98,7 +89,6 @@ Mwanamume mkubwa mwenye
 mandevu aliniuliza, “jina lako ni
 nani mwanangu?”
 Nikamjibu nikilia, “E-ta-bo.”
-
 
 ##
 Niliwazia kama hata watoto pia
@@ -111,7 +101,6 @@ akamchagua mmojawapo watoto.
 nikawazia, halafu sitarudi nyumbani
 tena.”
 
-
 ##
 Nilipomsikia yule mwanamume
 mwenye mandevu akisema, “Etabo
@@ -120,7 +109,6 @@ yuko wapi?” Nikalia zaidi.
 Nikasema kwa kikweukweu.
 Nikamtoroka.
 
-
 ##
 Walpolisikia jina langu mama
 pamoja na mama mdogo
@@ -128,7 +116,6 @@ walikimbilia chumba.
 “Etabo, Etabo” sauti iliyotambulika
 ikasikika.
 Ilikuwa ya mamangu.
-
 
 ##
 Nilimkumbatia mamangu naye
@@ -139,7 +126,6 @@ Kutoka mfuko mkubwa alivuta
 helikoputa iliyometameta rangi
 yake ya buluu.
 “Ni yako!” Akasema.
-
 
 ##
 * License: [CC-BY]

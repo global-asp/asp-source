@@ -11,7 +11,6 @@ ndoto ya kuwapa wanawe
 maisha mazuri lakini bila
 masomo haingewezekana.
 
-
 ##
 Mtoto Graca angekuwa mzaliwa
 wa sita.Licha ya furaha hii yote
@@ -23,7 +22,6 @@ nzuri.Alijua elimu ndiyo
 ingemsaidia mwanawe. jamii
 yake iliapa kutimiza ndoto yake.
 
-
 ##
 Wiki chache baada ya kifo cha
 babake,mtoto alipewa jina
@@ -33,7 +31,6 @@ ilipozidi kuyoyoma ndivyo Graca
 alizidi kuleta furaha
 kwao.Familia iliamua kumpa
 Graca masomo mazuri.
-
 
 ##
 Graca alitia bidii sana
@@ -48,7 +45,6 @@ kusoma na kuandika.Alitamani
 wakati ambapo watoto wote
 wangeenda shuleni.
 
-
 ##
 Graca alitia bidii yake yote
 shuleni.Baadaye kidogo alipata
@@ -62,7 +58,6 @@ mwalimu ikitimia.Hii ilimpa
 furaha kubwa lakini bado
 alikuwa na huzuni.
 
-
 ##
 Kle kwao nyumbani,bado watu
 hawakuwa na uhuru.Lakini sasa
@@ -74,11 +69,9 @@ kusoma.Alitaka kutumia ujuzi
 wake na marafiki wake kuleta
 mabadiliko kwao Mozambigue.
 
-
 ##
 Finally with the help of all her
 friends, Mozambique was free!
-
 
 ##
 Raisaliyechaguliwa kuiongoza
@@ -86,7 +79,6 @@ nchi ya Mozambigue alikuwa
 rafiki yakeSamora
 Macgel.Walipendana na
 wakaona.
-
 
 ##
 Graca alipewa kazi
@@ -98,7 +90,6 @@ kusoma na kuandika.Alianza
 kwa kuwapeleka watoto wote
 shuleni.
 
-
 ##
 Graca na Samora walijaliwa
 watoto wawili.Walikua na ndoto
@@ -106,7 +97,6 @@ ya kuwapa watoto wao nawatu
 wa Mozambigue maisha
 mazuri.Siku moja Samora akafa
 kwa ajali ya ndege.
-
 
 ##
 Graca aliomboleza kifo cha
@@ -116,7 +106,6 @@ walipendana na Nelson Mandela
 na wakaona. walifanya kazi kwa
 pamoja kuwasaidia watoto wa
 Afrika.
-
 
 ##
 

@@ -5,12 +5,10 @@ Siku moja Kobe alikuwa akitembea katika nyasi. Alikuwa akiangalia na kuangalia.
 Alichunguza mbele na kukodolea nyasi macho.
 Kisha alimpita Konokono.
 
-
 ##
 “Je, unatafuta kitu?” Konokono alimuuliza.
 “Ndiyo, Konokono, naitafuta nyumba yangu. Unaweza kuwa
 umeiona?”
-
 
 ##
 Konokono alisema: “La, sijaiona, lakini nitakusaidia kuitafuta!”
@@ -24,7 +22,6 @@ Muda mfupi baadaye walimpita Chiriku.
 “Ndiyo, Chiriku, natafuta nyumba yangu. Unaweza kuwa umeiona? Chiriku
 alisema: "La, sijaiona, lakini nitakusaidia kuitafuta!”
 
-
 ##
 Alipapatua mbawa zake na
 kuruka kwenda.
@@ -32,7 +29,6 @@ kuruka kwenda.
 sana,” Kobe alilalamka.
 Chiriku alirudi. “Sawa, nitaruka
 juu ya ganda lako pia.”
-
 
 ##
 Kobe aliendelea akiwa
@@ -43,12 +39,10 @@ hapakuwa na ishara ya
 nyumba.
 Jua lilikuwa limeshuka angani.
 
-
 ##
 Muda mfupi baadaye walimpita Mende.
 “Je, kuna kitu unatafuta?” Mende aliuliza.
 “Ndiyo, Mende, naitafuta nyumba yangu. Unaweza kuwa umeiona?”
-
 
 ##
 Mende alisema: "La, sijaiona,
@@ -63,12 +57,10 @@ nyumba.
 Upepo mwanana ulianza
 kuvuma.
 
-
 ##
 Baadaye, walimpita Panya. Alikuwa akitengeneza shada nzuri la maua. "Je,
 unatafuta kitu?" Panya aliuliza.
 "Ndiyo, Panya, natafuta nyumba yangu. Unaweza kuwa umeiona?"
-
 
 ##
 Panya alisema: "La, sijaiona,
@@ -79,7 +71,6 @@ yangu nyuma."
 Kobe alisubiri. Panya
 alijinyoosha na kujinyoosha
 akayakusanya maua yake.
-
 
 ##
 Kobe alitembea akiwa na
@@ -94,7 +85,6 @@ kwa Kobe.
 Kobe alichoka. "Ninyi ni wazito,"
 alishusha pumzi.
 
-
 ##
 Upepo ulizidi kwa nguvu. Anga
 ilibadilika na kuwa
@@ -107,21 +97,17 @@ Dip-dip mvua ilinyesha.
 Konokono na Chiriku na Mende
 na Panya waliuliza.
 
-
 ##
 Upepo ulivuma na kuvuruga.
 Ulipeperusha Konokono na Chiriku na Mende na Panya kutoka mgongo wa Kobe.
-
 
 ##
 Halafu kukaja mvua ya mawe, tap-tap-tap.
 Kobe aliogopa sana hata akajikunja na kuingia ndani ya ganda lake.
 Mle ndani mlikuwa na joto. "Ah, hii ndiyo nyumba yangu!"
 
-
 ##
 "Ah, hii ndiyo nyumba ya Kobe!"
-
 
 ##
 * License: [CC-BY]

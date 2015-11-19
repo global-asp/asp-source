@@ -7,7 +7,6 @@ kwa jina Ndong’a na mkewe
 Namukhaywa. Walikuwa na
 watoto sita, wote wasichana.
 
-
 ##
 Namukhaywa alipokuwa na
 mimba ya saba, Ndong’a
@@ -16,14 +15,12 @@ msichana, nitakuua. Lakini
 ukinipa mtoto mvulana,
 nitakuandalia karamu kubwa!”
 
-
 ##
 Wakati wa kujifungua
 ulipowadia, Namukhaywa
 alienda kwa mkunga wa
 kienyeji. Je, mtoto atakuwa
 msichana au mvulana?
-
 
 ##
 Alikuwa mvulana NA msichana –
@@ -36,14 +33,12 @@ alipomwangalia Mulongo,
 alihuzunika mno. Ni jambo moja
 tu angelifanya.
 
-
 ##
 Namukhaywa alimwacha
 Mulongo chini ya ulezi wa
 mkunga na kumpeleka
 Mukhwana nyumbani kwa
 mumewe.
-
 
 ##
 Kwa fahari, alimwonyesha
@@ -53,14 +48,12 @@ wanakijiji kusherehekea
 kuzaliwa kwa mtoto wake
 mvulana.
 
-
 ##
 Mukhwana alikua na kuwa
 kijana mwanamme wa
 kupendeza. Na Mulongo naye,
 akawa mwanamke mrembo
 mno.
-
 
 ##
 Siku moja wakati alikuwa
@@ -69,7 +62,6 @@ Mukhwana alimwona msichana
 mrembo sana.
 “Huyu ndiye msichana
 ningependa kuoa,” alijiambia.
-
 
 ##
 Lakini alipomuuliza kumuoa,
@@ -98,7 +90,6 @@ kumuoa. Lakini kila
 ninapomuuliza, anaimba wimbo
 ule ule.”
 
-
 ##
 La kushangaza, Namukhaywa
 alisema, “Anachoimba
@@ -110,7 +101,6 @@ Kwa hivyo nilimwacha dadako
 kwa mkunga na kukuleta wewe
 nyumbani.”
 
-
 ##
 Wakati Mukhwana alimwambia
 babake kisa hicho, babake
@@ -120,7 +110,6 @@ Namukhaywa, na pamoja
 walienda kwa mkunga kumleta
 Mulongo.
 
-
 ##
 Mulongo alipofika nyumbani,
 babake na wazee wa kijiji
@@ -129,14 +118,12 @@ kutekeleza kimila cha
 kumuunganisha Mulongo na
 ndugu zake saba.
 
-
 ##
 Mwaka mmoja baadaye,
 Mulongo aliolewa kwa mwana
 wa tajiri kutoka kijijini. Alilietea
 familia yake mali mengi na
 furaha.
-
 
 ##
 * License: [CC-BY]

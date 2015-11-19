@@ -9,7 +9,6 @@ Siku moja mamake Mulongo
 alimtuma kuchota maji
 kisimani.
 
-
 ##
 Njiani, alikutana na marafiki
 zake wakienda msituni kutafuta
@@ -21,7 +20,6 @@ nimchotee mama maji.”
 Lakini marafiki zake
 hawakutaka kusubiri.
 
-
 ##
 “Sawa, nitawakuta huko
 msituni!” Mulongo alisema huku
@@ -29,7 +27,6 @@ akikimbia kwenda kumchotea
 mamake maji.
 Kisha akaenda msituni
 kuwatafuta marafiki zake.
-
 
 ##
 Alifuata njia iliyoelekea kwenye
@@ -41,7 +38,6 @@ tofauti.
 “Njia ipi marafiki zake
 walifuata?” alishangaa.
 
-
 ##
 Aliichagua njia iliyokuwa pana
 kisha akatembea, na kutembea,
@@ -50,7 +46,6 @@ zake.
 Alichoka sana kwa hivyo
 alipopumzika chini ya mti,
 alilala mara moja.
-
 
 ##
 Mulongo alipoamka, ilikuwa
@@ -62,14 +57,12 @@ Alijaribu kukimbia, lakini fisi
 walimzunguka wakionyesha
 wazi kuwa walikuwa na njaa.
 
-
 ##
 “Usisonge,” sauti ya fisi
 mkubwa zaidi ilisikika.
 “Ukikimbia, utaliwa!”
 “Tafadhali, niache niende
 nyumbani!” Mulongo aliwasihi.
-
 
 ##
 Badala yake fisi walimpeleka
@@ -80,7 +73,6 @@ kilichojaa mifupa na kelele ya
 nzi.
 Alilala chini na kudanganya
 kuwa amelala usingizi.
-
 
 ##
 Gizani, aliwasikia fisi wakiongea
@@ -93,7 +85,6 @@ tayari.” “Nimlete sasa?”
 wengine walinguruma.
 “Tunahisi njaa!”
 
-
 ##
 Walikuwa karibu kumvuta
 Mulongo kumtoa chumbani
@@ -103,7 +94,6 @@ ya kijiji. Hakuna fisi
 anayekubaliwa kula pekee- ni
 lazima tuialike jamii nzima
 kushiriki mlo.”
-
 
 ##
 Walichukuwa muda mrefu kabla
@@ -117,7 +107,6 @@ kumpita yule fisi? Kwa ukubwa
 wake, alifunika sehemu yote ya
 mlango.
 
-
 ##
 Njia ilikuwa ni moja tu.
 Alijihimiza na kurukia juu ya
@@ -126,7 +115,6 @@ kisha akakimbia, na kukimbia
 jinsi miguu yake
 alivyomwezesha.
 
-
 ##
 Wakati huo huo, fisi wale
 wengine walirudi na kuona
@@ -134,7 +122,6 @@ kilichotokea.
 Walimfuata huku wakipiga
 kelele za hasira na gadhabu.
 Lakini, walikuwa wamechelewa.
-
 
 ##
 Alipokaribia kijiji chake,
@@ -148,11 +135,9 @@ Mungu kwa kumwokoa mototo
 wao, “Mulongo, Mulongo,
 tulidhani umekufa!”
 
-
 ##
 Kutoka siku hiyo, Mulongo na watoto wengine hawakuwahi kururdi msituni pekee
 yao.
-
 
 ##
 * License: [CC-BY]

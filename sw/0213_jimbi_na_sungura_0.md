@@ -5,7 +5,6 @@ Hapo zamani za kale, palikuwa
 na Jimbi na Sungura.
 Walikuwa marafiki wakubwa.
 
-
 ##
 Usiku mmoja, Sungura
 alimtembelea Jimbi na familia
@@ -13,13 +12,11 @@ yake.
 Walifurahia chakula cha jioni
 pamoja.
 
-
 ##
 Wakati wa kwenda kulala ulifika.
 Sungura aliona kwamba Jimbi
 na familia yake walipolala,
 vichwa vyao vilifichwa.
-
 
 ##
 Sungura aliona kwamba Jimbi
@@ -27,13 +24,11 @@ na familia yake walilala fofofo.
 Yeye hakuweza kulala usiku
 kucha.
 
-
 ##
 Asubuhi Sungura alitaka kujua
 siri ya Jimbi.
 "Ninyi huweka wapi vichwa
 vyenu usiku?" aliuliza.
-
 
 ##
 Jimbi aliamua kumchezea shere
@@ -44,12 +39,10 @@ Wakati wa kulala, sisi hukata
 vichwa vyetu. Bila vichwa, sisi
 hulala vyema kabisa."
 
-
 ##
 "Kisha asubuhi, sisi huvirejesha
 vichwa vyetu mwilini," Jimbi
 alieleza.
-
 
 ##
 Sungura alikwenda nyumbani
@@ -58,7 +51,6 @@ kuku.
 Familia ya Sungura iliamua
 kujaribu wao wenyewe!
 Unafikiri nini kilichotokea?
-
 
 ##
 * License: [CC-BY]

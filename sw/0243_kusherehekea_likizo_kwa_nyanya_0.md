@@ -10,7 +10,6 @@ kumtembelea nyanya yao.
 Aliishi katika kijiji cha uvuvi
 karibu na ziwa kubwa.
 
-
 ##
 Odongo na Apiyo walisisimka
 kwani ulikuwa wakati wa
@@ -23,7 +22,6 @@ Hawakuweza kulala ila
 waliongea usiku kucha juu ya
 likizo yao.
 
-
 ##
 Mapema asubuhi iliyofuata,
 waliondoka katika gari la baba
@@ -34,11 +32,9 @@ mashamba ya majani chai.
 Walihesabu magari na kuimba
 nyimbo.
 
-
 ##
 Baada ya muda, watoto
 walichoka na kulala.
-
 
 ##
 Baba aliwaamsha Odongo na
@@ -50,7 +46,6 @@ inamaanisha ‘binti wa watu wa
 Kanyada’.
 Alikuwa mwanamke mwenye
 nguvu na mrembo.
-
 
 ##
 Nyar-Kanyada alikwakaribisha
@@ -64,12 +59,10 @@ Odongo alisema.
 “La, zawadi yangu kwanza!”
 Apiyo akasema.
 
-
 ##
 Baada ya kufungua zawadi,
 Nyar-Kanyada aliwabariki
 wajukuu wake kitamaduni.
-
 
 ##
 Halafu Odongo na Apiyo
@@ -77,11 +70,9 @@ walikwenda nje.
 Waliwakimbiza vipepeo na
 ndege.
 
-
 ##
 Walipanda miti na kujirushia
 maji ziwani.
-
 
 ##
 Ilipokuwa giza, walirejea
@@ -90,12 +81,10 @@ jioni.
 Kabla kumaliza kula, walikuwa
 tayari wamelala!
 
-
 ##
 Siku iliyofuata, baba watoto
 aliondoka kurudi jijini huku
 akiwaacha na Nyar-Kanyada.
-
 
 ##
 Odongo na Apiyo walimsaidia
@@ -107,7 +96,6 @@ Walikusanya mayai na kuchuna
 mboga za majani kutoka
 kwenye bustani.
 
-
 ##
 Nyar-Kanyada aliwafunza
 wajukuu wake jinsi ya kupika
@@ -116,7 +104,6 @@ kitoweo cha nyama.
 Aliwaonyesha namna ya kupika
 wali wa nazi wa kula kwa
 samaki wa kukaanga.
-
 
 ##
 Asubuhi moja, Odongo
@@ -130,7 +117,6 @@ Baada ya siku hiyo, Odongo
 alihakikisha kwamba ng'ombe
 hawakosi tena.
 
-
 ##
 Siku nyingine watoto
 walikwenda sokoni pamoja na
@@ -143,14 +129,12 @@ wateja bei za bidhaa.
 Odongo naye aliwafungia
 wateja bidhaa walizonunua.
 
-
 ##
 Mwishoni mwa siku, walikunywa
 chai pamoja.
 Walimsaidia nyanya yao
 kuhesabu pesa alizopata siku
 hiyo.
-
 
 ##
 Lakini likizo ilikaribia kuisha na
@@ -159,7 +143,6 @@ Nyar-Kanyada alimpatia Odongo
 kofia na Apiyo sweta.
 Aliwafungia chakula cha
 safarini.
-
 
 ##
 Baba yao alipofika
@@ -172,11 +155,9 @@ Alitabasamu na kusema,
 kwenda jijini. Nitawasubiri mje
 hapa kijijini tena."
 
-
 ##
 Odongo na Apiyo walimbusu na
 kumuaga.
-
 
 ##
 Odongo na Apiyo walirudi
@@ -190,7 +171,6 @@ Lakini zaidi ya yote, kila mmoja
 alikubali kwamba Odongo na
 Apiyo walikuwa na nyanya wa
 ajabu.
-
 
 ##
 * License: [CC-BY]

@@ -7,7 +7,6 @@ Ní ọjọ́ kan, Anansi aláǹtakùn mú
 wọn dáradára lórí iná.
 Lẹ́hìn náà, ó jòkó láti jẹ wọ́n.
 
-
 ##
 Bí Anansi ṣe fẹ́ jẹ́ iṣu àkọ́kọ́, ó gbọ́
 pé ẹnikan kan ilẹ̀kùn rẹ́. “Rárá o!”
@@ -19,7 +18,6 @@ wọlé. Mo ti rín jìnà lónìí, ó tí rẹ̀mi
 àti wípé ebi ń pámi.”
 Nítorí náà kí ni Anansi le ṣe ju kí
 ó jẹ́kí ó wọ́lé.
-
 
 ##
 Anansi ní ahun gan an ni débi pé
@@ -33,7 +31,6 @@ jẹun pẹ̀lú dídọ̀tí yìí! Lọ fọ ọwọ́ rẹ̀."
 ó wọ́ lọ sí odò, fọ ọwọ́ rẹ̀, ó sì
 wọ́ padà.
 
-
 ##
 Ṣùgbọ́n Anansi ti bẹ̀rẹ̀ sí ní kó
 gbogbo àwọn iṣu náà jẹ. Nígbà tí
@@ -44,7 +41,6 @@ fún oúnjẹ alẹ́. Tí o bá wá sí ilé mi,
 jọ̀wọ́ wọ́lé kín lè san ore yìí padà fún
 ẹ,” Ìjàpá dáhùn.
 Ìjàpá sì bẹ̀rẹ̀ sí ní wọ́ lọ sí ilé rẹ̀.
-
 
 ##
 Lẹ́hìn ọ̀pọ̀lọpọ̀ àkókò, Anansi bẹ̀rẹ̀
@@ -62,7 +58,6 @@ jẹ oúnjẹ alẹ́ pẹ̀lú mi ni?”
 Anansi sì sọpé, “Bẹ́ẹ̀ni, èyí dára
 púpọ̀, o ṣé.” Ebi sì bẹ̀rẹ̀ sí i páa.
 
-
 ##
 Nítorí náà, Ìjàpá wọ inú odò lọ
 sí ìsàlẹ̀ láti lọ ṣètò ṣílẹ̀ fún oúnjẹ́
@@ -75,7 +70,6 @@ ti wà nílẹ̀, jọ̀wọ́ jẹ́ kí a jọ̀ jẹun."
 bẹ́rẹ́ sí ní jẹ àwọn ewé tí ó ṣètò
 fún oúnjẹ.
 
-
 ##
 Anansi gbìyànjú láti wọ inú
 odò lọ sí ìsàlẹ̀, ṣùgbọ́n aláńtakùn
@@ -85,7 +79,6 @@ ni kì í ṣe Ìjàpá, kò lè wẹ̀ sísàlẹ̀.
 ó gbìyànjú láti wọ odò náà,
 ṣùgbọ́n ó kùnà. Kò lè lọ̀ ìsàlẹ̀
 lọ sí oúnjẹ́ náà.
-
 
 ##
 Lẹ́hin náà Anansi ní àbá kan.
@@ -98,7 +91,6 @@ inú odò.
 oúnjẹ dídún. Ẹnu Anansi bẹ̀rẹ̀
 sini pòǹgbẹ́ oúnjẹ yìí.
 
-
 ##
 Bí Anansi ṣe fẹ́ mú lára oúnjẹ yìí,
 Ìjàpá dadúró. O ní “Anansi,
@@ -109,7 +101,6 @@ Anansi, láí ronú, ní, “Bẹ́ẹ̀ni,
 òótọ́ lo sọ, Ìjàpá, kí ni mo ń rò?”
 Ó bọ́ aṣọ rẹ̀.
 
-
 ##
 Ṣùgbọ́n láí sí àwọn òkúta ní àpò
 rẹ̀ láti mu dúró sí ìsàlẹ̀ odò náà,
@@ -118,10 +109,9 @@ Anansi fi ojú rẹ̀ sínú omi,
 o sì rí bí Ìjàpá ṣe jẹ gbogbo
 aládùn náà.
 
-
 ##
-License: [CC-BY]
-Writer: Ghanaian folktale
-Illustration: Wiehan de Jager
-Translated By: Taiwo Ẹhinẹni
-Language: Yoruba
+* License: [CC-BY]
+* Text: Ghanaian folktale
+* Illustration: Wiehan de Jager
+* Translation: Taiwo Ẹhinẹni
+* Language: yo

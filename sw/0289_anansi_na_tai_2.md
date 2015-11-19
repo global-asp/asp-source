@@ -11,7 +11,6 @@ na kumgawia rafikiye Anansi,
 Anansi hakufurahia na alimwonea
 wivu.
 
-
 ##
 Kwa hivyo Anansi aliwaza juu ya
 njia barabara ya kunyakua shamba
@@ -23,7 +22,6 @@ Anansi sasa alijivunia kuwa mmiliki
 wa shamba lote la Sungura pamoja
 na mboga na matunda.
 
-
 ##
 Anansi alienda sokoni kuuza
 matunda na mboga.
@@ -34,7 +32,6 @@ familia yake.
 Aliweka nafaka hiyo juu ya fedha
 zilizokuwa katika kikapu.
 
-
 ##
 Buibui, Anansi, alielekea nyumbani
 akiwa amebeba kikapu chake
@@ -42,7 +39,6 @@ kichwani huku akiimba.
 Wakati wote huo, alikuwa akiwaza
 vitu vyote angenunua kwa kutumia
 fedha zote alizokuwa nazo.
-
 
 ##
 Akiwa njiani, kulikuwa na mvua ya manyunyu. Punde
@@ -53,7 +49,6 @@ barabara naye akaenda chini ya mti kujikinga.
 Lakini alikichunga kikapu chake cha dhamana kutoka
 pale alikokuwa.
 
-
 ##
 Mvua ilianza kunyesha kwa wingi zaidi na Anansi
 alihisi baridi na kunyeshewa.
@@ -62,7 +57,6 @@ Kwa hivyo alikimbilia kwenye shimo.
 kunyesha,” Buibui alijiambia. “Bora fedha zangu
 zimekingwa na nafaka niliyoweka juu yake.”
 
-
 ##
 Muda mfupi baadaye,Tai akawa anaruka pahali pale
 na kuweza kuona kikapu kando ya barabara.
@@ -70,7 +64,6 @@ Aliona kwamba kulikuwa na fedha na nafaka kaitika
 kile kikapu.
 Kwa hivyo alikifunika kikapu na mbawa zake na
 kusubiri mvua itakapoisha.
-
 
 ##
 Anansi aliona Tai akiwa amekalia kikapu chake.
@@ -81,7 +74,6 @@ changu,” alimwambia Tai.
 pembeni mwa barabara!”
 Anansi hakuweza kuamini masikio yake! “Ni changu,
 nakwambia!’
-
 
 ##
 Akiwa amekasirika, Anansi alienda kushtaki wizi huo
@@ -96,14 +88,12 @@ yangu!”
 wakati wewe ulitokezea tu na kusema kwamba
 kilikuwa chako!” Tai alijibu.
 
-
 ##
 Baada ya Chifu na wazee wake kusikiliza kwa makini pande zote
 mbili, waliwataka Anansi na Tai watoke hapo na kwenda mbali
 kidogo.
 Walijadili kisa hicho kwa muda mrefu.
 Hatimaye, walifikia uamuzi.
-
 
 ##
 Waliwaita tena Anansi na Tai.
@@ -114,7 +104,6 @@ Anansi, Buibui hakuweza kuamini
 masikio yake.
 Aliangua kilio.
 
-
 ##
 Punde tu baadaye, ujembe ulisambaa kwamba
 uamuzi ulimwendea vibaya Anansi.
@@ -123,7 +112,6 @@ Sungura alirudi katika shamba lake na kuendelea
 kupanda matunda na mboga.
 Lakini Anansi alirejelea hali yake ya umaskini, akiwa
 bila marafiki.
-
 
 ##
 * License: [CC-BY]

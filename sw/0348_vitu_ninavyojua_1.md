@@ -6,7 +6,6 @@ kwetu nyumbani.
 Iko katika Kaunti ya
 Turkana.
 
-
 ##
 Huyu ni ngamia.
 Katika Kaunti ya
@@ -15,7 +14,6 @@ wanafuga wanyama
 tofauti.
 Lakini ngamia ni
 muhimu mno.
-
 
 ##
 Hawa ni walimu wangu.
@@ -36,7 +34,6 @@ watu na mizigo majini.
 Nikienda Mombasa,
 nitaweza kuona meli.
 
-
 ##
 Hiki ni kitanda.
 Ninapenda kitanda
@@ -45,7 +42,6 @@ Nakitumia na ndugu
 yangu mdogo.
 Ni kizuri.
 
-
 ##
 Huyu ni jogoo.
 Tuna jogoo wawili
@@ -53,7 +49,6 @@ nyumbani.
 Tunao pia kuku wengi.
 Kuku hutaga mayai
 mengi.
-
 
 ##
 Huyu ni panya.
@@ -71,7 +66,6 @@ Mbwa wetu anaitwa
 Daa.
 Hubweka sana.
 
-
 ##
 Huu ni mwavuli. Wazazi
 wangu wana mwavuli
@@ -87,7 +81,6 @@ tusinyeshewe.
 Niko darasa la pili na ninajua vitu vingi. Nataka kujua vingine
 zaidi. Nisivyojua, nawauliza wazazi wangu au mwalimu
 wangu.
-
 
 ##
 * License: [CC-BY]

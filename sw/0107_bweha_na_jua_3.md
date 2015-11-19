@@ -6,7 +6,6 @@ mvivu pia mjinga.
 Aliishi na babake mzee katika
 kichaka cha Kalahari.
 
-
 ##
 Asubuhi moja, Bweha Mzee aliamka
 na kumpata mwanawe amelala
@@ -20,7 +19,6 @@ tena,” babake Bweha alisema.
 Kwa hivyo Bweha aliruka juu na
 kuwapeleka mbuzi malishoni.
 
-
 ##
 Kichakani, aliona kitu kilichoangaza
 juu ya mwamba.
@@ -28,7 +26,6 @@ Alizidi kuukaribia mwamba.
 Alipozidi kuukaribia ndipo
 mwangaza ulipozidi kupendeza.
 Labda huyu ndiye mke wake?!
-
 
 ##
 “U-mzuri mno,” Bweha aliueleza
@@ -41,7 +38,6 @@ wakati walihama.
 Hawakutaka kunibeba maanake
 mimi ni moto sana.”
 
-
 ##
 Bweha alisema, “Lakini wewe umzuri sana!
 Mimi nitakubeba. Nitakupeleka
@@ -51,7 +47,6 @@ babangu.”
 usilalamike nikiwa moto kuliko
 unavyoweza kuhimili,” jua lilisema.
 
-
 ##
 Kwa hivyo Bweha alienda nyumbani
 bila ngozi wala manyoya mgongoni,
@@ -61,7 +56,6 @@ kwa kutumia mafuta maalumu.
 Na manyoya yakamea mara
 nyingine.
 
-
 ##
 Kwa hivyo Bweha alienda nyumbani
 bila ngozi wala manyoya mgongoni,
@@ -69,11 +63,9 @@ vile vile bila mke.
 Babake aliuguza mgongo wa Bweha
 kwa kutumia mafuta maalumu.
 
-
 ##
 Na manyoya yakamea mara
 nyingine.
-
 
 ##
 Lakini manyoya mapya yalikuwa
@@ -82,7 +74,6 @@ mwilini.
 Rangi zote tofauti zilimkumbusha
 Bweha kila mara kutokuwa mjinga
 tena.
-
 
 ##
 Maelezo kuhusu hadithi
@@ -101,7 +92,6 @@ Michoro iliyoma katika hadithi hii imefanywa na Marlene Winberg
 na kufafanuliwa na Satsiri Winberg kupitia weldei wa kikundi cha
 Manyeka cha Kisanaa ambacho kimekamilishwa na wasanii wa
 kiSan.
-
 
 ##
 * License: [CC-BY]

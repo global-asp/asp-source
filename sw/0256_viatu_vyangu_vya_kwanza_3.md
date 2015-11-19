@@ -5,7 +5,6 @@ Sikuwa nimewahi kuvaa viatu.
 Nilipowaona watoto waliovaa
 viatu, niliwatazama kwa hamu.
 
-
 ##
 Mamangu alinifariji kwa
 kusema, “Utakuwa na jozi
@@ -14,7 +13,6 @@ subiri tu utaona!”
 Wakati mwingine sikumwamini.
 “Baadaye itakuwa lini?”
 Nilimwuliza siku moja.
-
 
 ##
 Kisha ulikuwa msimu wa
@@ -25,7 +23,6 @@ sokoni na kurejea na vitu vipya.
 “Je, mama, nasi tutaenda
 sokoni?” Nilimwuliza.
 
-
 ##
 Siku kabla ya Krismasi,
 mamangu aliniamsha mapema
@@ -33,7 +30,6 @@ kuliko ilivyokuwa kawaida.
 Alinieleza nichukuwe lile kapu
 kubwa ambalo kawaida
 alilitumia kwenda sokoni.
-
 
 ##
 Sokoni palikuwa na wazazi
@@ -43,7 +39,6 @@ Walinunua nguo mpya na
 hifadhi
 kubwa ya vyakula.
 
-
 ##
 Tulienda moja kwa moja hadi
 sehemu ya viatu aina tofauti.
@@ -51,7 +46,6 @@ Nilishangaa kwa kuona mstari
 baada ya mwingine wa
 viatu vilivyopangwa kwa
 unadhifu.
-
 
 ##
 Baada ya kupima baadhi ya jozi
@@ -64,7 +58,6 @@ jinsi ningevivaa viatu vyangu
 vipya na kujivunia kila mtoto
 kijijini.
 
-
 ##
 Muda mfupi baadaye, niliamka
 kitandani na kuvijaribu tena
@@ -75,14 +68,12 @@ kisha nikavirejesha ndani ya
 sanduku.
 Nililala lakini sikupata usingizi.
 
-
 ##
 Niliamka na kuvijaribu tena kwa
 mara ya pili.
 Nilitembea kwa maringo
 chumbani
 kisha nikavirejesha sandukuni.
-
 
 ##
 Nililala mara nyingine nikinuia
@@ -94,17 +85,14 @@ chumbani kidogo.
 Nilihisi usingizi nikarudi
 kitandani.
 
-
 ##
 Asubuhi yake, niliamshwa na
 mamangu.
 “Hiki ni nini ninaona?” Aliuliza.
 
-
 ##
 Nilikuwa nimevaa viatu vyangu
 vipya kitandani!
-
 
 ##
 * License: [CC-BY]

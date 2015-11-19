@@ -5,13 +5,11 @@ Mimi ninapenda
 kucheza na rafiki yangu
 Chuma.
 
-
 ##
 Mimi na Chuma
 tunapendana sana.
 Tukitumwa, tunaenda
 pamoja.
-
 
 ##
 Siku moja nilitumwa
@@ -20,19 +18,16 @@ yangu nikanunue
 chumvi na mafuta.
 Nilienda na Chuma.
 
-
 ##
 Tukiwa njiani, tuliwaona
 watoto wenzetu
 wakicheza mpira wa
 miguu.
 
-
 ##
 Mimi nilitamani sana
 kucheza mpira huo.
 Nilisema, “Ah! Mpira!”
-
 
 ##
 Nilimwambia Chuma,
@@ -41,13 +36,11 @@ kucheza nao mpira.
 Mimi hupenda mpira wa
 miguu.”
 
-
 ##
 Chuma alinijibu,
 “Twende kwanza
 dukani, halafu turudi
 kucheza.”
-
 
 ##
 Lakini nilimwambia
@@ -56,12 +49,10 @@ kwanza wewe! Tukienda
 nyumbani nyanya
 hataturuhusu.”
 
-
 ##
 Tulikubaliwa na wenzetu
 tukacheza mpira.
 Nilikuwa golikipa.
-
 
 ##
 Nilijitahidi kudaka
@@ -69,14 +60,12 @@ mpira.
 Wenzangu hawakuweza
 kufunga goli hata moja.
 
-
 ##
 Uwanja tuliochezea
 ulikuwa na mchanga
 mwingi.
 Magoli yake yalikuwa
 mawe makubwa.
-
 
 ##
 Baada ya mchezo,
@@ -88,13 +77,11 @@ Chuma alinikemea,
 ulitaka tucheze kabla ya
 kwenda dukani.”
 
-
 ##
 Tulirudi nyumbani bila
 chumvi wala mafuta.
 Tulikuwa tumechafuka
 kweli kweli.
-
 
 ##
 Tulimkuta nyanya
@@ -104,7 +91,6 @@ alituuliza lilikuwa,
 “Mmekuwa wapi muda
 huu wote?”
 
-
 ##
 Alipogundua kuwa
 tulipoteza hela,
@@ -113,13 +99,11 @@ leo, lakini, msirudie
 tena kucheza bila
 ruhusa.”
 
-
 ##
 Tulienda haraka
 kuwalisha kuku na bata.
 Baadaye, tulioga na
 kuwa wasafi.
-
 
 ##
 * License: [CC-BY]

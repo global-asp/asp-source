@@ -11,7 +11,6 @@ alimkubali mara moja.
 Lakini, msichana alimwambia kuwa alikuwa na
 titi moja tu.
 
-
 ##
 Kwa hivyo alimwambia aende nyumbani, akate
 titi moja la mkwewe amletee.
@@ -20,7 +19,6 @@ wangeoana.
 Mwanamme alikimbia kwa kasi, akachukuwa
 kisu, akamrukia mkewe mpendwa na kukata
 titi lake mara moja.
-
 
 ##
 Aliharakisha kwenda msituni alikomwacha
@@ -31,7 +29,6 @@ Kisha alisikia sauti ikisema, “Kwa nini unaita?
 Kwani hujui kwamba uko katika msitu wa
 Musambwa kwa Libeeletwela?”
 
-
 ##
 Mtu yule aliposikia hivyo,
 alikimbia nyumbani kwa kasi
@@ -41,7 +38,6 @@ amefariki.
 Alihuzunika sana kwa ajili ya
 yale alikuwa amefanya. Naye
 alitaka kufa.
-
 
 ##
 * License: [CC-BY]

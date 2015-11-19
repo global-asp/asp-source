@@ -14,7 +14,6 @@ Nyame alihifadhi hekima hiyo
 kwenye chungu
 kilichotengenezwa kwa udongo
 
-
 ##
 Siku moja, Nyame akaamua
 kumpa Anansi chungu hicho
@@ -24,7 +23,6 @@ chungu kile. Na kila
 alipokitazama alipata kujua
 jambo jipya.
 Alifuarahi sana.
-
 
 ##
 Na kwa sababu ya ulafi wake, Anansi alisema
@@ -39,7 +37,6 @@ kikining’inia mbele yake. Lakini haikuwa rahisi
 kupanda huku chungu kikimgonga magotini
 kila wakati.
 
-
 ##
 Wakati huo wote, mwanawe Anansi alikuwa
 amesimama chini ya ule mti huku akimtazama
@@ -51,7 +48,6 @@ kilichojaa hekima mgongoni mwake.
 Ikawa rahisi zaidi kukibeba kile chungu
 mgongoni mwake.
 
-
 ##
 Baada ya muda mfupi, alifika
 juu ya mti.
@@ -62,7 +58,6 @@ mwerevu kuniliko."
 Anansi alikasirika na kukitupa
 kile chungu chini.
 
-
 ##
 Chungu kilianguka na kuvunjika
 vigaevigae.
@@ -72,7 +67,6 @@ kuunda vyombo vya chuma.
 Hivyo ndivyo watu walivyojua
 kufanya mambo yote
 wanayofanya.
-
 
 ##
 * License: [CC-BY]

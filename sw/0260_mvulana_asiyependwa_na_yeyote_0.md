@@ -10,19 +10,16 @@ Akiwa nyumbani, aliketi peke yake
 wakati familia yake iliangalia
 runinga.
 
-
 ##
 Shuleni, ungempata akiketi peke
 yake huku watoto wengine
 wakicheza.
-
 
 ##
 Wangekwenda kuwaleta mifugo,
 yeye angebaki akitembea nyuma.
 Wengine hawakutaka kutembea
 pamoja naye.
-
 
 ##
 Siku moja aliamua kuondoka, lakini
@@ -32,7 +29,6 @@ Alianza kuogopa.
 Lakini aliwaza kuwa hakuna
 angetaka kuzungumza naye kwani
 hakuna aliyempenda.
-
 
 ##
 Alipokuwa karibu kuingia msituni,
@@ -47,7 +43,6 @@ mwanamke mkongwe kuwa alikuwa
 akikwenda popote kwani hapakuwa
 na yeyote aliyempenda.
 
-
 ##
 Mwanamke yule mkongwe
 alimuuliza ikiwa alihitaji usaidizi.
@@ -56,7 +51,6 @@ Mwanamke mkongwe alimwambia
 kwamba kabla ya kumsaidia, alitaka
 yule mvulana amlambe uso wake
 hadi uwe msafi na wa kupendeza.
-
 
 ##
 Mvulana hakuwa na lingine ila
@@ -68,7 +62,6 @@ puani na kuondosha nta masikioni.
 Aliulamba uso wake hadi akwa
 msafi na wa kupendeza.
 
-
 ##
 Mwanamke yule mkongwe
 alimshukuru.
@@ -76,7 +69,6 @@ Alisema, "Utapata msituni vitu vingi
 vya ajabu, lakini usichukuwe
 vyovyote. Ila tu ulete mzizi
 utakaopata."
-
 
 ##
 Mvulana alikimbia akitaka kuona
@@ -94,7 +86,6 @@ utakaopata," alirudia.
 Mvulana aliitikia kwa kichwa na
 akakubaliwa kuingia msituni.
 
-
 ##
 Mvulana alikimbia kwenda, lakini
 kabla kuingia ndani ya msitu,
@@ -110,7 +101,6 @@ usivichukuwe vyovyote. Ila ulete
 mzizi utakaopata."
 Mvulana aliitikia kwa kichwa na
 kukimbilia msituni.
-
 
 ##
 Alipoingia msituni tu, alisikia sauti
@@ -129,7 +119,6 @@ Mvulana alianza kuudhika na
 marudio haya. Alikimbia hadi akifika
 msituni.
 
-
 ##
 Alipokuwa msituni, aliona bakuli
 lililojaa fedha. Alizichukuwa na
@@ -140,7 +129,6 @@ asichukuwe chochote ila tu mzizi.
 Alizitoa fedha mfukoni na
 kuzirejesha kwenye bakuli.
 
-
 ##
 Aliangalia karibu yake na kuona
 nguo nzuri mpya.
@@ -150,7 +138,6 @@ Tena alifikiria juu aliyoambiwa na
 mwanamke mkongwe.
 Alizivua nguo mpya na kuvaa zake
 nzee.
-
 
 ##
 Aliangalia karibu naye na kuona
@@ -164,7 +151,6 @@ Chakula kilinukia vizuri na mvulana
 alihisi njaa.
 Hangejizuia kula.
 
-
 ##
 Alipokuwa amemaliza kula,
 alikumbuka alichoambiwa na yule
@@ -173,14 +159,12 @@ Alikumbuka kwamba aliambiwa
 achukuwe tu mzizi.
 Aliutafuta mzizi, lakini hakuuona.
 
-
 ##
 Alirudi, akiwa ameudhika,
 kumwambia yule mwanamke
 mkongwe kilichotokea.
 Lakini, yule mwanamke mkongwe
 alikuwa tayari amekwenda zake.
-
 
 ##
 * License: [CC-BY]

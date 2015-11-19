@@ -10,7 +10,6 @@ Siku mjomba aliniletea mbwa
 huyo, nilifurahi sana.
 Nilijua nimempata rafiki.
 
-
 ##
 Baada ya kumweka chini,
 mjomba alinigeukia na kuuliza,
@@ -23,7 +22,6 @@ Coco?”
 Nilisema, “Kwa sababu
 anafanana kama koko.”
 
-
 ##
 Nilimwuliza mjomba iwapo Coco alizaliwa
 pekee yake.
@@ -31,14 +29,12 @@ Mjomba alisema kwamba alikuwa na ndugu
 yake aliyemfanana kabisa.
 Nilienda kumuona ndugu yake Coco.
 
-
 ##
 Coco alipomwona nduguye,
 alichangamka sana.
 Wawili hao waliweka vichwa
 vyao pamoja kana kwamba
 wanaongea.
-
 
 ##
 Nilimuuliza mjombangu kama
@@ -51,7 +47,6 @@ lazima uwalinde vizuri.”
 Kwa hivyo kila jioni, nilicheza
 nao na kuwapeleka mazoezi.
 
-
 ##
 Miezi michache baadaye, Coco
 na nduguye walikuwa
@@ -60,7 +55,6 @@ Walikuwa
 wenye nguvu na wenye afya.
 Nami singeweza kuwachunga
 pekee yangu tena.
-
 
 ##
 Kwa hivyo nilimuuliza
@@ -71,7 +65,6 @@ yake, alihuzunika mno.
 Ilionekana kana kwamba
 aliniuliza, “Kwa nini ulifanya
 hivyo?”
-
 
 ##
 Coco alikoma kucheza.
@@ -85,18 +78,15 @@ Nilikuwa na wasiwasi.
 Nilijiuliza vipi ningeweza
 kumsaidia Coco?
 
-
 ##
 Halafu siku moja mjombangu alikuja kututembelea.
 Niliposikia sauti yake, niliharakisha kutoka nje ya nyumba.
 Kabla ya kumwona, nilisikia mbwa wakibweka...
 
-
 ##
 Mbele yangu, Coco na nduguye
 walikuwa wakicheza nyuma ya
 jikoni!
-
 
 ##
 Nilifurahi sana hadi sikujua
@@ -108,7 +98,6 @@ kwaida kwa vile nduguye
 alikuwa amerudi.
 Tungeenda kukimbia wanjani
 tena!
-
 
 ##
 * License: [CC-BY]

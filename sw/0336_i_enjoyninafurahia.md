@@ -4,31 +4,25 @@
 Ninafurahia kuruka
 kamba...
 
-
 ##
 ...pekee yangu.
-
 
 ##
 Ninafurahia pia kuruka
 na rafiki yangu.
 
-
 ##
 Ninafurahia kusoma
 hadithi zinzovutia.
-
 
 ##
 Ninafurahia kutembea
 uwanjani na rafiki
 zangu.
 
-
 ##
 Ninafurahia kumwoshea
 mama vyombo.
-
 
 ##
 Ninafurahia kuandika
@@ -40,22 +34,18 @@ kwa wepesi.
 Ninafurahia kula
 matunda tofauti.
 
-
 ##
 Ninafurahia kulalia
 kitanda kikubwa.
-
 
 ##
 Ninafurahia kumsikiliza
 mama akisimulia
 hadithi za kuvutia.
 
-
 ##
 Aah! Ninafurahia
 kufanya hivi vyote.
-
 
 ##
 * License: [CC-BY]
