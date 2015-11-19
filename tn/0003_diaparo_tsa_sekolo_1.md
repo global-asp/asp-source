@@ -1,0 +1,35 @@
+# Diaparo tsa sekolo
+
+##
+Mosese o o motelele.
+
+##
+Jeresi e e kgolo.
+
+##
+Sekgwama se se
+segolo.
+
+##
+Lebanta le…..
+
+##
+Hutshe e ennye.
+
+##
+Dikauso di
+dikhutshwane.
+
+##
+Mme fela ditlhako tse di
+dintšhwa.
+
+##
+…zingena kahle.
+
+##
+* License: [CC-BY-NC]
+* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Illustration: Mlungisi Dlamini
+* Translation: Lorato Trok
+* Language: tn
