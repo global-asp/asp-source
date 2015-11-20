@@ -45,10 +45,10 @@ kancane. Kwenzeka-ke ukuthi
 abantu basemzini bahlale
 bexakekile ngokuthile baqala
 ukungayinaki inyoni enisa imvula.
-‘Lizona vele,’ kusho bona.
+‘Lizona vele,' kusho bona.
 ‘Sekuyisikhathi sokuthi siyeke
 ukutotosa lesi siwula senyoni
-endala!’
+endala!'
 
 ##
 Kodwa abantu babenza iphutha.
@@ -67,7 +67,7 @@ edolobhaneni eliseduze.
 ##
 Ngelinye ilanga elalishisa kakhulu, intombazanyana ebizwa
 ngoKhethi yanquma ukuya ehlathini ngemuva kokuphuma
-kwesikole. ‘Okungenani kuzobe kupholile laphaya phakathi,’
+kwesikole. ‘Okungenani kuzobe kupholile laphaya phakathi,'
 ezicabangela. Wahamba, wahamba, waze wafika esihlahleni eside
 okwakuhlala kuso inyoni enisa imvula. UKethi wabuka phezulu
 esihlahleni. Ngokuphazima kweso wakhumbula ukuthi ugogo
@@ -99,15 +99,15 @@ isibomvu esishisa kakhulu.
 
 ##
 UKethi wayejabule kakhulu, kwaze kwaba yilapho esetshele
-abazali bakhe ukuthi kwenzekeni. ‘Ungazobheda la!’ kuthetha
+abazali bakhe ukuthi kwenzekeni. ‘Ungazobheda la!' kuthetha
 unina. ‘Akusekho umuntu okholelwa ekutheni leya nyoni
-iphathelene nokuna kwemvula!’
-‘Uqinisile umama wakho,’ kusho ubaba kaKetti. ‘Sesinqamukile
+iphathelene nokuna kwemvula!'
+‘Uqinisile umama wakho,' kusho ubaba kaKetti. ‘Sesinqamukile
 manje isomiso futhi izinto sezizohamba kahle. Ungamosi isinkwa
-esimnandi upha leya nyoni endala enomhobholo ukudla futhi!’
+esimnandi upha leya nyoni endala enomhobholo ukudla futhi!'
 Noma uKethi engazange aphikisane nabazali bakhe, wazitshela
-ukuthi benza iphutha. ‘Ukuba uGogo ubesaphila,’ ekhuluma
-yedwa, ‘ubezongikholwa!’ Ugogo kaKethi wayeshone eminyakeni
+ukuthi benza iphutha. ‘Ukuba uGogo ubesaphila,' ekhuluma
+yedwa, ‘ubezongikholwa!' Ugogo kaKethi wayeshone eminyakeni
 embalwa eyedlule. Into eyodwa uKethi ayesele nayo isitolotolo
 esindala sagogo wakhe.
 
@@ -122,9 +122,9 @@ zezilwane ezilambile. Ilanga lashisa
 ngokungabi naluzwelo
 esibhakabhakeni esiluhlaza
 esikhazimulayo. ‘Anginandaba
-nokuthi bathini!’ kucabanga uKethi.
+nokuthi bathini!' kucabanga uKethi.
 ‘Sidinga imvula. Ngizopha inyoni
-ukudla futhi kusasa!’
+ukudla futhi kusasa!'
 
 ##
 Ngakho ekuseni kakhulu osukwini
@@ -140,7 +140,7 @@ ebona lokho okwakwenziwa
 indodakazi yakhe, wabona ukuthi
 yayiyopha inyoni enisa imvula
 ukudla futhi, ‘Ngizofundisa le ngane
-engezwa isifundo!’ ekhuluma
+engezwa isifundo!' ekhuluma
 yedwa ngokuthukuthela. Wahlwitha
 umnsalo nomcibisholo wakhe
 walandela uKethi ngokuthula ukuya
@@ -168,9 +168,9 @@ yakhe ishaya ngamandla, wagijima
 waze wafika ekhaya. Ngokushesha
 wathola isitolotolo sikagogo wakhe.
 ‘Leli ukuphela kwethemba
-enginalo!’ ecabanga. ‘Idiniwe inyoni
+enginalo!' ecabanga. ‘Idiniwe inyoni
 enisa imvula. Kumele ngiyijabulise
-futhi! KUMELE NGIKWENZE lokhu!’
+futhi! KUMELE NGIKWENZE lokhu!'
 
 ##
 Ngemuva kwesigamu sehora,
@@ -201,7 +201,7 @@ okuhwashazayo ngemuva kwakhe.
 
 ##
 Kwakunguyise owayesevukile.
-‘Ngiyaxolisa!’washo ephindelela
+‘Ngiyaxolisa!'washo ephindelela
 enyonini enkulu eluhlaza. Welulela
 isandla indodakazi yakhe base
 behamba kancane bebuyela emzini.
@@ -222,10 +222,10 @@ imvula.
 ##
 * License: [CC-BY-NC]
 * Text: Joanne Bloch (retold folktale)
-* Illustration: Wiehan de Jager and Nalibali
+* Illustration: Wiehan de Jager, Nalibali
 * Translation: Nal'ibali
 * Language: zu
 
 The text is reproduced with
-permission of Nal’ibali –
+permission of Nal'ibali –
 www.nalibali.org

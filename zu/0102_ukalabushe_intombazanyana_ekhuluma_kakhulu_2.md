@@ -64,7 +64,7 @@ Ngesikhathi uKalabushe efika
 kwakuthule cwaka endlini.
 Wangena ngaphakathi
 ememeza ethi,''Babekazi
-ukuphi?’’
+ukuphi?''
 
 ##
 Uma engalizwa izwi lika
@@ -75,7 +75,7 @@ ozemboze ngenkulu ingubo le.
 
 ##
 ''Babekazi kungani unezindlebe
-ezinkulu kangaka?’’kubuza
+ezinkulu kangaka?''kubuza
 uKalabushe. USgidi impisi
 yaphendula ngaphansi
 kwengubo wathi, '' Khona
@@ -84,17 +84,17 @@ ngizokuzwa kahle.''
 ##
 UKalabushe wabuza futhi
 kubabekazi wakhe
-wathi,’’Kungani amehlo akho
-emakhulu kangaka?’’ uSgidi
+wathi,''Kungani amehlo akho
+emakhulu kangaka?'' uSgidi
 waphendula wathi,''Khona
-ngizokubona kahle.’’
+ngizokubona kahle.''
 
 ##
 Ekugcineni uKalabushe wabuza
 wathi,''Kungani unomlomo
-omkhulu kangaka namhlanje?’’
+omkhulu kangaka namhlanje?''
 USgidi waphendula wathi,
-’’Khona ngizogwinya kahle.’’
+''Khona ngizogwinya kahle.''
 USgidi impisi yagxuma
 embhedeni yamgwinya
 uKalabushe.

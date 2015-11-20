@@ -1,4 +1,4 @@
-# Okubba.
+# Okubba
 
 ##
 Omusajja ayitibwa Kato
@@ -24,8 +24,7 @@ bamusaanga ayokya nnyama.
 ##
 * License: [CC-BY]
 * Text: Deborah
-* Illustration: Jemma Kahn, Wiehan de Jager, Catherine
-Groenewald and Kathy Arbuckle
+* Illustration: Jemma Kahn, Wiehan de Jager, Catherine Groenewald, Kathy Arbuckle
 * Translation: Cissy Namugerwa
 * Language: lg
 

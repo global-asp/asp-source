@@ -10,12 +10,12 @@ okunywa amazzi.
 
 ##
 Embogo satu
-n’ebinyonyi bina nabyo
+n'ebinyonyi bina nabyo
 bigenda okunywa
 amazzi.
 
 ##
-Empeewo ttano, n’enjiri
+Empeewo ttano, n'enjiri
 mukaaga zigenda ku
 mazzi.
 
@@ -41,7 +41,7 @@ nempologoma.
 
 ##
 * License: [CC-BY]
-* Text: Zanele Buthelezi, Thembani Dladla and Clare Verbeek
+* Text: Zanele Buthelezi, Thembani Dladla, Clare Verbeek
 * Illustration: Rob Owen
 * Translation: Robert Ssebukyu
 * Language: lg

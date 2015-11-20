@@ -33,7 +33,7 @@ wa gagwe.
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Bronwen Heath
 * Translation: Lorato Trok
 * Language: tn

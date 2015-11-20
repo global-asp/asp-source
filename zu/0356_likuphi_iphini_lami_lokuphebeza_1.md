@@ -36,7 +36,7 @@ angilitholanga ndawo.
 
 ##
 * License: [CC-BY]
-* Text: Meera Tendolkar and Madhav Chavan
+* Text: Meera Tendolkar, Madhav Chavan
 * Illustration: Rijuta Ghate
 * Translation: Zimbili Dlamini
 * Language: zu

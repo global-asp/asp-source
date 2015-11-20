@@ -1,4 +1,4 @@
-# Nakku n’enviiri essatu
+# Nakku n'enviiri essatu
 
 ##
 Edda ennyo, abawala basatu

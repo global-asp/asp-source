@@ -29,7 +29,7 @@ si ya?
 
 ##
 * License: [CC-BY]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Bronwen Heath
 * Translation: Doris Maandebo
 * Language: lgg

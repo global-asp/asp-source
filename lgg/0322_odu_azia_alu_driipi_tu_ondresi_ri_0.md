@@ -1,7 +1,7 @@
-# O’du Azia Alu Driipi tu Ondresi ri
+# O'du Azia Alu Driipi tu Ondresi ri
 
 ##
-Eri ndra O’du Azia driipi tu ni
+Eri ndra O'du Azia driipi tu ni
 ma ondre si Omba Mudri Drini
 Iri si. ‘Ba alu alu ovu omba si.
 “Bayo Maturu, azini Aluma, emi
@@ -30,7 +30,7 @@ ogogo.
 
 ##
 Asu ama pa yi alia egbezu.
-‘Da vutia, ama e’do yi gbaa
+‘Da vutia, ama e'do yi gbaa
 ama rua.
 ‘Da vutia, ama odu yi si kpoco.
 
@@ -38,10 +38,10 @@ ama rua.
 “Ahhh! Aweki yi,” Maturu ‘yo.
 “Iyaa eco nii ku.”
 Awe ama, awe ama, awe ama,
-kpere ama avi e’yo etu dria ra.
+kpere ama avi e'yo etu dria ra.
 
 ##
-Etu e’do ‘de, dika egbe e’do
+Etu e'do ‘de, dika egbe e'do
 ama fu. Bongo Amani ‘dii ngole
 ya?
 
@@ -53,15 +53,15 @@ woroa, afa azi yo.
 ##
 Ti azi yi ndra yi ageia, ayise nya.
 Bayo enga idri uru, “inee ti ‘da! Eri ma tilea ‘da
-a’duni?”
+a'duni?”
 “Eri patifu ekaru ni nya,” Aluma ‘yo.
 
 ##
-“’Da ovuni patifu ekani ku,” Maturu tre. “’Da
+“'Da ovuni patifu ekani ku,” Maturu tre. “'Da
 sati mivile ri!”
 Ane ti aziri. Eri vini afa azi anyufu anyufu le ni
 nya.
-“’Da ma kiteteyi!” Bayo nga tre.
+“'Da ma kiteteyi!” Bayo nga tre.
 
 ##
 Amvi akua pajama si, ama rua
@@ -69,14 +69,14 @@ ya egbe si, ovuni angu fiza si
 ku.
 “Ti nyaki bongo amavile ‘dii ni”,
 ama ece Iyaa ni.
-Te Iyaa a’i e’yo ama ni nze ri
+Te Iyaa a'i e'yo ama ni nze ri
 ku?
-Saa were vutia, ama eti e’do
+Saa were vutia, ama eti e'do
 dri, te ovu ni etu si ku. Kalika si.
 
 ##
 * License: [CC-BY]
-* Text: Nombulelo Thabane and Tessa Welch
+* Text: Nombulelo Thabane, Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Saidi Omar Dramani
 * Language: lgg

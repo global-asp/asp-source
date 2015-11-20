@@ -137,6 +137,6 @@ monna wa gagwe.
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Jemma Kahn
-* Translation: Lorato Trok and Maphokane Mapule
+* Translation: Lorato Trok, Maphokane Mapule
 Mohlamme
 * Language: tn

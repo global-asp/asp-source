@@ -92,7 +92,7 @@ Ngumoya!
 
 ##
 * License: [CC-BY]
-* Text: Madhuri Pai and Rohini Nilekani
+* Text: Madhuri Pai, Rohini Nilekani
 * Illustration: Rijuta Ghate
 * Translation: Kholeka Mabeta
 * Language: xh

@@ -59,10 +59,10 @@ okukaaba.
 ##
 Enkwale zaawulira nga
 zimukwatiddwa ekisa. Obudde bwe
-bwakya, buli nkwale n’ewa Anansi
+bwakya, buli nkwale n'ewa Anansi
 ekyoya. Anansi yabuuka n'enkwale
 ne bagenda muti gw'omutuba mu
-makkati g’omugga. Anansi bwe
+makkati g'omugga. Anansi bwe
 yalaba ebibala by'omutuba nga
 bimusaaliza n'ayagala byonna
 bibeere bibye.

@@ -1,4 +1,4 @@
-# Nakkungu Nakintu N’ekikule kule
+# Nakkungu Nakintu N'ekikule kule
 
 ##
 Awo olwatuuka,
@@ -21,9 +21,9 @@ Kiwanuka; eyali
 omugagga. Maama wa
 Nakintu yamutungira
 sikaati enungi eriko
-amapeesa n’embira.
+amapeesa n'embira.
 Era namukolera
-eky’omubulago
+eky'omubulago
 ekyembira; awo
 namusindinka agende
 kukyalo kojja we
@@ -58,11 +58,11 @@ bagende bona.
 Nga tebanatuuka wala
 nnnyo omuwala omuto
 yamugamba nti sikati
-yo nungi n’embirazo
+yo nungi n'embirazo
 mpitirivu; nsaba nange
 negezemu. Kati Nakintu
-najjamu sikati n’embira
-ze n’abiwa omuwala
+najjamu sikati n'embira
+ze n'abiwa omuwala
 omuto.
 
 ##
@@ -96,7 +96,7 @@ zange.
 Omuwala namugamba
 nti kanziberemu paka
 ku mwala oguddako.
-Nakintu n’atya nnyo,
+Nakintu n'atya nnyo,
 naye yakiriza.
 
 ##
@@ -104,7 +104,7 @@ Oluvanyuma batuuka
 ku mwala.
 Era Nakintu nasaba
 ekikilekule okumuwa
-sikati n’embiraze.
+sikati n'embiraze.
 Ekikule kule ne
 kimugamba nti kale
 kanyambale mu pakka
@@ -140,7 +140,7 @@ baba bakisa eri
 omuwala. Kawala katu
 ka Nakintu kali kalina
 kwebaka mukiraalo era
-n’okulya kalya kumere
+n'okulya kalya kumere
 ya mbwa.
 
 ##
@@ -155,18 +155,18 @@ bange okubeera nekojja
 wange Kiwanuka.
 Mulugendo nasanga
 ekikule kule ne kitwala
-sikati yange n’embira
+sikati yange n'embira
 zange eeh
 
 ##
 One day, one of
-Mtonyama’s brothers
+Mtonyama's brothers
 was walking in the
 fields when he heard
 the strange and
 
 beautiful song.
-He didn’t know where
+He didn't know where
 the song was coming
 from, but when he got
 home, he told
@@ -210,7 +210,7 @@ okwetaba mu mpaka
 ##
 Omuwala eyali
 ayambade sikati
-n’embira za Nakintu kya
+n'embira za Nakintu kya
 mwelalikiriza nnnyo.
 Teyayagala kubuuka
 
@@ -229,8 +229,8 @@ Oluvanyuma lwa
 abawala bona okubuuka
 ekinya, Ekikulekule ne
 kijja nakyo okubuka.
-Ky’abukira wagulu
-ennyo aw’ekinya naye
+Ky'abukira wagulu
+ennyo aw'ekinya naye
 omukira gwakyo ne
 gusumulukuka. Era
 negumusika wansi
@@ -241,7 +241,7 @@ Ekikule kule ne kifuba
 okuva wansi mu matta,
 naye abasajja nebajja
 mangu nebabikka
-ekinya n’omusenyu
+ekinya n'omusenyu
 nebakiziikira mu.
 Era eyo yeyali
 enkomerero ye ekikule
@@ -254,7 +254,7 @@ Nange awo, wenalabira!
 
 ##
 * License: [CC-BY]
-* Text: Alan Kenyon and Viv Kenyon
+* Text: Alan Kenyon, Viv Kenyon
 * Illustration: Wiehan de Jager
 * Translation: Rebecca Kuteesa
 * Language: lg

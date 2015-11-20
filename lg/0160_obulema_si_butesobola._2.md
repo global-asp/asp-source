@@ -42,5 +42,5 @@ bye nawangula.
 * License: [CC-BY]
 * Text: Agnes Mabururu
 * Illustration: Wiehan de Jager
-* Translation: Cissy Namugerwa and Ritah Katetemera
+* Translation: Cissy Namugerwa, Ritah Katetemera
 * Language: lg

@@ -42,7 +42,7 @@ pele go nwa meetse?
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Gay Galsworthy
 * Translation: Maphokane Mapule Mohlamme
 * Language: nso

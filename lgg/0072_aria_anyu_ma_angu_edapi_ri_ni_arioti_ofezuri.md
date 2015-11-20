@@ -8,7 +8,7 @@ ma o`duko. Oguzu ma tusu e`do ra egata anyu kalikali ri ma dria
 risi. Sopa ra, eri o`duko niri kilili, e`do eri nda kpere esu aria
 gakanyaa ru ri pati sia ima drilekoa oru. “Ciriciriciri-ciriciriciriciriciriciri” aria gakanyaru ri ri wu eri ni ngaria pati ndu ‘diyi ma
 dria.
-Ciriciriciri ciriciriciri ciriciriciri mu drile aria ma o’duko o’bitaa be,
+Ciriciriciri ciriciriciri ciriciriciri mu drile aria ma o'duko o'bitaa be,
 sopa paale karakarau nezu kilili kini oguzu obi ima vuti ra.
 
 ##
@@ -41,7 +41,7 @@ ima tilea.
 
 ##
 Sawa ezakoko ru e`do anyu angapi
-`diyini ma o’duko iri. Azi ‘diyi fi gule
+`diyini ma o'duko iri. Azi ‘diyi fi gule
 pati atrakaa ‘di ma alia, azi ‘diyi efu
 ania ri si amve.
 ka mu ca gule vu `bo, su kali ma si
@@ -102,7 +102,7 @@ ri ma dria e`yo ega `bo, Oguzu e`do aria gakanyaa ru ri ma vuti bi
 dika. Erini angu jere ma kona ru ri aga zu `bo ri ma vutia, traa traa
 ku di geri oku ini `ba omve zu “ciriciriciri-ciriciriciri-ciriciriciri” ri ra
 emu di ri ava li pati azini daru oci be ni ma etia. “Ahaa” Oguzu ega.
-‘Le turu ma ovu di pati `di ma sia.’ Mbeleru edu aci ra e`do di tu
+‘Le turu ma ovu di pati `di ma sia.' Mbeleru edu aci ra e`do di tu
 pati `da ma sia, kali aci be ri pie ima tia. Traatraa ri lu eri ne ne.
 
 ##

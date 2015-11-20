@@ -3,7 +3,7 @@
 ##
 Olunaku lumu nga
 omusana gwaka nnyo,
-mubiseera by’ekyeeya
+mubiseera by'ekyeeya
 mu kibira ekimu.
 
 ##
@@ -17,20 +17,20 @@ lya mazzi yadde livudde
 ku kikoola.”
 
 ##
-Naye nga n’esuulwe
+Naye nga n'esuulwe
 nalyo lyakaze dda.
 
 ##
 “Bwesitanywa kumazi
 njakuffa," Enkuyege
-nga bw’ekaaba.
+nga bw'ekaaba.
 “Nina okugenda ku
 mugga gwe nawulira
 bogera ko.”
 
 ##
 Kamugye egezi
-n’emulabula nti,
+n'emulabula nti,
 “Omugga gugya ku
 kutwala”.
 
@@ -42,12 +42,12 @@ Era neyegamba nti,
 kuffa.”
 
 ##
-Enkuyege n’egenda
+Enkuyege n'egenda
 ennonye omugga.
 
 ##
 Neyita ku muddo
-ogwakala n’amatabi
+ogwakala n'amatabi
 amakalu.
 
 ##
@@ -56,11 +56,11 @@ amayengo go mugga
 nga gawuuma.
 
 ##
-Enkuyege n’enywako
+Enkuyege n'enywako
 kutuzzi otuweweera.
 
 ##
-Olw’esanyu eringi
+Olw'esanyu eringi
 ennyo, teyasobola ku
 laba jeengo ddene
 eryali lijja ku mugga.
@@ -82,7 +82,7 @@ nyambe bambi!”
 Ejjuba eryeeru bwe
 lyamugamba, nga
 lisitudde akatabi
-n’omumwa gw’alyo.
+n'omumwa gw'alyo.
 
 ##
 
@@ -95,14 +95,14 @@ amazzi.
 
 ##
 Lumu Enkuyege yali
-eky’alinze, abalenzi
+eky'alinze, abalenzi
 babiri nebajja ku mugga
 we yali nga balina
 butidda.
 
 ##
 Omulenzi omu
-n’agamba nti, “Waliwo
+n'agamba nti, “Waliwo
 ejjuba erijja wano
 okunywa amazzi;
 lyetujja okulya
@@ -127,16 +127,16 @@ amazzi.
 
 ##
 Enkuyege neyiya
-eky’okukola.
+eky'okukola.
 
 ##
 Nelinnya ku kigere
-ky’omulenzi omu,
-n’emuluma nnyo nga
-bw’esobola.
+ky'omulenzi omu,
+n'emuluma nnyo nga
+bw'esobola.
 
 ##
-Omulenzi n’abuuka nga
+Omulenzi n'abuuka nga
 bwakaaba.
 
 ##
@@ -147,11 +147,11 @@ okulibwa.
 ##
 Eyo yengeri Enkuyege
 gye yebazaamu Ejjuba
-eryeru olw’okumutaasa.
+eryeru olw'okumutaasa.
 
 ##
 * License: [CC-BY]
-* Text: Kholeka Mabeta and Judith Baker
+* Text: Kholeka Mabeta, Judith Baker
 * Illustration: Wiehan de Jager
 * Translation: Rebecca Kuteesa
 * Language: lg

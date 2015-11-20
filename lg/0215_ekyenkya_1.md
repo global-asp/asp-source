@@ -33,7 +33,7 @@ ennene.
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Cathy Feek
-* Translation: Cissy Namugerwa and Ritah Katetemera
+* Translation: Cissy Namugerwa, Ritah Katetemera
 * Language: lg

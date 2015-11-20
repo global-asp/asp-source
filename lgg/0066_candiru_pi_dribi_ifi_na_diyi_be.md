@@ -5,19 +5,19 @@ Ndra drio, ezoanzi na mu eja
 owuria.
 
 ##
-O’du ‘da si etu dri tu, nga mu yi saa
+O'du ‘da si etu dri tu, nga mu yi saa
 yia
 Avi dika oyaa yi eyi ma rua, dika
 saa yi.
 
 ##
-Coti yi ega kini angu bi`bo. E’do mvi
+Coti yi ega kini angu bi`bo. E'do mvi
 vile enyatia mbele mbele.
 
 ##
 Ka mu eca aku tia inyia `bo,
 Candiru `ba dri ima ombea. Eri vile
-nyoro ombea ri ma e’yo avi erini
+nyoro ombea ri ma e'yo avi erini
 `dale.
 “kirikiri ada nga mani dri vile
 `dale!” `Ba matu `ima agiyi pivu.

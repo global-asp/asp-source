@@ -8,7 +8,7 @@ kukafuna.
 
 ##
 Ntunudde emabega
-w’oluggi; tekaaliyo.
+w'oluggi; tekaaliyo.
 
 ##
 Nkanoonyezako
@@ -16,13 +16,13 @@ mumasa; sikalabayo.
 
 ##
 Nkanoonyezako ne
-wansi w’ekitanda; nayo
+wansi w'ekitanda; nayo
 tekaliiyo.
 
 ##
 Nkanoonyezako
 mussanduuko; naye
-tewaliyo n’akabonero
+tewaliyo n'akabonero
 kalaga nti mwekali.
 
 ##
@@ -40,7 +40,7 @@ wenkalaba.
 
 ##
 * License: [CC-BY]
-* Text: Meera Tendolkar and Madhav Chavan
+* Text: Meera Tendolkar, Madhav Chavan
 * Illustration: Rijuta Ghate
 * Translation: Rebecca Kuteesa
 * Language: lg

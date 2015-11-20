@@ -25,5 +25,5 @@ Njagala nnyo ebire.
 * License: [CC-BY]
 * Text: Clark Ness
 * Illustration: Microsoft Clip Art
-* Translation: Annet Ssebaggala and Ritah Katetemera
+* Translation: Annet Ssebaggala, Ritah Katetemera
 * Language: lg

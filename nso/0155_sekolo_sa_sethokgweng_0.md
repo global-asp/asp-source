@@ -114,7 +114,7 @@ phapošing.
 
 ##
 * License: [CC-BY]
-* Text: Madhav Chavan and Meera Tendolkar
+* Text: Madhav Chavan, Meera Tendolkar
 * Illustration: Ketan Raut
 * Translation: Maphokane Mapule Mohlamme
 * Language: nso

@@ -1,12 +1,12 @@
-# Ogulegua pa A’balau ni ngoni ru ya ri
+# Ogulegua pa A'balau ni ngoni ru ya ri
 
 ##
 Ili si angu ‘wi ndra oce
 talaa tu.
 
 ##
-O’du karakara
-Ogulegua a’a ‘dani yi
+O'du karakara
+Ogulegua a'a ‘dani yi
 mvuza koko ru.
 
 ##
@@ -24,7 +24,7 @@ ma nga dra te,”
 Ogulegua ri di owu
 ‘dini.
 “Le ece kokoru ma ma
-mu yi ara mani e’yo
+mu yi ara mani e'yo
 erizu drinia ‘dia ri ma
 tia ‘dale.”
 
@@ -51,7 +51,7 @@ talaa pie…
 
 ##
 …kpere erini yi ara ma
-o’duko eriria.
+o'duko eriria.
 
 ##
 Ogulegua se yi ambiza
@@ -62,8 +62,8 @@ Ayiko dri teni di yima
 gogofi imu pi ri nee ku.
 
 ##
-Ogulegua o’bi ayise
-a’wi ra pi ima drile ri
+Ogulegua o'bi ayise
+a'wi ra pi ima drile ri
 ebi.
 Te yi ‘du eri te.
 
@@ -73,7 +73,7 @@ yo. Kirikiri si iko ma aza
 fo.”
 
 ##
-“Mbele, mi etu,”A’balau
+“Mbele, mi etu,”A'balau
 emvea pati arakala bii
 pi ima tia ri ‘yo ‘dile.
 
@@ -81,19 +81,19 @@ pi ima tia ri ‘yo ‘dile.
 
 ##
 “Ma eco ni angu ‘diri ku
-ku kpere mani awa’difo
-feria A’balau ni. Ma nga
+ku kpere mani awa'difo
+feria A'balau ni. Ma nga
 te kpere erini emuria yi
 mvuria.”
 
 ##
-O’du alu eri ni te ria,
+O'du alu eri ni te ria,
 agupianzia iri ni pi emu
 yi ara ma tia eyi ma
 abitara pie.
 
 ##
-“A’balau azi ambo emve
+“A'balau azi ambo emve
 ni aci yi mvu ‘dia ‘dia,”
 mva alu ri nga yo.
 “Ama andru odresi enya
@@ -104,13 +104,13 @@ nya eri si.”
 ##
 “Ma eco ni fe
 agupianzia ‘diyi ni
-A’balau emvea ri ni
+A'balau emvea ri ni
 ‘dizu ku. Te ma
 gakanyaa ‘dole, ma eco
-a’di afa ‘ye i ka?
+a'di afa ‘ye i ka?
 
 ##
-Coti A’balau emvea ri
+Coti A'balau emvea ri
 esa pati sia risi vaa yi
 mvuzu.
 
@@ -129,20 +129,20 @@ Mva nde nga mbu awu
 pie, “Maye maye.”
 
 ##
-Ori si A’balau emvea ri
+Ori si A'balau emvea ri
 sa re i zizu.
 
 ##
 “Di di bele ni geri ndra
-Ogulegua ni awa’difo
-fezu A’balau ni eri ni i
+Ogulegua ni awa'difo
+fezu A'balau ni eri ni i
 pazu risi ri i.
 
 ##
-Ogulegua pa A’balau ni ngoni ru ya
+Ogulegua pa A'balau ni ngoni ru ya
 ri
 * License: [CC-BY]
-* Text: Kholeka Mabeta and Judith Baker
+* Text: Kholeka Mabeta, Judith Baker
 * Illustration: Wiehan de Jager
 * Translation: Doris Maandebo
 * Language: lgg

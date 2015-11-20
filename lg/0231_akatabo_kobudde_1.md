@@ -1,4 +1,4 @@
-# Akatabo k’obudde
+# Akatabo k'obudde
 
 ##
 Obudde bwa mukalwe.
@@ -26,7 +26,7 @@ Ndaba Musoke.
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Sandra McDougall
 * Translation: Mwesigwa Joshua Waswa
 * Language: lg

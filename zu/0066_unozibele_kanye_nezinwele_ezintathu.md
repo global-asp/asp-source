@@ -108,5 +108,5 @@ ezintathu
 * License: [CC-BY]
 * Text: Tessa Welch
 * Illustration: Wiehan de Jager
-* Translation: Zimbili Dlamini and Phumy Zikode
+* Translation: Zimbili Dlamini, Phumy Zikode
 * Language: zu

@@ -6,7 +6,7 @@ Manthole, e le Mokibelo e bile
 letšatši le fiša ka kudu.
 “Bontle and Mpho and Lerato,
 go out and play!” Mme said to
-us. “I don’t want you under my
+us. “I don't want you under my
 feet.”
 “Bontle, Mpho le Lerato,
 sepelang le ye go raloka!Gwa
@@ -98,7 +98,7 @@ letšatši.
 
 ##
 * License: [CC-BY]
-* Text: Nombulelo Thabane and Tessa Welch
+* Text: Nombulelo Thabane, Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Maphokane Mapule Mohlamme
 * Language: nso

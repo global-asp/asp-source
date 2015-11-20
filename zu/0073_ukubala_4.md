@@ -45,7 +45,7 @@ sokuqhubeka aphuze?
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Gay Galsworthy
 * Translation: Clare Verbeek, Thembani Dladla and
 Zanele Buthelezi

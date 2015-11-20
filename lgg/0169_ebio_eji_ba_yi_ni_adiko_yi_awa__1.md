@@ -2,7 +2,7 @@
 
 ##
 Andra drio, opi angu `bua ri vile
-O’bani ici ndra a`diko a`diko
+O'bani ici ndra a`diko a`diko
 karakarau ma ti sanduku mbawu
 sini ma alia uru `bua `dale. `Ba
 nyakua `diyi ni a`diko di ndra
@@ -14,7 +14,7 @@ azakozu
 Ebio pi ndra di baka azini ezuru tuzu
 `dini `dini kpere `bua `dale. “Kate
 ecora si, mi eco a`diko yi fe ma dri
-ra ya?” zi opi `bu niri ni. Te O’bani
+ra ya?” zi opi `bu niri ni. Te O'bani
 gu avasi ra nga di `yo erini, “Aa,
 o`duko `diyi ma aje tu, mi econi
 nga yi ma aje ofe deku, Ebio.”
@@ -23,10 +23,10 @@ nga yi ma aje ofe deku, Ebio.”
 “A`diko a`diko nde yi ma aje si a?”
 Ebio zi. “Mi nga mani anyapa
 ombaru azini `bani esu ewasi `dini
-le `diyi eji na”, O’bani omvi. “O`du
+le `diyi eji na”, O'bani omvi. “O`du
 si eri ma sin i ci zu aciru kile aju le
 ni, edirilia azi `ba odu pi odu ni azini
-ori `ba oki pi pi mile be ni” O’bani
+ori `ba oki pi pi mile be ni” O'bani
 gu `I kai. Ega kini `I vile a`diko `diyi
 vu `ba azi ecopi ca pi ni di yo .
 
@@ -51,7 +51,7 @@ mi ese amve `dole. Ebio ndra `I vile
 iserebi tika tika ri o`du pi ma rua
 pati erini lazu drinia ri be kuru ra ebi
 di ani o`du ni se kpere `bua `dale
-eri e`dazu opi `buni ri ni.Te O’bani
+eri e`dazu opi `buni ri ni.Te O'bani
 gulu `i, dika zi Ebio ma tia anyapa
 azi iri `diyi ngua ya?
 
@@ -79,7 +79,7 @@ Ebio ndra ebio mbamba zukulu ma
 ti mbgo ri ma alia ci edirili ma fu ani
 ku beni.
 Tu yi be kpere `bua `dale yi e`dzu
-opi `bu vile ri ni. O’bani zi eri “Asizu
+opi `bu vile ri ni. O'bani zi eri “Asizu
 ri te ngua?” saa `daa, o`bi di gu
 avasi oku ri le ti.
 
@@ -113,9 +113,9 @@ mi ejuzu kpi ma di ani mi zo o`bi
 kilili be ni,” `Ebio `yo ori ni.
 Ka di mu ori ni ombe de woro `bo,
 Ebio e`do di eri se oru `bua `dale
-eri e`dazu O’bani ni.
+eri e`dazu O'bani ni.
 “A `ye di e`yo mi ni andra le ma ma
-`ye ri `bo, O’bani” Ebio `yo. “Le mi
+`ye ri `bo, O'bani” Ebio `yo. “Le mi
 ma fe di curu`do ma dri a`diko yi
 ra”
 

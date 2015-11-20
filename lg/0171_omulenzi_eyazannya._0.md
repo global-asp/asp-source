@@ -1,4 +1,4 @@
-# Omulenzi eyazannya.
+# Omulenzi eyazannya
 
 ##
 Aunt Merane gave some money to

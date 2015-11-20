@@ -20,18 +20,18 @@ Ka cha ini si, eri ti okpo
 be ni!
 
 ##
-Agu eyi ma edri pa e’yo
+Agu eyi ma edri pa e'yo
 onzi aalia ri si.
 
 ##
-A’di ‘di ‘ba onzi ‘dii be.
+A'di ‘di ‘ba onzi ‘dii be.
 
 ##
 Te ika mima mile obi ci,
 
 ##
 Ti echo emu mi nee ra!
-Mima a’i afa mini lele ri.
+Mima a'i afa mini lele ri.
 
 ##
 Asiza

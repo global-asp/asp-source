@@ -11,65 +11,65 @@ nga bawala.
 
 ##
 Namukwaya bwe yali olubuto
-lw’omwana owomusanvu,
+lw'omwana owomusanvu,
 Kajoba namulabula nti
-“Nekakutanda n’ozaala
+“Nekakutanda n'ozaala
 omuwala omulala, nnja kukutta,
-naye bw’ononzalira omulenzi,
+naye bw'ononzalira omulenzi,
 nnja kukukolera ekijjulo
 ekinene.”
 
 ##
-Ekiseera ky’okuzaala bwe
+Ekiseera ky'okuzaala bwe
 kyatuuka,
 Namukwaya nagenda
-ew’omuzaalisa ow’ekinnansi.
+ew'omuzaalisa ow'ekinnansi.
 Namubuza oba omwana anaba
 mulenzi oba muwala?
 
 ##
-Yali mulenzi n’omuwala nga
+Yali mulenzi n'omuwala nga
 balongo.
-Omulenzi n’amutuuma Kadiidi
-omuwala n’amutuuma Nambi.
+Omulenzi n'amutuuma Kadiidi
+omuwala n'amutuuma Nambi.
 Bweyatunulira ku Kadiidi nga
 asanyuka naye bweyatunula
-nga ku Nambi ng’awulira
+nga ku Nambi ng'awulira
 ennaku.
 Era nasalawo nti; waliwo ekintu
 kimu kyeyalina okukola.
 
 ##
 Awo Namukwaya naleka Nambi
-n’omuzaalisa, n’atwala Kadiidi
-yekka ew’omwami we.
+n'omuzaalisa, n'atwala Kadiidi
+yekka ew'omwami we.
 
 ##
 Nalaga Kajoba omwana
-omulenzi n’essanyu.
+omulenzi n'essanyu.
 Kajoba nassanyuka nnyo era
-nayita ab’ekyalo bona
+nayita ab'ekyalo bona
 okumujagulizako amazaalibwa
-g’amutabani we Kadiidi.
+g'amutabani we Kadiidi.
 
 ##
 Kadiidi yakula nga musajja
-mulungi ate ne Nambi n’akula
+mulungi ate ne Nambi n'akula
 ngamuwala mulungi nnyo eyo
 gyeyali.
 
 ##
 Lwaali lumu Kadiidi bweyali nga
-alunda ente z’akitaawe, nalaba
+alunda ente z'akitaawe, nalaba
 omuwala omulungi, era
-n’agamba nti y’ono omuwala
+n'agamba nti y'ono omuwala
 gwenjagala okuwasa.
 
 ##
 Naye bwe yamusaba
 okumuwasa , omuwala
 namuyimbira oluyimba luno;
-“Eeh Kadiidi ng’olimba Kadiidi
+“Eeh Kadiidi ng'olimba Kadiidi
 Batuzaala babiri nga balongo
 Kadiidi
 Maama nandeka ewomuzalisa
@@ -91,7 +91,7 @@ mubuuza, ayimba oluyimba lwe
 lumu.
 
 ##
-Eky’amwewunyisa Maama we
+Eky'amwewunyisa Maama we
 Namukwaya ya mudamu bwati;
 Oyo omuwala kyayimba kye
 kitufu.
@@ -105,27 +105,27 @@ ewakitaawo.
 
 ##
 Kadiidi bwe yagamba Taata
-w’emboozi eyo, Kajoba
-n’akizuula nti yali mukyamu,
+w'emboozi eyo, Kajoba
+n'akizuula nti yali mukyamu,
 era nayita Namukwaya
-nebagenda ew’omuzaalisa
+nebagenda ew'omuzaalisa
 okunona Nambi.
 
 ##
 Nambi bwe yattuka ewaka,
 Taata we nayita abaakulu
-b’ekyaalo ne batta embuzi, era
+b'ekyaalo ne batta embuzi, era
 ne bakola omukolo
-gw’obuwangwa okugatta Nambi
+gw'obuwangwa okugatta Nambi
 ne baganda be omusanvu.
 
 ##
 Ngawayisewo omwaka gunu,
 Nambi yafumbirwa mutabani
-wa nagagga w’okukyalo ekyo.
-Era Nambi n’aleetera kitaawe
+wa nagagga w'okukyalo ekyo.
+Era Nambi n'aleetera kitaawe
 nebaganda be esanyu
-n’obugaga buungi.
+n'obugaga buungi.
 
 ##
 * License: [CC-BY]

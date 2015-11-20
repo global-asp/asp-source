@@ -124,6 +124,6 @@ ababelisikelwe!
 
 ##
 * License: [CC-BY]
-* Text: Venkatramana Gowda and Divaspathy Hegde
+* Text: Venkatramana Gowda, Divaspathy Hegde
 * Illustration: Padmanabha
 * Language: xh

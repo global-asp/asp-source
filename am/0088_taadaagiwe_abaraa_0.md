@@ -103,5 +103,5 @@
 * License: [CC-BY]
 * Text: Gaspah Emukuru Juma
 * Illustration: Wiehan de Jager
-* Translation: ከድር ኢብራሂም and ፋሲካ ምንዳ
+* Translation: ከድር ኢብራሂም, ፋሲካ ምንዳ
 * Language: am

@@ -1,4 +1,4 @@
-# Omuti ogwataasa abantu b’Embuya
+# Omuti ogwataasa abantu b'Embuya
 
 ##
 Mpeera yabeeranga ku kyalo Mbuya. Olunaku lumu yagenda ne
@@ -9,10 +9,10 @@ miyitirivu naye ng'akamyu kadduka nnyo okumusinga.
 ##
 
 ##
-Ensuwa ya Mpeera bwe yajjula n’ayagala okudda ewaka, naye nga
+Ensuwa ya Mpeera bwe yajjula n'ayagala okudda ewaka, naye nga
 muto we tamulaba. Yamagamaga naye nga Katende tamulaba.
-Mpeera yatambula nnyo nga bw’amunoonya era oluvanyuma
-yamuzuula ng'agalamidde mu bisagazi emabega w’ekiswa.
+Mpeera yatambula nnyo nga bw'amunoonya era oluvanyuma
+yamuzuula ng'agalamidde mu bisagazi emabega w'ekiswa.
 
 ##
 

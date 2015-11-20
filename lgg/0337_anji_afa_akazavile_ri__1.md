@@ -1,13 +1,13 @@
 # Anji afa Akazavile ri
 
 ##
-O’du alu ndra drio, aku
+O'du alu ndra drio, aku
 ayikoruni ovu ‘dale
 
 ##
 Eyi ndra ayikoru. Fuuni
 afu eyi ma eselea ku.
-Eyi ndra eyi ma ti’ba
+Eyi ndra eyi ma ti'ba
 ma azako aku alea dika
 amvua.
 
@@ -18,7 +18,7 @@ ku.
 
 ##
 Eyi ndra azi eyini ‘dii
-nga inisi. A’dusiku ‘ba
+nga inisi. A'dusiku ‘ba
 ede eyi afa akaapi acisi
 akaaka ri si.
 
@@ -31,14 +31,14 @@ Te mva alu agupi anzi
 mu acisi etu alia.
 
 ##
-O’du alu, mva aluri ma
+O'du alu, mva aluri ma
 asi muzu etu aliari nde
 eri ra. Eri ma adrii iri ‘dii
 oga eri si.
 
 ##
 ‘Ba oga eri ti. ‘Da koni
-eri ma aza ku. E’do aka
+eri ma aza ku. E'do aka
 etu drizasi.
 
 ##
@@ -59,9 +59,9 @@ ariaruri ‘be uruni ma
 dria.
 
 ##
-Etuni e’do agaria, yima
+Etuni e'do agaria, yima
 adri ariaruri nga oli alia,
-ongo be etu o’bitiniri
+ongo be etu o'bitiniri
 ma alia.
 
 ##

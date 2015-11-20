@@ -36,7 +36,7 @@ Ma dri eza `i ra.
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Cathy Feek
 * Translation: Saidi Omar Dramani
 * Language: lgg

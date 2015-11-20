@@ -203,7 +203,7 @@ Cosi cosi yaphela.
 
 ##
 * License: [CC-BY]
-* Text: Alan Kenyon and Viv Kenyon
+* Text: Alan Kenyon, Viv Kenyon
 * Illustration: Wiehan de Jager
-* Translation: Phumy Zikode and Zimbili Dlamini
+* Translation: Phumy Zikode, Zimbili Dlamini
 * Language: zu

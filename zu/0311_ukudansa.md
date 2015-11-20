@@ -30,7 +30,7 @@ edolobheni
 
 ##
 * License: [CC-BY]
-* Text: Mary Nabire and Tessa Welch
+* Text: Mary Nabire, Tessa Welch
 * Illustration: Catherine Groenewald
 * Adaptation: Violin Swarathe
 * Language: zu

@@ -2,10 +2,10 @@
 
 ##
 Zamva azi ndra alu, ‘ba eri
-omve Ojua ‘i. eri ndra o’a ima
-ti’ba be enyati Ocoko a
-O’du alu, Ojua ma adri pe eri
-ma ti yi eji a’bulea.
+omve Ojua ‘i. eri ndra o'a ima
+ti'ba be enyati Ocoko a
+O'du alu, Ojua ma adri pe eri
+ma ti yi eji a'bulea.
 
 ##
 Eri ni muria geria, fudri ima agii
@@ -34,7 +34,7 @@ Pe gerii wala ri ma vuti bi ‘i. Mu,
 mu, mu saa ezu, te esu ‘ima
 agii ku.
 Ande tu. Asi ri pati azi ma etia
-avali. O’du ‘be eri ‘dasi.
+avali. O'du ‘be eri ‘dasi.
 
 ##
 Ojua kamu enga ‘bo, angu bi tu.
@@ -46,22 +46,22 @@ ce eri omba be kurumu.
 
 ##
 “Mi olo mi ku,” obau ambo
-o’duko be ombaru ri ‘yo erini.
+o'duko be ombaru ri ‘yo erini.
 “Ika apa, ama mi nya ra.”
 “Kirikiri, ikuu ma, ma mvi akua,”
-Ojua a’i eyi.
+Ojua a'i eyi.
 
 ##
 Obau ‘dii ‘duu kani Ojua eyivile
 akua oje alia – jo azi ondi ru,
 foloko onyu ni anga zu drinia
 ‘dii be.
-La’i va, ‘ye ‘i o’du ko.
+La'i va, ‘ye ‘i o'du ko.
 
 ##
-Ini alia, eri obau ‘dii e’yo nze eyi
+Ini alia, eri obau ‘dii e'yo nze eyi
 ma eselea. “Aci ‘bani odu ‘di
-ngoni?” obau alu zi. Yi e’do a’di
+ngoni?” obau alu zi. Yi e'do a'di
 ‘bo?” “‘Ba otu afa woro ‘bo.”
 “Ma eji zamva nde ri ‘i?”
 “E,e!” obau azi ‘dii omvi. “Abiri
@@ -72,7 +72,7 @@ Lee Ojua ji amve jo aliari si.
 Obau ambo ri ‘yo, “Ma agii, emi
 ma tenga. Emi ma ega azitaa
 enyati Amani ‘di vile ri. Obau
-alu nya nyaka a’dusi ku. Le ama
+alu nya nyaka a'dusi ku. Le ama
 ove aku azi ‘dii nyaka nya ama
 be.”
 “Ma mu ama andripi omve,” eri
@@ -88,8 +88,8 @@ Obau ambo ri ‘yo. Ri kaatia
 obau azi ‘dii ne mu geri ndu ndu
 si.
 Asi ‘dale saa azo ru, obau ambo
-ri e’do o’du ko acitia. Saa were
-vutia, e’do ondroko se.
+ri e'do o'du ko acitia. Saa were
+vutia, e'do ondroko se.
 Ojua ma drileba eca ni. Te eri
 nga fu ngoni ngoni ru obau
 ambo ri ma agaia si? Eri ambo
@@ -103,7 +103,7 @@ jizuri si.
 
 ##
 ‘Da ma vutia, obau azi ‘dii eca
-ci. Nee e’yo ‘i’yepi ri. Nzu eri
+ci. Nee e'yo ‘i'yepi ri. Nzu eri
 ma vuti si, eyi di agbo si omba
 si. zamva apa te.
 
@@ -113,13 +113,13 @@ enyatia ‘dii nii eri ra, ngaa tre,
 “Ojua, Ojua ni emu ‘da.”
 Eri ma ati efu amve eri ma
 andri be eri zi agate si, fee
-awa’difo O’baapi dri eyi ma zi
+awa'difo O'baapi dri eyi ma zi
 ma tambazuri si.
 “Ojua, Ojua, ama ega mi avi mi
 idri ra!”
 
 ##
-E’do zu o’du ‘da si, Ojua pi anji azi ‘dii be da dri oje alia ‘dale a’dusi ku.
+E'do zu o'du ‘da si, Ojua pi anji azi ‘dii be da dri oje alia ‘dale a'dusi ku.
 
 ##
 * License: [CC-BY]

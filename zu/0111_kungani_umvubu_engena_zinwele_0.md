@@ -59,7 +59,7 @@ ngamthola!"
 
 ##
 * License: [CC-BY]
-* Text: Basilio Gimo and David Ker
+* Text: Basilio Gimo, David Ker
 * Illustration: Carol Liddiment
 * Translation: Missing
 * Language: zu

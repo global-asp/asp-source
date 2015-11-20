@@ -41,7 +41,7 @@ kwaye sasothukile.
 
 ##
 * License: [CC-BY]
-* Text: Zanele Buthelezi, Thembani Dladla and Clare
+* Text: Zanele Buthelezi, Thembani Dladla, Clare
 Verbeek
 * Illustration: Rob Owen
 * Translation: Anezwa Madondile

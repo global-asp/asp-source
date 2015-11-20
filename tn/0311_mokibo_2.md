@@ -41,13 +41,13 @@ Fela gore ba mpone ke
 tlola ebile ke dikologa”
 …
 Ba tla re‘O a kgatlhisa
-ebile o a itumedisa’.”
+ebile o a itumedisa'.”
 
 ##
 
 ##
 * License: [CC-BY]
-* Text: Mary Nabire and Tessa Welch
+* Text: Mary Nabire, Tessa Welch
 * Illustration: Catherine Groenewald
 * Translation: Lorato Trok
 * Language: tn

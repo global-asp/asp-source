@@ -22,14 +22,14 @@ Bongo su pa ‘diyi alia
 ru.
 
 ##
-Te jijima ‘diyi o’diru...
+Te jijima ‘diyi o'diru...
 
 ##
 Caki ma ni kilili.
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Mlungisi Dlamini
 * Translation: Dravuru Monica
 * Language: lgg

@@ -37,7 +37,7 @@ Eto niria `da egata azi onyiru ni
 ##
 “Ma `doa mani kaiko ma aji ngu”
 Anansi se aji ni ayiko be asia tre tre.
-‘’Kaiko aji be ndriza ru ri ni a`diria
+‘'Kaiko aji be ndriza ru ri ni a`diria
 emvu alia”
 “Mi emu ama ma nya ama vile
 kaiko mi pie tualu” oyoa nga `yo.
@@ -54,7 +54,7 @@ onyiru ni. Ani nga `I `ye `dile.
 
 “Ma `doa maku ma aji ngu” ebio se
 oli ayikosi erini agaria. ‘maku anyu
-be, ma ni ega risi!’
+be, ma ni ega risi!'
 “Ebio” eri ma agyi oboloko omve
 eri. “ma vile emvu ga tre maku si
 azini anyu si! Mi emu ama ma nya
@@ -95,7 +95,7 @@ Anansi li `I mbeleru yi alia. Yi ka di
 mu baka `dayi oji de woro `bo, ebio
 nga di `I ese `ee `ee be kpere yi
 eku tia
-‘’Ma ye, ma ye” Anansi nga `yo “ka
+‘'Ma ye, ma ye” Anansi nga `yo “ka
 ni `da aa vini nga egata muke ni ku
 ya ani ya”
 E`dozu saa `dasi kpere andru ebio

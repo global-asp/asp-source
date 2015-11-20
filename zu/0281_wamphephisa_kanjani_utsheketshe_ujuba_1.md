@@ -158,7 +158,7 @@ kuJuba omhlophe.
 Wamphephisa kanjani uTsheketshe
 uJuba
 * License: [CC-BY]
-* Text: Kholeka Mabeta and Judith Baker
+* Text: Kholeka Mabeta, Judith Baker
 * Illustration: Wiehan de Jager
 * Translation: Zimbili Dlamini
 * Language: zu

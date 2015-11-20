@@ -39,6 +39,6 @@ Umlimi uphendula athi,
 * License: [CC-BY-NC]
 * Text: Jenny Katz
 * Illustration: Sandy Campbell
-* Translation: Thandi Khumalo and Nolitha Bikitsha
+* Translation: Thandi Khumalo, Nolitha Bikitsha
 noSithembile Masuku
 * Language: zu

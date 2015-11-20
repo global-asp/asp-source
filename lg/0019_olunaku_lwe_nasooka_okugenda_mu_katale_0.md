@@ -1,8 +1,8 @@
 # Olunaku lwe nasooka okugenda mu katale
 
 ##
-Mbeera ku kyalo ky’Ekiboga. Ekyalo
-ekyo kikalu olw’omusana ogwaka
+Mbeera ku kyalo ky'Ekiboga. Ekyalo
+ekyo kikalu olw'omusana ogwaka
 ennyo, emiti gyakwo gya maggwa
 era embuzi eziriko zisinga abantu
 obungi.
@@ -36,7 +36,7 @@ emmyufu.
 Nawulira muli nga kalenzi akatono
 ennyo awo mu makkati ga maama
 omutono ate nga muwanvu nga
-n’eruda waliyo senga omunene
+n'eruda waliyo senga omunene
 obulungi.
 
 ##
@@ -170,7 +170,7 @@ nti, "Yiyo."
 Olunaku lwe nasooka okugenda mu
 katale
 * License: [CC-BY]
-* Text: Timothy Kabare and Ursula Nafula
+* Text: Timothy Kabare, Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Mwesigwa Joshua Waswa
 * Language: lg

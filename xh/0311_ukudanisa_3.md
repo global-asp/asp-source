@@ -38,15 +38,15 @@ nditsiba-tsiba
 kwaye ndizibhija-bhija”
 ...
 ‘Udanisa kakuhle
-KAKHULU’, baza
+KAKHULU', baza
 kutsho.”
 
 ##
 
 ##
 * License: [CC-BY]
-* Text: Mary Nabire and Tessa Welch
+* Text: Mary Nabire, Tessa Welch
 * Illustration: Catherine Groenewald
-* Translation: Neliswa Majola and Education without
+* Translation: Neliswa Majola, Education without
 Borders
 * Language: xh

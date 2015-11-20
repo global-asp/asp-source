@@ -45,5 +45,5 @@
 * License: [CC-BY]
 * Text: Cornelius Wekunya
 * Illustration: Joshua Waswa
-* Translation: ከድር ኢብራሂም and ፋሲካ ምንዳ
+* Translation: ከድር ኢብራሂም, ፋሲካ ምንዳ
 * Language: am

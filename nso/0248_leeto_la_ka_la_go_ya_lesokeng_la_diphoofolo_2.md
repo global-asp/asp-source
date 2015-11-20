@@ -41,7 +41,7 @@ Leeto la ka la go ya lešokeng la
 diphoofolo
 * License: [CC-BY]
 * Text: Mmapule Nkuna
-* Illustration: Melany Pietersen, Rob Owen and Catherine
+* Illustration: Melany Pietersen, Rob Owen, Catherine
 Groenewald
 * Adaptation: Lillian dhlamini
 * Language: nso

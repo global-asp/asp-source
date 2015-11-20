@@ -61,7 +61,7 @@ Yiza, uzofunda nathi!
 
 ##
 * License: [CC-BY]
-* Text: Zimbili Dlamini and Hlengiwe Zondi
+* Text: Zimbili Dlamini, Hlengiwe Zondi
 * Illustration: Catherine Groenewald
 * Translation: Nolitha Bikitsha
 * Language: xh

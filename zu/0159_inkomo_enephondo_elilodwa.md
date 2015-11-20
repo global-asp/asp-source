@@ -47,7 +47,7 @@ ungenzani?
 
 ##
 * License: [CC-BY]
-* Text: Sebongile Daniel, Mpho Ntlhanngoe and Khothatso Ranoosi
+* Text: Sebongile Daniel, Mpho Ntlhanngoe, Khothatso Ranoosi
 * Illustration: Marion Drew
 * Translation: Nomathamsanqa Ngwenya
 * Language: zu

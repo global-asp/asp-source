@@ -30,11 +30,11 @@ mbele ri a`dini?
 ##
 Drileba ru, ca mupira
 paria drio ru! Su jijima
-‘ini mupira tuzu o’di ri.
+‘ini mupira tuzu o'di ri.
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Cathy Feek
 * Translation: Doris Maandebo
 * Language: lgg

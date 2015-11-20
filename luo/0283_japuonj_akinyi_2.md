@@ -3,7 +3,7 @@
 ##
 Ma en japuoujna to
 nyinge Akinyi.
-Ohera sidang’.
+Ohera sidang'.
 
 ##
 Japuonj Akinyi puonjaga
@@ -16,8 +16,8 @@ u.
 Japuonj Akinyi
 osepuoujawa range
 kaka makwar, mbulu,
-alum, ratong’, kod
-rateng’.
+alum, ratong', kod
+rateng'.
 
 ##
 Seche mag ywenyo,
@@ -29,21 +29,21 @@ mamit.
 ##
 Wer mamitno iwero kama:
 Nindo mayom ka mula
-Yie ichiwne wang’i
+Yie ichiwne wang'i
 Mor mogundho riti
-Kawang’ ichiewo
+Kawang' ichiewo
 Nind maber jaherana
-Kik iywagi, kendo wang’ awerni
-Wend nindo mamit sidang’
+Kik iywagi, kendo wang' awerni
+Wend nindo mamit sidang'
 Ninda! Ninda!
 
 ##
-Japuonj Akinyi ong’eyo sigana mathoth.
+Japuonj Akinyi ong'eyo sigana mathoth.
 Oganonwa sigana mopogore pile odiochieng
 ka odiochieng ejuma.
 
 ##
-Chieng’ wuok tich,
+Chieng' wuok tich,
 oganonwa ewi chuo
 mathuondi.
 
@@ -56,7 +56,7 @@ Tich adek, oganonwa e
 wi yore mag wuoth.
 
 ##
-Tich ang’wen is
+Tich ang'wen is
 oganonwa ewi wecha
 mag pur.
 
@@ -70,7 +70,7 @@ wawegi.
 Adiero japuonjwa ema
 oloyo japuonj duto
 maniepiny.
-Kabedo maduong’ to
+Kabedo maduong' to
 agomba modo abed
 kaka japuonj Akiniyi.
 

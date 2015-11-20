@@ -155,7 +155,7 @@ olusizo kuzona.
 Ukulangazelela kwenkonyane
 lendlovu
 * License: [CC-BY]
-* Text: Judith Baker and Lorato Trok
+* Text: Judith Baker, Lorato Trok
 * Illustration: Wiehan de Jager
 * Translation: Zimbili Dlamini
 * Language: zu

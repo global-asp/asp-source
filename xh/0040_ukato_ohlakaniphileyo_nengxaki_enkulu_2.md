@@ -79,7 +79,7 @@ zilila iinyembezi ziphokoka.
 ##
 
 ##
-Umalume noninakazi kaKato’s babethule bethe
+Umalume noninakazi kaKato's babethule bethe
 cwaka. Wonke amagala akhasela ngakoomama
 bawo.
 UKato wathinta umqala wathetha eneentloni,

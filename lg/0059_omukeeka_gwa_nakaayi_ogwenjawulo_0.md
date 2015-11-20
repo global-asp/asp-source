@@ -22,15 +22,15 @@ egyali mu nsisira ya
 Maama wa Nakaayi.
 
 ##
-Obutonde bw’ettaka
+Obutonde bw'ettaka
 eryari lyetoolodde
 Nakaayi gyejabeeranga
 lyari kalu, nga lyokya
 era nga lijudde
 amayinja.
 Waliyo enjaba
-ez’obusagwa, nabbubi
-n’emisota mubuungi
+ez'obusagwa, nabbubi
+n'emisota mubuungi
 ddala.
 
 Naye Nakaayi
@@ -39,7 +39,7 @@ teyaberanga nabulabe
 ##
 Maama yamugamba nti
 omukeeka gwe guno
-ogwenjawulo; gw’ali
+ogwenjawulo; gw'ali
 gumukuuma eri
 obulabe bwonna.
 
@@ -50,11 +50,11 @@ ewali oluzzi olwokumpi
 ate nga si luwanvu.
 
 ##
-Era nayiga n’ensisira ya
+Era nayiga n'ensisira ya
 Jajja we omukyala
 weyali.
 Yagendangayo okunywa
-amata g’engamiya ne
+amata g'engamiya ne
 Jajja we.
 
 ##
@@ -67,8 +67,8 @@ Era Nakaayi yatya
 nnyo.
 
 ##
-Yatuula wansi w’omuti
-nga bw’alinda
+Yatuula wansi w'omuti
+nga bw'alinda
 obuyambi.
 Oluvannyuma otulo
 twamutwala era nafuna
@@ -85,20 +85,20 @@ we omukyala yali
 amutunuulide
 ngabwamukuuma.
 Era omukyala ona
-yamwenya n’amuwa
+yamwenya n'amuwa
 ebbakuli ennene nga
 erimu amata
-g’engamiya.
+g'engamiya.
 Nakaayi bwegezaako
 
 ##
-Nakaayi n’azibula
+Nakaayi n'azibula
 amasoge mpola mpola;
 era bweyatunula
-waggulu; n’alaba
+waggulu; n'alaba
 kanyonnyi akabululu
 nga kayimiridde ku tabi
-ly’omuti.
+ly'omuti.
 
 ##
 Nakaayi bweyasituka,
@@ -112,9 +112,9 @@ nakagoberera.
 ##
 Nakaayi bwe yatuuka
 mukifo nga ekubo
-ly’awukana mu njuyi
+ly'awukana mu njuyi
 biri; akanyonnyi kasuula
-akatundu k’omukeeka
+akatundu k'omukeeka
 akaali ekefananyiriza
 omukeeka gwe.
 
@@ -134,9 +134,9 @@ Abenŋanda za Nakaayi
 bayimba ne bazina nga
 bamwaniriza ewaka.
 Era basala embuzi,
-n’ebokya ennyama ne
-bajaguza olw’okudda
-kw’omwana wabwe
+n'ebokya ennyama ne
+bajaguza olw'okudda
+kw'omwana wabwe
 obulungi.
 
 ##

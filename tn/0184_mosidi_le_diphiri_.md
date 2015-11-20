@@ -65,9 +65,9 @@ tshwere ke tlala mme ba mo
 dikologa.
 
 ##
-“Don’t move”, said the gruff
+“Don't move”, said the gruff
 voice of the biggest hyena.
-“If you run, we’ll eat you!”
+“If you run, we'll eat you!”
 “Please let me go home!”
 Mulongo pleaded.
 “O seka wa leka wa suta”, ga

@@ -59,7 +59,7 @@ mme a metsa Sebokolodi.
 Mo tseleng fa a boela gae, Koko
 o ile a kopana le Mme
 Sebokolodi. ‘A o kile wa bona
-Sebokolodi Koko?’ ga botsa
+Sebokolodi Koko?' ga botsa
 Mme Sebokolodi. mKoko ga a ka
 a araba.
 Mme Sebokolodi o ne a

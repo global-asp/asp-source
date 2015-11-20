@@ -16,7 +16,7 @@ okwekolerayo omu.
 Awo bwe yalaba ettabi eddungi;
 n'atandika okubajjamu omukyala
 omulungi.
-Ng'amazze okubajja; n’akwatta ku
+Ng'amazze okubajja; n'akwatta ku
 maaso g'ekibajje ne gafuuka
 amaaso ddala. Ekibajje
 n'akifuuwamu omukka ne kifuna
@@ -30,10 +30,10 @@ n'amusaba abeere mu kaziwe.
 
 ##
 Yamwambaza ekyambalo
-ky’obugole, embira, n’omuge
-n'alabikira ddala ng’omugole
+ky'obugole, embira, n'omuge
+n'alabikira ddala ng'omugole
 bw'abera. N'amuzimbira ennyumba
-ey’obudongo n’essubi
+ey'obudongo n'essubi
 mweyawummuliranga.
 “Ekintu kimu kye nkusaba,
 "Tobuulirangako omuntu yenna gye
@@ -42,25 +42,25 @@ wava."
 ##
 Naye nga tewannayita kiseera
 kinene, abavubuka ku kyalo
-eky’okumulirano baatandika
+eky'okumulirano baatandika
 okwogera bokka na bokka nti, "Kijja
 kitya omusajja omukadde bw'atyo
-okubeera n’omukyala omuto ate
-nga mulungi nyo bw’atyo?”
+okubeera n'omukyala omuto ate
+nga mulungi nyo bw'atyo?”
 Kye baava basalawo bamubbe
 bamutwale mu kiraalo kyabwe.
 
 ##
 Omusajja omukadde okumubbako
-omukyala ky’amukutula omutima
+omukyala ky'amukutula omutima
 era n'alowooza nti tasobola
 kubeerawo nga talina mukyala.
 Kye yava alowooza nti, "Singa
 mbadde nnina ekintu kye kyonna
 oba sandinakuwadde nnyo?"
-Bw'atyo n’asindika amayuba ge
+Bw'atyo n'asindika amayuba ge
 okumunoonya, gamuyimbire
-n’okumuleetera ekintu kyonna
+n'okumuleetera ekintu kyonna
 eky'omukyala.
 
 ##
@@ -86,8 +86,8 @@ omubajje,
 Olimulungi okukira abakazi abalala
 Balo atutumye
 okuzzayo engule yo.
-Ne biddayo n’engule ng'akabonero
-k’omukazi omufumbo.
+Ne biddayo n'engule ng'akabonero
+k'omukazi omufumbo.
 
 ##
 Yakwata engule n'agissa ku nnyindo
@@ -107,9 +107,9 @@ Era amayuba ne gaddayo
 ogwokusatu. Ne gagwa ku
 bibegabega bye, ne bimubojja
 amaaso ge gombi nga bwe biyimba.
-Amangu ago; n’afuuka ekibajje.
-Ebigere bye n’emikono gye ne
-bikutukako n’omutwe gwe era
+Amangu ago; n'afuuka ekibajje.
+Ebigere bye n'emikono gye ne
+bikutukako n'omutwe gwe era
 bw'atyo yenna n'agwa wansi.
 
 ##

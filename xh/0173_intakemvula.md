@@ -1,7 +1,7 @@
 # Intak'emvula
 
 ##
-Kwilizwe laseGabon, kwakukh’ ilali
+Kwilizwe laseGabon, kwakukh' ilali
 encinane eyayimi kwinyele lehlathi.
 Esizikithini seli hlathi, kwawona
 masebe aphezulu omthi omkhulu
@@ -49,9 +49,9 @@ lali basuka bathanda ukuxakeka
 zezinye izinto, kwaze oku
 kwabangela ukuba balibale
 ngentaka yemvula. ‘Kuza kunetha
-nokuba kutheni,’babesitsho,
+nokuba kutheni,'babesitsho,
 ‘liphelile ixesha lokufekethisa laa
-ntakana ngoku!’
+ntakana ngoku!'
 
 ##
 Kodwa ke ngelishwa, abantu
@@ -72,7 +72,7 @@ abamelene nazo.
 ##
 Ngaminazala ithile eyayitshisa kakhulu, intombazana encinci
 egama linguKetti yagqiba ekubeni iye ehlathini emva kokuphuma
-kwesikolo. ‘Noko kuza kuphola phaya,’ uzicingele ngaphakathi.
+kwesikolo. ‘Noko kuza kuphola phaya,' uzicingele ngaphakathi.
 Uhambile, wahamba, kwaze emva kwethutyana, wafika kumthi
 omde eyayihlala kuwo intaka yemvula. UKetti uqwalasele phezulu
 emthini. Kusenjalo, wakhumbula ngelaa xesha umakhulu wakhe
@@ -105,16 +105,16 @@ utshisayo.
 
 ##
 UKetti wayechulumancile kakhulu, kodwa wadana emva kokuba
-exelele abazali bakhe ukuba kwenzeke ntoni. ‘Ungasigezeli!’
+exelele abazali bakhe ukuba kwenzeke ntoni. ‘Ungasigezeli!'
 wamngxolisa watsho umama wakhe. ‘Akusekho mntu ukholelwayo
-ukuba laa ntaka inento yokwenza nemvula!’
-‘Unyanisile umama wakho,’ utshilo utata kaKetti. ‘Imbalela iphelile
+ukuba laa ntaka inento yokwenza nemvula!'
+‘Unyanisile umama wakho,' utshilo utata kaKetti. ‘Imbalela iphelile
 ngoku, kwaye izinto ziza kulunga kwakhona. Musa ukudyiwaza
 ngesonka esidingekayo ngokumana usiya kondla laa ntaka indala
-irhalayo kwakhona!’
+irhalayo kwakhona!'
 Nangona uKetti angazange aphikisane nabazali bakhe,
 wayeqinisekile ukuba bayaphazama. ‘Akwaba umakhulu
-ebesaphila,’ uthethele ngaphakathi, ‘yena ebeza kundikholelwa!’
+ebesaphila,' uthethele ngaphakathi, ‘yena ebeza kundikholelwa!'
 Kodwa ke kwakusele iyiminyaka eliqelana eswelekile umakhulu
 kaKetti. Inye kuphela into awayesayigcinile uKetti kwezo
 zikamakhulu, yayiyipiyano yeminwe kamakhulu wakhe.
@@ -130,10 +130,10 @@ izilwanyana ezilambileyo. Ingqatsini
 yelanga yahlaba ngokungenalusini
 emhlabeni ukusuka kweso
 sibhakabhaka siluhlaza.
-‘Andikhathali nokuba bathini!’
+‘Andikhathali nokuba bathini!'
 ucinge watsho uKetti. ‘Siyayidinga
 imvula. Ndiza kuya kuyondla
-kwakhona intaka ngomso!’
+kwakhona intaka ngomso!'
 
 ##
 Kwangentseni kusuku olulandelayo,
@@ -150,7 +150,7 @@ yintombi yakhe, waqonda ukuba iza
 kuya kondla intaka yemvula
 kwakhona. ‘Ndiza kumfundisa
 isifundo kanene lo mntwana
-ungenambeko!’ utshilo ezithethela
+ungenambeko!' utshilo ezithethela
 ngomsindo. Uthe hlasi isaphetha
 sakhe neentolo zakhe waze
 wamlandela ngokuthe cwaka uKetti
@@ -182,10 +182,10 @@ kowabo.
 Kwangoko ufumene laa piyano
 idlalwe ngeminwe kamakhulu
 wakhe. ‘Kuphela kwethemba
-endinalo ke eli!’ ucinge watsho.
+endinalo ke eli!' ucinge watsho.
 ‘Intaka yemvula iqumbile. Kufuneka
 ndiyonwabise kwakhona! KUMELE
-ndenze njalo!’
+ndenze njalo!'
 
 ##
 Emva kwesiqingatha seyure, uKetti
@@ -219,7 +219,7 @@ kwakhe.
 ##
 Kwakusenziwa kukuvuka kukatata
 wakhe.
-‘Ndicela uxolo!’ utshilo izihlandlo
+‘Ndicela uxolo!' utshilo izihlandlo
 ngezihlandlo ebhekisa kwintaka
 enkulu eluhlaza.
 Emva koko wabamba intombi yakhe
@@ -242,10 +242,10 @@ intaka eyayibazisela imvula.
 ##
 * License: [CC-BY-NC]
 * Text: Joanne Bloch (retold folktale)
-* Illustration: Wiehan de Jager and Nalibali
+* Illustration: Wiehan de Jager, Nalibali
 * Translation: Nal'ibali
 * Language: xh
 
 The text is reproduced with
-permission of Nal’ibali –
+permission of Nal'ibali –
 www.nalibali.org

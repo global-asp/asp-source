@@ -21,5 +21,3 @@ okunyogoga?
 * Illustration: Hélder de Paz Alexandre
 * Translation: Augustine Napagi
 * Language: lg
-
-A frog likes cold water.

@@ -17,7 +17,7 @@ A kanya ni wuu, “ney.”
 Nguru be ni wu, “ngru.”
 
 ##
-A’u yi wuu, “kilaki.”
+A'u yi wuu, “kilaki.”
 
 ##
 Ocoo ni wuu, “mbuu.”

@@ -1,7 +1,7 @@
 # Nonkungu pi Androo be Alan Kenyon and Viv Kenyon
 
 ##
-O’du alu, culu azi alioru
+O'du alu, culu azi alioru
 ni ndra ovu ima oku be.
 Eyi ma mva ndra alu,
 zamva ni. Eri ma ru
@@ -11,8 +11,8 @@ onyi be tu dika asi be
 alaru ni.
 
 ##
-O’du azi si, eri ma ti’ba
-lee eri ma ti pe o’a eri
+O'du azi si, eri ma ti'ba
+lee eri ma ti pe o'a eri
 ma adropi afa be ri vile
 akua. ‘Ba eri omve
 Olema ‘i.
@@ -28,7 +28,7 @@ vutia, pe eri ma ti
 ##
 Erini muria geria,
 Nakuru eca yitia.
-Za yi dri oni ‘bani o’baa
+Za yi dri oni ‘bani o'baa
 alizuru ma dria si.
 Yi ma kala ‘da ma dria,
 esu zamva azi bongo
@@ -40,7 +40,7 @@ ngole ya?"
 “Ma mu ma adropi
 Olema vile akua,"
 Nakuru nag ‘yo.
-“’Dinia? Olema ni vini
+“'Dinia? Olema ni vini
 ma adropi. Ma vini ‘di
 mu eri ne,” zamva aziri
 nga ‘yo.
@@ -51,7 +51,7 @@ Denga muuni ali ku,
 zamva aziri nga ‘yo:
 “Mivile kiteteyi ngaliku
 be ‘di ndri tu. Kirikiri, ife
-ma o’bi eyi.“
+ma o'bi eyi.“
 Nakuru tru bongo ini
 suuri ngaliki ombeari
 be, fe zamva nde dri.
@@ -60,7 +60,7 @@ be, fe zamva nde dri.
 Zamva ‘da kamu bongo
 ivile iriko ri tru azini
 Nakuru vile ri suzu ‘bo,
-Nakuru ne eri so’bi be!
+Nakuru ne eri so'bi be!
 Ori nde eri tu.
 Nakuru ni ra zamva ‘di
 adroo ni.
@@ -84,7 +84,7 @@ bongo ngaliki be fo.“
 “Ite mama su eyi kpere
 yi azi drilea ‘de ri vu,"
 adroo ‘yo.
-Nakuru ‘ye ori si, a’i ra.
+Nakuru ‘ye ori si, a'i ra.
 
 ##
 Asizu caa yitia.
@@ -103,7 +103,7 @@ Nakuruvile, ‘yo oku ‘da
 yi, ni
 “Enee nga zamva
 bongo iriko suupi ‘di.
-E’doo te ma vuti obii
+E'doo te ma vuti obii
 drio. Aleta mamu, ma
 ku ma."
 Drinza vini ori bi Nakuru
@@ -113,24 +113,24 @@ ni ci. Apa izii ico alia.
 Adroo mu Adro Olema
 vile akua. ‘Yo kini:
 “Ma mi adramva
-Nakuru ‘i. Ma ti’ba ipee
+Nakuru ‘i. Ma ti'ba ipee
 mati mivile akua ni."
-Olema a’i zamva nderi
+Olema a'i zamva nderi
 ayiko si. ‘ba erivile akua
 ‘dii woro ma asi adroo
 ni muke.
 
-Te Nakuru asi o’duko ico
+Te Nakuru asi o'duko ico
 ma alia, dika nyaka
 
 ##
 Etu si Nakuru mu
-amvua, zi’i kaka ma
-alia. E’do ongo ngo:
+amvua, zi'i kaka ma
+alia. E'do ongo ngo:
 "Oh candi mani, candi
 mani.
 Ma ati pi ma adri be
-epee mati o’a ma
+epee mati o'a ma
 adropi Olema be.
 Mani emuria geria,
 afudri adroo be, ‘du
@@ -139,32 +139,32 @@ ngaliki be ra.
 Oo candi mani candi
 
 ##
-O’du alu Olema ma adri
+O'du alu Olema ma adri
 ndra ali amvu alia si. Eri
 ongo osutaru onyiri ni.
 Ni ongo ‘dari efu
 ngosiari ku. Eri mu ca
 akua ‘bo, ece Olema ni
-e’yo drinia.
+e'yo drinia.
 Olema mu amvu alia
 coti. Eri ongo nde, nda
 pari ni kpere erini
 Nakuru ni esu.
 
 ##
-Nakuru ‘yo erini a’diafa
-‘ye’i ni, obi adroo ni ima
+Nakuru ‘yo erini a'diafa
+‘ye'i ni, obi adroo ni ima
 kiteteyi ‘duzu ngaliki
 be, erini fezu ini bongo
 iriko suzu.
 Olema ‘du eri ivile akua,
 zi eri jo alu ma alia.
-Olema ni ‘inga a’diafa
+Olema ni ‘inga a'diafa
 ‘ye adroo bizuri ra.
 
 ##
 Olema eri ndra kini
-adroo ma so’bi le lesu
+adroo ma so'bi le lesu
 tu, econi ali lesu ma
 agaia si ‘bi ku ‘dini ku.
 ‘Yo aguu ini azini ‘dii dri
@@ -179,37 +179,37 @@ Ori bi zamza Nakuru ma
 kiteteyi suupi ngaliki be
 ri tu. Leni mbu ‘bile ‘da
 ma driasi ku. Nira ‘ima
-so’bi ni nga le lesu kuza
+so'bi ni nga le lesu kuza
 mbe ra.
 Fi jo alia, ombe ima
-so’bi ima rua kiri kiri.
+so'bi ima rua kiri kiri.
 ‘Da ma vutia mu
 ezoanzi azi ‘dii vu.
 
 ##
-Ezoanzi e’do mbu ‘bile
+Ezoanzi e'do mbu ‘bile
 ma dria si alu alu. Eza
 adroo ni mbuzu.
-O’bi mbu uru ‘bile ma
-dria si, te eri ma so’bi
-ace’i, e’do eri se ele,
+O'bi mbu uru ‘bile ma
+dria si, te eri ma so'bi
+ace'i, e'do eri se ele,
 ele, lesu ma alia.
 
 ##
-Adroo ni o’bi efu lesu
+Adroo ni o'bi efu lesu
 ma aliaria, agupi ‘dii to
 ‘bile ‘da ma alia cinaki;
 esii eri ‘bile ‘da ma alia.
 ‘Da ndra adroo ma
 asiza nyakudria ri.
-‘Da vutia, Nakuru o’a
+‘Da vutia, Nakuru o'a
 ‘ima adropi be saa ezu
 ru.
-E’yo ma asiza ‘dipi.
+E'yo ma asiza ‘dipi.
 
 ##
 * License: [CC-BY]
-* Text: Alan Kenyon and Viv Kenyon
+* Text: Alan Kenyon, Viv Kenyon
 * Illustration: Wiehan de Jager
 * Translation: Saidi Omar Dramani
 * Language: lgg

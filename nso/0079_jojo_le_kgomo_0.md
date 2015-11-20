@@ -47,6 +47,6 @@ gomme o ile go robala.
 ##
 * License: [CC-BY]
 * Text: Isiira Patrick
-* Illustration: Rob Owen and Catherine Groenewald
+* Illustration: Rob Owen, Catherine Groenewald
 * Translation: Matlakala Cynthia Kutumela
 * Language: nso

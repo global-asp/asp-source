@@ -148,6 +148,6 @@ lethu elihle.
 ##
 * License: [CC-BY]
 * Text: Herminder Ohri
-* Illustration: Herminder Ohri and Baaraan Ijal
+* Illustration: Herminder Ohri, Baaraan Ijal
 * Translation: Ntombizodwa Gxowa-Dlayedwa
 * Language: xh

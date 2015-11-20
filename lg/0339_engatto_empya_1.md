@@ -24,7 +24,7 @@ azegezaamu.
 
 ##
 Mwannyina,
-n’amugulira engatto
+n'amugulira engatto
 ezisambirwamu
 omupiira.
 
@@ -33,15 +33,15 @@ Lwaki banguyirizza
 okuddayo eka?
 
 ##
-Eky’omukisa Kigozi
+Eky'omukisa Kigozi
 yatuuka ku kisaawe
-ky’ompiira mu budde,
+ky'ompiira mu budde,
 ng'ayambadde engatto
 ze empya.
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Cathy Feek
 * Translation: Rebecca Kuteesa
 * Language: lg

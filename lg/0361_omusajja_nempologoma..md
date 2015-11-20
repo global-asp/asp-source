@@ -82,5 +82,5 @@ empologoma.
 * License: [CC-BY]
 * Text: Mozambican folktale
 * Illustration: Hélder de Paz Alexandre
-* Translation: Ritah Katetemera and John Emongot
+* Translation: Ritah Katetemera, John Emongot
 * Language: lg

@@ -152,7 +152,7 @@ metsing.
 
 ##
 * License: [CC-BY]
-* Text: Kholeka Mabeta and Judith Baker
+* Text: Kholeka Mabeta, Judith Baker
 * Illustration: Wiehan de Jager
 * Translation: Lorato Trok
 * Language: tn

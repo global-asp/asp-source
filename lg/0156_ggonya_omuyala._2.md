@@ -29,7 +29,7 @@ omuyala.
 * License: [CC-BY]
 * Text: Christian G.
 * Illustration: Wiehan de Jager
-* Translation: Cissy Namugerwa and Ritah Katetemera
+* Translation: Cissy Namugerwa, Ritah Katetemera
 * Language: lg
 
 Olugero luno siruwanvu nnyo ate

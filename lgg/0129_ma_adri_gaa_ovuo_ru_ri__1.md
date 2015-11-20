@@ -1,7 +1,7 @@
 # Ma adri gaa ovuo ru ri
 
 ##
-Ma enga o’dua ri si dika
+Ma enga o'dua ri si dika
 ma aci odu.
 
 ##
@@ -28,7 +28,7 @@ lu ini avi ‘i.
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Mlungisi Dlamini
 * Translation: Doris Maandebo
 * Language: lgg

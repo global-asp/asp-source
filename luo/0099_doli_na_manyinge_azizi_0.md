@@ -10,8 +10,8 @@ kinde duko osiko ka
 obunjo.
 
 ##
-Bang’ ka achiweo,
-alwoko wang’a bang’e
+Bang' ka achiweo,
+alwoko wang'a bang'e
 amanyo.
 Kama Azizi nitiere.
 
@@ -40,7 +40,7 @@ Samoro awuotho e
 aluora ka apono maua.
 
 ##
-Bang’e amiye, kata
+Bang'e amiye, kata
 kamano, ok ogo,
 “Erokamano.”
 
@@ -50,12 +50,12 @@ ahinya kapok mamana
 olwoka.
 
 ##
-Bang’e arwake nanga
+Bang'e arwake nanga
 makwar mimar ahero
 range makwar.
 
 ##
-Bang’e ka adhi nindo,
+Bang'e ka adhi nindo,
 adhi kod Azizi kendo
 apiele e batha.
 

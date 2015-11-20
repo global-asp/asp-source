@@ -5,23 +5,23 @@ Enkumbi yali nyiimpi
 nnyo.
 
 ##
-Omulyango gw’ali
+Omulyango gw'ali
 wansi nnyo.
 
 ##
-Ekitanda ky’ali kimpi
+Ekitanda ky'ali kimpi
 nnyo.
 
 ##
-Egaali y’ali ntono nnyo.
+Egaali y'ali ntono nnyo.
 
 ##
-Omusajja y’ali
+Omusajja y'ali
 muwanvu nnyo!
 
 ##
 Yakola omuyini
-gw’ekumbi omuwanvu.
+gw'ekumbi omuwanvu.
 
 ##
 Yakola omulyango
@@ -38,12 +38,12 @@ ennyo.
 ##
 Yatuula nga ku ntebbe
 empanvu ennyo.
-Yalya nga n’ewuuma
+Yalya nga n'ewuuma
 empanvu ennyo.
 
 ##
 Yaleka enyumba ye,
-n’aberanga mu kibira
+n'aberanga mu kibira
 ekinene.
 Yawangaala emyaka
 mingi.

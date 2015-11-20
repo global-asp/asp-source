@@ -44,7 +44,7 @@ elitsha."
 
 ##
 * License: [CC-BY]
-* Text: Tom Sabwa and Children’s Development Center
+* Text: Tom Sabwa, Children's Development Center
 at Masese
 * Illustration: Zablon Alex Nguku
 * Translation: Nokuthula Bernelee Dyonase

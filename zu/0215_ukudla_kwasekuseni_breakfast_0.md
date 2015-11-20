@@ -31,7 +31,7 @@ sithanda amagwinya.
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Cathy Feek
-* Translation: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Translation: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Language: zu

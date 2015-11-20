@@ -1,4 +1,4 @@
-# Enffa y’ensekere
+# Enffa y'ensekere
 
 ##
 Edda ennyo, waaliwo
@@ -22,13 +22,13 @@ eddoboozi eribalamusa.
 ##
 Eddoboozi lyagamba, "Ndi
 nsekere. Musaanukule ensuwa
-muly’emmere. Musaanukule
-n’akasuumbi munywe omubisi."
+muly'emmere. Musaanukule
+n'akasuumbi munywe omubisi."
 
 ##
 Oluvannyuma ensekere
-n’eyambala eddiba lyayo,
-n’efuluma.
+n'eyambala eddiba lyayo,
+n'efuluma.
 
 ##
 Abavubuka baalya, ne banywa
@@ -47,7 +47,7 @@ okuddayo batte ensekere.
 Baddayo mu nnyumba ne batta
 ensekere.
 Amangu ddala ensekere yafa,
-n’ennymba n’esaanawo!
+n'ennymba n'esaanawo!
 Beesanga bali mu kyangaala.
 
 ##

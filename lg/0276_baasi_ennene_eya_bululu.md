@@ -109,7 +109,7 @@ neyolekera ekibuga.
 ##
 “Where is the big
 blue bus?” asked
-Ebei’s mother.
+Ebei's mother.
 “It broke down,”
 replied the driver.
 “We are fixing it.
@@ -127,5 +127,5 @@ mu kibuga.
 * License: [CC-BY]
 * Text: Mecelin Kakoro
 * Illustration: Mango Tree
-* Translation: Fatma Baraka and Emongot John
+* Translation: Fatma Baraka, Emongot John
 * Language: lg

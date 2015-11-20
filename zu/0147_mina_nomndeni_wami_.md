@@ -51,7 +51,7 @@ ngokukhulu ukujabula!
 
 ##
 * License: [CC-BY]
-* Text: Waako Joshua and Cornelius Gulere
+* Text: Waako Joshua, Cornelius Gulere
 * Illustration: Wiehan de Jager
 * Translation: Zimbili Dlamini
 * Language: zu

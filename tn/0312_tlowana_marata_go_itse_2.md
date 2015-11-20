@@ -119,7 +119,7 @@ tse di naleng le mosola.
 
 ##
 * License: [CC-BY]
-* Text: Judith Baker and Lorato Trok
+* Text: Judith Baker, Lorato Trok
 * Illustration: Wiehan de Jager
 * Translation: Atteridgeville pilot teachers
 * Language: tn

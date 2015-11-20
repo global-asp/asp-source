@@ -18,7 +18,7 @@ ebomvu.
 
 ##
 Kukho ilanga elibomvu
-entla kotat’omkhulu.
+entla kotat'omkhulu.
 
 ##
 Kukho isithuthuthu

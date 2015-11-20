@@ -34,7 +34,7 @@ umama kaTselane. “Nantsi ingoma
 endiza kuyicula:
 
 ##
-“Tselane mntwan’am! Tselane mntwan’am! Yiza phandle uzokutya
+“Tselane mntwan'am! Tselane mntwan'am! Yiza phandle uzokutya
 isidudu sakho. Yiza phandle uzokutya isidudu sakho.
 
 Tselane ngwanaka!
@@ -46,8 +46,8 @@ Tla o tseye bogobe o je!”
 Ngentsasa elandelayo umama
 kaTselane waza endlwini ezisele
 uTselane ukutya kwakhe. Waqalisa
-ukucula: Tselane mntwan’am!
-Tselane mntwan’am! Yiza phandle
+ukucula: Tselane mntwan'am!
+Tselane mntwan'am! Yiza phandle
 uzokutya isidudu sakho! Yiza
 phandle uzokutya isidudu sakho.
 UTselane waluvula ucango waza
@@ -105,8 +105,8 @@ elishushu.
 ##
 Isigebenga saqalisa ukuvuma ukuze
 sive ukuba ilizwi laso litshintshile
-na. “Tselane mntwan’am! Tselane
-mntwan’am! Yiza phandle uzokutya
+na. “Tselane mntwan'am! Tselane
+mntwan'am! Yiza phandle uzokutya
 isidudu sakho! Yiza phandle
 uzokutya isidudu sakho. Saxhuma
 luvuyo sakuva ilizwi laso livakala
@@ -116,7 +116,7 @@ kaTselane!
 ##
 Kwakusasa kakhulu ngemini elandelayo, isigebenga saya kwindlu
 kaTselane, Sakufika emnyangweni wendlu, saqalisa ukucula:
-Tselane mntwan’am! Tselane mntwan’am! Yiza phandle uzokutya
+Tselane mntwan'am! Tselane mntwan'am! Yiza phandle uzokutya
 isidudu sakho! Yiza phandle uzokutya isidudu sakho.
 Tselane ngwanaka!
 Tselane ngwanaka!

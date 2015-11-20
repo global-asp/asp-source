@@ -34,7 +34,7 @@ amagulu ameka?
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Sandra McDougall
 * Translation: Rebecca Kuteesa
 * Language: lg

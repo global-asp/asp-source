@@ -48,5 +48,5 @@ kgauswi le baagišani ba gagwe.
 * License: [CC-BY]
 * Text: Carlos Kanembera
 * Illustration: Trevor Kellog
-* Translation: Little Zebra Books and Phala Gladys
+* Translation: Little Zebra Books, Phala Gladys
 * Language: nso

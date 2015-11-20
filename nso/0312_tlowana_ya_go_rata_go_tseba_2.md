@@ -131,7 +131,7 @@ tša go ba le mohola.
 
 ##
 * License: [CC-BY]
-* Text: Judith Baker and Lorato Trok
+* Text: Judith Baker, Lorato Trok
 * Illustration: Wiehan de Jager
 * Translation: Atteridgeville pilot teachers
 * Language: nso

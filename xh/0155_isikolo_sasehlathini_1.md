@@ -108,7 +108,7 @@ Kwakungekho nomnye eklasini.
 
 ##
 * License: [CC-BY]
-* Text: Madhav Chavan and Meera Tendolkar
+* Text: Madhav Chavan, Meera Tendolkar
 * Illustration: Ketan Raut
 * Translation: Ntombizodwa Gxowa-Dlayedwa
 * Language: xh

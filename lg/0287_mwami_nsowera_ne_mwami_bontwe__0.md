@@ -14,8 +14,8 @@ bagenda okutambulako
 bombi.
 
 ##
-Bweb’atuuka ku
-lubalama lw’omugga,
+Bweb'atuuka ku
+lubalama lw'omugga,
 ne batandika
 okukaayana bokka na
 bokka nti;
@@ -26,20 +26,20 @@ atasobola!”
 
 ##
 Mw. Nsowera
-n’amugamba nti; “kale
+n'amugamba nti; “kale
 buuka!”
 Ko Mw. Bontwe nti
-“nedda, gw’oba osooka
+“nedda, gw'oba osooka
 okubuuka”
 Awo Mw. Nsowera
-n’abuuka omugga.
+n'abuuka omugga.
 
 ##
 Ye Mw. Bontwe bwe
 yabuuka yagwa bugwi
 mu mugga. Era,
-olw’obunene
-bw’omutwe gwe;
+olw'obunene
+bw'omutwe gwe;
 yatandika okubira mu
 mugga.
 
@@ -47,18 +47,18 @@ mugga.
 Ye Mw. Bontwe bwe
 yabuuka yagwa bugwi
 mu mugga. Era,
-olw’obunene
-bw’omutwe gwe;
+olw'obunene
+bw'omutwe gwe;
 yatandika okubira mu
 mugga.
 
 ##
-Mw. Nsowera n’asekka
+Mw. Nsowera n'asekka
 nnyo nti “ha ha
 haaaaa!” yasekka nnyo
 era okukakana nga
 omumwa gwe
-guyulis’emu bibiri
+guyulis'emu bibiri
 okuva kuluda olumu
 paka ku lulala!
 

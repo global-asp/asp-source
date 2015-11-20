@@ -42,7 +42,7 @@ Ba ile ba hwetša koko, Selaelo,
 a dutše legogong tlase ga
 mohlare.
 Ka Sepedi, “Selaelo” ke gore,
-‘ngwana wa mafelelo’.
+‘ngwana wa mafelelo'.
 
 ##
 O ile a amogela baeng ba

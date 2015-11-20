@@ -80,5 +80,5 @@
 * License: [CC-BY]
 * Text: Kanyiva Sandi
 * Illustration: Benjamin Mitchley
-* Translation: ከድር ኢብራሂም and ፋሲካ ምንዳ
+* Translation: ከድር ኢብራሂም, ፋሲካ ምንዳ
 * Language: am

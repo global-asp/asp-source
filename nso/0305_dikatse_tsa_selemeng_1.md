@@ -101,7 +101,7 @@ Le dimpša tše kae?
 
 ##
 * License: [CC-BY-NC]
-* Text: Khothatso Ranoosi and Marion Drew
+* Text: Khothatso Ranoosi, Marion Drew
 * Illustration: Jesse Breytenbach
 * Translation: Motlhago Sara Mohale
 * Language: nso

@@ -167,5 +167,5 @@ lwezinyosi.
 * License: [CC-BY]
 * Text: South African Folktale
 * Illustration: Jemma Kahn
-* Translation: Phumy Zikode and Zimbili Dlamini
+* Translation: Phumy Zikode, Zimbili Dlamini
 * Language: zu

@@ -23,7 +23,7 @@ Mile ti ni ma ndre ni ku.
 
 ##
 Ma ndaa eri pari jo dria
-fa o’bazu di alea, te ma
+fa o'bazu di alea, te ma
 esu eri alenia ku.
 
 ##
@@ -35,7 +35,7 @@ ni eri pari dria alea ku.
 
 ##
 * License: [CC-BY]
-* Text: Meera Tendolkar and Madhav Chavan
+* Text: Meera Tendolkar, Madhav Chavan
 * Illustration: Rijuta Ghate
 * Translation: Alice Ojobiru
 * Language: lgg

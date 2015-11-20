@@ -9,7 +9,7 @@ Aria su ‘diyi ma pa yi
 siya?
 
 ##
-Robi su ‘diyi ma o’yu yi
+Robi su ‘diyi ma o'yu yi
 si ya?
 
 ##
@@ -21,7 +21,7 @@ Ocoo aziri ‘diyi ma bi yi
 si ya?
 
 ##
-Oyoo na ‘diyi ma so’bi
+Oyoo na ‘diyi ma so'bi
 yi si ya?
 
 ##
@@ -34,7 +34,7 @@ ya?
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Sandra McDougall
 * Translation: Dravuru Monica
 * Language: lgg

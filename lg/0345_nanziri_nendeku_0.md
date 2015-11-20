@@ -1,4 +1,4 @@
-# Nanziri n’endeku
+# Nanziri n'endeku
 
 ##
 Nanziri yabeeranga ne bakadde be

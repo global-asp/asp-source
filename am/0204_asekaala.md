@@ -80,7 +80,6 @@
 ##
 * License: [CC-BY]
 * Text: Alice Kapolondo
-* Illustration: Catherine Groenewald, Microsoft Clip Art and
-Wiehan de Jager
+* Illustration: Catherine Groenewald, Microsoft Clip Art, Wiehan de Jager
 * Translation: ዳዊት ግርማ
 * Language: am

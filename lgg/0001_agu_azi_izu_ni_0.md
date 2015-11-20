@@ -1,7 +1,7 @@
 # Agu azi izu ni
 
 ##
-E’bu ndra erini alia tu.
+E'bu ndra erini alia tu.
 
 ##
 Jotile ndra erini ele tu.
@@ -17,7 +17,7 @@ Gari ndra erini gaa tu.
 Agu nde zo ndra tu.
 
 ##
-Nga di ndra ima e’bu
+Nga di ndra ima e'bu
 abe ede izu.
 
 ##
@@ -35,9 +35,9 @@ Ri enya nya kabele izu
 ni si.
 
 ##
-Ku I vile akuri ra, mu a’a
+Ku I vile akuri ra, mu a'a
 oce ambu ni ma talaa.
-A’a di idri ru eli izu .
+A'a di idri ru eli izu .
 
 ##
 * License: [CC-BY]

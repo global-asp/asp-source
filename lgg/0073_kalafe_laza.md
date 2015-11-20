@@ -16,7 +16,7 @@ yi mu yi mvuria.
 
 ##
 Odrukudru aziri azini
-e’bi aro yi yi alia.
+e'bi aro yi yi alia.
 
 ##
 Bure oromi yi mu yi
@@ -32,7 +32,7 @@ yi mvuza be drile ni?
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Gay Galsworthy
 * Translation: Doris Maandebo
 * Language: lgg

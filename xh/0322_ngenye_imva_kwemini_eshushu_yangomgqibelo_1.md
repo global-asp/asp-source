@@ -17,11 +17,11 @@ singaqubhi emlanjeni,” watsho
 uBontle.
 
 ##
-“Asiz’ukuqubha”, waphendula
+“Asiz'ukuqubha”, waphendula
 uLerato.
 “Siza kudlala nje emthunzini
 ecaleni kwamanzi.”
-‘Kodwa ukudlala ‘ulibeke’
+‘Kodwa ukudlala ‘ulibeke'
 ngumsebenzi obilisayo, nokuba
 uphantsi kwemithi ecaleni
 komlambo.
@@ -84,7 +84,7 @@ babungaveli elangeni.
 
 ##
 * License: [CC-BY]
-* Text: Nombulelo Thabane and Tessa Welch
+* Text: Nombulelo Thabane, Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Ntombizodwa Gxowa-Dlayedwa
 * Language: xh

@@ -20,9 +20,9 @@ mpita mu bisubi.
 ##
 … okutuuka bwe yagwa
 ku muti omukalu.
-Ne nziramu n’engikuba.
+Ne nziramu n'engikuba.
 Ku mulundi guno
-n’egwa wansi ku ttaka.
+n'egwa wansi ku ttaka.
 
 ##
 Ne ngirondawo!
@@ -37,16 +37,16 @@ nga mmuwadde
 eŋŋaaŋa.
 
 ##
-Omutwe gw’eŋaaŋaa
+Omutwe gw'eŋaaŋaa
 gwali munene nnyo nga
 gukaluba okukirako
 ejjambiya oba ekiso.
 
 ##
-Ekinyonyi ekyo ky’ali
+Ekinyonyi ekyo ky'ali
 kisava nnyo, nga
-n’amasavu g’akyo
-gakirako ku g’endiga.
+n'amasavu g'akyo
+gakirako ku g'endiga.
 Ggwe wamma nga
 kisikiriza okulya!
 
@@ -58,7 +58,7 @@ eŋŋaaŋa ziwummulira
 ku matabi g'emiti
 amakalu.
 Omuntu wa ddembe
-okulya ye ky’ayagala.
+okulya ye ky'ayagala.
 Ky'ova olaba nga
 Ssegaanya alya
 eŋŋaaŋa.

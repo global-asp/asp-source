@@ -24,7 +24,7 @@ Lerato. “Re tla tshameka fela
 mo moriting fa thoko le noka.”
 
 ##
-Le fa go le jalo, ‘dibeke’ ke
+Le fa go le jalo, ‘dibeke' ke
 motshameko o o gotetsang, le
 fa o ka nna mo tlase ga ditlhare
 kana mo thoko le noka.
@@ -85,7 +85,7 @@ sa gotela ka ntlha ya letsatsi.
 
 ##
 * License: [CC-BY]
-* Text: Nombulelo Thabane and Tessa Welch
+* Text: Nombulelo Thabane, Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Lorato Trok
 * Language: tn

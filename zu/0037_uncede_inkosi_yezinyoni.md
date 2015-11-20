@@ -12,22 +12,22 @@ ongaba inkosi?
 
 ##
 “UKhozi uqinile unaso
-nesakhiwo sobukhosi.’’ Kusho
+nesakhiwo sobukhosi.'' Kusho
 enye inyoni. “Cha ngeke uKhozi
 akanaso isicoco. Futhi uma
-ememeza akazwakali kahle.’’
+ememeza akazwakali kahle.''
 “Kuncono Intshe ngoba inkulu,
 uma ibhonga izwakala njenga
-ne bhubesi.’’ Kusho enye inyoni.
+ne bhubesi.'' Kusho enye inyoni.
 “Cha ngeke akakakwazi
 ukundiza, inkosi yezinyoni
 kumele ikwazi ukundiza.”
 
 ##
-“Mina ngingaba inkosi,’’ kusho
+“Mina ngingaba inkosi,'' kusho
 UPikoko edlalisa isisila sakhe.
-“Ngimuhle kabi’’
-“Kodwa uyaziqhenya,’’ kusho
+“Ngimuhle kabi''
+“Kodwa uyaziqhenya,'' kusho
 uSikhova. “Mina nginamehlo
 amakhulu kunazo zonke
 izinyoni. Ngingaba inkosi.” “Cha
@@ -61,7 +61,7 @@ eduze kwelanga.
 ##
 Esandizela phezulu
 uLinqe,kwezawakala ememeza
-ethi “Ngiphezulu ngiyinkosi! ’’
+ethi “Ngiphezulu ngiyinkosi! ''
 
 ##
 Khona manjalo phezu kwakhe
@@ -87,7 +87,7 @@ Kodwa ngaphansi kwephiko
 lakhe kwakusacashe uNcede.
 Waphuma uNcede, "Tink, tink!
 Tink, tink! Yimina inyoni
-encane, ngiyinkosi.’’ Kodwa
+encane, ngiyinkosi.'' Kodwa
 uLiqe wabe ekhathele ukuba
 wayesangandizela phezulu.
 
@@ -111,7 +111,7 @@ wenyoka.
 Izinyoni zathi kuSikhova,” Wena
 Skhova ngoba unamehlo
 amakhulu, qapha uNcede
-umbambe uma ephuma.’’
+umbambe uma ephuma.''
 Ngempela uSikhova wahlala
 phambi komgodi waqapha.
 

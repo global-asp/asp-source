@@ -95,5 +95,5 @@ wayesehambile.
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
-* Translation: Khadija Mohamed and Willie
+* Translation: Khadija Mohamed, Willie
 * Language: zu

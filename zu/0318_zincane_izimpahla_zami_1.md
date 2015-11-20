@@ -46,6 +46,6 @@ kusho uThandi.
 * License: [CC-BY-NC]
 * Text: Media Matters
 * Illustration: Sandy Lightly
-* Translation: Thandi Khumalo and Nolitha Bikitsha
+* Translation: Thandi Khumalo, Nolitha Bikitsha
 noSithembile Masuku
 * Language: zu

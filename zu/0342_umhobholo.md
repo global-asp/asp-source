@@ -56,5 +56,5 @@ ngokwenzeke kuVusi?
 * License: [CC-BY]
 * Text: Adelheid Marie Bwire
 * Illustration: Melany Pietersen
-* Adaptation: Nomasonto Sithole and Cynthia Nxele
+* Adaptation: Nomasonto Sithole, Cynthia Nxele
 * Language: zu

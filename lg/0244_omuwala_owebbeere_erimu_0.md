@@ -1,4 +1,4 @@
-# Omuwala ow’ebbeere erimu
+# Omuwala ow'ebbeere erimu
 
 ##
 Edda ennyo waaliwo omusajja
@@ -31,7 +31,7 @@ n'okuzibula ng'ebbeere liri ku
 ttaka.
 
 ##
-N’ayanguwa okudda mu kibira
+N'ayanguwa okudda mu kibira
 we yalese kabiite we omupya.
 Wabula omukazi teyaliiwo we
 yamuleka. N'amukoowoola nnyo

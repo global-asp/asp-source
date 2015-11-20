@@ -52,7 +52,7 @@ erobo erisha.
 
 ##
 * License: [CC-BY]
-* Text: Tom Sabwa and Children’s Development Center at Masese
+* Text: Tom Sabwa, Children's Development Center at Masese
 * Illustration: Zablon Alex Nguku
 * Translation: Kizza Mathias (Kabubbu Community Primary School)
 * Language: nyn

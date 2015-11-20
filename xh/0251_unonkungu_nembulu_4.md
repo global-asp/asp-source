@@ -205,7 +205,7 @@ Yabasisiphelo sebali.
 
 ##
 * License: [CC-BY]
-* Text: Alan Kenyon and Viv Kenyon
+* Text: Alan Kenyon, Viv Kenyon
 * Illustration: Wiehan de Jager
 * Translation: Ntombizodwa Gxowa-Dlayedwa
 * Language: xh

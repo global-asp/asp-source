@@ -1,4 +1,4 @@
-# Mulongo n’Empisi
+# Mulongo n'Empisi
 
 ##
 Waaliwo omuwala eyayitibwa
@@ -22,7 +22,7 @@ Naye mikwano gye baali
 tebaagala kulinda.
 
 ##
-Mulongo n’abagamba nti, "Kale
+Mulongo n'abagamba nti, "Kale
 mugende nja kubasanga mu
 kibira!"
 N'adduka mangu ku luzzi

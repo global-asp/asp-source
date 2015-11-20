@@ -48,7 +48,7 @@ easily.
 
 Nyumirwa okuwandiika
 ennukuta ennene
-z’ensobola okuzisoma
+z'ensobola okuzisoma
 obulungi.
 
 ##

@@ -206,5 +206,5 @@ ezigeziwe
 * License: [CC-BY]
 * Text: Marion Drew
 * Illustration: Wiehan de Jager
-* Translation: Marion Drew and Phumy Zikode
+* Translation: Marion Drew, Phumy Zikode
 * Language: zu

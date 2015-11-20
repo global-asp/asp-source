@@ -87,7 +87,7 @@ ilanga elalisifudumezile.
 Ngomunye umGqibelo ntambama
 kushisa
 * License: [CC-BY]
-* Text: Nombulelo Thabane and Tessa Welch
+* Text: Nombulelo Thabane, Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Fikile Khuboni
 * Language: zu

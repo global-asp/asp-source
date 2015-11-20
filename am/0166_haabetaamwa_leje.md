@@ -96,5 +96,5 @@
 * License: [CC-BY]
 * Text: Salaama Wanale
 * Illustration: Mango Tree
-* Translation: Salaama Wanale and ፋሲካ ምንዳ
+* Translation: Salaama Wanale, ፋሲካ ምንዳ
 * Language: am

@@ -50,7 +50,7 @@ boitumelo jo bogolo!
 
 ##
 * License: [CC-BY]
-* Text: Waako Joshua and Cornelius Gulere
+* Text: Waako Joshua, Cornelius Gulere
 * Illustration: Wiehan de Jager
 * Translation: Lorato Trok
 * Language: tn

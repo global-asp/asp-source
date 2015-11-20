@@ -1,4 +1,4 @@
-# Tingi n’ente
+# Tingi n'ente
 
 ##
 Tingi yabeeranga
@@ -29,13 +29,13 @@ baakomawo.
 
 ##
 Jjajja wa Tingi
-n’amukweka mu
+n'amukweka mu
 bikoola.
 
 ##
 Omu ku baserukale
-n’amulinnyako, naye
-Tingi n’asirika.
+n'amulinnyako, naye
+Tingi n'asirika.
 
 ##
 Nga wonna

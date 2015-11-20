@@ -67,7 +67,7 @@ nguMlilo. Wavuya uMvundla xa ubona uMvubu esitshwa nguMlilo, ekhwaza esithi,
 
 ##
 * License: [CC-BY]
-* Text: Basilio Gimo and David Ker
+* Text: Basilio Gimo, David Ker
 * Illustration: Carol Liddiment
 * Translation: Little Zebra Books
 * Language: xh
