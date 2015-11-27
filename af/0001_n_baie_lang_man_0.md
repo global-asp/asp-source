@@ -50,4 +50,4 @@ vir baie jare gewoon.
 * Text: Cornelius Gulere
 * Illustration: Catherine Groenewald
 * Translation: Anelda du Plessis
-* Language: Afrikaans
+* Language: af

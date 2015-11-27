@@ -1,6 +1,4 @@
-# Lusamba lwa
-Kakayi
-lwaburaawa
+# Lusamba lwa Kakayi lwaburaawa
 
 ##
 Inga Kakayi asiili
@@ -13,7 +11,6 @@ uwamunabila lusamba
 luno khukhwama mu
 malaala.
 
-
 ##
 Lusamba lwabamu
 kamakondo
@@ -25,7 +22,6 @@ tsitsasye tsyesi maayi
 wa Kakayi aaba natso
 mutsu.
 
-
 ##
 Siifwo isi Kakayi
 amenyatsakamu syaba
@@ -36,7 +32,6 @@ Syabamu bibindu
 biluma bikali nga
 tsitsukhi,kimibubi ni
 tsindemu.
-
 
 Ne Kakayi saaba
 mubukosii
@@ -50,13 +45,11 @@ lwaburawa lwamuyeeta
 khukhwikhinga bukosi
 bwosi”
 
-
 ##
 Kakayi aaba umukhana
 uwekamakesi.Afumbula
 isi isebele iye ahambi
 isi ili.
-
 
 ##
 Nalundi aafumbula itsu
@@ -65,7 +58,6 @@ Atsyatsyaka ‘yo
 khunywa kamabeele
 ke’ingamiya ni
 kukhuwe.
-
 
 ##
 Lutwela Kakayi saaba
@@ -76,7 +68,6 @@ ta.
 Atibila mu Mutsikingi
 ,Kakayi aarya naabi.
 
-
 ##
 Kakayi ikhala hasi
 mikusaala walinda
@@ -85,7 +76,6 @@ Khangu akho liilo
 lyamuhamba ni awene
 awo warakikha
 khuroora.
-
 
 ##
 
@@ -114,14 +104,12 @@ khekamoya kamawuusi
 khitungelesele
 khulusaca angaki we.
 
-
 ##
 Kakayi nga inyukha
 mungaki,Khanywinywi
 ikha khapakisa tsindaha
 khamurangilila itsila.
 Kakayi wakhalondelela.
-
 
 ##
 Kakayi woola akhundu
@@ -131,7 +119,6 @@ Khanywinywi khakwisa
 khamenya khe lusamba
 khakhafwana nga lwa
 Kakayi.
-
 
 ##
 Nga niinama khubukula
@@ -144,7 +131,6 @@ isebele isi
 batahatsakamu
 kametsi.
 
-
 ##
 Be mungo mwa Kakayi
 bimba ,nalundi bakhina
@@ -155,7 +141,6 @@ ke khukhwakaniila
 Kakayi nga akobola
 mulamu.
 
-
 ##
 Kakayi ikhala
 khulusamba lwewe
@@ -163,10 +148,9 @@ lwaburaawa nga ikhoya
 nalundi ngali khulya
 inyama intsyosye.
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Fabian Wakholi
-* Language: Lumasaaba
+* Language: myx

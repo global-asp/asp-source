@@ -1,6 +1,4 @@
-# Wanaasi,
-bakikhoolo ni
-tsikweena
+# Wanaasi, bakikhoolo ni tsikweena
 
 ##
 Aabawo lutweela, yabawo intsala
@@ -35,7 +33,6 @@ mwanjeetakho? Ingana
 khuufunakho lilyaanda lye kumulilo,
 intsye niyeetise khukhwaasa
 kumulilo.”
-
 
 ##
 
@@ -162,7 +159,6 @@ ikhaababoolele luukano
 luluwaamba khu bulamu bwase
 lwoosi.”
 
-
 ##
 Kumutikhinyi kukweelakho nga
 antsye akhwentsuukha, Wanaasi
@@ -175,7 +171,6 @@ khukhunjeetakho khuukanikha
 luukano lwase. Manya unyala
 wanjeetakho nga babaramile
 bashikona?”
-
 
 ##
 Nga ikweena sikanakho bakinyusa
@@ -205,10 +200,9 @@ mu ngaaki, ni tsimoni tsayo
 tsitsafwaanana ni matoongo khu
 ngaaki khwe kameetsi.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Milton Eridad Shissa
-* Language: Lumasaaba
+* Language: myx

@@ -1,11 +1,9 @@
-# Mukhwana ni
-Namono
+# Mukhwana ni Namono
 
 ##
 Aabawo khaalekho, umwaana wesiinde isi balaanga bari
 Mukhwaana. Aaba n’umukooko weewe umuloongo isi balaanga
 bari Namono.
-
 
 ##
 
@@ -16,7 +14,6 @@ Baapikha kimikhomwa, naluundi babaawatsaka bubuuki
 kumukyululu busa nga nibyo biilyo byaabwe, kumuluundi
 mutweela luunakhu.
 Isho shaakila baatitukhayo.
-
 
 ##
 
@@ -31,7 +28,6 @@ mwifuluma muno, nga ise natsiile khuyiima tsisaanyi, luundi
 ukhateekhakho inyama ta. Kiminani kikana naabi isilikakha ye
 nyama.”
 
-
 ##
 
 ##
@@ -42,7 +38,6 @@ Ne n’aaba nga wembiyisile lifuluma, eemba kumweenya ari,
 Intsikulilewo lifuluma iliili.
 Nakholo anyala khukhwiinjilamo.
 Lilikho tsinuma tsibili.”
-
 
 ##
 
@@ -56,7 +51,6 @@ umulekhuule naluundi nga umusangaafu.
 Wambaasa ari, “Manya oosi ano mbaawo kiminani ta. Ari manya
 khootsa weefwe aaloma ari, kiminani kiliwo khuukhuriisaka busa.”
 
-
 ##
 
 ##
@@ -67,7 +61,6 @@ bweela.
 Kila elomela umweene ari, “Ishihandalasa ndi, sikene ibewo ilomo
 yoosi ta, nga nareere inyama ifwiiti iri mu mulilo. Kane shibe
 shiilayi khuulyakho inyama intsoshe.”
-
 
 ##
 
@@ -85,7 +78,6 @@ Namono waamwiilamo ari,
 Mukhwaana aaba waaluwile naabi, waalekha khukhaabisana ta,
 bekhala aasi khuulya inyama tsana.
 
-
 ##
 
 ##
@@ -101,7 +93,6 @@ Namono elamo ari, “Taawe! Iwe s’uuli waandayase ta. Likono
 lyoowo shilili nga lilyeewe ta.”
 Aryo wewulila nga ali buulayi mwifuluma.
 
-
 ##
 
 ##
@@ -114,7 +105,6 @@ Lilikho tsinuma tsibili.”
 Likono ilyo lyaawulilikhana nga lya waandaaye, nashiryo
 wenyukha waatsya wekulawo lulwiitsi.
 
-
 ##
 
 ##
@@ -125,7 +115,6 @@ Ne shonyene ndi Namono aanyalisa khuuyoolakho likokhe
 khukhwaama mu mayika.
 Nga ni kwaba kwaamusutile kutsya, naye waatsya nga alakasaka
 likokhe ilyo aha ni naawo, khu mukhoosi kweesi baatsilakho.
-
 
 ##
 
@@ -138,7 +127,6 @@ weewe anga s’aaliwo ta...ne likokhe nga lyookesaane kumwaanda
 kukuutsya mu shisaali. Kila atsya nga waaloondilekho, nga
 aloondelela lukyele lwe likokhe, khukhwoola isi aabona kumulilo
 nga kuli aleeyikho ibweeni.
-
 
 ##
 
@@ -154,7 +142,6 @@ waan’gan’gasile uri s’ukane uwaambe khu wootswa yase
 yino ta.”
 Kuryo kwaakitembelesa, kwaakira mwisari lyakwo.
 
-
 ##
 
 ##
@@ -163,7 +150,6 @@ lwe wootswa, umukooko weewe waapunukhamwo.
 Mukhwaana weesawo iwootswa yeewe iyitsuulemo intsukhi. Ne
 niye n’umukooko weewe, beebisa, baliinda babone shinaanu
 shishinabaloondakho.
-
 
 ##
 
@@ -180,7 +166,6 @@ Kila kukhookhela uwe siinde kuri,
 Ne shishaamamwo nisho shitweela
 sheene.
 
-
 ##
 
 ##
@@ -192,7 +177,6 @@ kamoolu, ni tsimoni. Tsimboola tsaakubofwaasa tsimoni,
 kwaasunikila mwisari lyoosi nga kuwooloola busa ni butsiina
 buukali.
 
-
 ##
 
 ##
@@ -202,10 +186,9 @@ Kwekyela shitsikhi shishaakhila khuuba kumusiinga kwe ntsukhi.
 Imbuka indeeyi naabi yaabirawo, nga Mukhwaana ni Namono
 bataha bubuukhi buunulu naabi khukhwaama musiinga ukwo.
 
-
 ##
 * License: [CC-BY]
 * Text: South African Folktale
 * Illustration: Jemma Kahn
 * Translation: Cornelius Wekunya
-* Language: Lumasaaba
+* Language: myx

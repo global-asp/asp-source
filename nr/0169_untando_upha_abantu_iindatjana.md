@@ -1,6 +1,4 @@
-# UNtando upha
-abantu
-iindatjana
+# UNtando upha abantu iindatjana
 
 ##
 Ekadeni uZimu wesibhakabhaka
@@ -13,7 +11,6 @@ bebadanile.
 Babawa isiswebu esihlakaniphileko
 uNtando bona abasize.
 
-
 ##
 uNtando wakhupha ede irhara
 enamathelako, wayikhwela
@@ -24,7 +21,6 @@ Kodwana uZimu wamhleka uNtando
 athi, “Eh iindatjana lezi zidure
 khulu, angeze wakghona
 ukuzibhadela swebana.”
-
 
 ##
 “Zizokubiza malini iindatjana?”
@@ -37,7 +33,6 @@ unondovu otinyako, nenyoka
 engaginya umuntu aphelele.”
 Ahleka bewahlekisisa. Bekaqabanga
 bona iindatjana zakhe ziphephile.
-
 
 ##
 Yeke uNtando wehla ngerhara
@@ -53,7 +48,6 @@ ngemgodini wakhe. Yakwata
 yarhwabha emahlangothini
 womgodi beyabhalelwa kuphuma.
 
-
 ##
 “Iza ngikurhelebhe mnganami!”
 kwatjho uNtando. “Lala phezu
@@ -65,7 +59,6 @@ amdosela phezulu ezulwini kuZimu
 wesibhakabhaka.
 Kodwana uZimu wamhleka wathi,
 “Ziphi ezinye ezimbili?”
-
 
 ##
 Yeke uNtando wabuyela emhlabeni
@@ -80,7 +73,6 @@ sebhanana alibambela ehloko
 nakaqeda naye wazithela
 ngamanzi.
 
-
 ##
 Abizela ngaphandle unondovu, ”Yey
 nondovu! Iza uzokbona! Izulu
@@ -90,7 +82,6 @@ ningazokuba manzi."
 Abonondovu abazwani namanzi,
 boke baphelela ngerhabheni laka
 Ntando.
-
 
 ##
 uNtando wavala msinyana ngerhara
@@ -103,7 +94,6 @@ wesibhakabhaka.
 Kodwana uZimu wamane wathi,
 “Siphi sokugqina?” (Akhange ahleke
 nakancani).
-
 
 ##
 Yeke uNtando wabuyela emhlabeni.
@@ -119,7 +109,6 @@ lakuhlalakhona inyoka baphikisa.
 “Awa, alisilide!”
 “Iye, lide!”
 
-
 ##
 Kungasikade inyoka yavela yabuza
 bona kubangwani.
@@ -133,14 +122,12 @@ kutjho inyoka.
 ngiyinyoka ekulu! Lalisa itaka lakho
 duze nami simede."
 
-
 ##
 Yeke uNtando wenza njalo
 abophelela inyoka ngemivino
 etakeni bona iluleke.
 Uthe nakaqeda ukuyibopha
 uNtando wayisa inyoka ezulwini.
-
 
 ##
 uZimu kwakufuze avume ngombana
@@ -156,10 +143,9 @@ iinlwane nabantu.
 Iindatjana ngezokucocwa ingasi
 ukuvalelwa ebhokisini.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
-* Translation: Sifiso gumede and promise khoza
-* Language: isiNdebele
+* Translation: Sifiso gumede, promise khoza
+* Language: nr

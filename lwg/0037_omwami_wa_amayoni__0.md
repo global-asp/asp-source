@@ -1,5 +1,4 @@
-# Omwami wa
-Amayoni
+# Omwami wa Amayoni
 
 ##
 Khale lulia, amayoni kekhala
@@ -8,7 +7,6 @@ nende nabongo wako. Ngala
 abandu bali, nende tsisolo.
 Liyoni shina elikhoyele okhuba
 omwami?
-
 
 ##
 "Namunakha, Ikoko Yo Olale. Ali
@@ -58,7 +56,6 @@ babolera emioyo ekulu, ne bosi
 nibapurukha ekulu, ekulu,
 mwikuku.
 
-
 ##
 Liyoyo lia Misri liapurukha
 inyanga ndala yonyene, shilunji
@@ -73,12 +70,10 @@ Ne - Ingosia yefwila khulwe
 tsinyanga tsitaru tsiosi,
 niyichomire khuliuba.
 
-
 ##
 Ne Ingosia niyayula, "Nesie ouli
 ekulu okhushira. Nesie
 omwami."
-
 
 ##
 Ne yesundukha olwa yaulila
@@ -95,14 +90,12 @@ nikhafwetetesia. “Nesie owuli
 ekulu okhushira. Nesie
 omwami."
 
-
 ##
 Ingosia niyipurukha niyimeta
 khandi inyanga yindi
 niyininanga busa ekulu. "Nesie
 wuli ekulu okhushira koosi.
 Nesie omwami," niyayula.
-
 
 ##
 "Chirri, chirri, chirri! Nisie ouli
@@ -117,7 +110,6 @@ ilakhanyalile khandi
 okhupurukha okhusita imbeli
 tawe.
 
-
 ##
 Kario yekha asi, ne ninayo,
 Mulimba, yefisa busa mulubaa
@@ -128,14 +120,12 @@ ne nikasinyikha. Nikakhalinda
 busa, nikekasiye okhumanyula
 amoya koosi khumubili kwakho.
 
-
 ##
 Ne mubwangu bwakho,
 akhayoni akho khalola oburuma
 bwa kali ninabwo, ne nikhepiula
 mu bwina bweinzukha obwali
 obukhaya.
-
 
 ##
 " Kuyichichi ewe linda busa
@@ -144,7 +134,6 @@ kharula nokhatiila,”
 nikalachilisia liichichi.
 Okuyichichi nikutsia nikwikhala
 imberi wobwina.
-
 
 ##
 Ne omubasu kwali
@@ -155,7 +144,6 @@ Mulimba, Omupa Ndala,
 khalinga elwanyi, ne “z-zip,”
 nikhekhwesa nikhabwao.
 
-
 ##
 Liichichi liali netsisoni muno
 mbu lileshere akhayoni akhatiiti
@@ -165,13 +153,12 @@ mwonyene. Ne mushitere,
 kukona, kuleshe okhulolokha
 nende amayoni kandi.
 
-
 ##
 * License: [CC-BY]
 * Text: South African Folktale
 * Illustration: Wiehan de Jager
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg
 
 Adapted from a story in 'South
 African Folk-Tales', by James A.

@@ -21,4 +21,4 @@
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Rose Alungho
-* Language: Lunyole
+* Language: nuj

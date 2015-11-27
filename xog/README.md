@@ -2,7 +2,7 @@
 
 Story ID | Title | License
 -------- | ----- | -------
-0001 | [Omusaadha omuleeyi  einho](http://africanstorybook.org/stories/omusaadha-omuleeyi-einho) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0001 | [Omusaadha omuleeyi einho](http://africanstorybook.org/stories/omusaadha-omuleeyi-einho) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0003 | [Byambalo bya isomero](http://africanstorybook.org/stories/byambalo-bya-isomero) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0009 | [Eipuusi lyange lili gha?](http://africanstorybook.org/stories/eipuusi-lyange-lili-gha) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0030 | [Mpulira](http://africanstorybook.org/stories/mpulira) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)

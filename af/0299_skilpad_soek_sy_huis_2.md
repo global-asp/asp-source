@@ -102,5 +102,4 @@ Skilpad skrik so groot, hy kruip in sy dop. Dis warm en veilig daar.
 * License: [CC-BY]
 * Text: Maya Fowler
 * Illustration: Katrien Coetzer
-* Language: Afrikaans
-
+* Language: af

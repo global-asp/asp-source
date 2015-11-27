@@ -59,6 +59,6 @@ om van nog water ontslae te raak.
 ##
 * License: [CC-BY]
 * Text: Alice Inzikuru
-* Illustration: Alice Inzikuru and Robert McEwan
+* Illustration: Alice Inzikuru, Robert McEwan
 * Translation: Briania Doust
-* Language: Afrikaans
+* Language: af

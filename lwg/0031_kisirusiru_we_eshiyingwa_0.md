@@ -1,12 +1,10 @@
-# Kisirusiru, we
-Eshiyingwa
+# Kisirusiru, we Eshiyingwa
 
 ##
 Inyanga indi khale, yaliwo omulimi
 nende omukhasi we, abali nende
 omwana mulala omusiani welira
 mbu, Kisirusiru.
-
 
 ##
 Inyanga yindi, Kisirusiru lwayali
@@ -18,7 +16,6 @@ okhukula isindani yetse anabire
 lishati waliali nilirandushe.
 Yakula isindani ne nara mumufuko
 kwe lishati lie.
-
 
 ##
 Olwa yali nakalukhanga nango,
@@ -33,7 +30,6 @@ eshiali nishikholeshe.
 khulukaratasi”. “Yee mama,
 embulile,” Kisirusiru nakalusia.
 
-
 ##
 Inyanga yalondakho, musiani nabukula inyungu okhutsia
 okhwenda amatsi. Yetsulira elia nyina yali namuboolere,
@@ -46,7 +42,6 @@ Olwa yoola nango ,nyina yamuira kaala namwechesia, “Mwana
 wanje, Olundi notsia musebere, ochinjira inyungu khumurwe, ne
 kalatombokha tombokha tawe.”
 “Yee embulire mama,” Kisirusiru naboola.
-
 
 ##
 
@@ -82,7 +77,6 @@ khoyole bwangu.
 Paarakho shinga olwa inyama yali
 niyifwana olwa yola nango!
 
-
 ##
 Samwana yasinyikha okhushira ne
 namuboolera okhutsia
@@ -95,7 +89,6 @@ yokhuteekha, nibatsia ninako
 okhuchaka okhumbakha litaala
 liabu wabatsia.
 
-
 ##
 Bacheenda oluchendo oluraambi ne
 shibanyola wabombakha litaala
@@ -103,7 +96,6 @@ tawe.
 Eshiirima lwa shiatiira, balola mbu
 baniine khumusala bakone khu
 muliango kwabu.
-
 
 ##
 Olwa bali nibakhaniina busa
@@ -119,7 +111,6 @@ emindu echo obutinyu, ne
 nichilakasia asi buli eshindu,
 nichiirukha nichitsia.
 
-
 ##
 Kisirusiru nende nyina bekha asi
 womusala.
@@ -131,10 +122,9 @@ Banyoola abundu wokhumbakha
 inzu imbiakha bwangu, nibamenya
 nobusangali okhurula olwenolo.
 
-
 ##
 * License: [CC-BY]
 * Text: Cissy Kiwanuka Luyiga
 * Illustration: Catherine Groenewald
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

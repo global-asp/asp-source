@@ -101,7 +101,7 @@ the bird for saving his life too.
 ##
 * License: [CC-BY]
 * Text: Simon Ipoo
-* Illustration: Catherine Groenewald, Wiehan de Jager, Kathy Arbuckle, Rijuta Ghate and Jemma Kahn
+* Illustration: Catherine Groenewald, Wiehan de Jager, Kathy Arbuckle, Rijuta Ghate, Jemma Kahn
 * Adaptation: Simon Ipoo
 * Language: en
 

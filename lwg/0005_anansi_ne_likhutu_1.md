@@ -1,5 +1,4 @@
-# Anansi ne
-Likhutu
+# Anansi ne Likhutu
 
 ##
 Inyanga ndala, Olububi Anansi
@@ -8,7 +7,6 @@ mundalo ye.
 Kali amalayi nomuya okhushila. Kho
 yakasamba obulayi mumuliro ne
 niyekhala hasi okhukalia.
-
 
 ##
 Kho olwa Anansi yali niyenya okhuluma omunwa kwa
@@ -21,7 +19,6 @@ oluchendo olurambi muno, mana enjonyire muno
 khandi embulira inzala.”
 Anansi shiyali nende eshiakhola tawe, alali
 okhulikulira?
-
 
 ##
 Ne Anansi yali omwimani muno oulakhaliire
@@ -37,7 +34,6 @@ olwa yali nachenderekho oluchendo olurambi. Kho
 likhutu nilimoola nilitsia mumwalo okhusaaba
 amakhono, ne khandi nilimoola nilkalukha khumesa.
 
-
 ##
 Ne inyuma naye Anansi nachaka okhumira
 amapwoni bwangu bwangu.
@@ -49,7 +45,6 @@ Niwitsukhanira nyanga wabakho hambi nende inzu
 yanje, witsakho siesi ndakhukalusiria orio."
 Ne Likhutu nilichaka okhumoola nilikalukha nanzu
 walio.
-
 
 ##
 Shinga tsinyanga tsiabura, Anansi yachaka okhupara
@@ -65,7 +60,6 @@ witsire oliekho eshiakhulia shie ingolobe ninasi?”
 Nabaleka naye nakalusia ari, “Habwene, bwakhaba
 obulayi muno. Orio muno.” Ne yali nauliranga inzala
 niyimetekha.
-
 
 ##
 Kho Likhutu niliyiinikha mumatsi
@@ -83,7 +77,6 @@ Ne Likhutu liyiinikha, nilichaka
 okhulia amasafu kaliali nilichinjire
 khulwe shiakhulia shieingolobe.
 
-
 ##
 Anansi natema okhwiinikha
 okhutsia khulwalo lwo mwalo, ne ye
@@ -96,7 +89,6 @@ Yatema okhuruuchiramo, nateema
 okhwiyiinikha, ne shifiamukhonya
 tawe. Kho shiyanyala okhutsia
 okhulia eshiakhulia esho tawe.
-
 
 ##
 Olunyuma Anansi nanyoola liparo.
@@ -112,7 +104,6 @@ efiakhulia findi efinji efinulu.
 Omunwa kwa Anansi kwachaka
 okhwitsula amare.
 
-
 ##
 Ne olwa Anansi yayira omukhono
 okhutoolakho eshiakhulia shiali
@@ -126,7 +117,6 @@ ari, “Ne abwene toto. Likhutu,
 embarirenje shina?” Ne nafwalula
 likoti.
 
-
 ##
 Ne olwa amachina kamusitoyiinjia
 kamurulakho, yachiingukha bwangu
@@ -137,10 +127,9 @@ Anansi yenikha omurwe mumatsi
 natsiririra okhulenga Likhutu nililia
 efiakhulia efinulu efo fiosi.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

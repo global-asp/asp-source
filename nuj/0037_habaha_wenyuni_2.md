@@ -1,5 +1,4 @@
-# Habaha
-w’enyuni
+# Habaha w’enyuni
 
 ##
 Lulala ahale enyuni jaali
@@ -8,7 +7,6 @@ habaha hy'abaatu n'esolo.
 Jebuusa jimanye nyuni hiina
 eyaali n'esaana ohuba habaha
 waajo?
-
 
 ##
 Nga ŋabaŋo eyaleeta amagesi
@@ -44,7 +42,6 @@ woogu! Ewe otagiha
 hweŋenyuhira hiisi olu lyuba
 litula”.
 
-
 ##
 Nga wangewe bijitangaliha
 ohwola olu ŋabaŋo enyuni
@@ -56,7 +53,6 @@ waajo
 Enyuni josijosi nga jisiima
 ehiŋeego ehyo era nga
 jigululuha ni jirumba mwigulu.
-
 
 ##
 Nga mu ludaalo lulala Ejase
@@ -71,13 +67,11 @@ Aye mu ndaalo edatu ekwiye yo
 esega yaseyeeya ni yeyongera
 ŋamugulu nerumba eryuba.
 
-
 ##
 Eyo aŋale ŋamugulu enyuni
 jaŋulira esega ni yerangirira yiiti
 “Ndiise oli ŋamugulu aŋasinga,
 Ndiise habaha”.
-
 
 ##
 Coka ate ŋamugulu waayo
@@ -94,7 +88,6 @@ henadire mu mooya mu gubaŋa
 gw’esega yaseyeya ni naho
 n'eja mwigulu.
 
-
 ##
 Esega ni yaŋulira ng'eroma yiiti
 “Sonasinge!,” Nga yeyongera
@@ -107,7 +100,6 @@ Ng'aŋo yerangirira yiiti “Ndi
 ŋamugulu ohuhira enyuni eyindi
 yoosi. Ndiise habaha wenywe!”
 
-
 ##
 Aye nga nindi ahadyedyedye
 halomera mu lubaŋa haati
@@ -117,7 +109,6 @@ Ndiise habaha wuwo.”
 Esega olw’obudembi yaali
 sehiŋanga hweyongerayo
 n’ohugululuha n'eniina.
-
 
 ##
 Ng'aŋo esega yigululuha ni
@@ -129,14 +120,12 @@ ahadyedyedye. jahalindirira ni
 jetegehire ohuhahunyulaho
 amooya goosi-goosi.
 
-
 ##
 Aye ahayuni hano ahaali
 ahadidiri era ahajagujagu ni
 hafania ejahye ni
 jihasunguŋaliye hagululuha
 hesweka mwiroŋo ly’etemu.
-
 
 ##
 Ng'enyuni jiroma woogu jiiti:
@@ -145,7 +134,6 @@ huuma ŋeroŋo ni haba ni hatula
 ohaŋambe.” Nga woogu gehala
 ŋ’eroŋo ahuuma.
 
-
 ##
 Eryuba ni lyabasa ehyalo, nga
 woogu ero limweŋirira atagiha
@@ -153,7 +141,6 @@ hweŋenyuhira. Ahadyedyedye
 ni halengesa habona woogu
 naŋenyuha nga hapwanguha
 hatayo swe-e-e!
-
 
 ##
 Woogu ni gasisimuha
@@ -164,13 +151,12 @@ ohuŋwa hulwo aŋiima wiire
 woŋene. Mu muusi aba mwiro ni
 gehwehire hu nyuni jahye.
 
-
 ##
 * License: [CC-BY]
 * Text: South African Folktale
 * Illustration: Wiehan de Jager
 * Translation: Bukheye Mulongo Christopher
-* Language: Lunyole
+* Language: nuj
 
 Adapted from a story in 'South
 African Folk-Tales', by James A.

@@ -1,6 +1,4 @@
-# Wanaasi akabila
-babaandu
-tsingano
+# Wanaasi akabila babaandu tsingano
 
 ##
 Aabawo khaalekho, khaale naabi,
@@ -17,7 +15,6 @@ Babaandu bano baloombatsaka
 Wanaasi uwaba Nabubi we
 kamakyesi, khuubayeetakho.
 
-
 ##
 Wanaasi waakholayo khaabubi
 khaleeyi khakheene,
@@ -31,7 +28,6 @@ aloma ari “E Wanasi, tsingano tsino
 tsili tse buukusi bwe angaaki naabi.
 Iwe singene unyale khuutsisasulila
 ta.”
-
 
 ##
 Wanaasi waamureeba ari, “Tsingano
@@ -47,7 +43,6 @@ umubuufu.” Nyasaaye waatsekha...
 Waatsekha... Niye aambaasa ari
 mbaawo unyala woola khu ngano
 tseewe ta.
-
 
 ##
 Wanaasi weekha waakobola khu
@@ -65,7 +60,6 @@ ikhweeruraka khu ndulo khwe
 lilowo, bari irure ibulafu, ne nga
 sinyalisa ta.
 
-
 ##
 Wanaasi waakilomela ari, “Musaale,
 ise ingana khukhuyeeta! Kona aasi
@@ -80,7 +74,6 @@ Ne Nyasaaye waatsekha busa, nga
 aloma ari, “Ne bisolo bibiindi
 bibiramile bili eena?
 
-
 ##
 Wanaasi waakobolayo aasi khu
 shibala. Nga ambaasa isaambo isi
@@ -94,7 +87,6 @@ lye litoore, webiimbilila khu murwe.
 Waatsukhaka kameetsi kakaramile
 khu mubili kweewe kwoosi
 
-
 ##
 Kila alaangilisa kamafuu ari, “Inywe
 kamafuu! Yiitsa mubone! Bona ifula
@@ -107,7 +99,6 @@ khuunyilisibwa ni kameetsi ta. Isho
 shaakila kaapamburukha kaatsya
 kenjila mu muka ya Wanaasi.
 
-
 ##
 Lwanyuma Wanaasi waabowelela
 lububi imunwa we muka khaangu,
@@ -119,7 +110,6 @@ Nyasaaye waaloma busa ari, “Ne
 shisolo shishiramile shili eena?”
 Kwaluno, Nyasaaye s’aatsekha
 naabi nga makiboole ta.
-
 
 ##
 Kila akobola luundi khu shibala.
@@ -138,7 +128,6 @@ khuukhaandisana, nga baloma bari,
 “Kusakya nikwo kuuleeyi.” Taawe
 sikunyala ta. Taawe kufuura.”
 
-
 ##
 Khaangukho Kuuremu kwaarura
 ibulafu, kwaabareeba shiina shishiili
@@ -155,7 +144,6 @@ kuuremu kuboofu naabi! Ni mureere
 kuusokya kweenywe mukwaalise
 aambi ni nase, lwanyuma mupime.
 
-
 ##
 Wanaasi waakhola aryo. Kila
 alomela kuuremu ari, “ntsya
@@ -169,7 +157,6 @@ khuukwokesa isi Nyasaaye.
 Wanaasi waaloma ari, “Nyasaaye,
 ari ise naakholile sheesi ukanile.
 Ingana umbe tsingano tsase.”
-
 
 ##
 Aryo Wele we liikulu waaha Wanaasi
@@ -189,13 +176,12 @@ Tsingano tsili tse khuukabanana, ne
 sitsili tse khubiikha mu sanduukhu
 ta.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Milton Eridad Shissa
-* Language: Lumasaaba
+* Language: myx
 
 Read another version of this story
 at www.historyforkids.org/learn/

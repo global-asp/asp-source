@@ -33,6 +33,5 @@ We like to play with our friends.
 ##
 * License: [CC-BY]
 * Text: Wendy Parry
-* Illustration: Vusi Malindi, Mario Kart, Laura Libertore,
-Wiehan de Jager and Catherine Groenewald
+* Illustration: Vusi Malindi, Mario Kart, Laura Libertore, Wiehan de Jager, Catherine Groenewald
 * Language: en

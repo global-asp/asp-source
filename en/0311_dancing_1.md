@@ -8,7 +8,6 @@ I dance
 lonely,
 I dance
 
-
 when I am
 when I am sad,
 when I am
@@ -43,6 +42,6 @@ good,' they'll say.”
 
 ##
 * License: [CC-BY]
-* Text: Mary Nabire and Tessa Welch
+* Text: Mary Nabire, Tessa Welch
 * Illustration: Catherine Groenewald
 * Language: en

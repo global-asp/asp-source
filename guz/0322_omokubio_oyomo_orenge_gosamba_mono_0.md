@@ -1,8 +1,4 @@
-# Omokubio
-oyomo Orenge
-gosamba mono
-Nombulelo Thabane and
-Tessa Welch
+# Omokubio oyomo Orenge gosamba mono
 
 ##
 Nigo riberera riarenge igoro
@@ -15,7 +11,6 @@ soka isiko mochiese” Mme
 agatotebia.
 “Timbatageti igaa ase amagoro
 ane”
-
 
 ##
 Togatama isiko korwa nyomba.
@@ -30,7 +25,6 @@ Ntori gochia goaka ontimbu,”
 Lerato akairaneria. “Nigo tu
 togochia gochiesa ase ekeiriri
 ang’e n’amache.”
-
 
 ##
 Gotatiga rende gose omanyete
@@ -48,7 +42,6 @@ nechisikati.
 Rakini tokagenderera koigwa
 riberera.
 
-
 ##
 Tokabeka amagoro aito roche
 gwekendia.
@@ -57,7 +50,6 @@ mobere.
 Ake ake tokanyia namache
 emebere yonsi.
 
-
 ##
 “Obe gaki! Tiga toake ontimbu,
 Mpho agateba.” Nme
@@ -65,18 +57,15 @@ takomanya.
 Togaaka ontimbu naende
 togaaka baka tokeba chinsa.
 
-
 ##
 Omogso ogachaka korimera
 nse, tokaigwa obokendu.
 Ng’ai chiyanga chiato chire?
 
-
 ##
 Togachirigia nse y’emete.
 Tokarigia ime y’obonyansi.
 Tokarigia kera ase.
-
 
 ##
 Chiombe inchiarenge ang’e naroche, chiarenge
@@ -84,7 +73,6 @@ korisia obonyansi bogwansa.
 Bontle gochia korigereria igoro, “Imaria,
 rigereria eng’ombe eria! Ninki keria kere
 monwa?”
-
 
 ##
 “Nigo egatakuna rioga ribariri: Lerato
@@ -94,7 +82,6 @@ akairaneria.
 Tokarigereria eng’ombe yende. Nigo yarenge
 gotakuna egento kende kere buruu.
 “Eria nesikati yane, Bontle agakuura.
-
 
 ##
 Tokairana inka tore
@@ -114,10 +101,8 @@ bono ekaba tari korwa ase
 omogaso bwoka.
 
 ##
-Omokubio oyomo Orenge gosamba
-mono
 * License: [CC-BY]
-* Text: Nombulelo Thabane and Tessa Welch
+* Text: Nombulelo Thabane, Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Dennis Ogaro Ondieki
-* Language: Ekegusii
+* Language: guz

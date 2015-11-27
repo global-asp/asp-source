@@ -87,6 +87,6 @@ at ago.
 ##
 * License: [CC-BY]
 * Text: Mutugi Kamundi
-* Illustration: Alex Zablon, Zablon Alex Nguku, Wiehan de Jager, Felicity Bell and Jesse Breytenbach
-* Adaptation: Mubbalya charles, Tabingwa Aisha and Tulina Monica
+* Illustration: Alex Zablon, Zablon Alex Nguku, Wiehan de Jager, Felicity Bell, Jesse Breytenbach
+* Adaptation: Mubbalya charles, Tabingwa Aisha, Tulina Monica
 * Language: en

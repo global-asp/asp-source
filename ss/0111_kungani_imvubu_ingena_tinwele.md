@@ -4,13 +4,11 @@
 Ngalelinye lilanga Logwaja beka
 hamba ngale eceleni kwemfula.
 
-
 ##
 Nemvubu beyikhona nayo,
 beyitihambela nje itiyalukela,
 idlana netjani lobuluhlata
 lobumnandzi.
-
 
 ##
 Imvubu ayizange ibone
@@ -20,7 +18,6 @@ yanyatsela linyawo lalogwaja.
 Logwaja wamemeta watsi,
 "Wena Mvubu! Awuboni
 kwekutsi uyangenyatsela?”
-
 
 ##
 Yaticolisela iMvubu.
@@ -32,7 +29,6 @@ watsetsisa iMvubu,"Wente
 ngemabomu! Ngaleliye lilanga
 utowubona! Utakubhadalela
 lokwentile."
-
 
 ##
 Wasuka Logwaja wafuna umlilo wawutfola watsi, "Hamba uyoshisa Mvubu uma
@@ -46,7 +42,6 @@ emfuleni “bhu” umlilo wavutsa
 waba lilangabi, lilangabi lashisa
 tinwele temvubu.
 
-
 ##
 Imvubu yacala yakhala
 yagijimela emantini.
@@ -56,16 +51,13 @@ ngumlilo! Tonkhe, tinwele tami
 tonkhe tihambile! Tinwele tami
 letinhle!"
 
-
 ##
 Yingako imvubu ingahambeli kudze nemanti, kungenca yekwesabela kushiswa
 ngumlilo.Logwaja wajabula makabona imvubu isha, atsi,”Ngimtfolile”
 
-
 ##
 * License: [CC-BY]
-* Text: Basilio Gimo and David Ker
+* Text: Basilio Gimo, David Ker
 * Illustration: Carol Liddiment
-* Translation: Trust magagula and Mighty mhlanga
-* Language: siSwati
-
+* Translation: Trust magagula, Mighty mhlanga
+* Language: ss

@@ -115,6 +115,6 @@ with an animal.
 ##
 * License: [CC-BY]
 * Text: John Emongot
-* Illustration: Catherine Groenewald, Wiehan de Jager, Caroline Lentupuru, Laura Libertore and Benjamin Mitchley
-* Adaptation: Rose Alungho, Beatresnabune and Herbert humba
+* Illustration: Catherine Groenewald, Wiehan de Jager, Caroline Lentupuru, Laura Libertore, Benjamin Mitchley
+* Adaptation: Rose Alungho, Beatresnabune, Herbert humba
 * Language: en

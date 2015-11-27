@@ -81,8 +81,8 @@ snake were enemies.
 ##
 * License: [CC-BY]
 * Text: Winny Asara
-* Illustration: Winny Asara and Alice Inzikuru
-* Adaptation: Christopher Bukheye Mulongo and Rose Alungho
+* Illustration: Winny Asara, Alice Inzikuru
+* Adaptation: Christopher Bukheye Mulongo, Rose Alungho
 * Language: en
 
 This story was written by a student teacher at Arua PTC in Uganda.

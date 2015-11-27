@@ -1,12 +1,10 @@
-# Ebindu
-bindmanya
+# Ebindu bindmanya
 
 ##
 Ino ni Manyatta. Niyo
 ingo wange. Ingo
 wange iri mudala
 Lihongo lia Turkana.
-
 
 ##
 Ino ne ingamia.
@@ -15,7 +13,6 @@ abandu baruka chisolo
 echinyingi echaukhane.
 Ingamia ne indayi
 muno.
-
 
 ##
 Bano na abasomesia
@@ -28,7 +25,6 @@ Ndakhera omusomesia
 wange wokhuhuchora
 muno.
 
-
 ##
 Ino nio imeli.
 Echimeli ni chikhongo.
@@ -38,7 +34,6 @@ nende emisigo khu
 machi
 Ninjakho Mombasa,
 nyala okhulola imeli.
-
 
 ##
 Sino ni sidanda.
@@ -51,7 +46,6 @@ omudidi.
 Ni sidanda esilayi
 muno.
 
-
 ##
 Ino ni Idaywa
 Mudala khuli nende
@@ -61,7 +55,6 @@ chisenye chosi
 echinyingi.
 Chisenye chireranga
 amabuyu amangi.
-
 
 ##
 Ino ni imbeba eyo
@@ -73,14 +66,12 @@ Chinyasianga chingubo.
 Chinyala okhurera
 obulwale.
 
-
 ##
 Ino ni imbwa. Echimbwa
 ni chisolo cho mungo.
 Imbwa yefwe ilangwa
 Daa.
 Isemanga muno.
-
 
 ##
 Lino ne linyinya.
@@ -101,10 +92,9 @@ Nyenya okhumanya ebindi handi muno.
 Sindaramanyire dawe endebanga abebusi bange nomba
 omusomesia wange.
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Michael Nakuwa
 * Translation: Mary Okere
-* Language: Olukhayo
+* Language: lko

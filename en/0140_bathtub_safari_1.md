@@ -71,6 +71,6 @@ ready for bed.'
 
 ##
 * License: [CC-BY]
-* Text: Tracy Lynn Chemaly and Sarah-Jane Williams
+* Text: Tracy Lynn Chemaly, Sarah-Jane Williams
 * Illustration: Robert McEwan
 * Language: en

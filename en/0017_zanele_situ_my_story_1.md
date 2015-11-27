@@ -110,5 +110,5 @@ Janeiro.
 ##
 * License: [CC-BY]
 * Text: Liz Sparg
-* Illustration: Jesse Breytenbach and Graham Paterson
+* Illustration: Jesse Breytenbach, Graham Paterson
 * Language: en

@@ -1,5 +1,4 @@
-# Umukhasi we
-mu Kusaala
+# Umukhasi we mu Kusaala
 
 ##
 Aabawo khaalekho, umusaani mutweela, uwaba ni buyiindifu buukali naabi – liiswa liikali
@@ -15,7 +14,6 @@ siinga alekha khufuna umukhasi ta,
 umweene aakha ekholeleyo
 mtweela
 
-
 ##
 Aryo waananikhilawo khubeetsa
 umukhasi umumiliwu naabi
@@ -28,7 +26,6 @@ tsana, natso tsabiimbukha. Aryo
 waasihelelakho kumuuya, nasyo
 syekela umukhasi umulamu.
 
-
 ##
 Mu n’gali niye aaba umukhasi
 umumiliwu naabi khufuurisa
@@ -37,7 +34,6 @@ aabonatsakakho.
 Kila atsya aasi khumeesikamo
 keewe, waaloomba umukhasi uyo
 khuuba umukyelama weewe.
-
 
 ##
 Aryo waamuwa shitweeya
@@ -56,7 +52,6 @@ shitweela shonyene.
 Ukhaboolatsakilakho umuundu
 yeesi eena isi iwe waama ta.”
 
-
 ##
 Ne siyabirawo imbuka ta, basooleli
 khukhwaama mu shisiintsa
@@ -67,7 +62,6 @@ umukhasi umumiliwu
 umushikhaana oyo?”
 Baryo baakhalawo khuumwiiba
 bamuyile iwaabwe.
-
 
 ##
 Umusakhulu waawotokha kumwoyo.
@@ -85,7 +79,6 @@ khakheenya khamuwooyewooye nio
 kanyalise khuumurusakho syoosi
 khu biindu bye khu mubili kweewe.
 
-
 ##
 Kamawuusi nga kaliimunyoolile,
 kaamwiimbila kumweenya kwe
@@ -97,7 +90,6 @@ babaandi babaramile boosi.
 Umuseetsa woowo waakhurumaane
 ifwe khwiitse khumwiisileyo
 shitweeya shoowo!
-
 
 ##
 Aryo umukhasi uyo waabiwa shitweeya, karyo kaapamburukha kaabira khu lukiingi, kaabira
@@ -121,7 +113,6 @@ kumunaala kwe khu murwe nga
 nikho khaabonelo kh’omukhasi
 umukhwaalikhe.
 
-
 ##
 Aryo wahaamba kumunaala kwe
 khu murwe, waakhupa shikhoowe
@@ -138,7 +129,6 @@ woowo waakhurumaane
 khumukoboseleyo buulamu
 bwoowo!
 
-
 ##
 Kamawuusi kaatsya luundi
 kumuluundi kwe khataru. Kaatsya
@@ -151,7 +141,6 @@ byaakhalikhaka. Kumurwe nakwo
 kwaakwa aasi. Lwanyuma shitsupu
 shoosi she khupa aasi.
 
-
 ##
 Mu mbola busa, umuseetsa weewe
 waapiringisa shitsupu she kuusaala
@@ -161,7 +150,6 @@ kyakwo mu meetsi. Kuryo
 kwaasisinakho luundi kamasaafu
 khu lwe nyaanga ni liiloba.
 
-
 ##
 Nga imbewo yaawuutsile,
 kamasaafu kewulila buulayi naabi.
@@ -169,10 +157,9 @@ Nga isaambo isi umukhasi
 ewulilamwo nga ali khukhwiiwuuma
 umuseetsa weewe.
 
-
 ##
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Jemma Kahn
 * Translation: Cornelius Wekunya
-* Language: Lumasaaba
+* Language: myx

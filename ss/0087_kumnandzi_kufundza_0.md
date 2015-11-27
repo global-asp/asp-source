@@ -1,5 +1,4 @@
-# Kumnandzi
-kufundza
+# Kumnandzi kufundza
 
 ##
 Kumnandzi kufundza bangani.
@@ -14,7 +13,6 @@ Ngifundze ngingayekeli.
 Ngubani lofisa ngimfundzele?
 Maye kumnandzi kufundza bo!
 
-
 ##
 Angihambe ngiye ekamelweni.
 Ngiyetsemba Thobeka
@@ -28,7 +26,6 @@ Thobeka?
 Kusho Simphiwe ngekutimisela.
 Hawu! Thobeka ulele.
 
-
 ##
 “Hawu Thobeka ulele,
 awungiva?” bengitimisele
@@ -40,7 +37,6 @@ Kepha kuyajabhisa kufundza
 wedvwa.
 Ngubani kodvwa
 lengitamfundzela?
-
 
 ##
 Ngiyakutsandza kufundza
@@ -54,7 +50,6 @@ latangilalela.
 Ngilangatelela kufundza.
 Kepha ngubani
 lengitamfundzela?
-
 
 ##
 Ngate ngabatfola
@@ -72,7 +67,6 @@ Akekho lofuna ngimfundzele.
 Kepha mine ngiyakutsandza
 kufundza.
 
-
 ##
 Endlini ngehlulekile. Akekho
 lofuna ngimfundzele. Thobekile
@@ -88,7 +82,6 @@ kufundza. Ngitawuze ngimtfole
 lengitamfundzela.
 Ngiyakutsandza kufundza.
 
-
 ##
 Nangu babe namalume.
 Ngiyetsemba batatinika litfuba
@@ -102,11 +95,9 @@ Ngate ngatfola kujabha
 lokukhulu. Kepha mine
 ngiyakutsandza kufundza.
 
-
 ##
 Pho yini lengingayenta?
 Ngimi lengitsandza kufundza.
-
 
 ##
 Bantfu abafuni kungilalela.
@@ -123,10 +114,9 @@ yaba mnandzi lendzaba.
 “Maye kumnandzi kufundza
 bangani. Nawe tifundzele.”
 
-
 ##
 * License: [CC-BY]
 * Text: Letta Machoga
 * Illustration: Wiehan de Jager
 * Adaptation: Busile Ndhlovu
-* Language: siSwati
+* Language: ss

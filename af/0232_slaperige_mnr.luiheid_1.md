@@ -92,7 +92,6 @@ in hulle boom te kry.
 * Text: Paul Kennedy
 * Illustration: Graham Paterson
 * Translation: Mckayla Faith Potgieter
-* Language: Afrikaans
+* Language: af
 
 Geen
-

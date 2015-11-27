@@ -23,7 +23,7 @@ they found him roasting the meat.
 ##
 * License: [CC-BY]
 * Text: Deborah
-* Illustration: Jemma Kahn, Wiehan de Jager, Catherine Groenewald and Kathy Arbuckle
+* Illustration: Jemma Kahn, Wiehan de Jager, Catherine Groenewald, Kathy Arbuckle
 * Language: en
 
 People should have respect for

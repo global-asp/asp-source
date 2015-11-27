@@ -1,10 +1,4 @@
-# Omusaala
-ogwaŋonia
-ehyalo
-hy’ebugaado
-Karen von Wiese, Beryl
-Salt, Muhdni Grimwood
-and Barbara Meyerowitz
+# Omusaala ogwaŋonia ehyalo hy’ebugaado
 
 ##
 Tamala gaali aba mu hitehere
@@ -20,7 +14,6 @@ Aye nasi aŋange huholaho,
 olwohuba wanakamuuna gaali
 amuhira embiro.
 
-
 ##
 Esongo ya Tamala ni yejula era ni
 genda hu tiina engo.
@@ -30,7 +23,6 @@ era gagenda, namwendula.
 Kadi hale nga amwagaana
 n’alambaye egongo w’ehiswa
 ehibbala.
-
 
 ##
 Aba kogaaja ohuupi nga Njule ata olwala hu munwa. Ohuupi ŋaati ŋaaliŋo ehibbubbu hya
@@ -51,7 +43,6 @@ Omusinde gaasa eŋombe yiye era
 gayicuusaŋo gagamayo ena
 hitehere.
 
-
 ##
 Ni geyongeraho mu moni Tamala
 gabona masengewe n'ali hutamba
@@ -63,7 +54,6 @@ Omuhasi gabugula embago yiye
 nga aŋamba n’omwana wuwe
 owaali naŋenyuha nga aduluma
 nalungama eri ehitehere.
-
 
 ##
 Ni geyongeyeho mu moni nga nindi
@@ -77,7 +67,6 @@ Sehuluwe gadunda esimbo yiye nga
 abbinga Nasugirya ohwola
 oluyaduluma ohulungama ena
 hitehere.
-
 
 ##
 Tamala ni mbojo ni boola mu
@@ -94,14 +83,12 @@ eŋombe jaawe,
 ebiryo byawe oba ŋeena
 aŋabaŋanga ohwehweha abeene?
 
-
 ##
 Tamala gatya bugali weene aye
 ng’aŋo ahebulira ahafo, ye ni Njula
 haleho eyi batiinangaho ogudulira.
 Ehifo ehibunjeeri.
 Ehifo ehy’engiso.
-
 
 ##
 Gatusayo engoma nga atandiha
@@ -115,7 +102,6 @@ n’ehifo ehy’ohwehwehamo,
 munonde.”
 Gaŋira Njula namuŋambiriiye hu
 ngalo.
-
 
 ##
 Tamala ni Njula batangirira mu ngira
@@ -131,7 +117,6 @@ Tamala ni semwna nga behirira
 ŋaasi mu nduli, eyaali emba ni
 mulimo enjaya.
 
-
 ##
 Tamala ni semwana baŋundula
 ahaŋundu mu mbafu j’omusaala.
@@ -144,7 +129,6 @@ etaama n’eŋombe. Aye ehiitu
 ehy’eŋugisa hyali ti mwalimo ehifo
 ehya hiisi mulala.
 
-
 ##
 Eryuba lyagwa mu maaji. Abebi
 bambaagana ni balungama ena
@@ -155,7 +139,6 @@ naboleho. Abe hitehere baali
 baŋololohi. Era baali bati ni
 batamanyire hiina ehyali ni hija
 ohubabaho?
-
 
 ##
 Nga aŋo Tamala aloma ati,
@@ -169,7 +152,6 @@ Amangu ago ng'enjase y’omuliro
 ehosa omu bali nga bafuna
 n’obubalire.
 
-
 ##
 Enjase yamyahiisa mu musaala.
 Emoni etwahaali jamyeheseye mu
@@ -178,14 +160,12 @@ jaduuha omuliro. Eriisi
 lyebotolabotola ni riduuha ohutiina
 ŋamugulu.
 
-
 ##
 Enje abebi ni babona omusaala nga baŋeega baati,“Guno mwigu
 mubbala!” Balira ni batya. Omwibi mulala gacuuha gaaduluma.
 Ng'obundi yesi aduluma, nindi n’obundi yesi gaduluma. Ohwosa
 olu boosiboosi baduluma baŋwaŋo.
 Abaatu b’ehyalo hye Bugaado nga baŋona.
-
 
 ##
 Ewe oŋeega otye?
@@ -194,14 +174,9 @@ ab'ehitehere hy'e Bugaado oba
 Omusaala nj’ogwaŋonia abe
 Bugaado?
 
-
 ##
-Omusaala ogwaŋonia ehyalo
-hy’ebugaado
 * License: [CC-BY]
-* Text: Karen von Wiese, Beryl Salt, Muhdni Grimwood
-and Barbara Meyerowitz
+* Text: Karen von Wiese, Beryl Salt, Muhdni Grimwood, Barbara Meyerowitz
 * Illustration: Julia te Water Naude
 * Translation: Gershom Hirome
-* Language: Lunyole
-
+* Language: nuj

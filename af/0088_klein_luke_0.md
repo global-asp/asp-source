@@ -126,4 +126,4 @@ En dit is hoe Luke skool se skooldae begin het.
 * Text: Gaspah Emukuru Juma
 * Illustration: Wiehan de Jager
 * Translation: Ilze Grobbelaar
-* Language: Afrikaans
+* Language: af

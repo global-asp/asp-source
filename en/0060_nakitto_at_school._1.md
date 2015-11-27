@@ -35,5 +35,5 @@ mother at home.
 ##
 * License: [CC-BY]
 * Text: Annet Ssebaggala
-* Illustration: Genevieve Terblanche, Wiehan de Jager, Vusi Malindi and Karlien de Villiers
-* Language: en and Luganda
+* Illustration: Genevieve Terblanche, Wiehan de Jager, Vusi Malindi, Karlien de Villiers
+* Language: en, Luganda

@@ -2,7 +2,7 @@
 
 Story ID | Title | License
 -------- | ----- | -------
-0041 | [Ifamili  yanje](http://africanstorybook.org/stories/ifamili-yanje) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
+0041 | [Ifamili yanje](http://africanstorybook.org/stories/ifamili-yanje) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0078 | [Ing’ombe yamakana ](http://africanstorybook.org/stories/ing’ombe-yamakana) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0123 | [Kenda khuche ](http://africanstorybook.org/stories/kenda-khuche) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0231 | [Esitabu Sialinga](http://africanstorybook.org/stories/esitabu-sialinga) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)

@@ -98,7 +98,7 @@ at home?
 
 ##
 * License: [CC-BY-NC]
-* Text: Khothatso Ranoosi and Marion Drew
+* Text: Khothatso Ranoosi, Marion Drew
 * Illustration: Jesse Breytenbach
-* Translated By: Khothatso Ranoosi and Marion Drew
+* Translated By: Khothatso Ranoosi, Marion Drew
 * Language: en

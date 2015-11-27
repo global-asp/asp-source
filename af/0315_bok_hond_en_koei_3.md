@@ -64,4 +64,4 @@ het.
 * Text: Fabian Wakholi
 * Illustration: Marleen Visser
 * Translation: Tristan Mark Ilsley
-* Language: Afrikaans
+* Language: af

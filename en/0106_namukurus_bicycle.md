@@ -1,4 +1,4 @@
-# Namukuru’s bicycle
+# Namukuru's bicycle
 
 ##
 Namukuru and her
@@ -22,7 +22,7 @@ a monkey arrives
 outside.
 The monkey
 rides away on
-Namukuru’s bicycle!
+Namukuru's bicycle!
 
 ##
 The children chase

@@ -1,5 +1,4 @@
-# Embusi, Embwa
-n’Eῃombe
+# Embusi, Embwa n’Eῃombe
 
 ##
 Wambusi, Wambwa, ni
@@ -8,7 +7,6 @@ bameeri
 abeene.Oludaalo lulala
 batiina hu lugendo mu
 takisi.
-
 
 ##
 Niboola hu njagamo
@@ -20,13 +18,11 @@ lwawe.
 Waŋombe gasasula
 ebbeesa jije.
 
-
 ##
 Wambwa gasasula
 ejibitamo ŋadidiri
 olw’ohutaba n’ebbeesa
 eswanire erala.
-
 
 ##
 Derefa aba kogenda
@@ -35,13 +31,11 @@ wuwe,Wambusi nga
 aduluma aŋawula
 husasula hiitu hyosi .
 
-
 ##
 Dereefa galuŋa bugali.
 Gafuga gatiina
 nataŋaaye Wambwa
 bbalansi wuwe.
-
 
 ##
 Ehyo cehigima na
@@ -52,14 +46,12 @@ mugati ohufaania
 Derefa owamulyaha
 bbalansi wuwe.
 
-
 ##
 Hisi Wambusi
 olwaŋulira ohululuma
 hwe motoka,
 gedulumira. Aba atya
 ohumuŋamba.
-
 
 ##
 Ne Waŋombe safayo
@@ -69,10 +61,9 @@ oluguudo. Amanyire ati
 gasasula ebbeesa
 j'olugendo bbechwi!
 
-
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
 * Illustration: Marleen Visser
 * Translation: Nawibo Irene
-* Language: Lunyole
+* Language: nuj

@@ -106,4 +106,4 @@ was.
 * Text: Phumy Zikode
 * Illustration: Wiehan de Jager
 * Translation: Chante le Roux
-* Language: Afrikaans
+* Language: af

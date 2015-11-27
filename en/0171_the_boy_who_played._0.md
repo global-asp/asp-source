@@ -69,6 +69,5 @@ I played too much and lost the money.
 ##
 * License: [CC-BY]
 * Text: Annet Ssebaggala
-* Illustration: Kathy Arbuckle, Mlungisi Dlamini, Catherine
-Groenewald and Benjamin Mitchley
+* Illustration: Kathy Arbuckle, Mlungisi Dlamini, Catherine Groenewald, Benjamin Mitchley
 * Language: en

@@ -1,63 +1,51 @@
 # Kenda khuche
 
 ##
-Nende amolu kange…
-
+Nende amolu kange...
 
 ##
-… mbunya chisokisi
+... mbunya chisokisi
 chinjafu.
 
-
 ##
-…mbunya amaua
+...mbunya amaua
 amalayi.
-
 
 ##
 Nende chimoni
-change…
-
+change...
 
 ##
-…ndola ibaluni
+...ndola ibaluni
 niidumukha mumuyaka.
-
 
 ##
 Ndola Ipusi isangafu.
 
+##
+Nomunwa kwange...
 
 ##
-Nomunwa kwange…
-
-
-##
-…engonyerere amachi
+...engonyerere amachi
 ke inyanja ya chumbi
 chumbi.
-
 
 ##
 Engonyerere amachi
 manyunyufu
 kelichungwa.
 
-
 ##
 Nende omukhono
-kwange…
-
+kwange...
 
 ##
-…embukula omukhono
+...embukula omukhono
 kwao.
-
 
 ##
 * License: [CC-BY-NC]
 * Text: Carole Bloch
 * Illustration: Thembinkosi Kohli
 * Translation: Mary Okere
-* Language: Olukhayo
-
+* Language: lko

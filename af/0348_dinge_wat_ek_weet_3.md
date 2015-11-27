@@ -92,4 +92,4 @@ onderwyser.
 * Text: Ursula Nafula
 * Illustration: Michael Nakuwa
 * Translation: Caitlin Chislett
-* Language: Afrikaans
+* Language: af

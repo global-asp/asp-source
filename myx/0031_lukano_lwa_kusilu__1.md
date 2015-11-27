@@ -1,5 +1,4 @@
-# Lukano lwa
-Kusilu
+# Lukano lwa Kusilu
 
 ##
 Aabawo khaalekho, yabawo
@@ -7,7 +6,6 @@ umulimi mutweela n’umukyelama
 weewe, nga bali n’umwaana
 uwesiinde mutweela yenyene, isi
 baalaanga bari Kusilu.
-
 
 ##
 Shifukhu shitweela, nga Kusilu ali
@@ -18,7 +16,6 @@ tuukha, khuukula impiso, anyale
 khuunaba isaati yeewe. Kusilu
 waakula impiso, waakira mu sawu
 ye saati yeewe.
-
 
 ##
 Nga n’aaba ali khuutsya ingo,
@@ -34,7 +31,6 @@ lupapula.”
 Kusilu weelamo ari “Naawuliile
 maayi.”
 
-
 ##
 Shifukhu shisheelakho, umusooleli tsana waasuta isoongwe
 waatsya i luutsi khuutaha kameetsi. Washebulila sheesi maayiwe
@@ -46,7 +42,6 @@ Ne n’aamala khukhwoola ingo, maayiwe weelakho luundi
 waamusontsoola ari, “Mwaana wase, lulwiilakho, witwiikha
 isoongwe khu murwe, usute kameetsi, sikatsutsukha ta.
 Kusilu weelamo ari, “Naawuliile maayi. Ari Naamanyile.”
-
 
 ##
 
@@ -68,7 +63,6 @@ ni kimikosi. Nga waakhukhola
 bibiindu ni kamakyesi, kane urure
 ango ano.”
 
-
 ##
 Shifukhu shisheelakho, paapawe
 aarumana umusooleli uyo khuukula
@@ -83,7 +77,6 @@ akhaliindisa paapawe ta.
 Nawe yambaasa ubone inyama nga
 ni yafwaana nga waakyolesile ingo!
 
-
 ##
 Paapawe waakhalala naabi.
 Waamulakila khuubowa bibiindu
@@ -97,7 +90,6 @@ khuukana babekho ni sheesi
 barakikhilakho nga boombekha
 intsu yaabwe.
 
-
 ##
 Baakyeenda lukyeendo luleeyikho,
 ne nga sibanyoola shiifwo mweesi
@@ -106,7 +98,6 @@ yaabwe ta.
 Ne antsye ni bweelabula,
 baakhalawo khuuniina khu kusaala,
 bakonekho ni lulwiitsi lwaabwe.
-
 
 ##
 Ne nga nio baliniinile khu kusaala,
@@ -122,7 +113,6 @@ naabi, shaakila bandaba tsindimo,
 baalekha buli shiindu shaabwe
 shoosi inyuma.
 
-
 ##
 Kusilu ni maayiwe beekha
 khukhwaama khu kusaala.
@@ -136,11 +126,9 @@ beyoombekhela intsu imbya,
 baamenya mubweenemwo, nga bali
 baasangaafu.
 
-
 ##
 * License: [CC-BY]
 * Text: Cissy Kiwanuka Luyiga
 * Illustration: Catherine Groenewald
 * Translation: Fabian Wakholi
-* Language: Lumasaaba
-
+* Language: myx

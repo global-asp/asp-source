@@ -18,4 +18,3 @@ Three! You're out!
 * Illustration: Kathy Arbuckle
 * Translated By: Traditional song
 * Language: en
-

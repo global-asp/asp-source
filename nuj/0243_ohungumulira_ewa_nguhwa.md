@@ -1,5 +1,4 @@
-# OHUŊUMULIRA
-EWA NGUHWA
+# Ohuŋumulira Ewa Nguhwa
 
 ##
 Muhwana ni Mulongo ba menya
@@ -13,7 +12,6 @@ baja huhyalira nguhwa waawe
 mwalo huupi n’oguyanja
 ogubbala.
 
-
 ##
 Muhwana ni Mulongo baali
 basangafu o’lwohuba baali baja
@@ -26,7 +24,6 @@ ol’ohuba owiire woosi baali
 baŋaya hu bija ohub a mu
 luŋumulo
 
-
 ##
 Mu mawiiwi,batagiha olugendo
 lwawe era bagendera mu
@@ -37,12 +34,10 @@ j’amajaani.
 Mu lugendo lwawe,babala
 emotoka era bemba enyembo.
 
-
 ##
 Ehiseera ni hyabitaŋo,abaana
 batagiha ohuŋenyuha
 olw’omudembo.
-
 
 ##
 Saawe gabasisimusa Muhwana
@@ -58,7 +53,6 @@ Gaali muhasi w’amaani era
 omwene owahula ni gegombesa
 abamuwona.
 
-
 ##
 Namulwa gabakalimbusa mu
 nyumba era esangalo eri gaali
@@ -70,7 +64,6 @@ ebirabo ebi baali ni
 nibamuleteaye ohuŋwa mu
 hibuga.
 
-
 ##
 Era hino bahihola n’esangaalo.
 Nga Muhwana amuloma ati’’sooka hwigula ehirabo
@@ -78,24 +71,20 @@ hyange’’.
 Ne eno Mulongo yeesi ati’’ehirabo ehyange nje oba
 osooka’’
 
-
 ##
 Namulwa ni gahena ohwigula
 ebirabo,gahena gasaaya hu
 bejuhulu babe nga olu
 obuwangwa waawe waali.
 
-
 ##
 Nga Muhwana ni Mulongo
 batula mu nyumba, batagiha
 ohuŋiima epuluguti n’enyuni.
 
-
 ##
 Banina emisaala era bebbomba
 mu maaji genyanja.
-
 
 ##
 Aherema aŋa
@@ -104,13 +93,11 @@ waawe ohulya ehyegulo,ero
 silya baganya huhena ohulya ni
 litabaŋangula.
 
-
 ##
 Ni wahya,semwana w’abaana
 gafuga emotoka yiye gagama
 mu hibuga n’abaana basigala ni
 Namulwa..
-
 
 ##
 Muhwana ni Mulongo ba yeeda
@@ -120,11 +107,9 @@ era,batenya n’ekwi. Basolonga
 amagi gengoho era baaŋa
 eryani.
 
-
 ##
 Namulwa gegeresa abeujukulu
 babe ohunyiya ebiryo.
-
 
 ##
 Lulala, mu mugamba Muhwana
@@ -141,7 +126,6 @@ Ohuŋwa hu ludaalo olwo
 Muhwana gegenderesa ebigosi
 bitoola hu ŋombe nindi.
 
-
 ##
 Lulala nga nindi abaana batiina
 mu katalei ni Namulwa.
@@ -153,14 +137,12 @@ luhulu lwene ohulomera
 abagusi omuŋendo gw’ebiitu.
 Mulongo nga aboŋa ebibagulire
 
-
 ##
 Ni bahenanga ohutundu nga
 behala banywa caayi.Nga
 bahena bayeeda nguhwa
 waawe ohubala ebbesa eji
 bafunire.
-
 
 ##
 Ne oluŋuumulo silwalwa
@@ -172,7 +154,6 @@ Gabategehera n’ebiryo
 eby’ohulira mu ngira ni batiina
 mu lugendo.
 
-
 ##
 Saaawe ni gaberuhira,sibenda
 hu tiina ni naye.
@@ -183,11 +164,9 @@ musahulu sisobola mu hibuga
 nja husigala mbalinde ohwola
 nindi olu muli galuha”
 
-
 ##
 Muhwana ni mulongo bamugwa
 muhifuba nibamusebula..
-
 
 ##
 Muhwana ni Mulongo ni bagama
@@ -202,14 +181,12 @@ Ne mu hyosi,hiisi muutu gihirisa
 ti Muhwana ni Mulongo baali ni
 nguhwa waawe omulaŋi!
 
-
 ##
 * License: [CC-BY]
 * Text: Violet Otieno
 * Illustration: Catherine Groenewald
-* Translation: NABUNE BEATRES, LWAGALA WILSON and
-DINAH HAMBA
-* Language: Lunyole
+* Translation: Nabune Beatres, Lwagala Wilson, Dinah Hamba
+* Language: nuj
 
 This story was translated by the
 teachers of Mugulu integrated

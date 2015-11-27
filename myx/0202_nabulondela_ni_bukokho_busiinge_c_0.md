@@ -1,6 +1,4 @@
-# Nabulondela ni
-bukokho
-busiinge (C)
+# Nabulondela ni bukokho busiinge (C)
 
 ##
 Buno bwaba bukhwaale
@@ -19,7 +17,6 @@ nga shiwanwa she kamasaalikha
 keewe; naye waaba nga abukana
 naabi.
 
-
 ##
 Maayi weewe waamukhookhela ari,
 “Nabulondela, rusawo khaangu
@@ -27,7 +24,6 @@ bukokho bubwasinyile buusakalafu
 buno. Singana imbubonekho aambi
 ni liweema lye kamayiiya ke
 bukhwaale lino ta.”
-
 
 ##
 Nabulondela wahaaya khaangu
@@ -37,7 +33,6 @@ Inywe bukokho buusiru, tima
 khaangu murure ano. Singana
 inywe mweekyela tsinyanyi khu
 mayiiya ka Nekesa ta!
-
 
 ##
 Nabulondela waaboolela bukokho
@@ -55,7 +50,6 @@ ari, “Nabulondela, lekha bukokho
 bwoowo ubwo bube, wiitse unjeete
 khuulolelela tsindeekhelo tsino.”
 
-
 ##
 
 ##
@@ -69,7 +63,6 @@ buraangisi mukari. Kila maayi wa Nabulondela akhookha ari, “Rura
 ibulafu! Rura khaangu inywe bukokho buusinye, buusakalafu,
 bubuuli ni bikyele ni kiminwa kikyasinyile!”
 
-
 ##
 Nabulondela waarura ni bukokho bweewe ibulafu khu
 lwaanyi, nga aburafuyila ari, Mamayi ali mutuufu,
@@ -82,7 +75,6 @@ Nabulondela aafuna shihangafu naabi nga
 akhakakho khuwaambaka bukokho. Nibwo
 sibwambaasakho buri khukhwisiinga shili
 shishambaaso shiilayi ta.
-
 
 ##
 Nabulondela waara khakokho
@@ -99,7 +91,6 @@ imoolu, ni mu moni mwe khakokho,
 khayeekha, khaakwa andulo e
 ndoho.
 
-
 ##
 Nabulondea waaloma ari, “Iyi siili
 niyo imbuka iye khuukona ta.” Kila
@@ -113,7 +104,6 @@ khu bunyaasi khabalakale.
 Khakokho khaarama nga
 kharaambiitsile busa awo.
 
-
 ##
 Nabulondela waasiinga bukokho bweewe
 khatweelatweela. Ne nga buli khatweela kharama
@@ -126,7 +116,6 @@ Nabulondela waakhalawo ari, “Khambulekhe
 bukonekho khafwiiti.” waarurawo waatsya khuulola
 khu mwooko.
 
-
 ##
 Mamayi Ngwe ni Mamayi Pedi
 baaba baseenge ba Nabulondela.
@@ -137,7 +126,6 @@ bwa Nekesa khuumala imbuka iye
 kimyeesi, ne nga mbaawo
 uwambaasakho khukyeenda
 n’uwashe mu takisi ndweela ta.
-
 
 ##
 Mamayi Ngwe waabona bukokho bwa Nabulondela
@@ -151,7 +139,6 @@ Wamuunamuuna nga aloma ari, “Nga shiilayi! Kane
 imbure aandu isi Mamayi Pedi akhanyala
 waabunyoolela na khari ta.” Aryo waasuta shibowe
 isho waashiyila, waashibisa mu misyebeebe.
-
 
 ##
 Mamayi Pedi waakhalawo khukhwiluungila tsinyanyi tse
@@ -171,7 +158,6 @@ naamanyile. Inababisa mu shisuli mu ngaaki.” Mamaayi Pedi
 waaniinila khwitikiiyi lye khu nimiro ye tsinyanyi, waatsya waara
 bukokho, wabwaantsa khu shisuli she bunyaasi.
 
-
 ##
 
 ##
@@ -181,7 +167,6 @@ khuutsya khuubona bukokho bweewe.
 Ne waabona nga sibuliwo khu bunyaasi ta. Welomela ari,
 “Bwaakha khuuba nga ari bwaabalakaale buulayi. Naamanyile ndi
 ari bwatsiile khuweentsakho she kumutikhinyi.”
-
 
 ##
 Kamayiiya ke bukhwaale bwa Nekesa kaaba
@@ -202,13 +187,11 @@ bikyele nga kamakheese ni kengila mu liweema lye
 kamayiiya ta. Khu mbuka isi kaatsiila aambi nio
 kakhupe ikeeki iye kamayiiya ke bukhwaale
 
-
 ##
 Imbuka isi bibiindu byashuukhila
 khu shisuli yaba imbuka is paapa
 w’omusiinde aabeela mu nganikha
 yeewe khukari.
-
 
 ##
 Khatweela khu bukokho khaapamburukha khaatsya khaakwa khu
@@ -222,7 +205,6 @@ kumurwe kweewe khu meetsa nga akhweenula ari, “ai ai ai ai aai,
 e-e-e-e-e!
 Buryo bukokho buburamile bwaatsya bwetubaasa khu
 bwashaabwe bubiili. Abe s’unyala waabona Mamaayi Ngwe ta.
-
 
 ##
 
@@ -240,7 +222,6 @@ Mamaayi Ngwe waatsekha nga weyikamiliile kumurwe kweewe
 inyuma, khukhwoolesa shilefu sheewe shaanikina busa.
 Nabulondela waarama waasamiliile nga eyaanga busa.
 
-
 ##
 
 ##
@@ -253,14 +234,11 @@ iye she angoloobe ta.''
 Waabulomela luundi ari, “Ni mubone isaambo isi musinyile luundi.
 Nambaasa ndi naakha naabasiinga luundi kumukaamba.”
 
-
 ##
 
 ##
-Nabulondela ni bukokho busiinge
-(C)
 * License: [CC-BY]
 * Text: Marion Drew
 * Illustration: Wiehan de Jager
 * Translation: Milton Eridad Shissa
-* Language: Lumasaaba
+* Language: myx

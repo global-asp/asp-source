@@ -33,11 +33,10 @@ Ek spring tou.
 ##
 * License: [CC-BY]
 * Text: Nina Orange
-* Illustration: Wiehan de Jager and Marion Drew
+* Illustration: Wiehan de Jager, Marion Drew
 * Translation: Anzelle Kamffer
-* Language: Afrikaans
+* Language: af
 
 Baie eenvoudige taalgebruik. "Wat
 maak jy?" is geskik vir kinders wat
 begin lees.
-

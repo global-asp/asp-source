@@ -1,8 +1,4 @@
-# Khasaala
-khaase khali
-waheena?
-Meera Tendolkar and
-Madhav Chavan
+# Khasaala khaase khali waheena?
 
 ##
 Khasaala khaase
@@ -10,23 +6,19 @@ khangorirekho.
 Naakhaweentsile, ne
 sinakhanyoolile ta.
 
-
 ##
 Neshengile inyuma we
 luluutsi, ne sikhaliyo ta.
-
 
 ##
 Naalolile khu ngaki
 khweesi bara bitabo, ne
 siikhabonayo ta.
 
-
 ##
 Naalolile aasi e
 shitaanda, ni nayo
 sikhaliyo ta.
-
 
 ##
 Naakhaweentsile mu
@@ -34,13 +26,11 @@ sanduukhu, mbaawo ni
 shishokesa shiri
 khalimo ta.
 
-
 ##
 Naaweentsakho mu
 shisuli mu ngaaki, nayo
 naalekha
 khukhabonayo ta.
-
 
 ##
 Naakhakilekho
@@ -49,13 +39,11 @@ naawo, naalola mu buli
 shifwo, ne mbaawo isi
 ikhabonela ta.
 
-
 ##
 
 ##
 * License: [CC-BY]
-* Text: Meera Tendolkar and Madhav Chavan
+* Text: Meera Tendolkar, Madhav Chavan
 * Illustration: Rijuta Ghate
 * Translation: Milton Eridad Shissa
-* Language: Lumasaaba
-
+* Language: myx

@@ -92,7 +92,7 @@ together!”
 
 ##
 * License: [CC-BY]
-* Text: Marion Drew and Khothatso Ranoosi
+* Text: Marion Drew, Khothatso Ranoosi
 * Illustration: Marion Drew
-* Translated By: Khothatso Ranoosi and Marion Drew
+* Translated By: Khothatso Ranoosi, Marion Drew
 * Language: en

@@ -66,4 +66,4 @@ of julle in vrede saam kan wees.
 * Text: Joachim Muhindo
 * Illustration: Marleen Visser
 * Translation: Jaime-Lee Wentzel
-* Language: Afrikaans
+* Language: af

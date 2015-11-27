@@ -1,6 +1,4 @@
-# Ikosi uMjekejeke
-nendodakazi
-yakhe
+# Ikosi uMjekejeke nendodakazi yakhe
 
 ##
 Ekadeni kwakukhona ikosi ebekade
@@ -15,7 +13,6 @@ beyifuna ukumtjhada. Kodwana
 ikosi uMjekejeke bekafuna inani
 eliphezulu khulu lamalobolo
 wekosazana le.
-
 
 ##
 Eduze nesgodlo sekosi uMjekejeke
@@ -32,7 +29,6 @@ ngobulwelwe bemalariya, yeke
 ikosana le besele seyifuna
 ukuthatha omunye umfazi.
 
-
 ##
 Yeke ikosana edala,enonileko le
 yakhamba yayokubona ikosi
@@ -46,7 +42,6 @@ uNofanezile siyezwa ikulumo
 ebayiphetheko. Isisebenzi lesi
 besitjhidelene khulu nekosazana
 uSponono.
-
 
 ##
 Ikosana uSgonondo yenza
@@ -62,7 +57,6 @@ uSponono enziwa kwabayifihlo. Ikosi
 le beyazi bona indodakazi yakhe
 angeze yasithabela isiqunto lesi.
 
-
 ##
 Iveke yinye yangaphambi kwelanga
 lomtjhado, isisebenzi uNofanezile
@@ -72,7 +66,6 @@ uhlele umtjhado wakho nekosana
 uSgonondo, begodu uzokwenzeka
 ngeveke ezako,” kukhuluma
 uNofanezile.
-
 
 ##
 Ikosazana uSponono wathukwa
@@ -89,7 +82,6 @@ isikhathi.”
 USipho bekulisokana elalihlekisana
 noSponono.
 
-
 ##
 Ngobusukobo uSponono
 wakhukhutha aphuma esigodlweni.
@@ -103,7 +95,6 @@ lakhe uSipho. Uthe bona afike
 ngendlini bekadiniwe,alambile
 begodu ome khulu.
 
-
 ##
 “Sthandwa sami, kubayini ugijime
 ibangakazi elide begodu ebusuku
@@ -114,7 +105,6 @@ wamlisa waphumula.
 USipho khange ahlaliseke lokha
 asalinde bona uSponono akhulume
 ngokumtshwenyako.
-
 
 ##
 “Kosazanami, kanti khuyini
@@ -130,7 +120,6 @@ Sipho, mina ngifuna ukutjhada
 nawe nanyana uhlupheka nje.
 Ngizimisele ukuhlupheka kanye
 nawe, ngiyakuthanda.”
-
 
 ##
 “Kodwana kosazana, anginayo
@@ -149,7 +138,6 @@ kwaphela iqhinga esingalisebenzisa
 ukobana siphunyurhe begodu
 ubaba angeze asifumana.”
 
-
 ##
 Emuva esigodlweni, ikosi
 uMjekejeke sele ilemukile
@@ -167,13 +155,11 @@ akatholakali. “Yeke khambani
 niyomfuna ngehlathini,” kulayela
 ikosi. Bekasilingeke khulu.
 
-
 ##
 USponono noSipho bathe
 basarhabele esizibeni, kwathoma
 kwahlanga amafu anzima.
 Isiwuruwuru sasele siza ngamandla.
-
 
 ##
 UMadzela umtjhayeli weskepe
@@ -188,7 +174,6 @@ ngamandla, begodu bekuzoba
 yingozi ekulu ukukhamba nabo
 nakunje.
 
-
 ##
 USipho wakatelela bewahlathulula
 bonyana kubayini kufanele
@@ -202,7 +187,6 @@ ubuhlungu. Wavuma bona
 abayamise umlambo nanyana isimo
 sezulu sasinjaya.
 
-
 ##
 UMadzela wadosela iskepe eduse
 nomlambo wabatjela bona
@@ -212,7 +196,6 @@ uSgonondo nabafika ngemlanjeni
 babona abantu abathathu eskepeni.
 Balimuka bona iinthandanezi
 ziphunyurhile.
-
 
 ##
 Isiwuruwuru somoya sakhahlumeza
@@ -228,12 +211,9 @@ kwalelolanga woke umuntu
 watjhaphuluka bonyana atjhade
 nanyana ngubani amthandako.
 
-
 ##
-Ikosi uMjekejeke nendodakazi
-yakhe
 * License: [CC-BY]
 * Text: Amana Yunus
 * Illustration: Natalie Propa
-* Translation: Prudence Komane and Zanele Mthombeni
-* Language: isiNdebele
+* Translation: Prudence Komane, Zanele Mthombeni
+* Language: nr

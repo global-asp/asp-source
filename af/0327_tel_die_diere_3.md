@@ -39,9 +39,7 @@ die leeu water.
 
 ##
 * License: [CC-BY]
-* Text: Zanele Buthelezi, Thembani Dladla and Clare
-Verbeek
+* Text: Zanele Buthelezi, Thembani Dladla, Clare Verbeek
 * Illustration: Rob Owen
 * Translation: Odette Fourie
-* Language: Afrikaans
-
+* Language: af

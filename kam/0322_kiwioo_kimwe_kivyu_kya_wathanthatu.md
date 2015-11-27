@@ -1,8 +1,4 @@
-# Kiwioo kimwe
-kivyu kya
-wathanthatu
-Nombulelo Thabane and
-Tessa Welch
+# Kiwioo kimwe kivyu kya wathanthatu
 
 ##
 Kyai kiwiyoo kivyu kya
@@ -12,7 +8,6 @@ ili. Kila umwe ai muthatu.
 umalai muthauke” Mme
 atutavya.
 “Ndi kumwenda vakuvi nakwa”.
-
 
 ##
 Twaumaaluka tusembete.
@@ -24,7 +19,6 @@ usini” Bontle atutavya
 “ Tuthauke munyini vakuvi na
 kiwu”
 
-
 ##
 Ateo ithau ya ‘libeke’ ni ivyu
 ona ethiwa wi ungu wa miti
@@ -33,12 +27,10 @@ Mbee twaumya syaatu. Indi twai
 o avyu. Twaumya sati na sikati.
 Indi twai o avayu.
 
-
 ##
 Twekia maau usini mathithe.
 Na twombangana kiwu.
 Mituki twamena kiwu.
-
 
 ##
 “Inywi nenyu!
@@ -47,18 +39,15 @@ ndakamanya”
 Twativia na twativia nginya
 twolwa ni ivinda.
 
-
 ##
 Sua yambiia kuthua na
 twambiia kwiwa mbevo ngua
 situ syaiva?
 
-
 ##
 Twamantha ungu wa miti.
 Twamantha kithekani
 Twamantha kila vandu.
-
 
 ##
 Ateo vai ngombe syai vakuvi na usi sikuya
@@ -66,7 +55,6 @@ nyeki syai muyo. Bontle asisya iulu! “ Sisya
 ngombe iya! Yumite kyau?
 “Iya ilaa itune”
 Lerato asya.
-
 
 ##
 “Ti ilaa itune”
@@ -76,7 +64,6 @@ Twasisya ngombe ingi yutanyuka kindu ki
 mbuluu.
 “Isu ni skati yakwa”
 Bontle atulya wasya.
-
 
 ##
 Twenukie na ngua sya nthini
@@ -89,12 +76,9 @@ Mme niwatwikiiie?
 Mituki itimba situ syavyuva.
 Na ti undu wa isua.
 
-
 ##
-Kiwioo kimwe kivyu kya
-wathanthatu
 * License: [CC-BY]
-* Text: Nombulelo Thabane and Tessa Welch
+* Text: Nombulelo Thabane, Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Stephen Musyoka
-* Language: Kikamba
+* Language: kam

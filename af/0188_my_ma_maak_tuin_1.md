@@ -57,4 +57,4 @@ blomme geplant.
 * Text: Tom Sabwa
 * Illustration: Jonathan Field
 * Translation: Tersia Myburgh
-* Language: Afrikaans
+* Language: af

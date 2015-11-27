@@ -106,5 +106,5 @@ Dikuango, who have all passed away since.
 ##
 * License: [CC-BY]
 * Text: Traditional San story
-* Illustration: Manyeka Arts Trust Manuel Masseka, Kapilolo Mahongo and Marlene Winberg
+* Illustration: Manyeka Arts Trust Manuel Masseka, Kapilolo Mahongo, Marlene Winberg
 * Language: en

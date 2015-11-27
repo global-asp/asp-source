@@ -1,11 +1,4 @@
-# Lihaangilwe lye
-lwa khasesaba
-lutweela lweesi
-kumuumu
-kwaaburukhila
-naabi
-Nombulelo Thabane and
-Tessa Welch
+# Lihaangilwe lye lwa khasesaba lutweela lweesi kumuumu kwaaburukhila naabi
 
 ##
 Lyaba lihangilwe lye lwa
@@ -20,7 +13,6 @@ mutsye mwinyahe. Singana
 mwantsikhala mu bikyele byase
 ta.”
 
-
 ##
 Nafwe khwaatima khwarura
 ibulafu. Namoome waaloma ari,
@@ -33,7 +25,6 @@ Namoome weelamo ari,
 “Siikane khusube ta, kane
 khwinyayile busa mu shisiisa
 shishiili aambi ni kameetsi.”
-
 
 ##
 Ne khukhwiinyaha “Kasaango”
@@ -48,14 +39,12 @@ tsisaati ni maliinda. Ne
 khwaarama nga
 khushikyesemulila busa.
 
-
 ##
 Khwaara bikyele byeefwe mu
 meetsi khuubinyisa.
 Nio khwehanyakila kameetsi.
 Khaangukho khwanyakaanyaka
 kameetsi.
-
 
 ##
 Mooshe waaloma ari, “Aso
@@ -65,7 +54,6 @@ Khuryo khwaasuba, khwaasuba,
 khwaasuba, khwebilila
 n’inyaanga.
 
-
 ##
 Inyaanga yaananikha
 khuulaambisa, khwaananikha
@@ -73,13 +61,11 @@ khuunikina imbewo.
 Ne tsingubo tseefwe yaba tsili
 waheena?
 
-
 ##
 Khwaatsya khwaatsiheentsa mu
 bisaala.
 Khwaatsiheentsa mu bisiinyo.
 Khwaatsiheentsa buli aandu.
-
 
 ##
 Ne yabawo tsikhaafu tsitsaba tsaaya bunyaasi
@@ -89,7 +75,6 @@ ikhaafu iyo? Ili na shiina mu khanwa mwayo?
 Namoome weelamo ari, “Ili khuunyaanya
 shimuli shibesemu.
 
-
 ##
 Mooshe weelamo ari, “Sishili shimuli
 shibesemu ta. Iyo isaati yoowo.”
@@ -97,7 +82,6 @@ Khwaabona ikhaafu ikiindi, nga ili khuunyaanya
 shishiindu shishiindi sha bululu.
 Namoome waayokesa ari, “Uyo maliinda
 wase!”
-
 
 ##
 Khwaloota ingo, nga khuli mu
@@ -113,13 +97,9 @@ kaabila naabi, ne akhuba lwe
 bukhafu bubwaama khu
 nyaanga ta.
 
-
 ##
-Lihaangilwe lye lwa khasesaba
-lutweela lweesi kumuumu
-kwaaburukhila naabi
 * License: [CC-BY]
-* Text: Nombulelo Thabane and Tessa Welch
+* Text: Nombulelo Thabane, Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Cornelius Wekunya
-* Language: Lumasaaba
+* Language: myx

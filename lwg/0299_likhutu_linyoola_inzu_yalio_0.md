@@ -1,17 +1,14 @@
-# Likhutu linyoola
-inzu yalio
+# Likhutu linyoola inzu yalio
 
 ##
 Inyanga ndala likhutu liali lichenda mushikuri. Liali likhaba khandi nilikhaba.
 Lialenjera ehale khandi litimba imoni ndala okhulenjera obunyasi. Liachenda
 libira likhomonio.
 
-
 ##
 "Okhabanga eshindu?" Likhomonio liareba.
 " Ne habwene likhomonio, ekhabanga inzu yanje.
 Ochilutsikho?"
-
 
 ##
 Likhomonio liakalusia, "Tawe eshiri okhuchilola, alali endakhukhonya okhukhaba!"
@@ -24,7 +21,6 @@ Mufise fitutu babira imbirimbinzi. "Okhabanga eshindu?" Imbirimbinzi yareba. Ne
 habwene imbirimbinzi, ekhabanga inzu yanje. Ochilutsikhwo?" Imbirimbinzi
 iboola, "Tawe, eshiri, alali endakhukhonya okhukhaba
 
-
 ##
 Yaapa tsimbaa niikhasa."
 Otsitsanga lwangu okhushira,
@@ -34,7 +30,6 @@ enyuma.
 "Endanina khumukongo kwao
 siesi mana."
 
-
 ##
 Likhutu liatsiririra okhuchenda,
 likhomonio nende imbirimbinzi
@@ -43,11 +38,9 @@ Bakhaba khandi bakhaba, alali
 shibanyoola inzu tawe. Eliuba
 liali lishire hasi mwikuku.
 
-
 ##
 Mufise fitutu babira liyoni. "Okhabanga eshindu?" Liyoni likhasi liareba. "Ne
 habwene, liyoni, ekhabanga inzu yanje. Ochilutsikhwo?"
-
 
 ##
 Liyoni likhasi liaboola,
@@ -62,11 +55,9 @@ Bakhaba khandi bakhaba, ne
 shibanyoola inzu tawe. Lirunda
 liachaka okhupa.
 
-
 ##
 Mufise fitutu babira imbeba. Yali ikasia efimuli efiungasie. "Okhabanga eshindu?"
 Imbeba yareeba. "Ne habwene imbeba, ekhabanga inzu yanje. Ochilutsikwo?"
-
 
 ##
 Imbeba yaboola, "Ekhachilola
@@ -79,7 +70,6 @@ Likhutu lialinda. Imbeba
 yenyiira khandi yiinyiira
 okhukama efimuli fie
 efiungasie.
-
 
 ##
 Likhutu liatsiririra okhuchenda,
@@ -94,7 +84,6 @@ fie likhutu.
 Likhutu liachonya. "Muli abasiro
 mwesi," liakwisia amaumo.
 
-
 ##
 Omuyeka kwakhupa naamani.
 Likuku liamalia. "Oh, inzu yanje
@@ -106,25 +95,20 @@ ifula yaronya.
 Likhomonio, imbirimbinzi, liyoni
 likhasi ne imbeba bareeba.
 
-
 ##
 Omuyeka omusiro kwe shifulumutu kwakhupa. Kwayula likhomonio, imbirimbinzi,
 liyoni likhasi nende imbeba okhurula khu mukongo kwe likhutu.
-
 
 ##
 Ifula ya machina yakwa, tip-tip-tip. Likhutu liatirwa noburi niliikhuna mulikamba.
 Lianyoola obutundumu obulayi mwo. "Oo, inzu yanje njieyi!"
 
-
 ##
 “Oo, inzu ye likhutu njieyi!"
-
 
 ##
 * License: [CC-BY]
 * Text: Maya Fowler
 * Illustration: Katrien Coetzer
 * Translation: Margaret Amateshe
-* Language: Oluwanga
-
+* Language: lwg

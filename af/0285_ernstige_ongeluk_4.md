@@ -43,9 +43,7 @@ Ons was geskok.
 
 ##
 * License: [CC-BY]
-* Text: Zanele Buthelezi, Thembani Dladla and Clare
-Verbeek
+* Text: Zanele Buthelezi, Thembani Dladla, Clare Verbeek
 * Illustration: Rob Owen
 * Translation: Juane Van Jaarsveld
-* Language: Afrikaans
-
+* Language: af

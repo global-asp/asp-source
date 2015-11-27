@@ -136,6 +136,6 @@ long and useful trunks.
 
 ##
 * License: [CC-BY]
-* Text: Judith Baker and Lorato Trok
+* Text: Judith Baker, Lorato Trok
 * Illustration: Wiehan de Jager
 * Language: en

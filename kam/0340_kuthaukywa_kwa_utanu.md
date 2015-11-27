@@ -1,5 +1,4 @@
-# Kuthaukywa
-kwa Utanu
+# Kuthaukywa kwa Utanu
 
 ##
 Kwa ivinda iasa, Olokwango
@@ -14,7 +13,6 @@ kinengo kwa ng’ombe, matunda na
 mbui sya utuini ovamwe na Nzia ila
 yekalaa uini usu.
 
-
 ##
 Maundu maendee nesa muvaka ila
 Matata watwikie mutui. Aisye nzia
@@ -25,7 +23,6 @@ kya Olokwango nikyathatie muno,
 nundu wa kwanangwa kwa
 king’ewa kyake ateo kyaumisya.
 
-
 ##
 Muthia wa kyumwa, syana sya
 Matata na anyangae moo nimalisaa
@@ -33,7 +30,6 @@ kiimani kuthauka. Masembaa kila
 vandu, maitulanga mbonge sya
 miti, makyakany’a miaki na kumitia
 yakene.
-
 
 ##
 Kwa ivinda Olokwango anoa. Kavola
@@ -50,7 +46,6 @@ na malondu syamosa vyu. Kila
 umwe eew’a kimako kya kiima kya
 Olokwongo.
 
-
 ##
 Andu ma Kwere nimamanyie kana ve kindu kikwenda
 kwikwa. Nimakwatanie na maumya Matata kivilani.
@@ -58,7 +53,6 @@ Vandu vake manyuva Baraka ula mituki waisye kila
 mundu navande ilaa manenge Olokwongo ndaia.
 Baraka na andu make maseuvya sikuku na maete
 mithinzio ya miti ya maana kwa Olokwongo.
-
 
 ##
 Vai mundu watenbeelaa kiimani kiu
@@ -74,7 +68,6 @@ ku nyekini. Ng’ombe, mbui, na
 malondu syathumua munyini wa
 miti.
 
-
 ##
 “Ikala thayu mwasa Baraka, ikala
 thayu mwasa Baraka” andu ma
@@ -84,10 +77,9 @@ Olokwongo” Baraka na andu masya.
 syoo na nzukulu syoo nisyunenge
 ndaia kila ivinda.
 
-
 ##
 * License: [CC-BY]
 * Text: Stephen Musyoka
 * Illustration: Catherine Groenewald
 * Translation: Stephen Musyoka
-* Language: Kikamba
+* Language: kam

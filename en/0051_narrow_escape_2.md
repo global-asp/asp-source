@@ -36,7 +36,6 @@ had fought and successfully killed.
 
 ##
 * License: [CC-BY-NC]
-* Text: Beatres Nabune and Samuel Mudenya
-* Illustration: Karen Lilje, Catherine Groenewald, Karlien de
-Villiers, Jesse Breytenbach and Marleen Visser
+* Text: Beatres Nabune, Samuel Mudenya
+* Illustration: Karen Lilje, Catherine Groenewald, Karlien de Villiers, Jesse Breytenbach, Marleen Visser
 * Language: en

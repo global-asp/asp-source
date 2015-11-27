@@ -56,6 +56,5 @@ coach!
 * License: [CC-BY]
 * Text: Letta Machoga
 * Illustration: Vusi Malindi
-* Translated By: Nolitha Bikitsha and Thandabantu
-Magengelele
+* Translated By: Nolitha Bikitsha, Thandabantu Magengelele
 * Language: en

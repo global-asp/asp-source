@@ -1,5 +1,4 @@
-# MAAMA WANGE
-GAHOMA
+# MAAMA WANGE GAHOMA
 
 ##
 .Maama wange
@@ -9,7 +8,6 @@ mutotono.
 Gahoma omuga
 mutotono ogw’epindi
 
-
 ##
 Bbaabba wange
 gahoma.
@@ -18,16 +16,13 @@ mutotono.
 Gahoma omuga
 mutotono ogw’ebimuli.
 
-
 ##
 .Maama wange gaaga
 emiga jonbi.
 
-
 ##
 .Bbaabba gajuhiriye
 amaaji emiga jombi.
-
 
 ##
 Abasaye bange ni
@@ -36,7 +31,6 @@ mwiga jombi.
 Ese ni muganda yange
 hwanoga ebimuli ne
 pindi.
-
 
 ##
 Omuga omutotono
@@ -48,7 +42,6 @@ ogwe bimuli
 hwahunguye envera
 ej’ebimuli
 
-
 ##
 Maama wange gahoma
 .
@@ -57,7 +50,6 @@ mubbala.
 Omuga omubbala
 ogugaho gwaali
 gw’epindi.
-
 
 ##
 Bbaabba wange
@@ -68,14 +60,12 @@ Omuga omubbala ogu
 gahoma gwali
 gw’ebimuli.
 
-
 ##
 * License: [CC-BY]
 * Text: Tom Sabwa
 * Illustration: Jonathan Field
-* Translation: Cornelius Gulere and BEATRES NABUNE
-AND ASUMAN LIPOTO
-* Language: Lunyole
+* Translation: Cornelius Gulere, Beatres Nabune, Asuman Lipoto
+* Language: nuj
 
 Olugero luyeeda abaana
 ohuyeedanga abasaye baawe.

@@ -60,7 +60,7 @@ Come, read with us!
 
 ##
 * License: [CC-BY]
-* Text: Zimbili Dlamini and Hlengiwe Zondi
+* Text: Zimbili Dlamini, Hlengiwe Zondi
 * Illustration: Catherine Groenewald
-* Translated By: Zimbili Dlamini and Hlengiwe Zondi
+* Translated By: Zimbili Dlamini, Hlengiwe Zondi
 * Language: en

@@ -1,5 +1,4 @@
 # A man who built a house
-Remedial class (Kabubbu community Library)
 
 ##
 There was a great
@@ -41,5 +40,5 @@ He got many presents.
 ##
 * License: [CC-BY]
 * Text: Remedial class (Kabubbu community Library)
-* Illustration: Rob Owen, Marleen Visser, Wiehan de Jager, Alex Zablon, Jano Strydom, Kathy Arbuckle and Magriet Brink
+* Illustration: Rob Owen, Marleen Visser, Wiehan de Jager, Alex Zablon, Jano Strydom, Kathy Arbuckle, Magriet Brink
 * Language: en

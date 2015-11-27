@@ -1,5 +1,4 @@
-# Manaasi ni
-Ingosya
+# Manaasi ni Ingosya
 
 ##
 Manaasi, Nabubi ni Wanduuyu
@@ -13,7 +12,6 @@ aakabatsakilakho musaale weewe
 bibiindu bino. Ne Manasi s’aaba
 musangaafu ta. Aabamo likoko.
 
-
 ##
 Manaasi waakhala kamakyesi ke
 khukhwiiyisakho kumukuunda kwa
@@ -23,7 +21,6 @@ isi akona ta.
 Ne Manaasi niye wibona nga niye
 umweene mukuunda ni bibyaano
 abe bibyaba bya Wanduuyu.
-
 
 ##
 Manaasi waatsya mwikulanilo
@@ -35,7 +32,6 @@ waakulilakho be muungo mweewe
 nabukubo, waamala waamura mu
 ndubi khu ngaaki khwe kamapeesa.
 
-
 ##
 Manaasi ni kumwikhoyo kumukali
 wakeenda nga wetwiikhile indubi
@@ -44,7 +40,6 @@ Inyaanga yoosi aaba ali
 khukhwambaasa khu biindu byeesi
 anyala khuukula mu mapeesa
 keewe ako.
-
 
 ##
 Nga ashikeenda aryo, ifula
@@ -57,7 +52,6 @@ wekama ifula mu kusaala. Ne
 s’aarusa tsimoni khu ndubi
 iyitsuulemo buyiindifu bweewe ta.
 
-
 ##
 Ifula yeloosela khuutsutsukha ni
 kamaani nga itosa Manaasi, ni
@@ -67,7 +61,6 @@ Welomela ari, “Inarama mwiilowo
 muno, khukhwoolesa ifula
 niinaheesa. Shiilayi ndi naabiimbile
 nabukubo khu mapeesa kaase.”
-
 
 ##
 Mu mbuka ifwiiti iri, ingosya iyaba
@@ -79,7 +72,6 @@ nabukubo.
 Yaakhalawo khuubimbilila indubi ni
 tsindaaha khukhwoolesa ifula ni
 yaheesa.
-
 
 ##
 Manaasi waabona ingosya nga
@@ -97,7 +89,6 @@ Manaasi s’aafukiilisa byeesi ali
 khuuwulila ta. Kila aloma ingosya
 ari, “Mu n’gali indubi iyase!”
 
-
 ##
 Mwirima liikali, Manaasi waatsya khukhwiilootsa
 w’omuwuli we shisiintsa. Ne ingosya yaareeba
@@ -112,7 +103,6 @@ indubi ni tsindaaha tsase, nio iwe waapuunukha
 khukhwaama isi ikhamanyile ta, weetsa waaloma uri
 indubi ni bibiilimo bili bibyoowo!”
 
-
 ##
 Nga umuwuli ni bayeeti beewe
 baamalile khuurekeeresa buulayi,
@@ -123,7 +113,6 @@ khuukhupanisa bibyambaaso
 khuumala imbuka indeeyi.
 Lwanyuma baafukiilisana she
 khuukhola.
-
 
 ##
 Balaanga Manaasi Nabubi ni
@@ -138,7 +127,6 @@ Manaasi waalekha khufukiilisana ni
 byeesi awuliile ta. Waruundukha
 kamasika waalila.
 
-
 ##
 Khaangukho tsilomo tsaasalanila
 buli aandu oosi bari kumusaango
@@ -152,10 +140,9 @@ Lubaluba Manaasi waakobolayo mu
 butaambi luundi, nga s’aali ni
 basaale ta.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Fabian Wakholi
-* Language: Lumasaaba
+* Language: myx

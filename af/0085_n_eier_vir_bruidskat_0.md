@@ -131,4 +131,4 @@ around.”
 * Text: Nambi Sseppuuya Community Resource Centre
 * Illustration: Wiehan de Jager
 * Adaptation: Talita Raal
-* Language: Afrikaans
+* Language: af

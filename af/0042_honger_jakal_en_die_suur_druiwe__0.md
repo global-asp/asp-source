@@ -55,4 +55,4 @@ honger.
 * Text: Kholeka Mabeta
 * Illustration: Benjamin Mitchley
 * Translation: Sheriese Mahabeer
-* Language: Afrikaans
+* Language: af

@@ -70,8 +70,7 @@ Die wind!
 
 ##
 * License: [CC-BY]
-* Text: Madhuri Pai and Rohini Nilekani
+* Text: Madhuri Pai, Rohini Nilekani
 * Illustration: Rijuta Ghate
 * Adaptation: Tharina Viljoen
-* Language: Afrikaans
-
+* Language: af

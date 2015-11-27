@@ -1,7 +1,4 @@
-# Nokũngũ na
-Yalyũka
-Alan Kenyon and Viv
-Kenyon
+# Nokũngũ na Yalyũka
 
 ##
 Tene tene vyũ kwaĩ mũndũ ũmwe
@@ -9,7 +6,6 @@ ngya na mũka wake. Maĩna kana
 kamwe ka kelĩtu ketawa Nokũngũ.
 Nokũngũ aĩ mwanake na mũthingu.
 Asyai make nĩmamwendete mũno.
-
 
 ##
 Mũthenya ũmwe asyai make
@@ -20,13 +16,11 @@ kĩna malaa na ivungo na wanyũa.
 Nĩwamũseũvĩsye ĩsoa ya wanyũa na
 ĩndĩ amũtũma ndũanĩ ya naũme.
 
-
 ##
 Aendete Nokũngũ nĩwethĩie kalũsĩ
 na akakĩla akinyangĩte mavia.
 Mũingo Nokũngũ nĩwakomanie na
 kelĩtu kanini kekĩte ilai.
-
 
 ##
 Kelĩtu nĩkamũkũlilye, “Wendete kũ?”
@@ -37,7 +31,6 @@ nendete kũmũkethya,” kelĩtu
 nĩkaisye.
 Kwou nĩmatembeie vamwe.
 
-
 ##
 Mendanga vanini kelĩtu nĩkaisye,
 “kĩsikati kyaku nĩkĩseo mũno na ĩsoa
@@ -45,7 +38,6 @@ yaku nĩyanake, vatonyeka nenge
 nele.”
 Nokũngũ nĩwaumisye kĩsikati na
 ĩsoa yake na anenge kala kelĩtu.
-
 
 ##
 Ĩla kelĩtu kau kaumisye ilai syako
@@ -55,7 +47,6 @@ mwĩthe!
 Nokũngũ nĩwew’ie w’ĩa nũndũ
 nĩwamanyie kelĩtu kau nĩyalyũka.
 
-
 ##
 Nĩmatembeangie vamwe na
 Nokũngũ asya, “ndũngĩe kĩsikati
@@ -63,7 +54,6 @@ kyakwa na ĩsoa yakwa.”
 Ĩndĩ yalyũka nĩyaisye, “eka nĩkĩange
 nginya tũvike mũtĩnĩ ũya.”
 Nĩyaolotile mũtĩ wĩ kĩĩmanĩ
-
 
 ##
 Ĩla mavikĩĩe mũtĩ ũsu, Nokũngũ
@@ -74,7 +64,6 @@ kalũsĩnĩ kala katĩe,” yalyũka
 nĩyaisye. Nokũngũ nĩwetĩkĩlile
 nũndũ nĩwakĩaa.
 
-
 ##
 Nĩmavikie kala kalũsĩnĩ na Nokũngũ
 eea yalyũka, “vatonyeka ndũngĩe
@@ -84,7 +73,6 @@ kanyũmbanĩ kaala vala iveti isu
 syile nthĩ,” yalyũka nĩyaisye.
 Kwou nĩmaendie na mbee.
 
-
 ##
 Ĩla mavikie kanyũmbanĩ yalyuka
 nĩyalutile Nokũngũ ĩtina na yeya
@@ -93,7 +81,6 @@ kaa kekĩte ilai. Kambatĩe mũthenya
 mũima na nenda kasyoke.”
 Nokũngũ nĩwakwatiwe ni nzoni na
 asemba evitha kyũũnĩ.
-
 
 ##
 Yalyũka nĩyendie nyũmbanĩ ya
@@ -106,7 +93,6 @@ Mũtonyama nĩwathokisye mwĩĩtu
 Nokũngũ ekalaa kyũũnĩ na kũya lĩu
 wa ngitĩ.
 
-
 ##
 Kwi mũthenya Nokũngũ endaa
 mũũndanĩ akwĩvitha mbembanĩ na
@@ -116,7 +102,6 @@ tata na inya nũke kwĩkala na mama
 Mũtonyama. Nzĩanĩ nakomanie na
 yalyũka na yoosa kĩsikati kyakwa na
 ĩsoa yakwa. Thĩna atĩ thĩna nyie.”
-
 
 ##
 Mũthenya ũmwe mwanainyaa
@@ -131,7 +116,6 @@ mũũndanĩ na mĩtũkĩ.
 Nĩwew’ie ũla wathi na amanza
 Nokũngũ mũvaka amwona.
 
-
 ##
 Nokũngũ nĩwamũtavisye ũndũ
 kwekĩkie, ũndũ yalyũka yamũvenie
@@ -143,7 +127,6 @@ nyũmba nzĩnĩ.
 Mũtonyama nĩwesĩ ũndũ ũkũkwatya
 yalyũka.
 
-
 ##
 Mũtonyama nĩwew’ĩte kana mwĩthe
 wa yalyũka nĩwendete ĩia na
@@ -153,7 +136,6 @@ masimbe ĩima ĩnene na
 makwĩyusũsya na ĩia ĩwaatu.
 Nĩwetie eĩtu onthe ma ndũa moke
 masindane kũtwĩla.
-
 
 ##
 Mwĩĩtu ũla wekĩĩte ngũa sya
@@ -167,7 +149,6 @@ alũmya ũndũ vatonyeka.
 Na ĩndĩ nĩwendie kũlikana na eĩtu
 ala angĩ.
 
-
 ##
 Eĩtu nĩmanzie kũtwĩla ĩũlũ wa ĩima
 ũmwe ĩtina wa ũngĩ.
@@ -176,7 +157,6 @@ nĩyatatie kũtwĩla ĩla ĩima ĩndĩ
 mwĩthe wayo nĩwathalĩkile
 waĩkusya, waĩkusya, waĩkusya,
 mũvaka ĩla ĩianĩ ĩwatu.
-
 
 ##
 Yalyũka yendee na kwilita ĩianĩ ĩsu
@@ -188,11 +168,9 @@ yalyũka.
 naũme kwa kĩlungu kĩasa.
 Ngewa yathelela vau.
 
-
 ##
 * License: [CC-BY]
-* Text: Alan Kenyon and Viv Kenyon
+* Text: Alan Kenyon, Viv Kenyon
 * Illustration: Wiehan de Jager
 * Translation: Anna Kula
-* Language: Kikamba
-
+* Language: kam

@@ -1,12 +1,10 @@
-# Engoho ni
-Haŋungu
+# Engoho ni Haŋungu
 
 ##
 Hale hale, engoho ni Haŋungu
 byamenyanga ŋalala n'enyuni
 ejindi mu dembe.
 Jaholeranga ŋalala hiisi hiitu .
-
 
 ##
 Ehiseera hyola ng'enjala egwa
@@ -19,7 +17,6 @@ yiroma engoho yiti, Huli
 n'ohwendula engeri enyangu
 ey’ohugenda.
 
-
 ##
 Olufanyuma lw’ohuŋenyuha,
 engoho yasuna ehiŋeego
@@ -30,7 +27,6 @@ Ni yahena ng'eroma Haŋungu
 yiti, "Hahutungire amooya gano
 hu mabaŋa geefe hamunga
 hinatuŋe egenda enyangu.
-
 
 ##
 Hu hyalo ohwo, Haŋungu
@@ -46,7 +42,6 @@ Ng'aŋo yireha episyo hu kabada
 yitiina mu fumbiro ohutegehera
 abaana baayo emere.
 
-
 ##
 Naye enyuni ejindi jaali jiweene
 Haŋungu ni yiguluha. Olw'ehyo
@@ -58,7 +53,6 @@ ng'enyuni joosi jetungira
 amabaŋa jitagiha ohuguluha
 mu bbanga.
 
-
 ##
 Era enyuni esembayo
 niyagobosa episyo, engoho
@@ -68,7 +62,6 @@ hweguduhisa.
 Nibademba omugudulo, baleha
 episyo jana mumujehe.
 
-
 ##
 Era enyuni esembayo
 niyagobosa episyo, engoho
@@ -77,7 +70,6 @@ baŋamba episyo nga batagiiha
 hweguduhisa.
 Nibademba omugudulo, baleha
 episyo jana mumujehe.
-
 
 ##
 “Peemo olunaku lulala,” Engoho
@@ -90,7 +82,6 @@ hundiŋamo omwanawuwo
 mulala, “ga kotiine ofune
 ebiryo.”
 
-
 ##
 Haŋungu niyaaja nibuhyeye,
 yagaana engoho nehisagula hu
@@ -98,7 +89,6 @@ sagula mumujehe, episyo
 netaboneha.
 Haŋungu yehire ŋaasi nga
 enyangula ahagoho halala.
-
 
 ##
 Era ohuŋwa olwo, hisi oru
@@ -111,10 +101,9 @@ engoho elabula owaana bwayo,
 Era bugoboramo: “sihuli basiru,
 hunadulume.”
 
-
 ##
 * License: [CC-BY]
 * Text: Ann Nduku
 * Illustration: Wiehan de Jager
 * Translation: Ivan Kaibo
-* Language: Lunyole
+* Language: nuj

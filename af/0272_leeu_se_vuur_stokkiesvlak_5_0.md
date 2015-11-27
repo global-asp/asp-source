@@ -142,5 +142,4 @@ vuur gekry het.
 * Text: Traditional San story
 * Illustration: Manyeka Arts Trust
 * Translation: Stephan Coetzee
-* Language: Afrikaans
-
+* Language: af

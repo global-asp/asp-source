@@ -1,6 +1,4 @@
-# Esichira Anansi
-naba norulenje
-orutiti munane
+# Esichira Anansi naba norulenje orutiti munane
 
 ##
 Tsinyanga tsialiho khale, tsinyanga
@@ -12,7 +10,6 @@ niyachama okhukhombakhomba
 kho efiakhulia fia bandu bandi
 betesheranga nende abananzu
 tsiabu khulukongo.
-
 
 ##
 Inyanga ndala, lwema hambi nende
@@ -30,7 +27,6 @@ fiokhukhola."
 fiokhukhola," Anansi naboola
 bwangu bwangu.
 
-
 ##
 “Ndalakhulanga endie eliani
 niliakhayia?" Eshituyu nishireeba.
@@ -43,7 +39,6 @@ niliakhayia, khwesa olububi ne
 ndaletsa tsimbiro.”
 Kho Anansi naboa olububi
 khunyungu ne natsia.
-
 
 ##
 Mufise fitutu, Anansi yalola lishene
@@ -80,7 +75,6 @@ elubeka indi. Omwitsawe Ingurwe
 napara mbu elo neliparo likhongo.
 Kho nikafuchililwa kario.
 
-
 ##
 Efise fia Anansi yolera khumwalo,
 yali naboyelwe olububi khu buli
@@ -96,7 +90,6 @@ filenje fie. “Ee”, Anansi naboola.
 “Olo nolububi luboyerwe khunyungu
 ye liani liamasafu ye Eshituyu."
 
-
 ##
 Yaulira olundi, khandi olundi. Anansi
 yataanyulwa tsimbeka tsitaru
@@ -108,7 +101,6 @@ musafu. Nende olwa munane.
 Anansi yakhweswa eno nende elia
 tsisia tsiosi munane. Efilenje fie fiosi
 munane fiatanyuulwa nifinyerala.
-
 
 ##
 Anansi yeshukhasiashukhasia
@@ -125,12 +117,9 @@ efinyerere.
 Ne inyanga eyo shiyanyoola kho
 eshiakhulia shiosi tawe.
 
-
 ##
-Esichira Anansi naba norulenje
-orutiti munane
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

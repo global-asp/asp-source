@@ -1,5 +1,4 @@
-# Intwala
-eputjukileko
+# Intwala eputjukileko
 
 ##
 Kade esikhathini esadlulako.
@@ -8,13 +7,11 @@ iinkomo zabo.
 Bazuma iinkomo kwabe
 kwarhwaqela.
 
-
 ##
 Nasele kubanzima khulu,
 babona umkhanyo ngendlini.
 Bavumelana bona bakhambe
 bayokubawa indawo yokulala.
-
 
 ##
 Bafika endlini bakokoda.
@@ -24,24 +21,20 @@ Abesanaba azange babone
 muntu. Kodwana bezwa izwi
 libalotjhisa.
 
-
 ##
 Izwi lathi, “Ngiyintwala vulani
 ipoto nithathe ukudla. Vulani
 umjeke begodu nisele
 amarhewu.”
 
-
 ##
 Intwala yambatha isikhumba
 sayo yaphuma.
-
 
 ##
 Abesana badla, basela, begodu
 bebathokoza.
 Bakhamba.
-
 
 ##
 Nabasendleleni bakhamba,
@@ -52,7 +45,6 @@ Bagqhina baphetha
 ngokuvumelana bona babuyele
 emuva bayoku putjuza intwala.
 
-
 ##
 Babuyele endlini baputjuza
 intwala.
@@ -62,10 +54,9 @@ yanyamalala!
 Bazithola sebangaphandle
 ebalena lakuvuleke khona.
 
-
 ##
 * License: [CC-BY]
 * Text: Zimbili Dlamini
 * Illustration: Magriet Brink
-* Translation: Skosana ES and Mahlangu TP
-* Language: isiNdebele
+* Translation: Skosana ES, Mahlangu TP
+* Language: nr

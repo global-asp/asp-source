@@ -118,4 +118,4 @@ mond."
 * Text: Salaama Wanale
 * Illustration: Mango Tree
 * Translation: Theresa du Plessis
-* Language: Afrikaans
+* Language: af

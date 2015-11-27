@@ -107,4 +107,4 @@ vriende nie.
 * Text: Ann Nduku
 * Illustration: Wiehan de Jager
 * Translation: Marile Duvenhage
-* Language: Afrikaans
+* Language: af

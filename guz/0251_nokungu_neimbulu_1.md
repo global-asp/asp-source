@@ -1,7 +1,4 @@
-# Nokungu
-N’eimbulu
-Alan Kenyon and Viv
-Kenyon
+# Nokungu N’eimbulu
 
 ##
 Abwo kare Omosacha
@@ -22,7 +19,6 @@ baye bakaamua
 komotoma gochia
 komenya na Ise moke
 orenge etachiri naende
-
 
 orenge korokwa
 Mtonyama.
@@ -46,7 +42,6 @@ nomoiseke oyomo
 obegete chiyanga
 amachanchabe.
 
-
 ##
 “ing’ai ogochia”
 omoiseke oria
@@ -55,7 +50,6 @@ akamoboria.
 komotarera tata moke
 Mtonyama,” Nokungu
 akamoiraneria.
-
 
 Ero bono, Mtonyama
 gose nainche tata
@@ -121,13 +115,11 @@ Nonkungu akaba
 nobwoba obonge, igo
 agancherana tu.
 
-
 ##
 Omoerio bagaika ase
 oroche roria.
 Naende Nokungu
 akaboria Eimbulu eria,
-
 
 “Gaki ing’a chiayanga
 chiane n’erindered
@@ -146,7 +138,6 @@ eria ekamosuguma
 Nokungu ensemo na
 gwetang’ania bosio
 
-
 bwaye nagotebia
 abakungu baria
 baikaransete ase
@@ -163,7 +154,6 @@ ekagenda nyomba mwa
 Isemoke Mtonyama
 nakomotebia,
 “Ninche moigwa oo,
-
 
 Nokungu. Abaobori
 bane nigo bantoma
@@ -191,14 +181,12 @@ Nchera ginkogenda
 nkaumera Eimbulu
 akaira esikati yane
 
-
 ##
 Rituko erimo, oyomo
 bw’abamura bamwabo
 Mtonyama ngoeta
 arenge getii ekero
 aigwete eriogi riria
-
 
 riogotera koria okuya.
 Tamanyete ase ogetora
@@ -216,7 +204,6 @@ bionsi biria
 biakorekanete, buna
 eimbulu eria yairete
 eyanga yaye engiya,
-
 
 nakomotebia abeke
 amachanchabe.
@@ -244,14 +231,12 @@ Erinde akabarangeria
 abaiseke bonsi
 bekenyoro basindane
 
-
 ##
 Omoiseke oria obegete
 eyanga eria ya
 Nokungu namaritati
 amo n’erindere riaye
 akaoboa sana. Tatagete
-
 
 gocharoka igoro
 yengoro eria yabwate
@@ -279,7 +264,6 @@ nakomongusa nse, nse
 kabisa baka ase
 amabere aria
 
-
 ##
 Buna riria eimbuluu eria
 egendererete kwerania
@@ -296,10 +280,9 @@ ase engaki etambe
 mono.
 Noyio noro omoerio
 
-
 ##
 * License: [CC-BY]
-* Text: Alan Kenyon and Viv Kenyon
+* Text: Alan Kenyon, Viv Kenyon
 * Illustration: Wiehan de Jager
 * Translation: Dennis Ogaro Ondieki
-* Language: Ekegusii
+* Language: guz

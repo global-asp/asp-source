@@ -158,11 +158,8 @@ vrygewendheid. Dit is hoekom
 Bassie ons beeldskone koningin is.
 
 ##
-Die Koningin van Soweto: Die storie
-van Basetsana Kumalo...
 * License: [CC-BY]
 * Text: Jessica Taylor
 * Illustration: Mia du Plessis
 * Translation: Christine van Noordwyk
-* Language: Afrikaans
-
+* Language: af

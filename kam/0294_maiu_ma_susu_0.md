@@ -16,7 +16,6 @@ little secrets. But there was one
 secret she did not share with me:
 where she ripened bananas.
 
-
 ##
 Sũsũ aĩna syana mbingĩ. Ĩndĩ katĩka
 onthe, nyie na aamwaiya na
@@ -40,7 +39,6 @@ nanengiwe ũsũngĩo ũmwe kana nĩ
 kĩkavũ kya syama. Sũsũ anzũngĩa
 ou nĩwendee kũalyũla kĩtembe kya
 
-
 ##
 Vakuvĩ na kĩkavũ vaĩna mathangũ
 ma maiũ wekalaa akwalyũla ĩvinda
@@ -58,17 +56,16 @@ sũsũ ũkũtũmĩa syĩndũ isu syonthe,
 sũsũ nĩwandũmie ngeete kĩndũ
 kuma vala ve mwaitũ.
 
-
 ##
 Ndililikana kĩndũ kĩu kyaĩ kyaũ.
 Nĩnamwĩsũvie ngũmwĩa, “Sũsũ naku
-eka nambe kwona wĩsovya….” “Eke
+eka nambe kwona wĩsovya....” “Eke
 kwĩthĩwa kana keemu, ĩka ũndũ
 watavwa.” Sũsũ nĩwasũngĩie.
 Nĩnaumie nĩsembete.
 Nasyokethya nethĩie sũsũ ailye nza
 wa nyũmba. “Sũsũ, kĩkavũ kĩva na
-maiũ na…?” ĩndĩ ũsũngĩo ũla
+maiũ na...?” ĩndĩ ũsũngĩo ũla
 nakwatie nĩkana, “Syĩvandũnĩ
 vakwa va syama.” Nĩnendaa
 kũmanya vandũ vau va syama ĩndĩ
@@ -76,7 +73,6 @@ namũkũlya sũsũ nĩwendee
 kwĩtwĩkĩthya kana ndakwĩw’a na
 aendea kw’ina wathi. Nĩnakwie
 ngoo.
-
 
 ##
 Matukũ elĩ mathela sũsũ aĩna mĩtũkĩ
@@ -86,7 +82,6 @@ yake lumunĩ ya kũkoma. Ĩla
 navingũie mwango wa lumu ĩsu
 nĩnathokiswe nĩ muuke wa maiũ
 makwĩw’a.
-
 
 ##
 Lumunĩ ya nzĩnĩ ĩũsũĩte syĩndũ sya
@@ -103,7 +98,6 @@ ngũmanya kana nonendee
 kwenyeea ĩtheka nũndũ wa
 kũmanya vala vandũ va syama.
 
-
 ##
 Mũthenya ũla watĩĩe sũsũ ooka
 kũnena na mwaitũ nĩnosie
@@ -116,7 +110,6 @@ nĩnasyokie nyũmba na naya ĩiũ
 yakwa na mĩtũkĩ. Ndyaya ĩiũ yany’a
 mũyo ũu ĩngĩ!
 
-
 ##
 Mũthenya ũla watĩĩe nĩnetelile sũsũ
 athi kuuna mboka nasemba kũsisya
@@ -124,7 +117,6 @@ ala maiũ. Vakuvĩ onthe nĩmew’ĩte.
 Ndyenamba kũmĩĩsya kũlea kwosa.
 Nĩnosie ana na nekalata kuumala
 nolwa kũvwĩka kĩkavũ.
-
 
 ##
 Nuumalĩte kavola na mĩthya ya
@@ -141,7 +133,6 @@ kũmũkethya mũthenya ũsu. Ĩndĩ
 ndyenamba kũmwĩvitha kĩlungu
 kyaasa.
 
-
 ##
 Masaa ma wĩyoo ĩla netiwe nĩ
 mwaitũ na nau na sũsũ nĩneesĩ kĩla
@@ -150,10 +141,9 @@ kana ndikang’ea kĩndũ kya sũsũ
 kana kya asyai makwa kana kya
 mũndũ ũngĩ.
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Anna Kula
-* Language: Kikamba
+* Language: kam

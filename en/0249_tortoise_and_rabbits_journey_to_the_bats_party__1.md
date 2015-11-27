@@ -48,5 +48,5 @@ to find food to eat somewhere else.
 ##
 * License: [CC-BY-NC]
 * Text: Catherine Nambubi
-* Illustration: Padmanabha, Wiehan de Jager, Sandra McDougall, Alice Inzikuru and Katrien Coetzer
+* Illustration: Padmanabha, Wiehan de Jager, Sandra McDougall, Alice Inzikuru, Katrien Coetzer
 * Language: en

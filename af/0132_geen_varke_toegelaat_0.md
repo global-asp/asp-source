@@ -58,5 +58,4 @@ nog altyd so.
 * Text: Basilio Gimo
 * Illustration: Laura Libertore
 * Translation: Ane Myburgh
-* Language: Afrikaans
-
+* Language: af

@@ -1,6 +1,4 @@
-# Anansi,
-Amakhokho
-nende Tsikwena
+# Anansi, Amakhokho nende Tsikwena
 
 ##
 Inyanga ndala inzala yakwa
@@ -39,7 +37,6 @@ Yakalusiria amakhokho orio ingali,
 ne narula elwanyi, nachenda
 nabwao eshinyumanyuma okhula
 
-
 ##
 Kata kario, likhuyu elala lionyone
 shiliakhamuyera tawe. Yakalukhayo
@@ -55,7 +52,6 @@ Anansi nakakalusia ari, “Buli eshise
 lwa ndula nango,
 amanda kabetsa nikamalire
 okhusima.”
-
 
 “Obeyanga!”amakhokho
 nikamubolera. "Wenyanga
@@ -90,15 +86,14 @@ kuno obulamu bwanje bwosi,"
 niyeparira, "ndalaruuma busa
 mumuyeka shinga amakhokho.”
 Kho yakhwesa emiuya mukari,
-naruuma, ne….Tuumbu! nakwa
+naruuma, ne....Tuumbu! nakwa
 mumwalo akari we tsikwena.
-
 
 ##
 “Eshili ano nishi?” okwoyo
 kweikwena nikurwarwakha.
 "Shiakhaba eshindu eshinulu
-shiokhulia, shiuu…”
+shiokhulia, shiuu...”
 Tawe nochama bayie!” Anansi
 naboola. Ne niyaanza okhulira.
 “Endi mulala khwinywe. Mukorirwe?
@@ -109,7 +104,6 @@ khubekho banje okhulolekha.”
 
 Nalila muno muno okhuula tsikwena
 nitsimulolera eshisa.
-
 
 ##
 Ikwena ikhulundu yalikho,
@@ -144,7 +138,6 @@ ndalamuboolela olukano lwobulamu
 bwanje,” Anansi natsiboolela olwe
 tsindolo tsiabayila.
 
-
 ##
 Mumabwibwi inyanga yalondakho,
 eliuba nilishili okhufwinda, Anansi
@@ -154,7 +147,6 @@ enyende omukhasi wanje nende
 abaana banje injerekha womwalo,
 betse bakhonye okhubabolela
 olukano lwanje.”
-
 
 ##
 Ikwena yasinyikha nibubura khulwo
@@ -170,7 +162,6 @@ busa bwangu bwangu ninde busa!”
 Anansi naiboolela, ne
 nakhamiushila mubunyasi.
 
-
 ##
 Okhuula inyanga ino, Ikwena
 ishilindanga khulukuku, namoolu
@@ -178,10 +169,9 @@ kayo nga amasingo khumatsi,
 nende tsimoni tsiefipalapala
 khumatsi ekulu.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

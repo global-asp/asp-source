@@ -1,7 +1,4 @@
-# Nonkungu ne
-Imbulu
-Alan Kenyon and Viv
-Kenyon
+# Nonkungu ne Imbulu
 
 ##
 Khale yaliwo omusatsa
@@ -30,7 +27,6 @@ shietswani indayi nende
 omukoye, nefiuma
 nende fifungo.
 
-
 Khandi namuimira
 
 ##
@@ -45,7 +41,6 @@ yanyoola omukhana
 wundi omuraka
 nafwalire amatasi.
 
-
 ##
 ‘’Otsiaye?’’ omukhana
 oyo namureeba.
@@ -53,7 +48,6 @@ oyo namureeba.
 khotsa wanje,
 Mtonyama’’ Nonkungu
 nakalusia.
-
 
 ‘’Obulayi. Mtonyama ni
 khotsa siesi. Khandi
@@ -77,7 +71,6 @@ Kho Nonkungu
 nafwalula eshibunguyi
 shishie nende eshiuma
 naheresia omukhana
-
 
 ##
 Ne omukhana oyo
@@ -104,7 +97,6 @@ iri, ‘’Lekha efwalekho
 okhuula womusala kulia
 kuli."
 
-
 Niyechesia omusala
 
 ##
@@ -121,7 +113,6 @@ niiboola.
 Nonkungu yali omuri
 muno,kho nafuchirira.
 
-
 ##
 Olunyuma nibola
 khumwalo.
@@ -130,7 +121,6 @@ nareeba Imbulu , ‘’
 'Chama ungalusirie
 eshibunguyi nende
 eshiuma."
-
 
 'Ndeshera efwalekho
 busa okhula akhatsu
@@ -161,7 +151,6 @@ Abebusi banje
 bandumire mbu nditse
 emenye ninawe'.’’
 
-
 Mtonyama namwinjisia
 omukhana oyo . Ye
 nende abeinzuye
@@ -183,7 +172,6 @@ khotsa Mtonyama.
 Khunjira nembukana
 nende Imbulu,
 
-
 ##
 Inyanga ndala, mulala
 khu basiani aba
@@ -197,7 +185,6 @@ olwayoola ingo,
 nabolela Mtonyama
 amakhuwa ako.
 
-
 Bwangu obo, Mtonyama
 
 ##
@@ -210,7 +197,6 @@ ke.
 Mtonyama namubukula
 namuyira ingowe,
 namufisa munzu.
-
 
 Mtonyama yamanya
 eshiayali natsia
@@ -229,7 +215,6 @@ okhutsukhamo
 amabeere amalulu.
 Kho nalanga abakhaana
 
-
 ##
 Omukhana wali
 nafwalire eshibunguyi
@@ -241,7 +226,6 @@ litikho elio tawe.
 Yamanya mbu omushira
 kwe kulaba nende
 obulokho bwa mabeere.
-
 
 Kho natsia munzu, ne
 
@@ -259,7 +243,6 @@ nakalukha hasi, hasi,
 hasi mu mabeere
 amalulu.
 
-
 ##
 Shinga Imbulu
 yapalapala mumabeere
@@ -274,10 +257,9 @@ Ne Nonkungu yamenya
 nende khotsanyene
 nobusangali, efise efinji
 
-
 ##
 * License: [CC-BY]
-* Text: Alan Kenyon and Viv Kenyon
+* Text: Alan Kenyon, Viv Kenyon
 * Illustration: Wiehan de Jager
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

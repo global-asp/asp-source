@@ -1,7 +1,4 @@
-# Kitumi kya
-Anansi kwithiwa
-na maau
-matheke nyanya
+# Kitumi kya Anansi kwithiwa na maau matheke nyanya
 
 ##
 Ivinda ya tene, tene vyu, vee
@@ -10,7 +7,6 @@ kya Anansi kyai muui museo. Ateo
 kila ivinda, Anansi niwendaa weuni
 kusamasama liu ula andu utuini
 mayauaa vamwe na misyi yoo.
-
 
 ##
 Muthenya umwe avitila kwa
@@ -25,7 +21,6 @@ syindu ngwika,” Anansi asya na
 mituki. Ukethia etelile ethiwa
 aneewa wia eke ni kavaluku.
 
-
 ##
 “Ninisi” Anansi aweta. “Ningwaka
 ulwalui. “Ningwovea ulwalui umwe
@@ -33,7 +28,6 @@ kuuni kwakwa na ungi mbisuni
 yake, liu wavya kusya ulwalui umwe
 na ninguka nzembete!” Mbaluku
 oona uu ni useo na awika.
-
 
 ##
 “Ningwiw’a mboso syunyunga,”
@@ -48,7 +42,6 @@ kuuni na uungi wovewe mbisuni
 nene ya mboso.
 Tata Nguli niwoonie kana uu wai
 useo na awika.
-
 
 ##
 “Niwa makwasi mainyunga” Anansi
@@ -66,7 +59,6 @@ ungi wovew’e mbisuni ya makwasi.
 Munyanyae kithangaiti oona uu ni
 useo na eeka w’o.
 
-
 ##
 Ivinda ila Anansi wavikie usini aina
 ulwalui wovewe mau make nyanya.
@@ -77,7 +69,6 @@ O saa isu Anansi eewa ulwalui
 umwe wakitwa. “Oo”, Anansi
 atumua, “Usu ni ulwalui ula wovewe
 mbisuni ya mboka sya mbaluku”.
-
 
 ##
 Ew’a ulwalui ungi. Na ungi. Anansi
@@ -91,7 +82,6 @@ umwe aikusya. Maau make
 makuswaa nginya mathekeva na
 mathekeva.
 
-
 ##
 Anansi avingilita alika kiwuni. Ila
 molwalui oonthe matwaiswe ni
@@ -104,13 +94,9 @@ maau nyanya matheke muno. Na
 muthenya usu ndaakwata liu ona
 umwe.
 
-
 ##
-Kitumi kya Anansi kwithiwa na
-maau matheke nyanya
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Stephen Musyoka
-* Language: Kikamba
-
+* Language: kam

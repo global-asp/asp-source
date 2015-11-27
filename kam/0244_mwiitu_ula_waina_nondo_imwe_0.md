@@ -1,6 +1,4 @@
-# Mwĩĩtu ῦla
-Waĩna Nondo
-ĩmwe
+# Mwĩĩtu ῦla Waĩna Nondo ĩmwe
 
 ##
 Tene tene vyu vaĩ na
@@ -15,7 +13,6 @@ Mwĩĩtu nake nĩwamwĩtĩkĩlile
 omĩtũkĩ ĩndĩ amũtavya kana
 enondo ĩmwe tu.
 
-
 ##
 Nĩwamũie athi mũsyĩ akatile
 mũka nondo ĩmwe amwetee
@@ -25,7 +22,6 @@ Mũndũũme ũsu nĩwasembie
 mũsyĩ, osa kavyũ, avalũkya
 mũka nthĩ, na omĩtũkĩ amũtila
 nondo.
-
 
 ##
 Nĩwasembie asyoka kĩthekanĩ
@@ -39,20 +35,18 @@ Na ĩndĩ niwew’ie wasya
 ũtesĩ wĩkĩthekanĩ kya
 Mũsambwa wa Limbeeletwela?”
 
-
 ##
 Ĩla mũndũũme ũsu wew’ie ũu,
 nĩwasembie mũsyĩ mĩtũkĩ ta
-kĩsasi…
+kĩsasi...
 Ĩndĩ nĩwethĩie mũka akw’a.
 Nĩwakwatiwe ni kyeva kingĩ na
 nũndũ wa ũndũ ũla wekĩte nake
 akw’a.
-
 
 ##
 * License: [CC-BY]
 * Text: Cornelius Wekunya
 * Illustration: Rachael Napagi
 * Translation: Anna Kula
-* Language: Kikamba
+* Language: kam

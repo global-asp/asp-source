@@ -20,7 +20,6 @@ Lebe ari,khatisyati khase khabombi naabi,
 Maayi ari,”inga nulooma”
 ”Namasa nyala waakhayila.”
 
-
 ##
 Lebe ari,”kumusweta kwase kumubombi naabi.
 Maayi ari,” ngali” kuli kumubombi.
@@ -51,5 +50,4 @@ ingangabilamo busa.”
 * Text: Media Matters
 * Illustration: Sandy Lightly
 * Translation: Cornelius Wekunya
-* Language: Lumasaaba
-
+* Language: myx

@@ -44,5 +44,5 @@ small!"
 ##
 * License: [CC-BY]
 * Text: Sara Saunders
-* Illustration: Wiehan de Jager, blackmoondev.com and Karen Lilje
+* Illustration: Wiehan de Jager, blackmoondev.com, Karen Lilje
 * Language: en

@@ -1,14 +1,10 @@
-# Buna obotuko
-bwachete ase
-ekenyoro
-ki’Opio
+# Buna obotuko bwachete ase ekenyoro ki’Opio
 
 ##
 Kare sana, botuko mbwarengeoo
 ase ekenyoro kia Opio. Abanto nigo
 barenge korara kobarosire nagokora
 egasi ekero babogete.
-
 
 ##
 Rituko erimo Opio nigo arenge
@@ -18,7 +14,6 @@ Opio akarangeria chisese chiaye
 nakogenda koinda nachirochio. Ake
 igo chisese chiria chigachaka
 kominyokia engabi.
-
 
 ##
 Opio agachibwatia. Akaminyoka
@@ -48,7 +43,6 @@ omonto oria omonyene enyomba.
 Akamotebia, “Ekwang’a egonto
 ekebe sana. Tindi konyara korora
 buya.”
-
 
 ##
 Omonyene oria agateba, “Kende
@@ -100,7 +94,6 @@ ang’e n’ekenyoro kiaye. Ake ake
 agachaka korora ekenyoro kiaye
 nabasani baye.
 
-
 ##
 Opio akaigwa obororo. Agatebia
 abanyakenyoro tibabaisa kooboa.
@@ -110,7 +103,6 @@ obotuko nomogaso. Goika ing’irane
 naende inchie kwoyia obotuko
 naende.”
 
-
 ##
 Opio akairaneria, “Abasani bane,
 egesunte eke nigo gekorokwa
@@ -119,16 +111,12 @@ nigo togokora egasi nekero obotuko
 bogochicha, nigo torabe togotimoka
 na korara.”
 
-
 ##
 Naigo nabo obotuko bwaigete ase ekenyoro ki’Opiyo.
 
-
 ##
-Buna obotuko bwachete ase
-ekenyoro ki’Opio
 * License: [CC-BY]
 * Text: Robert Ekuka
 * Illustration: Wiehan de Jager
 * Translation: Dennis Ogaro Ondieki
-* Language: Ekegusii
+* Language: guz

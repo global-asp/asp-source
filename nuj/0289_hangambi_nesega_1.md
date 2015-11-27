@@ -1,5 +1,4 @@
-# Haŋambi
-n'Esega
+# Haŋambi n'Esega
 
 ##
 Namumbirya oyu balanga Haŋambi
@@ -13,7 +12,6 @@ yiŋangaho abahye, Haŋambi niye
 hino sihyamusangasa era gali
 n'esalwa.
 
-
 ##
 Olw'ehyo Haŋambi gasala amagesi
 gegobosaho enimiro y'Enduuyu.
@@ -21,7 +19,6 @@ Era amangu dala Enduuyu bayireha
 tahi ate n'eŋuma hidaala. Haŋambi
 n'ali nj'omwene eroba, eryani
 n'ebibala by'Enduuyu.
-
 
 ##
 Ng'aŋo Haŋambi atiina mu hatale
@@ -33,14 +30,12 @@ ow'ohuliisa abomu hidaala,
 ng'amuta hu mugulu w'ebbesa mu
 hisero.
 
-
 ##
 Ng'aŋo Haŋambi atangirira olwengo
 n'ehisero hihye hu mutwe, n'ali
 musangaafu era ni gemba.
 Gaali aŋeega hu biitu byosi ebi gaali
 n'aja hugula mu bbesa jije.
-
 
 ##
 Gaali ahiiri mu lugendo, ng'efula
@@ -54,7 +49,6 @@ geyigama mu musaala.
 Coka gaalinga eyo emoni najitaaye
 hu hisero hihye omwali obusuni.
 
-
 ##
 Efula yeyongera ohutonyera erala
 n'amaani, era Haŋambi gatagiiha
@@ -67,7 +61,6 @@ efula yinalehere ohutonya, kasiita
 ebbesa jange jiri ŋalaŋi olwa duma
 oyu taaye hu mugulu waajo.”
 
-
 ##
 Ni ŋabitaŋo ahaseera hatotono,
 Esega yali yiri huguluha ng'ebona
@@ -77,7 +70,6 @@ ebbesa ni duuma.
 Olw'ehyo nga yiwiiha ehisero ehyo
 n'amabaŋa gaayo nga yirindirira
 efula ohulehela ohutonya.
-
 
 ##
 Haŋambi ni gabona Esega ni
@@ -91,7 +83,6 @@ hyange! Kyageene ŋano hu tulo
 w'olugudo!”
 Haŋambi sigahahasa ehi aŋuliiye!
 Ng'aloma ati, “Kulomire ti, hyange!”
-
 
 ##
 Mu busungu, Haŋambi geyuna yi
@@ -108,7 +99,6 @@ mbaaye kumire ehisero hyange ni
 kiwihiriiye n'amabaŋa ng'ewe oŋwa
 eyo oloma oti hisero hihyo!”
 
-
 ##
 Omuŋugi n'abahahiiho hahe ni
 bahena ohuŋulirisa enjuyi jombi,
@@ -117,7 +107,6 @@ Nga bahubagania ebiŋeego
 ohuhena aheteŋama ahaŋera.
 Ng'olufanyuma baba n'ehi
 basalaŋo.
-
 
 ##
 Ng'aŋo batumisa Haŋambi n'Esega
@@ -129,7 +118,6 @@ n'ogesyaho ohunyaga ebitali
 bibyo.”
 Haŋambi sigahahasa ehi aŋuliiye
 era ng'atimbuha alira.
-
 
 ##
 Amangu dala amaŋulire gabuna
@@ -143,10 +131,9 @@ yayo yirima ebibala ko n'eryani.
 Nga Haŋambi niye nindi gagamayo
 mu butahi era n'aŋuuma n'emihago.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Ivan Kaibo
-* Language: Lunyole
+* Language: nuj

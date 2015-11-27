@@ -44,7 +44,7 @@ new hook.”
 
 ##
 * License: [CC-BY]
-* Text: Tom Sabwa and Children's Development Center at Masese
+* Text: Tom Sabwa, Children's Development Center at Masese
 * Illustration: Zablon Alex Nguku
 * Translated By: Cornelius Gulere
 * Language: en

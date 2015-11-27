@@ -104,4 +104,4 @@ boom op verdwyn.
 * Text: Wesley Kipkorir Rop
 * Illustration: Jesse Breytenbach
 * Translation: Sandra van Zyl
-* Language: Afrikaans
+* Language: af

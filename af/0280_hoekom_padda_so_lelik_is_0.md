@@ -50,5 +50,4 @@ Akkedis, was hy selfs leliker.
 * Text: Mozambican folktale
 * Illustration: Hélder de Paz Alexandre
 * Translation: Eunice Vermaak
-* Language: Afrikaans
-
+* Language: af

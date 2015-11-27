@@ -59,5 +59,4 @@ wou bly nie.
 * Text: Carlos Kanembera
 * Illustration: Trevor Kellog
 * Translation: Monique de Ridder
-* Language: Afrikaans
-
+* Language: af

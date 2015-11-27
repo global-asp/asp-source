@@ -1,5 +1,4 @@
-# Ngithanda
-ukufunda
+# Ngithanda ukufunda
 
 ##
 Nangibuya esikolweni.
@@ -8,33 +7,27 @@ yazmi bese ngiyafunda.
 Ngubani ofuna
 ukufunda nami?
 
-
 ##
 Ngifuna ukufundela
 uSibongile incwadi.
-
 
 ##
 Maye! uSibongile ulele.
 Angifuni ukumuvusa.
 
-
 ##
 Ngubani ofuna
 ukufunda nami?
 
-
 ##
 Umma nogogo
 bayapheka.
-
 
 ##
 Ngubani ofuna
 ukufunda name?
 Ubaba nomalume
 bakhona.
-
 
 ##
 Baba nomalume
@@ -44,16 +37,14 @@ balungisa ikoloyi.
 Ngubani ofuna
 ukufunda name?
 
-
 ##
 Mina ngizokufunda
 incwadi ngingedwa.
 Ngithanda ukufunda!
-
 
 ##
 * License: [CC-BY]
 * Text: Letta Machoga
 * Illustration: Wiehan de Jager
 * Translation: William Jiyana
-* Language: isiNdebele
+* Language: nr

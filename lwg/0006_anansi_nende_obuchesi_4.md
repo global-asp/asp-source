@@ -1,5 +1,4 @@
-# Anansi nende
-Obuchesi
+# Anansi nende Obuchesi
 
 ##
 Tsindalo tsia khale abandu
@@ -12,7 +11,6 @@ amachesi ko khushialo kosi. Yali
 niyabikha amachesi kosi
 munyungu yeliloba.
 
-
 ##
 Inyanga yindi Nasaye yalola
 mbu ayeresie Anansi inyungu
@@ -20,7 +18,6 @@ yobuchesi eyo. Buli olwa Anansi
 yalinganga munyungu eyo,
 yekanga eshindu eshiyiakha.
 Kalinji akokhusangasia muno!
-
 
 ##
 Okhubera omutolio Kundu
@@ -56,7 +53,6 @@ inyungu yobuchesi
 khumukongo, ne nifilolokha
 okhuba efiangu okhushira.
 
-
 ##
 Yola khumusala hekulu bwangu
 muno.
@@ -69,7 +65,6 @@ Anansi yasinyikha muno ne
 nalekhula inyungo eyo hasi
 okhurula khumusaala.
 
-
 ##
 Yekhupa hasi niyatikha
 efipande.
@@ -79,10 +74,9 @@ nende okhwiranya, nende
 efindu fiosi efia abandu
 bamanya okhukhola.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

@@ -8,7 +8,6 @@ Mukhaye.
 Baaba ni babaaana
 basesaaba,boosi nga bakhaana.
 
-
 ##
 Mukhaye nahesa sisombo sye
 kumusaafu. Donga wamurisirisa
@@ -19,14 +18,12 @@ ne inga wasaaliile umusinde
 ndikhukholeela kamayiiya
 kamakali”.
 
-
 ##
 Imbuka niyoola iye
 khusaala,Mukhaye watsa
 wo’mukangi usalisa. Umwana
 kane abe umukhana namwe
 umusinde?
-
 
 ##
 Asaala umusinde nu’mukhaana
@@ -40,13 +37,11 @@ wawulila kumutambo.
 Wambaasa ,wakhalawo
 khukhola sindu sitwela.
 
-
 ##
 Mukhaye walekha Mulongo
 nu’mukangi amuloleelele,niye
 wayila Mukhwana isi umusetsa
 weewe..
-
 
 ##
 Nikumwikhoyo kumukali
@@ -57,13 +52,11 @@ walanga besikuuka boosi
 khukhwikhoyele khusalikha
 khwomwana weewe uwesinde.
 
-
 ##
 Mukhwana atsowa wikela
 umusoleeli umulayi.Mulongo
 ninaye atsowa wikela
 umukhana umulayi.
-
 
 ##
 Sifukhu sitwela,inga Mukhwana
@@ -72,7 +65,6 @@ paapawe,waboona umukhana
 umumiliyu pye!
 Wilomela ari ”uyu niye
 umukhana isi ngana khuyila.”
-
 
 ##
 Ne namulomela ari amuyile nga
@@ -90,7 +82,6 @@ muno,Mukhwana.
 Iyeeyi yaakwa,Mukhwana.
 Ikindi yakwa, Mukhwana.”
 
-
 ##
 Sino syakholekhatsaka
 kimilundi kimikali.
@@ -105,7 +96,6 @@ Ne buli imbuka isi
 mureberakho,imba kumwenya
 mutwela ukwo.”
 
-
 ##
 Sisyamwiyangisa,
 Mukhaye wamuloma ari”syesi
@@ -118,7 +108,6 @@ Nasiryo nalekha umukooko
 woowo isi umukangi
 ,nakhuleera iwe isi paapawo”
 
-
 ##
 Nga Mukhana waboolele
 paapawe bibyabawo,asibona
@@ -126,7 +115,6 @@ nga wakhola buubi.Walanga
 Mukhaye bombitsana batsa
 wo’mukangi khurusayo
 Mulongo.
-
 
 ##
 Inga Molongo woleele
@@ -136,7 +124,6 @@ bakhola kimisiiro
 kyekhutubaasa Mulongo ni
 bawandaye boosi musaafu
 
-
 ##
 Kumwiko kukwiraho,Mulongo
 wakhwaalikha khumusooleeli
@@ -145,10 +132,9 @@ Aaleela buyindifu ni
 kumwikhoyo kumukali mungo
 mwabwe.
 
-
 ##
 * License: [CC-BY]
 * Text: Matthews M Wanga
 * Illustration: Wiehan de Jager
 * Translation: Fabian Wakholi
-* Language: Lumasaaba
+* Language: myx

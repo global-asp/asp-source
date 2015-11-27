@@ -4,14 +4,12 @@
 I enjoy skipping rope...
 
 Ndachama okhuruka
-omukoye…
-
+omukoye...
 
 ##
 &hellip;alone.
 
-…sienyene.
-
+...sienyene.
 
 ##
 I enjoy skipping it with
@@ -21,14 +19,12 @@ Ndachama okhuruka
 omukoye nomwitsa
 wanje.
 
-
 ##
 I enjoy reading
 interesting stories.
 
 Ndachama khusoma
 tsingano tsindayi.
-
 
 ##
 I enjoy walking in the
@@ -38,14 +34,12 @@ Ndachama okhuchenda
 mushikuri nende abetsa
 banje.
 
-
 ##
 I enjoy washing utensils
 for my mother.
 
 Ndachama okhwosiria
 mama efindu.
-
 
 ##
 I enjoy writing big
@@ -64,7 +58,6 @@ fruit.
 Ndachama khulia
 matunda kaukhane.
 
-
 ##
 I enjoy sleeping on a
 big bed.
@@ -72,7 +65,6 @@ big bed.
 Ndachama okhukona
 khushitanda
 eshikhongo.
-
 
 ##
 I enjoy listening to
@@ -92,10 +84,9 @@ Aah! Ndachama
 okhukhola efindu fino
 fiosi!
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Wiehan de Jager
 * Translation: Margaret Amateshe
-* Language: Oluwanga
+* Language: lwg

@@ -1,5 +1,4 @@
-# Mũndũũme wa
-Mbee
+# Mũndũũme wa Mbee
 
 ##
 Tene tene vyuũ ĩla nthĩ aaĩ nzaũ
@@ -7,11 +6,9 @@ syĩĩma nene syakunĩkĩlĩtye nthĩ ta
 ĩvula, na mĩtĩ ndaasa yavikaa
 matunĩ.
 
-
 ##
 Ĩũlũ wa nthĩ ĩno kwaĩ ndia ya kĩw’ũ
 ngilu na nthithu.
-
 
 ##
 Nthĩnĩ wa ndia ĩsu kwaĩ
@@ -20,7 +17,6 @@ yelinganĩtye ĩlaa
 ĩthungu na ĩlũmu, na
 nzoka ĩĩngĩ yaĩ nini na
 ndaĩna vinya.
-
 
 ##
 Mũthenya ũmwe nĩkwethĩiwe na
@@ -40,7 +36,6 @@ nduku na nthithu. Tũthi ĩũlũ tũkoone nthĩ ĩsu.
 Nzoka ĩla nini nĩyakũlilye, “tũkekala ata ĩũlũ wa nthĩ?
 Tũkendaa tũkungĩte na mavu?”
 
-
 ##
 Munyanyae nĩwasũngĩie asya,
 “nyunyi sya yayaya syĩĩtũtheka
@@ -50,7 +45,6 @@ Nzoka nĩsyelingũlanilye na
 syĩtũngĩanĩe vamwe syambĩĩa
 kũthambĩĩa syambatĩte ĩũlũ kyenini.
 
-
 ##
 Syavika ĩũlũ wa kĩw’ũ kĩndũ kya
 ũsenyo nĩkyekĩkie. Mĩthya ya mĩthe
@@ -59,27 +53,23 @@ mamutha ma maaũ mena syaa.
 Uungu wa syongo syoo nivaumĩlile
 moko elĩ mena syaa.
 
-
 ##
 Nzoka isu nĩsyatw’ĩkie mũndũũme na mũndũmũka.
 Ĩla masisĩlanilye nĩmendanie.
-
 
 ##
 Mũndũmũka nĩwaisye, “nĩtũsovya mũsyĩ wĩtũ syĩĩmani . Kĩla
 kĩoko tũkonaa sũa ĩkuma na tũkwĩw’a ũvyũvu wayo miongoni
 iitu.
 
-
 ##
 Mũndũũme wa mbee nĩwaisye, “ũKa”. “Nĩngwĩka ũu,”
 mũndũmũka nĩwaisye. Na ĩndĩ nĩmatembeie vamwe malika
 nthĩ yoo nzau.
-
 
 ##
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Jemma Kahn
 * Translation: Anna Kula
-* Language: Kikamba
+* Language: kam

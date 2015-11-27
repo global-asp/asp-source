@@ -98,7 +98,5 @@ she disappeared up the tree.
 * License: [CC-BY]
 * Text: Wesley Kipkorir Rop
 * Illustration: Jesse Breytenbach
-Adapted By: Nambubi Catherine, Haumba Herbert and Alungho Rose
+* Adaptation: Nambubi Catherine, Haumba Herbert, Alungho Rose
 * Language: en
-
-This book should have all the pages sumerised at the end on one page

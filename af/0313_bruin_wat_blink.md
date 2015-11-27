@@ -38,6 +38,5 @@ Wat is dit? A skoon gesig in die spiel.
 * License: [CC-BY-NC]
 * Text: Reviva Schermbrucker
 * Illustration: Sue Kramer
-* Translation: Patience and Hayley and Catherine
-* Language: Afrikaans
-
+* Translation: Patience and Hayley, Catherine
+* Language: af

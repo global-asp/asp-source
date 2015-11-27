@@ -9,7 +9,6 @@ Injukha ihongo yalangwa Unyalego.
 Abandu bairia hubera yamira
 bandu,chimbusi nende makondi.
 
-
 ##
 Einyanga ndala Apiyo, Ajoh nende
 Atieno bachia husichakha okonya
@@ -20,13 +19,11 @@ siosi esiri saba sieng'u."
 Ajoh yong'ane hubakhana abo
 bosi sia aburira esia kukhu yabola.
 
-
 ##
 Mani abakhana bakinga mabere,
 mabwoni nende amatsi.
 Bakinga mikoye ekioboya nende
 tsibanga etsia ohenga.
-
 
 ##
 Ni bakenda balomaloma ni
@@ -36,14 +33,12 @@ Apiyo mukhulundu khu nivo yecha
 yang'ra tsi na ababorera, "Mung'ire
 Unyalego yamenya ano."
 
-
 ##
 Atieno yalola menoo ka Unyalego,
 "Ringala meno kaye nga hukinge."
 Apiyo yakhaya, "Hurebirira kukhu
 arukanisie huratema okingaa esindu
 siosi esiraba chikhwi chiong'ane."
-
 
 ##
 Ajoh namkalusia, "Esie siamina
@@ -52,7 +47,6 @@ endio hurakatsia obukula sindu
 silayi. Esie ndakinga menoo kanoo."
 Abasie batema omukania lakini Ajoh
 yakhaya.
-
 
 ##
 Ebikha byo Unyalego yafunya
@@ -65,7 +59,6 @@ ochekha. Yekisaa aambi nende
 ingiira ayamanya mbwe bakhana
 abo banabira.
 
-
 ##
 Bakhana mani bakinga chikhwi
 chabwe ni bwabwao bachekhurania
@@ -73,7 +66,6 @@ sa ni baburira, "Hzzzzzzzz!"
 Uburi bwa barumba ni batema
 huwekisaa. Unyalego yari yasame
 munwa kwaye tayari obaluma.
-
 
 ##
 Yachaka mberi yabareba, "Wina
@@ -86,7 +78,6 @@ Ne ubukule sa nemba bilayi. Anaba
 biyakhuria byange hu chinyanga
 chidaru!"
 
-
 ##
 Apiyo nende isauti indai yachaka
 huimba lwimbo luosi bilayi:
@@ -94,7 +85,6 @@ Sio mimi, sio mimi mwenye aliye na
 meno,
 Mwenye meno bado yuko nyuma.”
 Atieno yemba yosi bilayi.
-
 
 ##
 Owa dong'a inyuma yari Ajoh yari
@@ -108,16 +98,14 @@ basioo?"
 Injukha yamanya sa mbwe ni Ajoh
 niee abakulee menoo kayee.
 
-
 ##
 Unyalego yamiira Ajoh. Ne abasio
 berukhaa bafunyaa hulokongoo
 oborera abandi esigano sino.
-
 
 ##
 * License: [CC-BY]
 * Text: Joseph Sanchez Nadimo
 * Illustration: Rob Owen
 * Translation: Joseph Sanchez Nadimo
-* Language: Olunyala
+* Language: nle

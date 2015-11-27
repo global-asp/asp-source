@@ -1,16 +1,11 @@
-# Mwami Isi
-nende Mwami
-Wokurwe
-Kukhoongo
+# Mwami Isi nende Mwami
 
 ##
 Uno Nomwami Isi.
 
-
 ##
 Uno Nomwami
 Wokurwe Kukhoongo.
-
 
 ##
 Mwami Wokurwe
@@ -19,7 +14,6 @@ Omwami Isi bali
 abeetsa.
 Inyanga ndala batsia
 okuchenda halala.
-
 
 ##
 Boola khundulo
@@ -44,7 +38,6 @@ Kho omwami Isi
 napurukha niyambukha
 omwalo.
 
-
 ##
 Kho omwami wokurwe
 naruma mumwalo.
@@ -52,7 +45,6 @@ Ne okhubeera okurwe
 kwaye kwali okusiro
 muno, niyanza
 okhwiinikha.
-
 
 ##
 Omwami Isi natsekha,
@@ -64,12 +56,9 @@ Khabili, okhurula
 elubeka ndala okhutsia
 eyindi!
 
-
 ##
-Mwami Isi nende Mwami Wokurwe
-Kukhoongo
 * License: [CC-BY]
 * Text: Dorothy Fetaru
 * Illustration: Joshua Waswa
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

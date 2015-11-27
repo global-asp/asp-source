@@ -1,5 +1,4 @@
-# Munyanya wa
-wakwa Coco
+# Munyanya wa wakwa Coco
 
 ##
 Lia nai na ukuu wa miaka itano
@@ -11,7 +10,6 @@ katikiti musyi nai na utanu
 mwingi muno.
 Nineesi nina munyanyawa.
 
-
 ##
 Ila namwiie nthi, mwenduu
 niwavindukie na angulya,
@@ -22,20 +20,17 @@ Niwakulilye “Wamwita Coco
 niki?. Nasya, “ Nikwithiwa
 avwaa ta Cocoa”.
 
-
 ##
 Ni nakulilye mwenduu kana Coco asyaitwe
 eweke. Mwenduu asya kana ve kakiti kangi
 kavwaa Coco.
 Ninaendie kwona mwanainya wa Coco.
 
-
 ##
 Ila Coco wonie mwanainya
 niwatanie muno.
 Nimatinanisye syongo
 tameuneena.
-
 
 ##
 Ninakulilye mwenduu kana nai
@@ -46,7 +41,6 @@ umasuvie muno. Kwou kila wioo
 ninathaukaa ‘na ngututwaa
 twakaukithey mwii.
 
-
 ##
 Myei mivuthu yathela
 mwanainya maneneva,
@@ -54,7 +48,6 @@ makwata vinya na uima wa
 mwii.
 Mai manene wethia nditonya
 umasuvia ninyova.
-
 
 ##
 Ninakulilye mwenduu ose
@@ -64,7 +57,6 @@ aina kimako muno.
 Neewa tawangulasya, “ Niki
 wikie uu?”
 
-
 ##
 Aeka kuthauka. Mavinda amwe
 aleal kutembea nakwa.
@@ -73,18 +65,15 @@ Ninamakie. Ninakulilye,
 “Ndonya kwika ata kuteethesya
 Coco?”
 
-
 ##
 Na muthenya umwe mwenduu ooka kukethanya .
 Ila neewie wasya wake, ninaumalile nzembete.
-Mbee ndana mba umwona ninewie ngiti syukuma…
-
+Mbee ndana mba umwona ninewie ngiti syukuma...
 
 ##
 Itina wa kyuio, Coco na
 mwanainya masungia vu mbee
 wakwa mena utanu.
-
 
 ##
 Nai na utanu mwingi ndyesi
@@ -94,10 +83,9 @@ Nineesi Coco nukuseuva nundu
 mwanainya niwasyokie.
 Tukasembelaa miundani ingi!
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Ursula Nafula
 * Translation: Stephen Musyoka
-* Language: Kikamba
+* Language: kam

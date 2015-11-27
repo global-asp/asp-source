@@ -1,7 +1,4 @@
-# Nokũngũ na
-Yalyũka
-Alan Kenyon and Viv
-Kenyon
+# Nokũngũ na Yalyũka
 
 ##
 Tene tene vyũ kwaĩ
@@ -13,7 +10,6 @@ Nokũngũ aĩ mwanake
 na mũthingu.
 Asyai make
 nĩmamwendete mũno.
-
 
 ##
 Mũthenya ũmwe asyai
@@ -39,7 +35,6 @@ Mũingo Nokũngũ
 nĩwakomanie na kelĩtu
 kanini kekĩte ilai.
 
-
 ##
 Kelĩtu nĩkamũkũlilye,
 “Wendete kũ?”
@@ -63,7 +58,6 @@ Nokũngũ nĩwaumisye
 kĩsikati na ĩsoa yake na
 anenge kala kelĩtu.
 
-
 ##
 Ĩla kelĩtu kau kaumisye
 ilai syako nakekĩa ngũa
@@ -73,7 +67,6 @@ mwĩthe!
 Nokũngũ nĩwew’ie w’ĩa
 nũndũ nĩwamanyie
 kelĩtu kau nĩyalyũka.
-
 
 ##
 Nĩmatembeangie
@@ -85,7 +78,6 @@ kyakwa na ĩsoa yakwa.”
 tũvike mũtĩnĩ ũya.”
 Nĩyaolotile mũtĩ wĩ
 kĩĩmanĩ.
-
 
 ##
 Ĩla mavikĩĩe mũtĩ ũsu,
@@ -164,7 +156,6 @@ mwanainyaa
 Mũtonyama ũmwe
 akĩtembea mĩundanĩ
 
-
 nĩwew’ie wathi ũsu
 mũseo na wa tei.
 Ndamanya vala wathi
@@ -233,7 +224,6 @@ waĩkusya, waĩkusya,
 waĩkusya, mũvaka ĩla
 ĩianĩ ĩwatu.
 
-
 ##
 Yalyũka yendee na
 kwilita ĩianĩ ĩsu ĩwatu
@@ -249,7 +239,7 @@ Ngewa yathelela vau.
 
 ##
 * License: [CC-BY]
-* Text: Alan Kenyon and Viv Kenyon
+* Text: Alan Kenyon, Viv Kenyon
 * Illustration: Wiehan de Jager
 * Translation: Anna Kula
-* Language: Kikamba
+* Language: kam

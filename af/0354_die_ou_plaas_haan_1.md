@@ -142,4 +142,4 @@ gaan.
 * Text: Cissy Kiwanuka Luyiga
 * Illustration: Magriet Brink
 * Translation: Chantelle Lange
-* Language: Afrikaans
+* Language: af

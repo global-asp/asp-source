@@ -29,5 +29,4 @@ raak.
 * Text: Christian G.
 * Illustration: Wiehan de Jager
 * Translation: Nadine Elsë
-* Language: Afrikaans
-
+* Language: af

@@ -29,6 +29,6 @@
 * Text: Ursula Nafula
 * Illustration: Rob Owen
 * Translation: Mubbalya Charles
-* Language: Lunyole
+* Language: nuj
 
 Translated by mubbalya charles

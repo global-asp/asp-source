@@ -45,5 +45,4 @@ abwene,” mama waye asunga. “Yeresia Nomsa efilaro fiao.”
 * Text: Media Matters
 * Illustration: Sandy Lightly
 * Translation: Margaret Amateshe
-* Language: Oluwanga
-
+* Language: lwg

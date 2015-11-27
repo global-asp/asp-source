@@ -86,5 +86,5 @@ neighbour's best home.
 * License: [CC-BY]
 * Text: Nambi Sseppuuya Community Resource Centre
 * Illustration: Zablon Alex Nguku
-* Translated By: Maganda Isa and Cornelius Gulere
+* Translated By: Maganda Isa, Cornelius Gulere
 * Language: en

@@ -8,7 +8,6 @@ omusinde nalangibwa Dongo
 Namwima.Baali n’abaana
 mukaaga . Boosi baali bahaana.
 
-
 ##
 Namwima nigaali hida
 ehyomwana wuwe
@@ -19,14 +18,12 @@ hwita ewe.
 Aye singa buupa omwana
 museere ndi huholera embaga.
 
-
 ##
 Ehiseera ehy’ohusaala nihyola
 Namwima gatiina
 ew’omusaalisa ow’ehyalo.
 Omwana wa huba muhaana
 naῃo museere?
-
 
 ##
 Gaali museere n’omuhaana
@@ -39,12 +36,10 @@ gaῃulira enaku.
 gaῃulira ati ῃaaliῃo ehiitu hirala
 hyoῃene ehyaῃanga ohuhola.
 
-
 ##
 Namwima galeha mulongo
 mungalo j’omusaalisa nga aῃira
 Muhwana engo eyaali wamwe.
-
 
 ##
 Galanga Dongo omwana
@@ -53,12 +48,10 @@ Gaali musangafu era galanga
 abehitehere ohusaῃalya
 ohusalibwa hw’omusaani.
 
-
 ##
 Muhwana gahula gaaba
 omwosuho omulaῃi. Ni mulongo
 gahula gaaba omujono omulaῃi
-
 
 ##
 Lulala , nigeemera eῃombe
@@ -67,7 +60,6 @@ omuhaana omwene omuῃoono.
 Nga mula aloma ati
 “Ononj’omuhaana eyinenda
 ohuhwa’’
-
 
 ##
 Aye nigamulomba ohumuhwa,
@@ -84,7 +76,6 @@ Baleeta mu mago muno
 Efula yagwa Muhwana
 Nindi yaagwa Muhwana.
 
-
 ##
 Hino hyaliῃo nindi hyabaῃo
 Muhwana sigamanya hyahuhola
@@ -95,7 +86,6 @@ omuhaana omuῃoono’’
 ‘’Era nenda ohumuhwa’’
 Aye hiisi olumulomba , gemba
 olwembo nj’olwene.
-
 
 ##
 Ehyamweῃunyisa!
@@ -110,7 +100,6 @@ Ko ohuleha omwana
 owehinaana n’omusaalisa era
 nahuῃira engo eyaali latawo.
 
-
 ##
 Muhwana nigaῃayiraho
 semwana oluῃayo ,gabona ati
@@ -119,7 +108,6 @@ Galanga Namwima era ῃalala
 nga batiina ewomusaalisa
 ohwiruhirayo Mulongo.
 
-
 ##
 Mulongo nigoola engo semwana
 n’abahulu hu hyalo basala
@@ -127,7 +115,6 @@ embusi era bahola omukolo
 ogwe hinansi ohuῃimba
 Mulongo n’abalebe babe
 omusanvu.
-
 
 ##
 Olufanyuma lw’omwaha
@@ -138,10 +125,9 @@ Galeeta obuῃinda
 n’amasangaalo mu hidaala
 hy’ewawe.
 
-
 ##
 * License: [CC-BY]
 * Text: Matthews M Wanga
 * Illustration: Wiehan de Jager
 * Translation: Gershom Hirome
-* Language: Lunyole
+* Language: nuj

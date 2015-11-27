@@ -41,6 +41,6 @@ lion.
 
 ##
 * License: [CC-BY]
-* Text: Zanele Buthelezi, Thembani Dladla and Clare Verbeek
+* Text: Zanele Buthelezi, Thembani Dladla, Clare Verbeek
 * Illustration: Rob Owen
 * Language: en

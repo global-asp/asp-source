@@ -1,47 +1,33 @@
-# Adurreen Koo
-meerree?
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
+# Adurreen Koo meerree?
 
 ##
 Adurreen koo meerree?
 
-
 ##
 Siree jala jirtii?
-
 
 ##
 Saanduqa irra jirtii?
 
-
 ##
 Barcuma duuba jirtii?
-
 
 ##
 Guuboo keessa jirtii?
 
-
 ##
 Uffata jala jirtii?
-
 
 ##
 Moo manaa baatee
 jirtii?
 
-
 ##
 Kunootii!
 
-
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Bronwen Heath
 * Translation: Siyane Aniley
-* Language: Afan Oromo
-
+* Language: om

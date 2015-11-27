@@ -93,4 +93,4 @@ wakker word, was die brief weg.
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Jenny da Costa
-* Language: Afrikaans
+* Language: af

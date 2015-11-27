@@ -43,7 +43,7 @@ what would you do?
 
 ##
 * License: [CC-BY]
-* Text: Sebongile Daniel, Mpho Ntlhanngoe and Khothatso Ranoosi
+* Text: Sebongile Daniel, Mpho Ntlhanngoe, Khothatso Ranoosi
 * Illustration: Marion Drew
-* Translated By: Khothatso Ranoosi and Marion Drew
+* Translated By: Khothatso Ranoosi, Marion Drew
 * Language: en

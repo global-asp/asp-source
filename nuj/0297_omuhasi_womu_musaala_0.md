@@ -1,5 +1,4 @@
-# Omuhasi womu
-musaala
+# Omuhasi womu musaala
 
 ##
 Hale hale yaliyo omusinde owaali ni hiisi hiitu mu bungi. Gaali n’enimiro omwali hiisi biryo,
@@ -7,14 +6,12 @@ ko n’ebidooli by’eŋombe, etaama n’embusi.
 Aye ni gatiina n’asahuluŋa gasuna ohunakuŋala olwohuba ti ŋaaliŋo ehi gaali n'abula. Gaali
 abula muhasi.
 
-
 ##
 Lulala ni gaali ni gemereye mu
 musaala, gafuna ehiŋeego ehyene
 ehiraŋi.
 N'aba n'ataŋanga hufuna muhasi,
 aŋanga ohwebajirayo owuwe
-
 
 ##
 Ng’aŋo atagiha ohubaaja omuhasi
@@ -25,14 +22,12 @@ gahiŋamba hu moni nga jilimbula.
 Gahifuŋirero omuya polapola nga
 hifuuha hiramu.
 
-
 ##
 Mu butuufu ono nj'owaali omuhasi
 asinga obuŋoono hu bagaali ni
 gahabona.
 Gahubba amafuha gamulomba abe
 muhasi wuwe.
-
 
 ##
 Gamuŋa ehimolo ehya mabalabala,
@@ -47,7 +42,6 @@ wuwe ati, “Kulomba ehiitu hirala
 soolomerangaho omuutu yeesiyeesi
 eyi nahutusa."
 
-
 ##
 Eteŋama siryabitaŋo eleeŋi,
 abosuho bomu bitehere ehiririhene
@@ -57,7 +51,6 @@ aŋanga atye ohuba n’omuhasi
 omuŋere ate nga muŋoono atyo?”
 Ehi bahola basalaŋo humwiba
 bamuŋire ewaawe.
-
 
 ##
 Omusahulu ono ganakuŋala,
@@ -71,7 +64,6 @@ gamwendule, gamwembereho era
 gamutuseho ehiitu hyosihyosi
 gamuleetere.
 
-
 ##
 Ni gamwagene gamwembera mu
 lulimi lw’enyuni.
@@ -81,11 +73,9 @@ Ahira boosi obuŋoono
 Wamwo atutumire
 Hwagamye ehimolo hihyo!
 
-
 ##
 Nga agaŋa ehimolo hihye gagululuha gatuuma esosi n’enjabi nga gahiŋirira wamwe
 Omusahulu gewiha ehimolo mu moni, gaba musangafu ohuhena ahateŋama.
-
 
 ##
 Aye ohwenda ohu gendiremo
@@ -100,7 +90,6 @@ hwagamye omuge gugwo
 Nga gaguluha gagamayo n’omuge
 ogwali ahabonero h'obufumbo.
 
-
 ##
 Gaŋamba omuge nga geesa omuya
 aloma ati, “muhasi wange ali aŋale
@@ -114,7 +103,6 @@ Ahira boosi obuŋoono
 Wamwo atutumire
 Hwagamye obulamu wuwo.
 
-
 ##
 Ng'aŋo gatiina efunda eyohudatu.
 Ni goola gagwa hu mabega
@@ -125,7 +113,6 @@ hibaaje.
 Amagulu gage emihono n’omutwe
 byajagaliha. Nga agwa ŋaasi.
 
-
 ##
 Wamwe nga aŋiringisya enduli
 eyaali ehibaaje hy’omuhasi wuwe
@@ -135,16 +122,14 @@ emirandira ni jiri mu maaji.
 Obugimu w’eroba n’obubalire
 w’eryuba byahiretera ohuloha nindi.
 
-
 ##
 Era embeŋo n’ehubba hu mahoola
 g’omusaala guno galoma ng’olu
 muhasi owenda wamwe ahola.
-
 
 ##
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Jemma Kahn
 * Translation: Mugoya Job Joel
-* Language: Lunyole
+* Language: nuj

@@ -20,6 +20,6 @@ into pieces.
 
 ##
 * License: [CC-BY]
-* Text: Namugosa and Nabune
-* Illustration: Wiehan de Jager and Jemma Kahn
+* Text: Namugosa, Nabune
+* Illustration: Wiehan de Jager, Jemma Kahn
 * Language: en

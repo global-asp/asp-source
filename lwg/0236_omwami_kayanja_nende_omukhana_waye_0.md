@@ -1,6 +1,4 @@
-# Omwami
-Kayanja nende
-omukhana waye
+# Omwami Kayanja nende omukhana waye
 
 ##
 Khale khale yaliyo omwami ulangwa
@@ -14,7 +12,6 @@ ne buli omusatsa yenya
 okhumuteshia. Abula omwami
 Kayanja yareba ikhwe ye ekulu khu
 yesi wenya Apenyo.
-
 
 ##
 Hambi nende eshiembekho shio
@@ -31,7 +28,6 @@ yubo khulwa omuyeka kho
 wolukoba yali akhaba okhuteshia
 omukhasi undi.
 
-
 ##
 Kho mwene olukoba ouli omukofu
 khandi omunefu yatsia wo omwami
@@ -41,7 +37,6 @@ omutiyii Kakembo yaulira
 amasungano kabo. Omutiyii
 Kakembo yali omwitsa wa hambi wa
 omukhana wo mwami, Apenyo.
-
 
 ##
 Wo lukoba Aludah yeyama
@@ -56,7 +51,6 @@ mubwifisu. Omwami yamanya mbu
 omukhane waye shiyakhafuchirirre
 akaliparo kaye ta.
 
-
 ##
 Lichuma elala imberi we inyanga ya
 arusi ilobole, omutiyii Kakembo
@@ -66,7 +60,6 @@ akasie ehiserero shio nende wo
 lukoba Aludah, ne shilabao
 mwichuma elala okhurula luno,
 Kakembo naboola.
-
 
 ##
 Omukhana wo mwami Apenyo
@@ -79,7 +72,6 @@ Trevor endole shianyala okhukhola
 efise filaawa.
 Trevor yali omwitsa we shisiani wo
 omukhana wo mwami Apenyo.
-
 
 ##
 Mushiro Apenyo yanyololokha
@@ -94,7 +86,6 @@ Olwa yoola nango waye yali
 nachonyere, nali inzala khandi
 nobulo.
 
-
 ##
 "Omuheri wanje, nishina niwirukha
 abundu arambi wenyene mufise fie
@@ -103,7 +94,6 @@ Yataya amatsi namuhereresia
 khandi nalekha aulukhe.
 Trevor yali neshiruchi nashilinda
 Apenyo amukanire kekholeshe.
-
 
 ##
 "Omukhana wo mwami
@@ -120,7 +110,6 @@ iywe kata noli omumanani.
 Efuchirira okhunyakhana.
 Ndakhuhera."
 
-
 ##
 "Omukhana wo omwami, euma
 emiandu chiokhuhana nga ikhwe,
@@ -135,7 +124,6 @@ eliaro akhweremia okhutsia
 injerekha yindi yo mwalo.
 Khulakhama ne papa
 shalakhunyoola ta."
-
 
 ##
 Mushiembekho, omwami Kayanja
@@ -153,14 +141,12 @@ ta. "Tsie mumutsuru mukhabe,"
 Omwami Kayanja nalokha.
 Yali nasinyishe.
 
-
 ##
 Olwa omukhana wo omwami
 Apenyo nende Trevor bali bayuka
 okhutsia khulukuku, amalesi
 amamali kachaka okhukhung'ana
 mwikuku. Ifula yo lucheka yali itsa.
-
 
 ##
 Kategga omufuchi weliaro yali aboa
@@ -171,7 +157,6 @@ okhubambusia omwalo.
 Kategga yaloba, nababoolera ifula
 yo lucheka itsanga ne banyala
 okhukwa mumaraba.
-
 
 ##
 Trevor yaboolera Kategga khatimba
@@ -185,7 +170,6 @@ yali neshibeera khubo.
 Yeyama okhubambusia omwalo
 mulifube libi
 
-
 ##
 Kategga yakhwesa eliaro hambi no
 lukuku nababoolera benjiremwo.
@@ -196,7 +180,6 @@ lukoba Aludah boola khulukuku,
 balola abandu bataru muliaro.
 Bamanya mbu abaheranwa
 ababukha bali berushe.
-
 
 ##
 Irunda yapa eliaro ne Kategga
@@ -215,12 +198,9 @@ yeyamirwa okhuteshera omundu
 yesi wabenya, omuinda nomba
 omumanani.
 
-
 ##
-Omwami Kayanja nende omukhana
-waye
 * License: [CC-BY]
 * Text: Amana Yunus
 * Illustration: Natalie Propa
 * Translation: Margaret Amateshe
-* Language: Oluwanga
+* Language: lwg

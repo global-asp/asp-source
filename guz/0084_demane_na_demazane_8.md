@@ -1,5 +1,4 @@
-# Demane na
-Demazane
+# Demane na Demazane
 
 ##
 Abwo kare omomura narenge ororo orenge korokwa
@@ -13,7 +12,6 @@ Nigo barenge goitwa nebiranya ebitambe, naboigo
 bakaba bakoegwa erongori yoka naende rimo rioka
 kera rituko.
 Igo bagatama.
-
 
 ##
 Bakanyora ekerongo bakamenya ime. Nigo baoboete
@@ -30,14 +28,12 @@ naende tobaisa koiyeka nyama ende yonsi. Abanto
 baria bakoria abanto nigo banchete ogotioka
 kwe’nyama.
 
-
 ##
 Kera emarorogoba Demane akaba gakorenta kende gionsi konyora aitire – buna egesusu
 amo neng’uko.
 Kero arenge koirana, nigo arenge gotera:
 "Demazana, Demazana,?Omwana o mama, ing’igorere ekerongo eke, chinyoni nabo
 chirasoe. Naende nigo kebwate chingoro ibere.”
-
 
 ##
 Demazane akarosa kobera ere bweka ase ekerongo
@@ -51,7 +47,6 @@ ye’kerongo keria.
 onyore buna tata moke nigo arenge gototebia igo
 erinde tooboe.”
 
-
 ##
 Rituko riria riarenge kobwatia akaba omoremu mono
 gouta omorero erinde anyare koigwa riberera.
@@ -61,7 +56,6 @@ omorembe.
 “Ninde nobomaene buna kende tikeiyo kerakorekane
 ing’ise gosamba akanyama gake igo. Nigo erabe
 buya koria endagera eiyekire.”
-
 
 ##
 Ekero momura omwabo airanete
@@ -97,7 +91,6 @@ Demazana agateba: “Yaya, aye tori oyominto, riogi
 riao tiriri buna eriaye.”
 Akarema koba ime yekerongo keria.
 
-
 ##
 Ake igo akaigwa naende omonto
 kagotera isiko yekerongo keria,
@@ -111,7 +104,6 @@ Eriogi riria nigo riarenge buna
 eriamomura omwabo, igo
 akamoigorera.
 
-
 ##
 Omosacha oyomo omoneene
 omerete etukia omobere bwensi
@@ -124,7 +116,6 @@ Riria buna abogoirie kogenda,
 akanyakoruta ribu riria nchera
 kogenda.
 
-
 ##
 Rituko riria egento gioka Demane anyarete gotega nekonu yenchinchoke – nigo
 ayebogoretie ime yegunia abwate mogongo oye.
@@ -132,14 +123,12 @@ Ekero airanete, akanyora egesieri kegoire na mosubati omwabo taiyo...gotatiga re
 aroche ribu risiareire nchera goeta gochia emete ime.
 Akabwatia ribu riria nchera kogenda baka akarora omorero bosio bwaye.
 
-
 ##
 Ang’e nomorero oria omosacha omoneene omerete etukia omobere bwensi naikaransete
 aroro negunia eneene kere ensemo. Demane agatara mbaka as’are kagosogora buna oria
 oumiete.. “Gaki tata one, nonkonye? Naumiire okogoro kwane. Inkonye amache yokonywa.”
 Omosacha oria akairaneria, “Nigo indakoretere amache rioka ekero orang’eneki na kong’a
 oboene buna togokuna gunia yane.” akagacha egunia eria buuya nyomba mwaye.
-
 
 ##
 Riria buna achire iga, Demane
@@ -149,7 +138,6 @@ Demane akairania egunia eria yaye
 yabwate chinchoke ribaga yeria
 yabwate mosubati omwabo
 nakoganya korora ninki kerabe.
-
 
 ##
 Ekero omosacha oria airanete
@@ -167,13 +155,11 @@ Agatebia momura omwabo “Genda
 omokonye korenta!” Korende
 amachibu akaba boo naende.
 
-
 ##
 “Tiga gonkora omochinga,’ akoga nagosoa nyomba ime. Agasieka omorangu nagosibora
 egunia eria ere bweka.
 Chinchoke chiria chigasoka chikamoroma omotwe, emioro, namaiso aye. Agatuma tuma na
 gokura, gatubetwe amaiso nechinchoke chiria.
-
 
 ##
 Akaminyoka na kogwa nomotwe
@@ -187,12 +173,11 @@ Demane na Demazane bakaria
 oboke obwansu korwa ase ekonu
 eria.
 
-
 ##
 * License: [CC-BY]
 * Text: South African Folktale
 * Illustration: Jemma Kahn
 * Translation: Ogaro Ondieki
-* Language: Ekegusii
+* Language: guz
 
 South African folktale

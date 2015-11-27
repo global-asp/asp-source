@@ -1,8 +1,4 @@
-# Uwe
-lukyesikyesi
-ukhaanyalisa
-khukhwiwonesa
-umweene ta
+# Uwe lukyesikyesi ukhaanyalisa khukhwiwonesa umweene ta
 
 ##
 Aabawo khaalekho, yabawo
@@ -19,7 +15,6 @@ aakhakakho naabi
 khuumukhaandisa, umuseetsa
 waalekha khushifukiilisa ta.
 
-
 ##
 Kila khu shifukhu shitweela, nga
 umukhasiwe waakyeniyiilekho
@@ -32,14 +27,12 @@ umukhaana we akoboleyo
 areebe umuseetsawe oba nga
 ashiin’gan’gasa ilomo iyo.
 
-
 ##
 Umusaaniwe ndi waasiindikha
 umukhasiwe khuukhaka
 paapawe amukoyele kamalwa
 khukhwaama mu namufeeli
 amuyilile
-
 
 ##
 Paapa w'omukhaana waatsekha
@@ -56,7 +49,6 @@ nga kaalulile, uwiitsa khuusuta
 akhaba umuseetsa namwe
 umukhasi ta.
 
-
 ##
 Umusaaniwe wenyoola nga
 lukyesikyesi lweewe lweboyile,
@@ -68,12 +60,9 @@ lululoma luri, “Kamayi
 sikatsowa kaleeha kafuura
 kumurwe ta.”
 
-
 ##
-Uwe lukyesikyesi ukhaanyalisa
-khukhwiwonesa umweene ta
 * License: [CC-BY]
 * Text: Cornelius Wekunya
 * Illustration: Joshua Waswa
 * Translation: Fabian Wakholi
-* Language: Lumasaaba
+* Language: myx

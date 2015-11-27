@@ -1,5 +1,4 @@
-# Omukhaana waba
-omuyiinda
+# Omukhaana waba omuyiinda
 
 ##
 Khale khale, yaliwo abakhaana babiri
@@ -8,7 +7,6 @@ babo bali bafwa. Bali bamenya khulwanda.
 Ifula kata efiamu fiokhulia shibialiho tawe.
 Yesi yesi owenyanga efiokhulia yatsitsanga
 oluchendo olurambi kho anyole.
-
 
 ##
 Akhabere yali omukhaana
@@ -20,7 +18,6 @@ amachero ta.
 Shiyahenderanga abandu bandi
 tawe.
 
-
 ##
 Inyanga ndala, abakhaana
 bananda babiri bano babukha
@@ -28,7 +25,6 @@ banyoola babula fiokhulia.
 Yali khatimba bakhabe fiokhulia.
 Kho Akhabere nende Nechesa
 barula buli mundu injira yiye.
-
 
 ##
 Yaliwo omushiere we lira mbu
@@ -38,13 +34,11 @@ Nashikawa yali nende obukoma
 ne omubiri kwe nikwetsula
 khwo amakakha.
 
-
 ##
 Nechesa yaakana no mushiere
 yuno, omushiere namulangisia,
 Omukhana wanje, orie? Orula
 ena? Otsia ena?"
-
 
 ##
 Nechesa yakalusia amarebo
@@ -56,7 +50,6 @@ shiolakhola."
 Nechesa yalolesia omukhasi
 obufuru.
 
-
 ##
 Yaboola, "Emala ndafwa
 obukhala bwokhutira amakakha
@@ -64,7 +57,6 @@ ko amachafu yako.
 Omushiere yaulera ne
 namuboolera abe noluchendo
 olulayi.
-
 
 ##
 Nechesa yachenda okhula
@@ -77,7 +69,6 @@ naliirekho eshindu ta. Olwa
 yekhala hasi okhuulukha,
 efikoko fino fianza
 okhumuluma.
-
 
 ##
 Khuluchendo lulwe, Akhabere
@@ -92,7 +83,6 @@ Omushiere yamulanga khandi
 namureeba amarebo malala
 kalia.
 
-
 ##
 Akhabere yafuchirira
 okhuchinga Nashikawa okhutsia
@@ -104,7 +94,6 @@ namuboolera akalukhe nango,
 owa lanyoola buli shindu
 shiayenya.
 
-
 ##
 Akhabere yasangala khandi
 nakhupira omushiere orio.
@@ -115,7 +104,6 @@ efiokhulia efinji.
 Yaba omukhasi omuyiinda
 mulukongo.
 
-
 ##
 Habula yekhuula okhukosia
 omukhana wabo.
@@ -123,10 +111,9 @@ Yaboola, "Oula ulira amachero
 ta akwitsanga mumunwa kwe
 inzofu."
 
-
 ##
 * License: [CC-BY]
 * Text: Salaama Wanale
 * Illustration: Mango Tree
 * Translation: Margaret Amateshe
-* Language: Oluwanga
+* Language: lwg

@@ -1,7 +1,4 @@
 # Nonike ou
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
 
 ##
 
@@ -20,12 +17,9 @@ Buthelezi
 ##
 Nonisome.
 
-
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Cathy Feek
 * Translation: Dorcas Angelina
-* Language: Kikamba
-
+* Language: kam

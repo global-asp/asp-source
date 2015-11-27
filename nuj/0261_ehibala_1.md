@@ -12,7 +12,6 @@ olw'obuŋoono buwe, emoni
 embalagafu n’ohusingira erala mu
 byosi olw’esambo jije endaŋi.
 
-
 ##
 Omuhaana oyo ni gahula, abasaja
 abahiri abavubuka n’abahulu
@@ -24,7 +23,6 @@ lunya lwawe oludalo lwosi
 n'ataliyeho hu hibala ehyo nj'oyu
 balifugiirira ohuhwa omuhaana
 waawe.
-
 
 ##
 Amaŋulire ago gawuna ehyalo hyosi
@@ -39,7 +37,6 @@ Ni gehalaho ehiseera hitono
 ng'ohugumikirisa humuhaya alya
 ehibala, nga bamusebula.
 
-
 ##
 Owalonda hu oyo gaali muhulu
 w'abemera ebisoolo. Ono yeesi
@@ -49,7 +46,6 @@ Omuhaana gamusiima. Ne ni
 bamuŋa ehibala aŋo ni naŋo
 ng'ahirya era nga yeesi
 bamusebula.
-
 
 ##
 Hu oyo owalondaho gaali n'ebibanja
@@ -65,7 +61,6 @@ oti ehuumi ej'egulo gaŋulira enjala
 n'emubitiirisa ng'alya era yeesi nga
 bamusebula.
 
-
 ##
 Ng'omwami aŋuga ehitahere ehyo yeesi gaaja ohugesyaho. Oyo
 niye gaali musahulu, w'ehyeŋurisi atenga aboneha bubi! Ŋaŋuma
@@ -78,7 +73,6 @@ Ni gagobola, ahawowo h'ehibala nago hali hamuŋunyaho ate
 n'omunwa gugwe gwali gulanduŋaye era ni gusaabbeene.
 Gaali aliriiye ehibala mu hyolooni! Wangewe yeesi nga
 bamusebula ng'omuhaana omwoyo gumwiha.
-
 
 ##
 
@@ -117,7 +111,6 @@ pohyali. Gaali ahiiri n'esuubi eryo ng'esaawa endala ey'egulo
 yoola. Omusaaja oyo ng'aŋangula omuhaana olwohuba
 omugumikiriza!
 
-
 ##
 
 ##
@@ -135,7 +128,6 @@ Abaatu abene abangi nga
 bahumbana mu lugudo
 ohwebonera.
 
-
 ##
 Hu baatu abaaja, ohwebonera
 mwalimo abaŋeeresa b’omulangira
@@ -148,7 +140,6 @@ Ni ŋaŋuma hwegania, omusaaja oyo
 galoma baamuŋa ebbesa n'eŋombe
 nga getiinira abalehera omuhaana.
 
-
 ##
 Abaŋeeresa abo nga bambasa
 omuhaana oyo engoye endaŋi nga
@@ -158,10 +149,9 @@ bategeha omukolo balanga
 abasaaye b'omuhaana ohugaata
 abaatu bano ababiiri mu bufumbo.
 
-
 ##
 * License: [CC-BY]
 * Text: Shakira Bodio
 * Illustration: Wiehan de Jager
 * Translation: Ivan Kaibo
-* Language: Lunyole
+* Language: nuj

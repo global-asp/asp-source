@@ -1,8 +1,4 @@
-# Lwashiina
-Wanaasi Nabubi
-ali ni buukyele
-shinaane
-buunyelele
+# Lwashiina Wanaasi Nabubi ali ni buukyele shinaane buunyelele
 
 ##
 Aabawo khaalekho, khaale naabi,
@@ -14,7 +10,6 @@ akana naabi khuutsemakho khu
 biilyo byeesi babaandu babaandi be
 mu shiintsa bateekhile atweela ni
 be muungo mwaabwe.
-
 
 ##
 Shifukhu shitweela, Nabubi
@@ -51,7 +46,6 @@ natso kane tsiitse nga tsitima tsoole
 isi indi.” Khatuuyu naye wambaasa
 ari shili shishambaaso shiilayi,
 Nashiryo baashikhola baryo.
-
 
 ##
 Indi Nabubi n’aaba atsya,
@@ -115,7 +109,6 @@ sheewe shitweela. Kila aniaaka ari,
 luluboweleele khu ndeekhelo iye
 tsinyanyi tsa Khatuuyu.”
 
-
 ##
 Indi waawulila khuukhweesikha
 khukhuundi. Waawulila khukhuundi.
@@ -154,12 +147,9 @@ khukhwoolesa khu shino,
 s’afunatsakakho biilyo byoosi
 nakhari ta.
 
-
 ##
-Lwashiina Wanaasi Nabubi ali ni
-buukyele shinaane buunyelele
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Milton Eridad Shissa
-* Language: Lumasaaba
+* Language: myx

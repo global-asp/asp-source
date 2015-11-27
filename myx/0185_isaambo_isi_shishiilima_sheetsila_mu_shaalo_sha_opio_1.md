@@ -1,7 +1,4 @@
-# Isaambo isi
-shishiilima
-sheetsila mu
-shaalo sha Opio
+# Isaambo isi shishiilima sheetsila mu shaalo sha Opio
 
 ##
 Khaalekho, yaba mbaawo
@@ -9,7 +6,6 @@ shishiilima mu shaalo sha Opio ta.
 Babaandu abe batsya khukona nga
 baaboone baaluwile, namwe
 baraamba nga bali meeso.
-
 
 ##
 Shifukhu shitweela, Opio waatsya
@@ -23,7 +19,6 @@ ekhala aasi wawolakho, ndi nio
 wenyukhilisa luundi. Ne s’aatuya
 tsiimbwa tseewe ta.
 
-
 ##
 Lwanyuma lwe khuubirawo bifukhu
 biikali, Opio wenyoola nga ali mu
@@ -33,7 +28,6 @@ waaloma mweenewo ari,
 “Naatimisile ikhisi khuumala imbuka
 ndeeyi. Indyo naaluwile naabi,
 ingana khuuwolakho.”
-
 
 ##
 Umuseetsayo waamulomela ari,
@@ -51,7 +45,6 @@ Kila alomela umuweele indali ari,
 Sinyala khuubona buulayi nga
 amataayi ta.”
 
-
 ##
 Kila umweenewo naye amwiilamo
 ari, “Mbaawo shiibi shoosi ta. Ari
@@ -68,7 +61,6 @@ Opio waakonayo luundi nga akana
 abonekho shishiilima nga shikobola
 luundi.
 
-
 ##
 Kumutikhinyi kukweelakho, wareeba
 musaalewe ari, “Ingola ndye nio
@@ -76,7 +68,6 @@ inyalise khuukhweesa shishiilima
 naashiyila mu shaalo she weefwe?
 Ingana babaandu baase babonekho
 shishiilima.”
-
 
 ##
 Musaalewe weelamo ari, “Nga
@@ -105,7 +96,6 @@ lweesi ukhureerere luno? Kuundu
 shiina kuumali kukukhulondelekho
 oku?”
 
-
 ##
 Opio waabeelamo ari, “Basaale
 baase, kukuundu kuumali kuno
@@ -119,16 +109,12 @@ khuuraamba, ne nga shishiilima
 sheetsile, khunyala khwakona
 khwaawolakho.”
 
-
 ##
 Iyo niyo isaambo isi shishiilima sheetsila mu shaalo sha Opio.
 
-
 ##
-Isaambo isi shishiilima sheetsila mu
-shaalo sha Opio
 * License: [CC-BY]
 * Text: Robert Ekuka
 * Illustration: Wiehan de Jager
 * Translation: Fabian Wakholi
-* Language: Lumasaaba
+* Language: myx

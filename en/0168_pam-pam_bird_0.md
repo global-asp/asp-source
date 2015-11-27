@@ -131,5 +131,5 @@ San artists.
 ##
 * License: [CC-BY]
 * Text: Traditional San story
-* Illustration: Manyeka Arts Trust, Pensa Limungu, Kapilolo Mahongo and Marlene Winberg
+* Illustration: Manyeka Arts Trust, Pensa Limungu, Kapilolo Mahongo, Marlene Winberg
 * Language: en

@@ -130,7 +130,7 @@ oë van ander voëls.
 * Text: South African Folktale
 * Illustration: Wiehan de Jager
 * Adaptation: Danielle McGarry
-* Language: Afrikaans
+* Language: af
 
 Adapted from a story in 'SouthAfrican Folk-Tales', by James A.
 Honey, 1910.

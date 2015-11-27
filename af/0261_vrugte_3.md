@@ -142,4 +142,4 @@ twee te trou.
 * Text: Shakira Bodio
 * Illustration: Wiehan de Jager
 * Adaptation: Danel Buitendag
-* Language: Afrikaans
+* Language: af

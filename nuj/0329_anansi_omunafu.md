@@ -9,7 +9,6 @@ habuhya buhya gendanga ohulega
 hubiryo ebi behitundu benyiyiranga
 nabomumago gaawe.
 
-
 ##
 Oludaalo lulala gemereeraho ŋa
 enyumba yenduyu. Enduyu yaali
@@ -27,7 +26,6 @@ hurindirira munyumba ya enduyu,
 Enduyu yahamuŋaaye emirino
 ohuhola.
 
-
 ##
 Anansi galoma ati. Manyire,
 "nabbote oluwuzi. Nesidihe oluwuzi
@@ -37,7 +35,6 @@ nirinanye, ŋalula oluwuzi era ese
 naaje ninduluma!” Enduyu yaŋeega
 yiiti etehaha yino yaali yamahulu.
 Era yahozesewa.
-
 
 ##
 Punyisa ebijanjari," Anansi
@@ -54,7 +51,6 @@ alusidihe hugutamu gw'ebijanjaalo.
 Bbaabba w'ekima galobosa ati,
 tehateha yino yaali yamahulu. Era
 yahozesewa
-
 
 ##
 Anansi gaŋunyirisa namasangalo
@@ -74,7 +70,6 @@ Meeri we embiji yomwisugu
 gaŋeega ati etehateha yino yaali
 yamahulu, era yahozesewa.
 
-
 ##
 Aŋa Anansi golera hulwaabi, gali
 nahabuzi nasidihire hu hiisi hugulu
@@ -86,7 +81,6 @@ aŋo Anansi agaŋulira ohuŋalula
 huhugulu hulala. 'Aaha," Anansi
 galoma. Paŋo, olwo njoluwuzi
 olusidihire hu lyani ly'Enduyu.”
-
 
 ##
 Gaŋulira ohuŋalula ohundi. Nundi
@@ -103,7 +97,6 @@ gaali aŋalula oluwuzi ahasera
 njahene. Amagulu gage bagaŋalula
 wafuuha budyogolo.
 
-
 ##
 Anansi gedimya mu lwaabi mangu
 mangu. Ewuuzi nijadoola
@@ -117,10 +110,9 @@ nobugulu munana obudyogolo. Era
 sigafuna ho hya hulya hyosi hyosi
 oludaalo olwo.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Bukheye Mulongo Christopher
-* Language: Lunyole
+* Language: nuj

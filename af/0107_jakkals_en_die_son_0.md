@@ -91,5 +91,4 @@ Wenne Dikuango, wie almal alreeds oorlede is.
 * Text: Traditional San story
 * Illustration: Manyeka Arts Trust
 * Adaptation: Johanne
-* Language: Afrikaans
-
+* Language: af

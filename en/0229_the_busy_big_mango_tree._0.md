@@ -35,5 +35,5 @@ Ee..ee, what blessed mango tree
 ##
 * License: [CC-BY]
 * Text: Rose Alungho
-* Illustration: Wiehan de Jager, Jesse Pietersen, Melany Pietersen, Johanna Kistner, Eden Daniels, Catherine Groenewald and Karlien de Villiers
+* Illustration: Wiehan de Jager, Jesse Pietersen, Melany Pietersen, Johanna Kistner, Eden Daniels, Catherine Groenewald, Karlien de Villiers
 * Language: en

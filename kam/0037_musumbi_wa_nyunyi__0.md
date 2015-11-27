@@ -1,5 +1,4 @@
-# Musumbi wa
-nyunyi
+# Musumbi wa nyunyi
 
 ##
 Ivinda ya tene vyu, nyunyi
@@ -7,7 +6,6 @@ syaina ikomano. Nimendaa
 musumbi ota andu na nyamu
 sya kithekani. Ni isuni yiva
 itonya utwika musumbi?
-
 
 ##
 “Ndiu ya makuyu e vinya na
@@ -20,7 +18,6 @@ ta munyambu.” Ungi asya
 “Aiyee, ndatonya kuuluka na
 musumbi wa nyunyi no nginya
 auluke.”
-
 
 ##
 “Nikwatya naile utwika
@@ -36,14 +33,12 @@ musumbi”.
 makayany’a. Ukomaa sua
 iyuma.”
 
-
 ##
 Na mayaiwana.
 Na umwe asya “ula utonya
 kuuluka iulu vyu niwe ukutwika
 musumbi”. “Ii’ ii, makayanya na
 matuila muno matuni.
-
 
 ##
 Mbata Musinga yauluka
@@ -54,11 +49,9 @@ yi mavandu yauluka matuku
 atatu ite kuungama yangie kula
 kwisua.
 
-
 ##
 Ndiu yatumua inene “Ninye ni
 iulu vyu, ni nyie musumbi.”
-
 
 ##
 Ateo aseng’ie muno kwiwa
@@ -71,12 +64,10 @@ nene.
 “Ticki, Ticki, Ticki,” asungia. Ni
 wa vyu ninye musumbi!
 
-
 ##
 Ndiu auluka aendete na iulu “
 Ninye ni iulu vyu ninye
 musumbi”, aneneena na wasya.
-
 
 ##
 Chirri, chirri, chirri, ninyie ni iulu
@@ -84,7 +75,6 @@ ninye musumbi”. Ncede
 aneena. Kai kaumalila kuma
 uungu wa ndiu”.
 
-
 ##
 Nyunyi ingi nisyonaa uu wonthe
 na sya thata. Nisyeethie itile
@@ -92,14 +82,12 @@ uthwau ula keekwatilite ateo
 koona undu ithatite na kalika
 iimani ya nzoka.
 
-
 ##
 Nyunyi ingi nisyonaa uu wonthe
 na sya thata. Nisyeethie itile
 uthwau ula keekwatilite ateo
 koona undu ithatite na kalika
 iimani ya nzoka.
-
 
 ##
 “Ndundu no muvaka uketeele
@@ -107,13 +95,11 @@ kaumaluke ukakwate” matavya
 Ndundu Khova athi ekala vakuvi
 na iima.
 
-
 ##
 Ateo isua yavyuva na akoma
 mituki.
 Ncede akunikila na mituki “wii”
 aumaluka athi.
-
 
 ##
 Ndundu eewie nthoni nundu wa
@@ -122,13 +108,12 @@ wa uu asyimaa na aikoma
 muthenya ndakoneke ni masuni
 aangi.
 
-
 ##
 * License: [CC-BY]
 * Text: South African Folktale
 * Illustration: Wiehan de Jager
 * Translation: Stephen Musyoka
-* Language: Kikamba
+* Language: kam
 
 Adapted from a story in 'South
 African Folk-Tales', by James A.

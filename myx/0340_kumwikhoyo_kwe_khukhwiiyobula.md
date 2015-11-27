@@ -1,6 +1,4 @@
-# Kumwikhoyo
-kwe
-khukhwiiyobula
+# Kumwikhoyo kwe khukhwiiyobula
 
 ##
 Kimiiko kimikali, Lukiingi Busaano
@@ -34,7 +32,6 @@ lwe khukhwooneka khwe
 bunwaanwa bwalwo, ne
 lwekhaliilikha busa.
 
-
 ##
 Buli ibumaliliisi we sabiiti, babaana
 ba Makhuuwa ni basaale baabwe,
@@ -46,7 +43,6 @@ tsisokya, nga babwaana/nga baasa
 kumulilo lwe khukhwiinyayisa,
 kweesi lwanyuma baalekhatsaka
 nga kushaaburukha.
-
 
 ##
 Imbuka ni yaba nga ibirawo, lukiingi
@@ -71,7 +67,6 @@ bwaba bwaweelewo.
 Tsikhaafu, tsimbusi ni kamakheese
 tseloosela busa khun’gaha/khuteela
 
-
 ##
 Babaandu be Namataala boola khuushimanya bari
 iliwo shishiindi shishaakhila khuukholebwakho. Kila
@@ -84,7 +79,6 @@ Busaano, khuulwiisamo lukoosi. Wekwaaba ni
 babaandu beewe baakhola kamayiiya, luundi
 baakulila khu lukiingi Busaano biwaanwa bye
 kimiluundu, bisoola ni sayipuraasi.
-
 
 ##
 Mbaawo umuundu na mutweela
@@ -109,7 +103,6 @@ tsimbusi, ni kamakheese
 byasaalana byaabalaayila mu
 bisiisa bye kimisaala.
 
-
 ##
 Babaandu be Namataala betsula
 kumwikhoyo beemba bari,
@@ -123,10 +116,9 @@ babaana be babaana baabwe
 banyalisile khuukhwiisamo iwe
 luukoosi biilo ni biilo.
 
-
 ##
 * License: [CC-BY]
 * Text: Cornelius Wekunya
 * Illustration: Catherine Groenewald
 * Translation: Cornelius Wekunya
-* Language: Lumasaaba
+* Language: myx

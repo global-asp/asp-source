@@ -1,5 +1,4 @@
-# Wanasi ni
-Wanakhutu
+# Wanasi ni Wanakhutu
 
 ##
 Shifukhu shitweela, Wanasi Nabubi,
@@ -10,7 +9,6 @@ Tsimbama tsaba tsibonekha buulayi
 luundi nga tsin’gaaha luukali.
 Waatsifumbikha mu mulilo,
 lwanyuma wekhala aasi khuutsilya.
-
 
 ##
 Ne n’aaba nga akana khwifuunda,
@@ -26,7 +24,6 @@ Shaleelo nakyeendile naabi,
 naluwile, luundi intsala yaaminyile.”
 Wanasi wataamba she khuukhola,
 waamwikulilawo wenjila.
-
 
 ##
 Ne Wanasi abe waarumanduwa
@@ -66,7 +63,6 @@ naakhusiimakho.
 Wanakhutu waafula mbola waatsya
 ingo weewe.
 
-
 ##
 Imbuka niyabirawo, Wanasi waarakikha
 khukhwambaasa naabi khu sheesi Wanakhutu
@@ -83,7 +79,6 @@ ni nase?”
 Kila Wanasi naye weelamo ari, “E e e, isho shiilayi
 naabi. Wanyala naabi.” Abweene awo nga intsala
 yiloosela bwilooseli khuumulya.
-
 
 ##
 Wanakhutu wetuumbula mu meetsi,
@@ -103,7 +98,6 @@ waasuba weelayo aasi, waarakikha
 khuulya tsinyanyi tseesi aaba
 waarekekhile.
 
-
 ##
 Wanasi naye waakhakakho
 khukhwituumbula mu meetsi, ne
@@ -118,7 +112,6 @@ ari etuumbule esiikhe, ne nga
 mbaawo shinyalikha ta. Waalekha
 khunyala khukhwisiikha aasi atsye
 alye she angoloobe.
-
 
 ##
 Lwanyuma Wanasi waafuna
@@ -135,7 +128,6 @@ binulu swa busa.
 Wanasi waarakikha khutsutsukhaka
 kamare.
 
-
 ##
 Ne Wanasi n’aaba nga atsanuusa
 kumukhono khuumekakho biilyo
@@ -150,7 +142,6 @@ welamo ari, “Eee, ilala uli mutuufu!
 Ise imbeele khu shiina?”
 Aryo weyabulamo ikooti yeewe.
 
-
 ##
 Ate nga akhali kamabaale mu sawu
 tse kooti yeewe, nga s’anyala
@@ -163,10 +154,9 @@ kweewe mu meetsi, walolelela
 Wanakhutu alya biilyo byeewe
 binulu ibyo byoosi.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Milton Eridad Shissa
-* Language: Lumasaaba
+* Language: myx

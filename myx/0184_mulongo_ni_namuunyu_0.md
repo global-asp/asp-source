@@ -1,5 +1,4 @@
-# Mulongo ni
-Namuunyu
+# Mulongo ni Namuunyu
 
 ##
 Aabawo khaalekho, umukhaana
@@ -9,7 +8,6 @@ shishaalo she Bukeewa.
 Shifukhu shitweela, maayi wa
 Mulongo waamurumana
 amutsiile kameetsi khu sebele.
-
 
 ##
 Nga ali khu ntsila atsya
@@ -26,7 +24,6 @@ kameetsi.”
 Ne basaale beewe bekaana
 khuumuliinda.
 
-
 ##
 Mulongo waabaloma ari,
 “Mbaawo buubi, kane
@@ -38,7 +35,6 @@ Lwanyumakho naye waatsya
 mu shisaali, khuuweentsa
 basaale beewe.
 
-
 ##
 Aryo waaloonda khayila
 khakhalola kwe luutsi. Khu
@@ -49,7 +45,6 @@ Waaba nga alikho ereeba ari,
 “Khayila shiina kheesi basaale
 beewe batsiiliilekho?”
 
-
 ##
 Aryo kila aroborakho khaayila
 khakhafuurakho buubalaayi,
@@ -59,7 +54,6 @@ Waaba waaluwile naabi, uri
 atsya khwiikhalakho busa aasi e
 kusaala awolekho, liilo
 lyaamukaama.
-
 
 ##
 Mulongo aatsya khusisimukha
@@ -74,7 +68,6 @@ Aaakhakakho khuutima, ne
 Namuunyu nga
 baamwibotokheleele.
 
-
 ##
 Namuunyu ubafuurakho
 buukhulu waamukhookhela ari,
@@ -83,7 +76,6 @@ waakhakilekho khuutima, kane
 khukhulye.”
 Muloongo wekoontselela ari, “Ni
 mundekhe intsye ingo.”
-
 
 ##
 Ne Namuunyu nibo baayila
@@ -100,7 +92,6 @@ mutweela wareeba ari,
 “Kumulilo kuli kuryee? Kameetsi
 kalikho kakyemukha?
 
-
 ##
 Ukuundi weelamwo ari, “Buli
 shiindu shili shin’goonan’goone.
@@ -114,7 +105,6 @@ waaloma ari, “Inywe
 Banamuunyu, liindakho.
 Khebulila likaambila lye
 shishaalo.
-
 
 ##
 Mbaawo Namuunyu uulya
@@ -130,7 +120,6 @@ shaananyina.”
 Ukuundi ari, “Inatsya
 khuulaanga babaandayeefwe ni
 bakooko."
-
 
 ##
 ”Namuunyu ufuura buukhulu
@@ -148,7 +137,6 @@ shisheeso. Mu mbuka ifwiiti iri
 waarakikha khukhwiiyiriira. Iyo
 niyo iyaba ikhabi ya Mulongo.
 
-
 ##
 Ne isaambo shiina iye
 khuumubirakho? Namuunyu
@@ -163,7 +151,6 @@ lwanyuma waatima, waatima,
 khukhwoolesa isi tsindimo
 tseewe tsamunyalisa.
 
-
 ##
 Mbuka nyene iyo, banamuunyu
 babaandi baakobolaka,
@@ -173,7 +160,6 @@ basama ni lirima liikali, ni
 buukhalafu bwe kamaani. Ne
 nga mbaawo sheesi banyoola
 ta.
-
 
 ##
 Nga alimbiyisile shishaalo she
@@ -191,15 +177,13 @@ Mulongo, ifwe abe
 khwaayambaasa khuri
 waafwa!”
 
-
 ##
 Khukhwaama ni noolwo, Mulongo ni babaana babaandi sibeelayo luundi
 khuutsyatsaka mu shisaali bonyene luundi ta.
-
 
 ##
 * License: [CC-BY]
 * Text: Sarah Nangobi
 * Illustration: Wiehan de Jager
 * Translation: Cornelius Wekunya
-* Language: Lumasaaba
+* Language: myx

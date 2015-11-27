@@ -93,7 +93,7 @@ goed?”
 * Text: Michael Oguttu
 * Illustration: Vusi Malindi
 * Translation: Ané van Straaten
-* Language: Afrikaans
+* Language: af
 
 Ané van Straaten, student at the
 University of Pretoria and studying

@@ -7,7 +7,6 @@ Mai maseo kuvituka kwou
 amaumbika mwakini mavye. Na
 ekala nthi amaye.
 
-
 ##
 Kavinda ukwenda kuuma yambee,
 ew’a mwango wake wakunangwa. “
@@ -19,7 +18,6 @@ nilike. Nitembeete kuma vaasa
 umunthi na ni munou muno na nina
 nzaa”. Kwou Anansi ee eka ata ateo
 kumweka alike?
-
 
 ##
 Ateo Anansi ai mutoonu muno
@@ -38,7 +36,6 @@ nthiani yonthe. Kavola, nguu athi
 usini kuthambya moko na asyoka
 yingi vala vai liu.
 
-
 ##
 Na kavinda kau Anansi ambiia
 kumelya ikwa kumelya. Ivinda ila
@@ -50,7 +47,6 @@ konthe wi wakuvi na nyumba yakwa
 thi ukoka ngutungie muvea.” Na
 nguu akunga kavola aendete
 kwake.
-
 
 ##
 O matuku maendee Anansi avindiya muno undu
@@ -64,7 +60,6 @@ tuye liu wa wioo, vamwe”. Anansi asya,” I”i, uu ni
 useo muno, nimuvea”. Aendee na kwiw’a nzaa
 munango.
 
-
 ##
 Na Nguu ethika kiwuni usini
 aseuvya mesa ya liu wa wiyoo vo.
@@ -77,14 +72,12 @@ nthi wa kiwu usini na ambia kuya
 matu me kisunzuni ala mai liu wa
 wioo.
 
-
 ##
 Anansi atata ulika kiwuni ateo
 nundu ai mbuavui ndai alika kiwuni
 ekaa o kulela. Atatie kila undu,
 kutuila, kwithika ateo ndatetheka.
 Ndai avikia liu usu.
-
 
 ##
 Mwisyo Anansi okiwa ni isuania.
@@ -97,7 +90,6 @@ matu ala mai na muyo mwingi ala
 mai ma liu wa wiyoo. Anansi ambiia
 kwita mata.
 
-
 ##
 Na Anansi atanamba uvikiaa liu uu
 waseuvitwe ni Nguu, Nguu
@@ -108,7 +100,6 @@ Anansi kwa kulea kuvindiya asya
 “ Ii niw’o mwa Nguu, nivindisyaa
 kyau” Na aumya ikoti yake.
 
-
 ##
 Na atena mavia mivukoni kwake ala
 matumaa atalela kiwuni, Anansi
@@ -117,10 +108,9 @@ Evau akunikila na oona Nguu
 aendee kuya liu uu wonthe na
 akwatwa ni kimako muno.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Stephen Musyoka
-* Language: Kikamba
+* Language: kam

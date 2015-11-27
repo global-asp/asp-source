@@ -17,7 +17,6 @@ atatagete gontebia: nabwo mboria
 bwa’se arenge gotoberia amatoke
 aye.
 
-
 ##
 Rituko erimo inkarora egekabu
 ki’amakendo kebekire ase omogaso
@@ -34,7 +33,6 @@ Richibu naende nanyorete ndiria
 buna, “Aya na amagoma ane
 y’ogokorera ebikone.”
 
-
 ##
 Inkagoka rende korigereria
 magokoro, amagoma aria amo
@@ -49,7 +47,6 @@ kare buna oyobeete. Inkaminyoka
 ebirundo ebinene gochia gokora
 egiatagete.
 
-
 ##
 Ekero nairanete, inkanyora baba
 gainkaransete isiko riaye korende
@@ -61,7 +58,6 @@ ing’ai...” Richibu nanyorete ndiria
 buna, “Noo bionsi bire ase ane
 yogokerera ebikone”
 Inkaigwa bobe sana.
-
 
 ##
 Amatuko abere agaeta, na baba
@@ -79,7 +75,6 @@ Inkaimokereria oborangeti boria
 igoro ake igo nagotiokerera rimisu
 riria rigiya.
 
-
 ##
 Eriogi ria’baba rigantaborora ekero
 andangeretie, “Ninki ogokora
@@ -90,7 +85,6 @@ Inkairana bwango nenyimbo yaye.
 Okoboria gokagera inkainyora buna
 nigo naichanete ase okomanya
 koria ase abisete amatoke.
-
 
 ##
 Rituko rikobwatia ekero baba
@@ -107,7 +101,6 @@ riarenge gwansa sana, ase obogima
 bwane konyora tindaria itoke
 rigwansa igo.
 
-
 ##
 Rituko riria riarenge kobwatia, baba
 noo arenge mogondo oye akwaa
@@ -122,7 +115,6 @@ isiko. Inkanyara tu kobisa amatike
 aria eyanga yane ime
 nakomoetania gochia isiko.
 
-
 ##
 Rituko riarenge kobwatia nigo
 riarenge rituko riechiro. Nigo baba
@@ -130,7 +122,6 @@ arenge koira amatike aye echiro
 koonia. Tichieti koayerera kogenda
 mwaye ituko erio. Korende tinyareti
 komoina ngaki tambe.
-
 
 ##
 Emarogoba eyio ekero
@@ -141,10 +132,9 @@ naraire, inkamanya tinkoirorera
 koiba naende, ebe korwa ase
 magokoro gose onde bwensi.
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Dennis Ogaro Ondieki
-* Language: Ekegusii
+* Language: guz

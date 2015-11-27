@@ -62,7 +62,7 @@ Tortoise.
 The head went up to Adun and
 said, “Where do you think you
 are going?”
-Adun went back to the head’s
+Adun went back to the head's
 house.
 
 ##
@@ -71,10 +71,10 @@ diviner about what to do. The
 diviner advised, “Go and buy
 some bean cakes. Soak them in
 palm oil and put them in
-Tortoise’s horn.”
+Tortoise's horn.”
 
 ##
-Adun followed the diviner’s
+Adun followed the diviner's
 instructions. She put the oily
 cakes into the horn.
 

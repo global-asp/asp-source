@@ -1,5 +1,4 @@
-# A Wanuna ni
-Nghonyamu
+# A Wanuna ni Nghonyamu
 
 ##
 Hi ka masiku lawaya,
@@ -8,12 +7,10 @@ kari a fama lomu
 kwatini. Hi ci tsuketi, a
 kumanili ni nghonyamu!
 
-
 ##
 A nghonyamu ayi kari yi
 ti humulela ka bzanyi
 ga ndzokati.
-
 
 ##
 A thlanganu wabze wa
@@ -21,7 +18,6 @@ ci tsuketi wu mahili aku
 a wanuna anga tivi a cu
 maha. A wa teli ni
 wutoya.
-
 
 ##
 Aku sanguleni, a
@@ -39,7 +35,6 @@ noma ka sinya wo leha!
 A sangula aku cwanga
 na a kari a ruketela a
 nghonyamu.
-
 
 ##
 Nghonyamu yi b’aramili
@@ -62,12 +57,10 @@ ku gumesa, a
 khudzehela a gama a
 khon’wa hi wu rongo.
 
-
 ##
 Kanilezvi a wili a hehla
 ka nghonyamu yinga
 ngha yi etleli!
-
 
 ##
 Votle va vukili na vanga
@@ -77,7 +70,6 @@ rivakelwi ni zvakuga zva
 yona, yi tsutsuma kasi
 aku ponisa a wutomi ga
 yona.
-
 
 ##
 A wanuna na yenawu a
@@ -95,11 +87,9 @@ wanuna a cicili a tlelu
 kasi a pona aku giwa hi
 nghonyamu!
 
-
 ##
 * License: [CC-BY]
 * Text: Mozambican folktale
 * Illustration: Hélder de Paz Alexandre
 * Translation: Rafael Ernesto Samuel
-* Language: Xitswa
-
+* Language: tsc

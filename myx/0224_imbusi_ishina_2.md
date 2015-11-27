@@ -21,13 +21,11 @@ Khuufwa nga uli
 musangaafu?
 Musaambo shiina?
 
-
 ##
 Imbusi yeelamo iri,
 siinga imba uwe
 khuufwa, ingana ifwe
 nga ndi khuushina!
-
 
 ##
 Khatsuutse khaabukula
@@ -35,14 +33,12 @@ lituungu lyakho. Kharyo
 khekhala aasi
 khaarakikha khuulibuta.
 
-
 ##
 Imbusi nayo yaarakikha
 khuushina, abe
 yakhaba nga yaba
 yaariirakilemo
 khakyeekhe.
-
 
 ##
 Ne aambikho ni shiifwo isho, yabawo tsiimbwa. Natso tseetsa
@@ -60,11 +56,9 @@ yaamanyile iri
 yaawonile khuulibwa ni
 khatsuutse!
 
-
 ##
 * License: [CC-BY]
 * Text: Folktale
 * Illustration: José Nhambo
 * Translation: Milton Eridad Shissa
-* Language: Lumasaaba
-
+* Language: myx

@@ -1,13 +1,9 @@
 # Amasafu
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
 
 ##
 Lichuma liawere
 ndanyola amasafu
 amanji.
-
 
 ##
 Mubarasa yawere,
@@ -16,12 +12,10 @@ yahandichira
 omusomesia wanje
 lisafu.
 
-
 ##
 Wamachina nomulwale.
 Akhoyere okhwikhala
 nango.
-
 
 ##
 Olwakhabiri, ndanyoola
@@ -29,11 +23,9 @@ lisafu okhurula khu
 abomushisomero
 shianje.
 
-
 ##
 Owone lwangu
 Wamachina!
-
 
 ##
 Muchitaru, ndanyola
@@ -41,25 +33,20 @@ lisafu okhurula khu
 mwitsa wanje
 wokhumwoyo.
 
-
 ##
 Ekhuchorere
 eshifwanani shino.
 Owakhuchama,
 Wandanje.
 
-
 ##
 Muchine, ndanyoola
 lisafu okhurula khu
 mama wanje.
 
-
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Cathy Feek
 * Translation: Catherine Were
-* Language: Oluwanga
-
+* Language: lwg

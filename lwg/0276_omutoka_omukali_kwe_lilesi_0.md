@@ -1,5 +1,4 @@
-# Omutoka omukali
-kwe lilesi
+# Omutoka omukali kwe lilesi
 
 ##
 Lialio litoka tsa elala
@@ -9,7 +8,6 @@ Liali likali khandi lie
 shilesi.
 Liali no luyoka muno.
 
-
 ##
 Indalo yindi,
 Nyinamwana Omoka
@@ -17,7 +15,6 @@ yaboola, "Mutsuli
 khulatsia mulukulu
 okhukula ingubo yo
 yemwisomero."
-
 
 ##
 Omoka yasangala
@@ -28,12 +25,10 @@ lilesi.
 Yakhaywa okhukona
 mushiro.
 
-
 ##
 Omoka yali afwalire
 tsingubo olwa nyina
 yetsa okhumwinyosia.
-
 
 ##
 Omoka nende nyina
@@ -43,7 +38,6 @@ Balinda omutoka mukali
 kwe lilesi.
 Habula omutoka
 shikwetsa tawe.
-
 
 ##
 Abandu bandi boola
@@ -55,14 +49,12 @@ kubutsire.
 kukhuleshere?"
 bareeba.
 
-
 ##
 Omoka yahenda muno.
 "Shikhulatsia elukulu
 tawe. Shindanyoola
 ingubo yo mwisomero
 ta," napaara.
-
 
 ##
 Abandu bandi bafwa
@@ -75,13 +67,11 @@ Nyina namuenderesia.
 "Khulalinda kho
 oluono," naboola.
 
-
 ##
 Mufise efio, baulira
 oluyoka.
 Balola olufu lutuma.
 Omutoka kwali kwitsa!
-
 
 ##
 Alali omutoka kuno
@@ -93,13 +83,11 @@ Abali balinda omutoka
 bakuenga.
 Shibanina mwo ta.
 
-
 ##
 "Injiremwo! Injiremwo!
 Omwirusi nayiibukha.
 "Khushindire muno
 luno," naboola.
-
 
 ##
 Omoka nende nyina
@@ -108,13 +96,11 @@ Mufise fitutu abandu
 boosi benjira mumutoka
 omutiti omwakhanyu.
 
-
 ##
 Omoka yaenjerera
 mwidirisha.
 Yalola abandu abanji
 mushituoa shio mutoka.
-
 
 ##
 Buli shamundu yali
@@ -127,7 +113,6 @@ Omutoka omwakhanyu
 kwasimukha okhutsia
 elukulu.
 
-
 ##
 "Omutoka mukali kwe
 lilesi kuli ena?" Nyina
@@ -136,7 +121,6 @@ Omoka yareeba.
 nakalusia.
 "Khukukasinjia. Kuletsa
 mutsuli," nametakho.
-
 
 ##
 Omoka shiyateba ifwani
@@ -147,10 +131,9 @@ Yali nobusangafu
 khulwa omutoka kwali
 kutsia elukulu.
 
-
 ##
 * License: [CC-BY]
 * Text: Mecelin Kakoro
 * Illustration: Mango Tree
 * Translation: Margaret Amateshe
-* Language: Oluwanga
+* Language: lwg

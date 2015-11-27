@@ -5,12 +5,10 @@ Inyinga ndala, Eshituyu
 shiali nishichendanga
 khumwalo.
 
-
 ##
 Ifubu yosi yali awo,
 niichendanga ne
 niyayanga obunyasi.
-
 
 ##
 Ifubu siyali niimanyire
@@ -54,7 +52,6 @@ kwarulira nikuchaka
 okhusamba amoya ke
 Ifubu.
 
-
 ##
 Ifubu yanza okhulira
 niirushira mumwalo.
@@ -69,7 +66,6 @@ Obwoya bwanje bwosi
 butsire.
 Obwoya bwanje bulayi.”
 
-
 ##
 Eshio ne shifune shichira ifubu sitsitsanga ale nende omwalo
 tawe, khulwa oburi bwokhusambwa nende omuliro.
@@ -77,8 +73,7 @@ Eshimuna shiasangala sana olwa ifubu yayia nende omuliro,
 
 ##
 * License: [CC-BY]
-* Text: Basilio Gimo and David Ker
+* Text: Basilio Gimo, David Ker
 * Illustration: Carol Liddiment
 * Translation: Margaret Amateshe
-* Language: Oluwanga
-
+* Language: lwg

@@ -1,10 +1,8 @@
-# Nanjoosi n’efiiri
-edatu
+# Nanjoosi n’efiiri edatu
 
 ##
 Ahale hale bugali, ŋaaliŋo abahaana
 badatu abatiina ohutenya ekwi.
-
 
 ##
 Ni bahena ohutenya ekwi,
@@ -13,11 +11,9 @@ ohwebbomba.
 Batagiha ohwebbomba n'ohugudula
 ni baswanyusaniaho amaaji.
 
-
 ##
 Baja ohuhebulira obwire ni bubitire.
 Nga baŋiitaho ohwagama engo.
-
 
 ##
 Ni baali ni banatere ohwola engo,
@@ -29,7 +25,6 @@ hwagameyo keje embira jange!”
 Aye abameeri babe nga baloma
 baati "Obwire bubitiriiye bugali."
 
-
 ##
 Ng'aŋo Nanjoosi gaagamayo hu
 lwabi yekani.
@@ -37,13 +32,11 @@ Gageene embira jije era geŋiitaho
 ohwagama engo coka gaagota
 engira mu hiirema.
 
-
 ##
 Ni gaali nagenda galengera enjase
 ni yiŋwera mu hatiira.
 Gaŋiitaho ohutiina eyaali enjase era
 ni goola ng'akokona hu lwigi.
-
 
 ##
 Ehyamweŋunjisa embwa
@@ -56,7 +49,6 @@ yimuloma yiiti, "Yingira mangu ni
 kiri huhuluma!” Nga Nanjoosi
 gengira.
 
-
 ##
 Ng'aŋo embwa yiroma yiiti,
 “Piiyire!”
@@ -66,7 +58,6 @@ Ng'embwa yimuloma yiiti, "Nyiiya,
 nyiiya ni kiri huhuluma!” Ng'aŋo
 Nanjoosi anyiiyira embwa ebiryo.
 
-
 ##
 Ng'embwa yiloma Nanjoosi yiiti,
 "Njalire obuliri!" Nga Nanjoosi
@@ -75,7 +66,6 @@ mbwa obuliri.”
 “ Ng'embwa yimuloma yiiti, "Yaala,
 yaala obuliri, ni kiri huhuluma. Nga
 Nanjoosi gaala obuliri.
-
 
 ##
 Hiisi ludaalo Nanjoosi gabanga
@@ -87,7 +77,6 @@ abameeri bange. Sagula enyumba,
 onyiiye ebiryo, era wunjohese ni
 tagaluha.”
 
-
 ##
 Amangu dala embwa ni yahatiina,
 Nanjoosi gahunyula obufiiri budatu
@@ -97,7 +86,6 @@ egongo w’olwigi, n’ahandi mu
 hiraalo. Ng'aŋo ko aŋwanjuha
 embiro ng'olu aŋanga gaagama
 engo.
-
 
 ##
 Embwa ni yagaluha yendula
@@ -111,7 +99,6 @@ w’olwigi.” “ Nga n'ahandi hoosi
 haloma haati, "Ndi ŋano, ŋano mu
 hiraalo. ”
 
-
 ##
 Ng'aŋo embwa yimanya yiiti
 Nanjoosi aponyohire. Nga yiduluma
@@ -122,10 +109,9 @@ Embwa ni yababona nga yicuuhaŋo
 yiduluma yagamayo era ohuŋwa
 hwolwo sebonehanga nundi.
 
-
 ##
 * License: [CC-BY]
 * Text: Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Gershom Hirome
-* Language: Lunyole
+* Language: nuj

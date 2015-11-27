@@ -12,7 +12,6 @@ muundu yeesi ukana biilyo
 akyeendelakho ilala nio
 waatuya khe khulya.
 
-
 ##
 Nelima aaba ali umukhaana
 omuwolu, umusilise ate
@@ -23,7 +22,6 @@ khuukanikhakho isi babaandu
 beesi akhamanyile ta, naluundi
 nga si enaanayo isi babaandu
 babaandi ta.
-
 
 ##
 Abawo lutweela, bayaaya bano
@@ -36,7 +34,6 @@ Nelima waaloma Nambuya ari
 beerekekhe batsye khu tsintsila
 tse njawulo. Baryo baatsya nga
 ni baafukiilisana.
-
 
 ##
 Khu ntsila iyo, aabawo
@@ -51,14 +48,12 @@ bayaaya bano
 baakhukhamanyakho khaaloosi
 khano ta.
 
-
 ##
 Nambuya aatuya khaaloosi
 khano khaamulaanga khari,
 “Mukhaana wase, oryeena
 wamweene? Waama hena?
 Ulikhuutsya waheena?”
-
 
 ##
 Nambuya weelamo birebo ibyo,
@@ -74,12 +69,10 @@ naafwa intsala ne nga
 naakhuwaamba mu mikoontsyo
 kyoowo ikyo ta.”
 
-
 ##
 Ne Netalisile waasila busa,
 waamuloma ari nuutsye woole
 buulayi.
-
 
 ##
 Nambuya waakyenda woola
@@ -89,7 +82,6 @@ tsindemu, bifululungwe ni
 biwuukha bibiindi bibyamulya
 nga ashili khufuna ni sheesi
 aakana ta.
-
 
 ##
 Nelima naye woola isi khaaloosi
@@ -102,7 +94,6 @@ nga ni khaareeba Nambuya,
 khaamulomela shishiindu
 sheene sheesi aaloma
 Nambuya.
-
 
 ##
 Nelima wenyukhilamo, waasuta
@@ -117,7 +108,6 @@ khaamuloma kati kobolayo ingo
 unatuya buli shiindu sheesi
 ubeele ukana.
 
-
 ##
 Nelima waasiima naabi
 Netalisile, aryo waatimaka
@@ -130,15 +120,13 @@ Nelima weekyela umukhasi
 ufuurayo buyiindifu buukali khu
 shisiintsa isho.
 
-
 ##
 Ne waalila naabi yaayawe ari,
 “Nangawulila akwa mu meeno
 ke ntsofu.”
 
-
 ##
 * License: [CC-BY]
 * Text: Salaama Wanale
 * Illustration: Mango Tree
-* Language: Lumasaaba
+* Language: myx

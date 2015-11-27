@@ -6,13 +6,11 @@ khukyenda
 khwikelemetsi lye
 khunyatsa.
 
-
 ##
 Wafubu naye
 aabaho,nga ikololaaka
 kho nalundi nga ali
 khulya bunyasi.
-
 
 ##
 Wafubu samanya ari
@@ -57,7 +55,6 @@ kwananikha
 khukhwosya bubwoya
 bwewe bwosi.
 
-
 ##
 Wafubu wananikha
 khukhwatsulukha nga
@@ -74,7 +71,6 @@ Bubwoya bwase bwoosi
 bwawaho!
 Bubwoya bwase
 
-
 ##
 Nisyo sikila ni sya leelo Wafubu ayiila ambi ni kameetsi nga
 arya Muliro khu mwosya.
@@ -83,8 +79,7 @@ aloma ari, “Namunyaliile.”
 
 ##
 * License: [CC-BY]
-* Text: Basilio Gimo and David Ker
+* Text: Basilio Gimo, David Ker
 * Illustration: Carol Liddiment
 * Translation: Aryada Naomi Nora
-* Language: Lumasaaba
-
+* Language: myx

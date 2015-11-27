@@ -9,7 +9,6 @@ okhushira, okhuula
 abandu nibakhaywa
 okhwifwira nakwo.
 
-
 ##
 Kho abasiani musafu
 okhurula mu luyia lwa
@@ -21,12 +20,10 @@ khubo. Were wa musafu
 niyebanda inyuma
 welitulo.
 
-
 ##
 Ne olwa Were barulao,
 eshirima shiafunikha
 buli abundu.
-
 
 ##
 Efichwaya shifialola
@@ -37,7 +34,6 @@ fiabura busa
 khutsitalanyi ne
 eshifuluko nishiba
 eshinji.
-
 
 ##
 Okhunyoola injira
@@ -50,7 +46,6 @@ musafu balia, owali
 nashiliwo omulamu ne
 niyefisa inyuma
 welitulo.
-
 
 Ne niwina owali nanyala
 okhulanga Were oyo
@@ -69,7 +64,6 @@ niyilokha.
 Ne Were
 shiyairechelesia ta.
 
-
 ##
 Inzofu niyilondakho
 okhulanga.Yanyiira
@@ -78,7 +72,6 @@ niyifuureresia.
 ‘’Were, Were nochama
 kalukha,” ne Wele
 shiyairecheresia tawe.
-
 
 ##
 Simbi nikhashina ne
@@ -94,7 +87,6 @@ Olunyuma itaywa
 yerusia okhulanga
 Were.
 
-
 ##
 Itaywa yasita imberi ne
 niyikholiokha
@@ -102,7 +94,6 @@ mushiwoyo, "Kokoliokoo." Buli mulala
 nachenya, olwa Were
 yalenjererakho elwanyi
 atiti inyuma welitulo.
-
 
 ##
 Itaywa niyikholiokha khandi,
@@ -133,5 +124,4 @@ mwikulu.
 * Text: Indian Folktale
 * Illustration: Pratham Books
 * Translation: Joseph Saka
-* Language: Oluwanga
-
+* Language: lwg

@@ -1,6 +1,4 @@
-# Haŋambi,
-Nahinywamalwa
-ni Wagoona
+# Haŋambi, Nahinywamalwa ni Wagoona
 
 ##
 Lulala ŋaliŋo enjala pereketya mu
@@ -19,7 +17,6 @@ namumbirya ohwegomba era
 gaŋeega hu ngeri eyi aŋanga
 ohusuna ebiryo ebyo.
 
-
 ##
 Gayiiyaŋo amagesi agohuta hu
 wihaliro buwe obulimbo ng’ahena
@@ -33,7 +30,6 @@ limweŋamba hu wihaliro.
 Ni bamuŋa eryanda ly'omuliro nga
 geyaasa ahena geyuna engo ohulya
 ehuyu eri asunire.
-
 
 ##
 Aye ehy’ahabi ehiriiwa ehirala hyali
@@ -72,7 +68,6 @@ n’amahuyu gosigosi
 abanahinywamalwa ndibafunaho
 nayire.
 
-
 ##
 Nga abanahinywamalwa bamuleha
 eyo yeka bagama. Ehireema ni
@@ -82,9 +77,8 @@ gusaala guno seŋeene, ndi
 n’ohuguluha hya
 banahinywamalwa”. Ng'aŋo gesinga
 atuuma mu bbanga atagihe
-ohuguluha! Coka nga ……BBwa-a-aa! Gedimbuula mu lwabi mu
+ohuguluha! Coka nga ......BBwa-a-aa! Gedimbuula mu lwabi mu
 gagoona.
-
 
 ##
 Ng'aŋo Haŋambi aŋulira erala hu
@@ -99,7 +93,6 @@ abalebe bange abadaayi
 abanahagananaho ni nabo”
 Gabbologa bugaali weene
 amagoona gamusasira.
-
 
 ##
 Aye egoona ehulu nga liroma liiti,
@@ -135,7 +128,6 @@ ohubaŋira nga namumbirya aloma
 amagoona ati, "Ejo mu mugamba
 nahabaŋayire ebipambaho."
 
-
 ##
 Ni wahya ni waali ni butanuuha,
 Haŋambi gasisimusa gulala hu
@@ -146,7 +138,6 @@ bahanjeeda ohubaŋayira
 ebipambaho. Kale nyede
 bunyambuse abahyo ni bahiiri
 husisimuha.
-
 
 ##
 Ogugoona sigwasangaala
@@ -161,19 +152,15 @@ Ni gatumaho ng'aloma egoona ati,
 “Ngoboola mangu! Otaŋwaŋo”
 Ng'ahena gesweha mwisugu.
 
-
 ##
 Neyi buli eno egoona lihirindiriiye
 Haŋambi, n’ogusuulu gwalyo
 oguleeŋi ko n’agaboni agembira ni
 bifundulaye hu mugulu w’olwabi.
 
-
 ##
-Haŋambi, Nahinywamalwa ni
-Wagoona
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Mubbalya Charles
-* Language: Lunyole
+* Language: nuj

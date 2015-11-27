@@ -1,6 +1,4 @@
-# Omusatsa wa
-Mbeli Omukhasi
-wa Mbeli
+# Omusatsa wa Mbeli Omukhasi wa Mbeli
 
 ##
 Olwali lwa khale lulia, olwe shialo
@@ -10,12 +8,10 @@ ngo oburungeti, ne emisala
 emirambi chiatsomosherera hosi
 mwikulu.
 
-
 ##
 Mushialo muno, lialiho litiba
 liolutungu olurambi nilierima,
 niliawulera khandi nilianyira tsi.
-
 
 ##
 Khulwalo lwe litiba lino,
@@ -24,7 +20,6 @@ Ndala yali niyakhupa
 amakanya kamalwelwe,
 ne indi inyerere
 niyekotiombola.
-
 
 ##
 Ne inyanga ndala lialiho lirunda
@@ -45,7 +40,6 @@ lino khandi tawe,” Nitsiboolanira. “Khutsie hekulu khulole
 eshialo shiliyo.”
 “Khulamenya khurie khu shialo?”
 
-
 ##
 “Amayoni komwikulu
 shikalakhutsekha okhubeera mbu
@@ -56,7 +50,6 @@ Halala tsiachaka okhwisoka
 nitsinina hekulu, hekulu, Khubulafu
 bwaliyo.
 
-
 ##
 Ne olwa tsiola khumatsi hekulu,
 eshiamakana shiakholekha. Emirwe
@@ -65,12 +58,10 @@ khabiri-efilenje nende tsinzala.
 Hasi womurwe, amakhono kamera
 kabiri nende efikalabo ne tsinzala.
 
-
 ##
 Shi tsiali tsinzukha khandi tawe, halali omusatsa nende
 omukhasi.
 Ne olwa balinganakho, nibachamana.
-
 
 ##
 “Khulombakha litala liefu mufikulu,” Omukhasi naboola. “Buli
@@ -79,16 +70,13 @@ emikongo..."
 “Khularuka obunyasi nende emisala,” Omusatsa naboola.
 “Khandi obwitsa nende liyoni nende Isolo.”
 
-
 ##
 “Come," said First Man. “I will,” said First Woman.
 And they walked out together into their new world.
 
 ##
-Omusatsa wa Mbeli Omukhasi wa
-Mbeli
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Jemma Kahn
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

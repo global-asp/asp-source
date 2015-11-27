@@ -1,7 +1,4 @@
 # Nsobola
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
 
 ##
 
@@ -20,12 +17,9 @@ Buthelezi
 ##
 Nsobola okusoma.
 
-
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Cathy Feek
 * Translation: Cornelius Gulere
-* Language: Lusoga
-
+* Language: xog

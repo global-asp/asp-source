@@ -69,7 +69,7 @@ ons.
 
 ##
 * License: [CC-BY]
-* Text: Zimbili Dlamini and Hlengiwe Zondi
+* Text: Zimbili Dlamini, Hlengiwe Zondi
 * Illustration: Catherine Groenewald
 * Translation: Joey Mokgapa
-* Language: Afrikaans
+* Language: af

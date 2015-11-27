@@ -1,10 +1,4 @@
-# Omote oria
-okonyete
-okenyoro
-ki’Ombalantu
-Karen von Wiese, Beryl
-Salt, Muhdni Grimwood
-and Barbara Meyerowitz
+# Omote oria okonyete okenyoro ki’Ombalantu
 
 ##
 “Shhhu!” Magokoro agatotebia. “Riberera riaichore! N’enyongo
@@ -21,7 +15,6 @@ Ombalantu? Ekenyoro keria kere ang’e aiga?” Salema akaboria.
 Gaki totebie igoro yomote oria bwororo,” Taiyo akamwebereria.
 “Ikaransa bono nse naende motegerere bono mbatebie“Magokoro
 agateba kagochaka omogano.
-
 
 ##
 
@@ -42,7 +35,7 @@ Omoerio akamorora karaire obonyansi ime magega y’ekegege.
 Kagendererete gocha ang’e akamoorokia nekiara ase ebikoba
 biaye buna akire. Ninki gose atakerete akire? Ang’e nabarabu
 egekundi ki’abasacha bande mbarengeoo batimogete. Abasacha
-baria nigo babwate obota nenchinsara…na amatimo! Thaimi nabo
+baria nigo babwate obota nenchinsara...na amatimo! Thaimi nabo
 arenge koigwa buna barenge kogamba.
 “Angula,” akamonya, magega yokoigwa ake igo igoro yabo.
 “Abamura baria nabaibi. Bachire koiba
@@ -83,7 +76,6 @@ Thaimi akaoboa mono. Koruoo akainyora egento gete. Akainyora
 ase ere na Angula bagachiesire na kwebisa.
 Ase agaya. Ase atamanyire nonde.
 
-
 ##
 
 ##
@@ -99,7 +91,6 @@ Abanyakenyoro bagaterera.
 Thaimi akarangeria naende, “Nimbwate ase yokwebisa.
 imbwatie!.”
 Akabwata Angula okoboko.
-
 
 ##
 
@@ -137,7 +128,6 @@ Akabogoria amagena abere nakoyakong’ontania amo. Chinsase
 chigaokia obonyansi nomoreero mokeigo ogoka.
 Ng’ora ng’oora omorero omorabu bweriberera ogoka.
 
-
 ##
 
 ##
@@ -151,7 +141,6 @@ nobwoba. Ritang’ani kabisa omoibi oyomo agaonchoka agatama.
 Koruoo oyonde – naende oyonde. Omoerio bonsi bagatama.
 Abanto b’ekenyoro keria Ki’Ombalantu bagakonywa igo.
 
-
 ##
 
 ##
@@ -161,14 +150,9 @@ ri’Omokomoni oria .
 “Igo yaani nomote oria
 obakonyete,“ agateba.
 
-
 ##
-Omote oria okonyete okenyoro
-ki’Ombalantu
 * License: [CC-BY]
-* Text: Karen von Wiese, Beryl Salt, Muhdni Grimwood
-and Barbara Meyerowitz
+* Text: Karen von Wiese, Beryl Salt, Muhdni Grimwood, Barbara Meyerowitz
 * Illustration: Julia te Water Naude
 * Translation: Dennis Ogaro Ondieki
-* Language: Ekegusii
-
+* Language: guz

@@ -1,8 +1,4 @@
-# Mũthenya
-wakwa wa mbee
-Ndũnyũ
-Timothy Kabare and
-Ursula Nafula
+# Mũthenya wakwa wa mbee Ndũnyũ
 
 ##
 Nĩkalaa ndũanĩ ya Kakuma, vandũ
@@ -11,7 +7,6 @@ mbiingĩ kwĩ andũ. Ona ndũnyũ
 ĩthĩwaa ĩngilu na tũtuka nĩ tũnini.
 Andũ maingĩ matũmĩa kĩsululu kũthi
 kũndũ kũndũ.
-
 
 ##
 Mũthenya ũmwe mwaitũ nĩwambĩtie
@@ -26,7 +21,6 @@ wakwa wa mbee wakũthi taũni!
 Nena ũtanu mwiingĩ ndyakoma
 ũtukũ ũsu.
 
-
 ##
 Mũthenya ũla watĩĩe nĩnongamie
 katĩkatĩ wa mwaitũ na mwĩĩtuinya
@@ -37,7 +31,6 @@ nũngamĩte katĩkatĩ wa mwaitũ
 mũtheke mũasa na mwĩĩtuinya
 mũnene mũno na mũnou.
 
-
 ##
 Mbasi embũsũu kwou nĩnekalĩle
 mwaitũ.
@@ -45,7 +38,6 @@ Nũndũ wa ũvyũvu mwiingĩ na mũyo
 mũvĩtũku nĩnakwatiwe nĩ mĩnoo na
 nakoma nzĩanĩ ĩsu yonthe; ndyaona
 kĩndũ.
-
 
 ##
 Twavikie Endoleti sua ĩkuma.
@@ -55,7 +47,6 @@ elĩ malanasya makwasĩ moo nthĩ.
 Ngalĩ ĩngĩ kwaĩ kĩveti kĩkuvĩ
 kyakwete ndeke yakengaa.
 “Mwaitũ, mwaitũ, ona ndeke ĩla!
-
 
 ##
 Katĩ wa ndũnyũ kwaĩna kĩvanda
@@ -67,7 +58,6 @@ amwe na asya, “ aa nĩ masungwa
 na aa nĩ mavela. Nĩnalyũkile na
 nasya, “namo aa?”
 
-
 ##
 Katĩka matunda onthe nendie avoo
 kũsinda angĩ. Nendie mũmbĩle na
@@ -75,7 +65,6 @@ langi wa mo. Nĩnolanĩlw’aa nũndũ
 matonya kwĩthĩwa mesama.
 Nĩnalyũkĩĩle mwaitũ na namũkũlya,
 “nũtonya kũnzoea avoo ĩmwe?”
-
 
 ##
 Amina kũnzoea avoo nĩnalekilye
@@ -85,7 +74,6 @@ Ndyaĩĩ naya ĩtunda na mũyo wana
 ou ĩngĩ.
 Kĩndũ kĩla naĩna vata nakyo saa isu
 nĩ avoo yakwa.
-
 
 ##
 Namina kũya avoo yakwa nĩnendie
@@ -100,7 +88,6 @@ Nĩnakũlilye iveti ila syaĩ vau vakuvĩ
 syĩkũta maluu ĩndĩ syĩangwatĩĩa.
 Nĩnanzĩe kũĩa.
 
-
 ##
 Ĩvinda ĩnini yathela kĩveti kĩmwe
 nĩkyangwatie kwoko na kyandwaa
@@ -110,7 +97,6 @@ kĩthungu nĩwangũlilye, “wĩtawa ata
 kavĩsĩ?”
 “Mĩtambo,” nĩnasũngĩie nendee
 kwĩtĩkya methoi.
-
 
 ##
 Nĩnolanĩlwe kana syana nasyo
@@ -124,7 +110,6 @@ nako.
 ndikesa kwĩnũka ĩngĩ,” nĩna sũanĩĩe
 na nanzĩa kũĩa ĩngĩ.
 
-
 ##
 Ĩla new’ie wasya wa ũla mũndũũme
 mũnene waĩna kĩng’ee kĩthungu
@@ -134,14 +119,12 @@ nĩnaendee kũĩa ĩnene.
 nĩnaisye ngũĩa na nasemba kuma
 vala ve mũndũ ũsu.
 
-
 ##
 Ĩla mwaitũ na mwĩĩtuinya mew’ie
 ĩsyĩtwa yakwa nĩmasembie lumunĩ
 ĩsu.
 “Mĩtambo! Mĩtambo!” wasya nĩsĩ
 nĩwetanie nanethĩie kana nĩ mwaitũ.
-
 
 ##
 Nĩnekumbatĩle mwaitũ
@@ -152,10 +135,9 @@ Nĩwaumisye ndeke ya mbuluu
 ĩkũkengakenga mũvukonĩ.
 “Ĩĩ nĩyaku” nĩwaisye.
 
-
 ##
 * License: [CC-BY]
-* Text: Timothy Kabare and Ursula Nafula
+* Text: Timothy Kabare, Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Alice Oghana
-* Language: Kikamba
+* Language: kam

@@ -1,6 +1,4 @@
-# Intsilihaasa
-iy’omwoolesi we
-bubuukhi
+# Intsilihaasa iy’omwoolesi we bubuukhi
 
 ##
 Luno luli lukano lwa Nabuukhi, umwoolesi we bubuukhi,
@@ -17,7 +15,6 @@ kwiilakho.
 Khasoka nga khalaanga khari, “kingili-kingili, kingili”, buli mbuka
 khaatsya nga kheemikha khuuhandalasa nga Muluungo
 waakhaloondilekho.
-
 
 ##
 
@@ -37,7 +34,6 @@ intsukhi yoosi khukhwaama mu
 kusaala mwisina ta, ne eyikina
 Nabuukhi.
 
-
 ##
 Aryo Muluungo waasimikha lifumo
 lyeewe aasi mwisina mwe kusaala,
@@ -53,7 +49,6 @@ Kila ananikha khuniina khu kusaala,
 nga walumile khu meeno luhaande
 lwe lusaala lulukhalikho kumulilo
 khukhwipoowa lisuusi ta.
-
 
 ##
 Lubaluba, wawulila khuwuuma
@@ -72,7 +67,6 @@ yaatsya, lwekhuuba siyakana lisuusi
 khuutsiinikha Muluungo tsimboola
 tsitsoolakho.
 
-
 ##
 Nga intsukhi yaaruriremo, Muluungo
 aasobekha kumukhono mu
@@ -86,7 +80,6 @@ kamasasari mu wootswa isi aaba
 waabaliile khwiibeka, nio
 waananikha khukhwiikha aasi
 khukhwaama khu kusaala.
-
 
 ##
 Nabuukhi niya ofwaasa ni
@@ -106,7 +99,6 @@ Nabuukhi weereka khwiibaale
 aambi n’umusooleli nga ashiliinda
 khaasiimo kheewe.
 
-
 ##
 Ne Muluungo aasimisa kumulilo, waakhuula lifumo lyeewe,
 waananikha khuutsya ingo weewe, nga s’enaanayo khu
@@ -120,7 +112,6 @@ lwashiina ingabanana ni nawe bubuukhi buulayi buno?” Lwanyuma
 wakyeenda waatsya.
 Nabuukhi waakhalala naabi. Yino siili niyo isaambo iye
 khuumubirisa ta. Ne kane elihaasibwe.
-
 
 ##
 
@@ -137,7 +128,6 @@ waananikha khuniina, ni lusokya lulwipoowa lisuusi, nga
 waalulumile khu meeno.
 Nabuukhi eekhala waalolelela.
 
-
 ##
 
 ##
@@ -149,7 +139,6 @@ kumusiinga, waalosana bubweeni ni Ingwe!
 Ingwe yaakhalala naabi khulwe khuukisisimusa mwiilo lyayo.
 Yaalolela mu bwooya, yaasama mu khanwa khukhwookesanisa
 kameeno kaayo kamaboofu naluundi kamooki naabi.
-
 
 ##
 
@@ -163,7 +152,6 @@ khuumutimisa ta.
 Nabuukhi, Umwoolesi we bubuukhi, waaba welihaasile Muluungo.
 Muluungo naye aaba weyikile lisoma lyeewe.
 
-
 ##
 Ni lwe lomo iyo, nga babaana ba
 Muluungo, ni babetsukhulu beewe,
@@ -175,12 +163,9 @@ babona bari balekhela Mwoolesi we
 bubuukhi shishiintsa she lisasari
 shishiminyisa buboofu.
 
-
 ##
-Intsilihaasa iy’omwoolesi we
-bubuukhi
 * License: [CC-BY]
 * Text: Zulu folktale
 * Illustration: Wiehan de Jager
 * Translation: Cornelius Wekunya
-* Language: Lumasaaba
+* Language: myx

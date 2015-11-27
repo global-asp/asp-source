@@ -1,5 +1,4 @@
-# Manaasi ni
-Kamakhula
+# Manaasi ni Kamakhula
 
 ##
 Aabawo khaale ni khaale naabi,
@@ -15,7 +14,6 @@ mwikulu aaba ni kamakesi koosi
 ke shibala. Abe waakabiikha
 buulayi mu nyuungu.
 
-
 ##
 Shifukhu shitweela, Khabuumbi
 waakhalawo khuuwa Manaasi
@@ -24,7 +22,6 @@ esi Manaasi ekheengela mu
 nyuungu umwo, eyikatsakayo
 shishiindu shiyaakha. Isho
 shaamwikhoyesatsaka naabi
-
 
 ##
 Lwe kumuluungo, Manaasi
@@ -74,7 +71,6 @@ lwashino, waabukula inyuungu
 iyaba ili imisya we kusaala
 waakitsukutsa aasi.
 
-
 ##
 Inyuungu iyo yekhupa aasi
 yaabulyungukhaka. Kamakesi
@@ -87,13 +83,12 @@ ni khuubasa bibyuuma, atweela
 ni bibiindu bibiindi byoosi
 byeesi babaandu bakhola.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Fabian Wakholi
-* Language: Lumasaaba
+* Language: myx
 
 See another version of this story at
 www.historyforkids.org/learn/Africa/

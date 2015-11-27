@@ -44,4 +44,4 @@ wonderlike verassing.
 * Text: Letta Machoga
 * Illustration: Vusi Malindi
 * Adaptation: Aimee van Rooyen
-* Language: Afrikaans
+* Language: af

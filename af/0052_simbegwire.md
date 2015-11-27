@@ -206,4 +206,4 @@ haar stiefma te lewe.
 * Text: Rukia Nantale
 * Illustration: Benjamin Mitchley
 * Translation: Marguerite van Wyk
-* Language: Afrikaans
+* Language: af

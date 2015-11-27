@@ -49,7 +49,5 @@
 * License: [CC-BY-NC]
 * Text: Media Matters
 * Illustration: Sandy Lightly
-* Translation: Octavius masemola and Aubrey
-mahlakwane
-* Language: isiNdebele
-
+* Translation: Octavius masemola, Aubrey Mahlakwane
+* Language: nr

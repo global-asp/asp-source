@@ -1,7 +1,4 @@
-# Nakhungu ni
-Imburu
-Alan Kenyon and Viv
-Kenyon
+# Nakhungu ni Imburu
 
 ##
 Aabawo khaalekho, umusaani
@@ -13,7 +10,6 @@ bamulaanga lisiina bari Nakhungu.
 Nakhungu aaba umumiliwu naabi
 luundi nga umwelama. Basaali
 beewe nga bamukana naabi
-
 
 ##
 Shifukhu shitweela basaali
@@ -30,7 +26,6 @@ milo.
 Nio lwanyuma waamusiindikha
 khuutsya wa khootsawe.
 
-
 ##
 Ne naaba nga ali khu ntsila atsya,
 woola khu kheetsi, waakhambukha
@@ -38,7 +33,6 @@ nga asunila khu mabaale.
 Ne shanjelekha wakaanana
 umukhaana umufwiiti nga
 wakwaarire biitsina.
-
 
 ##
 Umukhaana umufwiiti tsana yuno
@@ -51,7 +45,6 @@ ari, “Ni nase Marofu, khootsa wase.
 Nase indi khuutsya
 khumukyeniyila.” Baryo baaroonga.
 
-
 ##
 Ne ni baaba nga bashiili khwoola
 aleeyi ta, umukhaana umufwiiti
@@ -63,7 +56,6 @@ Aryo Nakhungu wefuula Maliinda
 weewe, ni matoongo, waabiwa
 umukhaana umufwiiti tsana uyo.
 
-
 ##
 Nga umukhaana ni efuula bitsina
 byeewe, wakwaara tsingubo tsa
@@ -73,7 +65,6 @@ kumukhiinga. Nakhungu waarya
 naabi. Aryo waamanyila abweene ni
 abweene ari, umukhaana umufwiiti
 uyo ali Imburu.
-
 
 ##
 Ne bakyeendela atweela nga
@@ -86,7 +77,6 @@ khwoolile aambi ni kusaala ukwo.”
 Wokeselela kusaala kukwaba khu
 lukiingi.
 
-
 ##
 Uri boola khu kusaala, Nakhungu
 waalomela Imburu tsana ari,
@@ -97,7 +87,6 @@ imbikwaarekho khukhwoola khu
 kheetsi.”
 Nakhungu waaba umuri naabi. Ne
 waamufukiilila.
-
 
 ##
 Imbuka ikhaliinda ta, boola khu
@@ -110,7 +99,6 @@ imbikwaarekho, khukhwoola nga
 khwoolile khu lisari isi bakhasi
 bekhaalewo.”
 Baryo beloosela nga baroonga.
-
 
 ##
 Nga ni boola khu lisari, Imburu
@@ -127,7 +115,6 @@ naabi, ni shishamamwo, waatitukha
 waatsya weebisa mwitaala lye
 tsikhaafu
 
-
 ##
 Ne Imburu niyo yaatsya mwisari lya
 khootsawe Marofu, kila imuloma
@@ -142,7 +129,6 @@ Ne Nakhungu na mutaambo
 kweewe, aakonatsaka mwitaala,
 waalyatsaka biilyo ni mbwa.
 
-
 ##
 Kumuusi Nakhungu aatsyatsaka mu
 kyeewa, weebisa mu nashimya nga
@@ -155,7 +141,6 @@ Mburu. Niyo yaambukula maliinda
 wase, ni matoongo!
 Mutaambo kwanyoola! Mutaambo
 kwanyoola!”
-
 
 ##
 Shifukhu shitweela, mutweela khu
@@ -173,7 +158,6 @@ kumweenya, waloonda nga
 aheentsa, khukhwoolesa nga
 n’aanyola Nakhuungu.
 
-
 ##
 Nakhungu waamuboolela byoosi
 nga ni byaba, isaambo isi Imburu
@@ -185,7 +169,6 @@ weewe, waamubisa mu lisari
 lyeewe.
 Marofu aaba waamanyile shiina she
 khuukhola, khufuumbula Imburu.
-
 
 ##
 Marofu aaba waawulila ari,
@@ -200,7 +183,6 @@ kamabwoowu.
 Lwanyuma walaanga bakhaana be
 boosi khuutsya babe mu khaando
 tse khuusuna.
-
 
 ##
 Umukhaana uwaba wakwaarire
@@ -217,7 +199,6 @@ wakutswiisila ilala nga n’anyala.
 Aryo waatsya wetubaasa mu
 bakhaana basheewe.
 
-
 ##
 Baryo bakhaana baatsya
 baloondekhana nga basuna. Imbuka
@@ -228,7 +209,6 @@ Ne kumukhiinga kwaakangulukha,
 kwaakihaanyiinya, kwaamwiikhisa
 aasi, aasi, aasi khukhwoola mu
 mabeele.
-
 
 ##
 Nga Imburu ni yaba isaambakanila
@@ -241,11 +221,9 @@ mwikhoyo ni khootsawe imbuka
 indeeyi naabi.
 Lukano lwaakamila abweene awo.
 
-
 ##
 * License: [CC-BY]
-* Text: Alan Kenyon and Viv Kenyon
+* Text: Alan Kenyon, Viv Kenyon
 * Illustration: Wiehan de Jager
 * Translation: Cornelius Wekunya
-* Language: Lumasaaba
-
+* Language: myx

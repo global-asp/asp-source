@@ -1,11 +1,4 @@
-# Kusaala
-kukwawonesa
-babaandu be
-mu shaalo she
-Nyoondo
-Karen von Wiese, Beryl
-Salt, Muhdni Grimwood
-and Barbara Meyerowitz
+# Kusaala kukwawonesa babaandu be mu shaalo she Nyoondo
 
 ##
 Mutuwa abe amenya mu shaalo she
@@ -18,7 +11,6 @@ Waatimisa, waatimisa, ne
 Wanakhamuuna waamufuura
 tsindimo.
 
-
 ##
 Mutuwa wetsusa kameetsi,
 waakana khuukobolayo ingo.
@@ -28,7 +20,6 @@ nga amuweentsa. Wakyeenda,
 wakyeenda, lwanyuma
 waamunyoola nga waakonile mu
 bunyaasi, aambi ni shishiili.
-
 
 ##
 Mutuwa wesyeenda aambi, ne khaangu Mataaki waara lulwaala khu munwa khuumusilisa.
@@ -51,7 +42,6 @@ Naye n’aawulila aryo, khootsawe
 waasamila ikhaafu, nayo yaarakikha
 khuutima ikoboleyo ingo.
 
-
 ##
 Mu mbuka ifwiiti iri, Mutuwa
 waabona seengewe nga ali
@@ -64,7 +54,6 @@ Seengewe waabukula imbako,
 waayuula n’umwaana abe ali
 khuukona, waatima waatsya ingo.
 
-
 ##
 Mutuwa ndi waabona kuukawe nga
 ali khuukyeenda ayikila ni puunda
@@ -76,7 +65,6 @@ shishaalo shino!”
 Kuukawe waasuta imiimbo mu
 ngaaki, waasamila ipuunda
 khuutima khuutsya ingo.
-
 
 ##
 Mutuwa ni Mataaki ni boola khu
@@ -92,7 +80,6 @@ Tsikhaafu batsibise waheena?
 Biilyo byaabwe babibise waheena?
 Ni babeene beebise waheena?
 
-
 ##
 Mutuwa naye aaba waariire naabi.
 Ne washebulila shiifwo isi niye ni
@@ -100,7 +87,6 @@ Mataaki baatsyatsaka
 khukhwiinyaha. Shiifwo shiilayi
 khukhwiibisamo,
 shishikhamanyikhile ta.
-
 
 ##
 Kila abukula in’goma waarakikha
@@ -111,7 +97,6 @@ ni shiifwo mweesi khunyala
 khweebisa. Ni munoondekho.”
 Aryo wahaamba Mataaki
 kumukhono baatsya.
-
 
 ##
 Mutuwa ni Mataaki baraangila
@@ -128,7 +113,6 @@ kuukhuyu. Mutuwa ni paapawe
 bawololokha mu khoombe iye
 kusaala mukari.
 
-
 ##
 Mutuwa ni paapawe baarundula
 kumwaanya mu ndulo kwe kusaala
@@ -142,7 +126,6 @@ kamakheese ni tsikhaafu. Ne
 shishabeyaangisa shaba ndi byoosi
 byaweelamo.
 
-
 ##
 Inyaanga yaarakikha khuulaambisa,
 baasiku baasoota boola khu shaalo
@@ -153,7 +136,6 @@ inyifu. Intsala nayo yaabalya. Baryo
 beheembelela bari buukosi bunyala
 bwaboolakho.
 
-
 ##
 Buwaanga bwabonekhela khu
 ngaaki khwe kusaala, nga
@@ -161,13 +143,11 @@ bumesamesela khu sakya tsakwo.
 Lisuusi lyebotoosa lyaniina mu
 ngaaki
 
-
 ##
 Light flamed from the tree. Fiery
 eyes shone from the trunk. Bright
 tongues licked the branches. Smoke
 curled into the sky.
-
 
 ##
 Ne ibulafu baasiku baabona kusaala busa. Baarya nga bayokesa
@@ -176,21 +156,15 @@ wanyoowa khutima, nga elukha. Ukuundi waaloondakho. Babaandi
 nabo boongakho mutweelatweela. Boosi baawawo. Musaambo iyo
 babaandu be Nyoondo baawonesebwa.
 
-
 ##
 Iwe wambaasa uri shiina?
 Yaba Mutuwa namwe kusaala
 kuukhuyu nikwo kukwawonesa
 babaandu be Nyoondo?
 
-
 ##
-Kusaala kukwawonesa babaandu be
-mu shaalo she Nyoondo
 * License: [CC-BY]
-* Text: Karen von Wiese, Beryl Salt, Muhdni Grimwood
-and Barbara Meyerowitz
+* Text: Karen von Wiese, Beryl Salt, Muhdni Grimwood, Barbara Meyerowitz
 * Illustration: Julia te Water Naude
 * Translation: Fabian Wakholi
-* Language: Lumasaaba
-
+* Language: myx

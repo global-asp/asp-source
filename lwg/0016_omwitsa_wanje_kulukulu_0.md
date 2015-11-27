@@ -1,5 +1,4 @@
-# Omwitsa wanje
-Kulukulu
+# Omwitsa wanje Kulukulu
 
 ##
 Nindakhoola emiaka chirano,
@@ -12,7 +11,6 @@ yakharera nango, ndasangala
 muno.
 Ndamanya mbu enyolile
 omwitsa.
-
 
 ##
 Papa oyo lwayakhara hasi
@@ -35,14 +33,12 @@ akhatoro, khandi akhafwanana nende Kulukulu
 khaliyo.
 Ndatsia okhulolakho, akhasiani khabu Kulukulu.
 
-
 ##
 Olwa Kulukulu khalolakho
 akhasiani khabu, khasangala
 muno.
 Rwosi rwara emirwe chiabu
 alala ngorulomaloma.
-
 
 ##
 Ndareeba papa oyo nikaba mbu
@@ -54,7 +50,6 @@ khabu.
 Kho buli ingolobe, ndaruiranga
 okhukhola ninarwo emibayo.
 
-
 ##
 Emiesi mititi nichiakhabura,
 Kulukulu nende akhasiani khabu
@@ -64,7 +59,6 @@ obulayi.
 Rwali orukhoongo muno khulwe
 esie okhurulinda khulwanje.
 
-
 ##
 Bulano ndareeba papa oyo
 okhukalusiayo akhasiani khabu
@@ -73,7 +67,6 @@ Olwa Kulukulu khatong’a
 khonyone, khaulila obubi muno.
 Khafwana nga khandebanga,
 “Mbushina nokhola orio?”
-
 
 ##
 Khalekha okhubaya. Khandi
@@ -86,19 +79,16 @@ Ndereeba, “Shiina shienyala
 okhukholakho okhukhonya
 kulukulu?”
 
-
 ##
 Inyanga ndala papa oyo yetsa okhucheniya. Olwa ndaulira
 omwoyo kwe, ndarula alwanyi weinzu bwangu bwangu.
-Kata neshili okhumulola, ndaulila tsimbwa nitsisema……..
-
+Kata neshili okhumulola, ndaulila tsimbwa nitsisema........
 
 ##
 Ndalola inyuma weinzu
 yokhutekha, Kulukulu nende
 omusiani wabu nitsishina
 nobusangali nga khale!
-
 
 ##
 Ndali nobusangali muno, kata
@@ -112,10 +102,9 @@ akalushe.
 Khulatsia okhuyima mundalo
 khandi.
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Ursula Nafula
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

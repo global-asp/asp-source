@@ -8,7 +8,6 @@ isu yatumasywa nthĩ
 andũ mayaĩ momĩĩsya
 ũvyũvu ũsu.
 
-
 ##
 Kwou imwana mwonza
 sya mbaĩ yeetawa
@@ -16,12 +15,10 @@ mũnda nĩmavangie
 kũũa sua isu. Nĩmathie
 na moaa sua thanzatũ.
 
-
 ##
 Sua ya mwonza
 nĩyevithie uungu wa
 kĩĩma.
-
 
 ##
 Sua yathũa nĩkwethĩiwe
@@ -34,7 +31,6 @@ mĩnyambũ na kwaĩ na
 kĩvũsavũsany’o kĩla
 vandũ.
 
-
 ##
 Nyamũ nĩsyethĩiwe na
 mũkutano nĩkana
@@ -45,7 +41,6 @@ Kavalũkũ nĩkamatavisye
 kĩĩma.
 Ĩndĩ nũũ ũla ũtonya
 kwĩta sua ĩsu?
-
 
 ##
 “Nĩngwĩta sua ĩsu,”
@@ -70,7 +65,6 @@ syoka.”
 Ĩndĩ sua
 ndyĩamwĩthukĩĩsya.
 
-
 ##
 Vikoko na wanake wake
 nĩwasũngie na esũvana,
@@ -86,7 +80,6 @@ aĩ mũtongoi mũseo
 nĩwaisye, “Nzamba
 nĩwaĩlĩte kũnengwa
 
-
 ##
 Nzamba nĩ wasongie
 mbee na kwa ũuu asya,
@@ -95,14 +88,13 @@ Kĩla mũndũ nĩwaseng’ie
 nũndũ sua nĩyaumĩlile
 vanini uungu wa kĩĩma.
 
-
 ##
 Nzamba nĩwaisye ĩngĩ kwa
-ũkũmbaũ, ” KookoondoKOO-KOO…”
+ũkũmbaũ, ” KookoondoKOO-KOO...”
 Sua nĩyaumĩlangile ĩngĩ ĩũlũ vanini.
 Nzamba nĩwaisye ĩla ya katatũ na
 waasya mũnene na ũkũmbaũ, ”
-KOOKOONDOKOO-KOO…” na sua
+KOOKOONDOKOO-KOO...” na sua
 yambata ĩũlũ na yakenũka.
 Nyamũ syonthe sya kĩthekanĩ
 nĩsyew’ie mũyo na andũ namo
@@ -118,11 +110,9 @@ nzamba yasya kĩoko
 sua nĩyumaa na
 ĩkamulĩka matu.
 
-
 ##
 * License: [CC-BY]
 * Text: Indian Folktale
 * Illustration: Pratham Books
 * Translation: Anna Kula
-* Language: Kikamba
-
+* Language: kam

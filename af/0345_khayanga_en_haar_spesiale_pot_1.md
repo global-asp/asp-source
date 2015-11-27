@@ -97,4 +97,4 @@ Khayanga gebeur het nie.
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Bianca Faasen
-* Language: Afrikaans
+* Language: af

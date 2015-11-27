@@ -1,20 +1,16 @@
-# Wasoŋera ni
-Hirimutwe
+# Wasoŋera ni Hirimutwe
 
 ##
 Ono nje Wasoŋera
 
-
 ##
 Ono nje Hirimutwe
-
 
 ##
 Wasoŋera ni Hirimutwe
 baali bamuhago.
 Lulala, batiina
 ohugenda.
-
 
 ##
 Ni bagenda nga bola
@@ -49,7 +45,6 @@ gugwe gwali gusito
 amaaji gatagiha
 humwiniha bwinihe.
 
-
 ##
 Nga Wasoŋera
 amujeherera ati,
@@ -60,10 +55,9 @@ guhabuhamo ŋabiri
 ohuŋwa hu luuyi ohwola
 hu lundi.
 
-
 ##
 * License: [CC-BY]
 * Text: Dorothy Fetaru
 * Illustration: Joshua Waswa
 * Translation: Mubbalya Charles
-* Language: Lunyole
+* Language: nuj

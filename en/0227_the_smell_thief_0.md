@@ -161,7 +161,7 @@ only half an hour ago.'
 ##
 * License: [CC-BY-NC]
 * Text: Joanne Bloch (retold folktale)
-* Illustration: Rebecca Riley and Nalibali
+* Illustration: Rebecca Riley, Nalibali
 * Language: en
 
 The text is reproduced with permission of Nal'ibali – www.nalibali.org

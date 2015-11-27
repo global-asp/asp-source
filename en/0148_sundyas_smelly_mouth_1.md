@@ -42,7 +42,7 @@ before.
 ##
 * License: [CC-BY-NC]
 * Text: Ivan higenyi
-* Illustration: Natalie Propa, Karlien de Villiers, Vusi Malindi, Catherine Groenewald, Alice Toich, Alex Zablon and Jesse Pietersen
+* Illustration: Natalie Propa, Karlien de Villiers, Vusi Malindi, Catherine Groenewald, Alice Toich, Alex Zablon, Jesse Pietersen
 * Language: en
 
 Some time young need support from the adults to help them identify their weaker areas

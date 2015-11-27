@@ -11,7 +11,6 @@ market day is getting close.
 What business can we do
 to make some money?”
 
-
 ##
 Tortoise responded,
 “You know I can make
@@ -23,7 +22,6 @@ evening I will join you to
 make the plates,” Squirrel
 said.
 
-
 ##
 On the day of the market,
 Tortoise went to the
@@ -33,13 +31,11 @@ in the distance. He put down
 his clay plates and went
 to watch the fight.
 
-
 ##
 When Tortoise got there,
 he saw that it was his
 friend Squirrel fighting
 with Mole.
-
 
 ##
 Immediately, without finding
@@ -49,16 +45,13 @@ and began to beat Mole.
 “Leave my friend alone!”
 shouted Tortoise.
 
-
 ##
 Mole turned to face
 Tortoise and bit him
 deeply on the nose.
 
-
 ##
 Tortoise's nose began to bleed.
-
 
 ##
 Tortoise had impatiently
@@ -67,7 +60,6 @@ Since that day, Tortoise
 has a crooked nose to
 remind him not to be
 so hasty.
-
 
 ##
 * License: [CC-BY]

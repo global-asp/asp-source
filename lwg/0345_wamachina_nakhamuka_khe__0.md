@@ -1,5 +1,4 @@
-# Wamachina
-nakhamuka khe
+# Wamachina nakhamuka khe
 
 ##
 Tsindalo tsia khale mu lukongo lwe
@@ -15,13 +14,11 @@ Abanji basubira mbu ne obutsuni
 bwo khukosia omusatsa we
 nobwamwira.
 
-
 ##
 Wamachina yatong’a mushialo
 yenyene. Omwikho we waale, Rosa,
 owali omukofu, yamubukula
 nebamenya mushiingo bonyene.
-
 
 ##
 Inyanga yindi, Wamachina yatsia
@@ -36,7 +33,6 @@ Mama, Oliyena?
 Mwandekha omufwire.
 Muli yena?
 
-
 ##
 Wamachina namalire okhuboola,
 yalola eshimuka eshilayi shia
@@ -46,14 +42,12 @@ Shiatsomoshera akari we
 eshirindwa shia samwana nende
 nyina.
 
-
 ##
 Wamachina yalekha okhulira.
 Yawulira olwimbo okhurula
 mushimuka eshio. Lwali
 lwokhuunderesia.
-Eshimuka shiemba shiri…
-
+Eshimuka shiemba shiri...
 
 ##
 Wamachina, eeh, Wamachina!
@@ -62,7 +56,6 @@ Shioli wenyene taa wachamwa!
 Bukula eshimuka shino wachamwa!
 Shichinjenje buli hosi wotsia wachamwa!
 Shukhuunderesinjie wachamwa!
-
 
 ##
 Wamachina yabukula eshimuka
@@ -81,7 +74,6 @@ mumwalo. Yashichinganga
 okhubera okhwikalira obusuku bwa
 amatsi.
 
-
 ##
 Niyalekhanga okhushichinga,
 yauliranga eshibera.
@@ -96,18 +88,15 @@ okhukwa, ne shietuya khwichina
 mana nishiatikhamo efitonye fitaru.
 Yaberera muno.
 
-
 ##
 Yenama kaala natola efipande efio.
 Yafitira mumakhono ne niyemba ari:
-
 
 ##
 Papa nende mama,
 lole eshimuka shiatishe,
 eshimuka shiamwamberesia,
 ekhola eshisa mumanyie eshilolero, mbu mushiri nasi.
-
 
 ##
 Ne olwa Wamachina yeema, yaulira
@@ -125,7 +114,6 @@ nifireresia mu makhono ke mana
 nifiuunga alala nifikhola eshimuka
 khandi.
 
-
 ##
 Wamachina yatsiririra okhuchinga
 eshimuka eshio buli wosi wayatsia.
@@ -139,16 +127,14 @@ eshindu, yechesinjia abandu
 bomulukongo olo eshimuka esho
 mana bamwa shiosi eshiayenyere.
 
-
 ##
 Mu bulamu bwaye bwosi, tsikhabi
 tsiaye tsiaburiranga mushimuka
 esho.
-
 
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

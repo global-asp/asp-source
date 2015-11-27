@@ -1,5 +1,4 @@
-# Umukhaana uwe
-libeele litweela
+# Umukhaana uwe libeele litweela
 
 ##
 Aabawo khaalekho, yabawo
@@ -13,7 +12,6 @@ waakanana umukhasi,
 umunyelele, umuleeyi, luundi
 nga umukhaana umumiliwu
 naabi.
-
 
 Nga nio alimuboonekho,
 waamusiima. N’umukhaana
@@ -35,7 +33,6 @@ kumubano, waakwiila umukhasi
 weewe uyo, waamukhalakho
 libeele khaangukho.
 
-
 ##
 Waatimaka weelayo mu shisaali
 isi alekhile umukanwa weewe
@@ -50,11 +47,10 @@ wikhuunga? Iwe s’umanya uri
 uli mu shisaali sha Musaambwa
 kwa libeele litweela?”
 
-
 ##
 Umusaani n’awulila aryo,
 waatikhula tsindimo weelayo
-ingo, nga lisasi…
+ingo, nga lisasi...
 Ne shonyene ndi waanyoola
 umukhasi weewe nga nio
 alifwiile.
@@ -63,10 +59,9 @@ mukali naabi lweesho sheesi
 akholile, shaakila naye waafwa
 na khufwa.
 
-
 ##
 * License: [CC-BY]
 * Text: Cornelius Wekunya
 * Illustration: Rachael Napagi
 * Translation: Cornelius Wekunya
-* Language: Lumasaaba
+* Language: myx

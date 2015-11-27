@@ -1,6 +1,4 @@
-# Anansi akanila
-abandu
-tsingano
+# Anansi akanila abandu tsingano
 
 ##
 Tsinyanga tsiali tsia khale, khale
@@ -14,7 +12,6 @@ mana shibali nobusangali tawe.
 Bareeba Anansi Libubi liobuchesi
 okhubakhoonya.
 
-
 ##
 Anansi nalukha olububi oluraambi,
 mana naninilakho okhuula mwikulu.
@@ -26,7 +23,6 @@ khandi namuboolela ari , "Oh, tsino
 ne tsingano tsiobukusi bwe ekulu
 okhushila. Shimbara nobunyala
 tawe, khandi ewe Anansi."
-
 
 ##
 "Naye Anansi namureeba ari,
@@ -41,7 +37,6 @@ nga amafumo, libuyi , nende Ibaka`
 Ne natsekha khandi natsekha.
 Yapara mbu tsingano tsie tsiebikha
 obulayi.
-
 
 ##
 Kho Anansi niyeshera khulububi lwe
@@ -59,7 +54,6 @@ Yali niyikwaranga khwisisi lio bwina
 obo noburuma obunji po ne
 nililanyala okhurulamo tawe.
 
-
 ##
 “Oh! lekha ekhukhonye, omwitsa
 wanje!” Anansi naibolera. “kona
@@ -73,7 +67,6 @@ mwikulu.
 Nasaye naye namutsekha busa ne
 namureeba ari, " etsindi tsibiri tsile?
 
-
 ##
 Kho Anansi niyekha asi khushialo
 okhukhaaba isolo yakhabiri.
@@ -86,7 +79,6 @@ Narema liru ne niyefunikha
 khumurwe kwe, ne niyesundula
 khumubili amatsi kali nikatonyere.
 
-
 ##
 Nalanga amabuyi, "Enywe amabuyi!
 Itse mulolekho! Ifula ikwa muno!
@@ -96,7 +88,6 @@ mukhaye okhutora."
 Amabuyi shikenyanga obunyifu bwa
 amatsi tawe, kho koosi nikapurukha
 nikenjira mu shimuka shia Anansi.
-
 
 ##
 Bwangu Anansi nanaba olububi
@@ -109,7 +100,6 @@ Naye Were namutiabushira busa,
 "Eyo mwisho ili ena?" (Luno
 shiyamutsekha shinga olwa mbeli
 tawe).
-
 
 ##
 Kho Anansi nakalukha khu shialo
@@ -127,7 +117,6 @@ niyamenya, banza okhuingana.
 “Tawe, nelimbikiti khwisie!” “Tawe
 nelirambi okhukhushila!”
 
-
 ##
 Bwangu inzukha yarula elwanyi
 niyibareba eshiali nishichira nibaba
@@ -144,7 +133,6 @@ muno! Esie endi okuyukha
 okukhongo muno! “Rakho olusala
 tsana ambi ninasi opime olole!”
 
-
 ##
 Kho Anansi nakhola ario, naboya
 okuyukha oko khulusala olo ne
@@ -153,7 +141,6 @@ khulusala.
 Olwa kwali nikuboyelwe kwosi
 obutinyu, Anansi nuyila okhuula
 mwikulu.
-
 
 ##
 Were yeyama mbu toto Anansi yali
@@ -170,10 +157,9 @@ bandi bosi nende tsisolo tsiosi.
 Okhubeera tsingano netsiokhuboola
 tawe, ne tsiokhubikha.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

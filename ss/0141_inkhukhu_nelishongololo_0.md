@@ -1,5 +1,4 @@
-# Inkhukhu
-nelishongololo
+# Inkhukhu nelishongololo
 
 ##
 Inkhukhu nelishongololo
@@ -9,7 +8,6 @@ kucudzelana. Ngalelinye lilanga
 bavumelana ngekutsi badlale
 libhola letinyawo kute babone
 kutsi ngubani longumpetsa.
-
 
 ##
 Baya enkhundleni yetemidlalo
@@ -24,7 +22,6 @@ belikhahlelela ekudzeni
 kakhulu. Ngulapho inkhukhu
 yacala khona kutfukutsela.
 
-
 ##
 Bavumelana ngekutsi kuyiwe
 emlotseni. Lishongololo laba
@@ -35,7 +32,6 @@ yatfola litfuba lekuvimba
 emapalini kute ivikele ligoli
 layo.
 
-
 ##
 Lishongololo lakhahlela libhola
 kwangena ligoli. Lashaya
@@ -43,7 +39,6 @@ titayela kwabuye kwangena
 lelinye. Aba sihlanu emagoli
 langeniswa lishongololo
 emapalini.
-
 
 ##
 Kwayitfukutselisa inkhukhu
@@ -54,13 +49,11 @@ kwekuhlulwa. Lafa laphela
 lishongololo ngekubona
 umngani walo akhatsatekile.
 
-
 ##
 Inkhukhu yatfukutsela
 ngangekutsi yavula umlomo
 wayo lomudze yagwinya
 lishongololo.
-
 
 ##
 Ngalesikhatsi inkhukhu ibuyela
@@ -73,7 +66,6 @@ yavele yatibindzela nje
 yahamba. Wakhatsateka
 kakhulu Make welishongololo.
 
-
 ##
 Make welishongololo weva livi
 lelincane litsi. "Ngisite make!"
@@ -82,7 +74,6 @@ uyacalata make welishongololo.
 Waphindze walalelisisa, lelivi
 belichamuka ngekhatsi
 enkhukhwini.
-
 
 ##
 Make welishongololo
@@ -95,7 +86,6 @@ nekunganambitseki kahle.
 Ngemuva kwaloko, inkhukhu
 yativa igula.
 
-
 ##
 Inkhukhu yakhipha umoya
 ngemlomo, yalwa yetama
@@ -106,7 +96,6 @@ yakhwehlelisisa njengobe
 lishongololo belinyanyisa
 ngekhatsi kwayo.
 
-
 ##
 Inkhukhu yakhwehlela yate
 yakhipha lishongololo
@@ -115,19 +104,17 @@ Make welishongololo kanye
 nebantfwana bakhe bagibela
 esihlahleni batifihla khona.
 
-
 ##
 Kusukela lapho inkhukhu
 nelishongololo baphendvuka
 titsa letinkhulu.
 
-
 ##
 * License: [CC-BY]
 * Text: Winny Asara
 * Illustration: Winny Asara
-* Translation: Nombuso Mbele and Mthokozisi Zwane
-* Language: siSwati
+* Translation: Nombuso Mbele, Mthokozisi Zwane
+* Language: ss
 
 Lendzaba yabhalwa ngumfundzi
 lofundzela buthishela e- Arua PTC eUganda.

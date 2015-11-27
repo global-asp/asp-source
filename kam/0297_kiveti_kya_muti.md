@@ -5,13 +5,11 @@ Ivinda ya tene kwai mundu wai na kila kindu – muunda munou, wai na ngombe, mal
 mbui. Na aendee na ukua andeea kwithiwa na kimako, nundu ndai na kindu kimwe. Ndai
 muka.
 
-
 ##
 Aungamite ungu wa muti muthenya
 umwe aukiwa ni ivindisya iseo.
 Kethiwa ndona kiveti ai atonya
 usovya kimwe?
-
 
 ##
 Kwou ambia kuseuvya kiveti
@@ -21,13 +19,11 @@ Ila waminie kuseuvya ivisa, akita
 metho mayo na mavinguka.
 Aivevea na yethiwa na thayu.
 
-
 ##
 Kwaw’o kyai kiveti kyanake
 utakyona vandu vangi.
 Atulya ndu mbee wakyo to akikulya
 ethiwe mume wakyo.
-
 
 ##
 Akinenga ngua nzeo, wanyua na
@@ -40,7 +36,6 @@ Atavya kiveti kyake.
 “Ndukaatate utavya mundu vala
 waumie”.
 
-
 ##
 Kwa kavinda kavuthu, aume ma
 muika kuma utuini ungi mambiia
@@ -48,7 +43,6 @@ kuneena. “Mundu mukuu ta usu
 atonya kwithiwa na kiveti kya muika
 kyanake uu ata? Mavanga kukyosa
 na kukitwaa kyuuni kyoo”.
-
 
 ##
 Mukuu uu niwethiwe na kyeva
@@ -61,7 +55,6 @@ Kwou atuma mavui, kukimantha,
 kukinia, na kumwetee o kindu kuma
 kwakyo.
 
-
 ##
 Ila makyonie, makiniie kwa
 kithyomo kya nyunyi.
@@ -69,12 +62,10 @@ Kiveti kya muti kiveti kya muti,
 Kiseo kitemoneka. Mwimiu
 nututumie tumutungie ngua yaku.
 
-
 ##
 Kya manenga ngua yakyo, na mauluka iulu wa iima, mbusi, maendete kula kwi muume
 wakyo.
 Akwatie ngua yakyo vakuvi na uthyu na eewa muyo vanini.
-
 
 ##
 Wendi wake uyathela mituki.
@@ -83,7 +74,6 @@ Kiveti kya muti, kiveti kya muti
 kiseo kitemoneka, mwimiu
 nututumie tumutungie mbete yaku
 ya mutwe.
-
 
 ##
 Akwete mbete ya mutwe
@@ -95,7 +85,6 @@ kya muti kiveti kya muti kiseo
 kitemoneka muimiu niatutumie
 tumutungie thayu wake!
 
-
 ##
 Kwou mathi ivinda ya katatu.
 Mavuila ituoni syakyo.
@@ -104,7 +93,6 @@ mituki kyatwika ivisa. Maau na
 moko mavaluka na mutwe. Na
 kyavaluka muthangani.
 
-
 ##
 Kavola muume avingilitya kitina kya
 muti usini.
@@ -112,17 +100,15 @@ Akyungamya na mii yakyo kiwuni.
 Nundu wa isua na muthanga,
 kyamesya matu ingi.
 
-
 ##
 Na ukungi wikwo matu nimaumasya
 wasya.
 Otondu kiveti kikaa kikwenda
 muume.
 
-
 ##
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Jemma Kahn
 * Translation: Stephen Musyoka
-* Language: Kikamba
+* Language: kam

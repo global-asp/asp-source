@@ -1,5 +1,4 @@
-# Neymar's u
-dalela Africa
+# Neymar's u dalela Africa
 
 ##
 Musi Neymar atshi
@@ -9,7 +8,6 @@ Vhathu vha Nigeria vha
 mu humbela uri avha
 sumbedze zwitaila zwa
 u dirivhula bola.
-
 
 ##
 U bva Nigeria ombo di
@@ -21,7 +19,6 @@ ngomu. ezwi zwa
 takadza nga maanda
 vhathu vha Ghana
 
-
 ##
 Musi a tshe Ghana,
 Neyma ombo di rabiwa
@@ -30,7 +27,6 @@ vha sumbedze u imisa
 bola a tshi khou
 shumisa phanda ha
 muledzhe
-
 
 ##
 U bva Africa Tshipembe
@@ -41,7 +37,6 @@ bola a tshi khou
 shumisa matungo a
 mulendzhe.
 
-
 ##
 Musi Neymar a tshi
 swika DR Congo, o
@@ -49,7 +44,6 @@ mangadza shango nga
 tshikili tshau imisa bola
 a tshi khou shumisa
 tshirumbi.
-
 
 ##
 Vhathu vha Uganda vho
@@ -59,7 +53,6 @@ muramba uri avha
 sumbedze tshikili tsha u
 thivha bola mudavhini.
 
-
 ##
 Mafhungo aya ombo di
 swika hothe East-Africa.
@@ -67,7 +60,6 @@ Vhathu vha Kenya vha
 tanganedza Neyma uri
 a vha sumbedze u
 thivhela bola mapalani.
-
 
 ##
 Kha vhege yeneyo
@@ -77,7 +69,6 @@ Neymar uri a vha
 sumbedze tshikili tsha u
 fhirisa bola nga thoho.
 
-
 ##
 Nga murahu a fhirela
 Rwanda u vha
@@ -85,7 +76,6 @@ sumbedza tshikili tsha u
 phasa bola a tshi khou
 shumisa nga nnda ha
 muledzhe.
-
 
 ##
 u bva Rwanda Neymar
@@ -96,13 +86,12 @@ a sumbedzisa tshikili
 tsha u thivhela bola uri
 isi kore mapalani.
 
-
 ##
 * License: [CC-BY]
 * Text: Benard Agasi
 * Illustration: Benard Agasi
 * Translation: Acherlager Lesedi Milanzi
-* Language: Tshivenda
+* Language: ve
 
 This text was written and illustrated
 by a student teacher at Arua PTC,

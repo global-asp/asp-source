@@ -1,12 +1,10 @@
-# Ehibbwe n’
-Eryuba
+# Ehibbwe n’ Eryuba
 
 ##
 Ahale hale ῃaliῃo ehibbwe
 ehiῃaayiῃayi nga ate hidoto.
 Hyabanga mu lugoola lwe Nanjeere
 nisemwana wahyo omusaahulu.
-
 
 ##
 Lulala mu mugamba, wahibbwe
@@ -23,7 +21,6 @@ ewe“
 Olwoni ehibbwe hyenyoheyemo nga
 hiῃira embusi mu esugu.
 
-
 ##
 Eyo mu esugu, hyabona ehimesya
 hu lubanga.
@@ -34,7 +31,6 @@ ehimesya hyeyongeranga
 ohuboneha obulaῃi.
 Peega nti ono njowaali omuhasi
 wahyo?!
-
 
 ##
 Eyo mu esugu, hyabona ehimesya
@@ -49,7 +45,6 @@ hyeyongeranga ohuboneha obulaῃi.
 Peega nti ono njowaali omuhasi
 wahyo?!
 
-
 ##
 Aye ehibbwe hyaloma “Aye nga oli
 mujoono! Ese nahuginge nahuῃira
@@ -58,7 +53,6 @@ ni laata yange”
 Eryuba nga liroma liiti “Hiraῃi,
 oῃanga ohunginga.
 Aye oteῃuluῃunya ninahubabule.
-
 
 ##
 Olwoni ehibbwe nga hibeeha
@@ -76,7 +70,6 @@ Eryuba lyaloma liiti, “Ewe tiina
 mumoni”
 Nahuloma ohuteῃuluῃunya”
 
-
 ##
 Aῃo ehibbwe hyaboona ehisihi ni
 hyehihire mu hagira.
@@ -88,18 +81,15 @@ n’amooya
 ohuῃwa humugongo gwahyo
 ngabisigala egongo n’eryuba.
 
-
 ##
 Aye obwoya obunyaaha bwali
 bwalangi lindi hubwoya obwali hu
 mubiri gwosi gwosi.
 
-
 ##
 Amalangi agenjawulo ago
 gahebulisanga ehibbwe ohutaba
 hiῃaayi nindi
-
 
 ##
 Story notes
@@ -117,11 +107,9 @@ manipulations of the Manyeka Art Collection of paintings made by
 San artists /Thaalu Rumao, /Tuoi Samcuia and Joao Wenne
 Dikuango, who have all passed away since.
 
-
 ##
 * License: [CC-BY]
 * Text: Traditional San story
 * Illustration: Manyeka Arts Trust
 * Translation: Irene Nawibo
-* Language: Lunyole
-
+* Language: nuj

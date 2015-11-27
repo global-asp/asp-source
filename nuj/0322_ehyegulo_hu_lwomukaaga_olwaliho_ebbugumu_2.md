@@ -1,9 +1,4 @@
-# Ehy'egulo hu
-lw'omukaaga
-olwaliho
-ebbugumu
-Nombulelo Thabane and
-Tessa Welch
+# Ehy'egulo hu lw'omukaaga olwaliho ebbugumu
 
 ##
 Lwali lwamukaaga ahamwi
@@ -14,7 +9,6 @@ Nga maama atuloma ati,
 "Bbooti, Mafuta ni Luhoodi
 mutuseho ehiiyohe, mutule
 ebulafu muje mugudule!"
-
 
 ##
 Nga huduluma hutula ebulafu.
@@ -27,7 +21,6 @@ Nga Luhoodi agaluhamo ati
 Sihunebbombe wabula
 hunagudulire mu hiŋolu ohuupi
 n'olwabi.”
-
 
 ##
 Aye omugudulo gw'ohwepena
@@ -42,14 +35,12 @@ hwefiihulamo esaati n’ebirinda.
 Era hwasigaliriye ni huhiiriho
 ebbugumu.
 
-
 ##
 Ehyahanda nga huta amagulu
 geefe mu lwabi gahaŋolaho.
 Ehyo ni hitahena nga
 hweswanyusaho amaaji
 hudoola.
-
 
 ##
 Nga Mafuta ahanda aloma ati
@@ -60,7 +51,6 @@ Ng'aŋo hwebbomba,
 hwebbomba hwibirira n’esaawa
 ejohwagama.
 
-
 ##
 Eryuba ni lyatandiiha ohwihirira
 ohuja ohugwa mu maaji
@@ -69,13 +59,11 @@ ohutuŋamba. Era nga ko
 huhebulira ohwendula
 aŋahutaaye engoye jeefe.
 
-
 ##
 Hwajendula ŋaasi w'emisaala,
 hwendula mwisugu,
 hwendula hiisi ŋaatu, coka
 ndihujibona.
-
 
 ##
 Ŋaaliŋo eŋombe ohuupi n’olwabi ni jaaya
@@ -86,13 +74,11 @@ Nga Luhoodi aloma ati, "Yiri hulya ehimuli
 ehirando." Nga Mafuta aloma ati, "Oli hisiru?
 Sobona oti yiri hulya saati yiyo?"
 
-
 ##
 Nga hubona eŋombe eyindi niyo ni yiri hulya
 ehiitu ehya bbululu.
 Nga Bbooti genianguha ati, "Yiri hulya hirinda
 hyange.”
-
 
 ##
 Hwagamayo engo mu pajama
@@ -105,12 +91,9 @@ humanyire huuti maama
 anatusyalemo
 obuswanyuswanyu.
 
-
 ##
-Ehy'egulo hu lw'omukaaga olwaliho
-ebbugumu
 * License: [CC-BY]
-* Text: Nombulelo Thabane and Tessa Welch
+* Text: Nombulelo Thabane, Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Gershom Hirome
-* Language: Lunyole
+* Language: nuj

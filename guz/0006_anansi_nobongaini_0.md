@@ -1,5 +1,4 @@
-# Anansi
-n’obong’aini
+# Anansi n’obong’aini
 
 ##
 Igabwo kare kare banto
@@ -14,7 +13,6 @@ nigo abwate obong’aini bwensi
 bwense. Nigo agachete obong’aini
 obo ase enyongo.
 
-
 ##
 Rituko erimo, Nyame akaamua
 koenana enyongo eria y’obong’aini
@@ -24,7 +22,6 @@ enyongo eria, nigo arenge
 kweegeria egento ekeyia. Nero nigo
 yare komorentera omogoko
 omonge.
-
 
 ##
 Rakini Anansi nigo arenge omong’iti
@@ -41,7 +38,6 @@ engori eria ase ekeuno kiaye, erinde
 enyongo eria egasugunana bosio
 bwaye, erinde agachaka korina
 omote oria.
-
 
 ##
 Rakini korina omote oria n’enyongo
@@ -74,7 +70,6 @@ gotwara obong’aini bwensi, na igaa
 omwawa oyo one nigo ang’ainia
 kombua!”
 
-
 ##
 Enyongo erai egaateka ebisanda
 ekaba ebiminyore ebinge nse
@@ -84,10 +79,9 @@ okorema, ogosona chiyanga
 n’ebinto bionsi abanto bamanyete
 rero.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Dennis Ogaro Ondieki
-* Language: Ekegusii
+* Language: guz

@@ -45,5 +45,5 @@ carpet in the whole world.
 ##
 * License: [CC-BY]
 * Text: Kabubbu pilot site
-* Illustration: Jesse Breytenbach, Catherine Groenewald, Alice Toich, Razaque Lázaro Quive, Jano Strydom, Rob Owen and Wiehan de Jager
+* Illustration: Jesse Breytenbach, Catherine Groenewald, Alice Toich, Razaque Lázaro Quive, Jano Strydom, Rob Owen, Wiehan de Jager
 * Language: en

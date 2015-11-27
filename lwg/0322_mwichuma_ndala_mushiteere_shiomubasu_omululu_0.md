@@ -1,10 +1,4 @@
-# Mwichuma
-ndala
-mushiteere
-shiomubasu
-omululu
-Nombulelo Thabane and
-Tessa Welch
+# Mwichuma ndala mushiteere shiomubasu omululu
 
 ##
 Mwichuma ndala eshiteere.
@@ -18,7 +12,6 @@ Wandaje yakhuboolera.
 ’’Shebenya mumakulu kanje
 ta.”
 
-
 ##
 Khwerukha nikhurula elwanyi
 we inzu. ‘’Khutsie khumwalo,"
@@ -30,7 +23,6 @@ naboola. ‘’Shikhulasoka tawe,’’
 nakalusia Mukatia. “Khulabaira
 busa mushinikha hambi nende
 amatsi."
-
 
 ##
 Ne okhubaya "nzira okhu
@@ -45,14 +37,12 @@ amashati nende efibungui .
 Ne khwali nikhushiulira sa
 oluya.
 
-
 ##
 Khwenjisia efirenje fiefu
 mumatsi okhunyisia.
 Ne khutsukhanakho amatsi.
 Mufise fititi, khwali ni
 khwakhatora.
-
 
 ##
 "Ooh! Yitse! Khusoche," Odero
@@ -61,18 +51,15 @@ shalamanya tawe.”
 Khwasoka khandi nikhusoka ne
 nikhwibirira efise.
 
-
 ##
 Eliuba lianza okhwikha,
 nikhuulira omunyiri.
 ‘’Tsingubo tsiefu tsibere hena?’’
 
-
 ##
 Khwalinjira hasi wemisala.
 Khwalinga khubunyasi.
 Khandi khwalinga buli habundu.
-
 
 ##
 Tsing’ombe tsindi tsiali hambi nende omwalo,
@@ -84,12 +71,10 @@ naboola.
 "Shishili eshimuli eshiakhanyu tawe," Odero
 niyayula. "Ne lishati lilio."
 
-
 ##
 Nikhulinga itwasi yindi niilitsanga eshindu
 shifwanana namatsi.
 ‘’Shiria neshibunguyi shianje!’’ niyayula Saka.
-
 
 ##
 Khwatsia nango mufikhonera
@@ -104,12 +89,9 @@ Mubwangu obo, amekhaliro
 kefu kali katunduma. Ne sifiali
 firula khumubasu tawe.
 
-
 ##
-Mwichuma ndala mushiteere
-shiomubasu omululu
 * License: [CC-BY]
-* Text: Nombulelo Thabane and Tessa Welch
+* Text: Nombulelo Thabane, Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

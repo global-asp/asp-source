@@ -111,11 +111,8 @@ haan in die oggend kraai, kom
 die son op en skyn in die lug.
 
 ##
-Die sewende son: ŉ Indiese
-volksverhaal uit Odisha
 * License: [CC-BY]
 * Text: Indian Folktale
 * Illustration: Pratham Books
 * Translation: Elizabeth Buys
-* Language: Afrikaans
-
+* Language: af

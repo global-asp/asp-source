@@ -7,7 +7,6 @@ titewukhetsa inkhosi.
 Tatsatsa sincumo sekutsi
 libhubezi libe inkhosi.
 
-
 ##
 Kubungata kukhetfwa
 kwenkhosi lensha, taba
@@ -16,11 +15,9 @@ liviki lonkhe.
 Tadla, tanatsa, tacula tabuye
 tadansa.
 
-
 ##
 Ekupheleni kwemcimbi, tonkhe
 tilwane tabuyela emakhaya.
-
 
 ##
 Inkhosi bhubezi nayo yabuyela
@@ -34,25 +31,21 @@ lelibutsakatsaka) yatsi,
 ”Nginesifo lesimatima angati
 kutsi kumele ngenteni.”
 
-
 ##
 Impisi yatsi, "Awu
 ungakhatsateki nkhosi. Logwaja
 utawulati likhambi lekwelapha
 lesifo.”
 
-
 ##
 Sizatfu sekutsi Asho njalo kungobe bekafuna kufaka
 logwaja enkingeni. Impisi beyati kutsi logwaja angeke
 akhone kuyelapha inkhosi.
 
-
 ##
 Inkhosi yase iyamamatseka
 yabuye yatfumela impisi kutsi
 iyobita logwaja.
-
 
 ##
 Impisi yagijima yayobita
@@ -62,7 +55,6 @@ inkhosi iyagula. Ingitfume kutsi
 ngitokubita.”
 Logwaja wajaha endlini
 yenkhosi.
-
 
 ##
 Inkhosi yatsi,”Ngijabule kakhulu
@@ -74,11 +66,9 @@ ingitjele kutsi wena unalo
 likhambi lekwelapha lesifo
 sami.”
 
-
 ##
 Logwaja waphendvula watsi, "Ucinisile nkhosi.
 Ngingaselapha lesifo. Kepha kumatima kutfola umutsi.”
-
 
 ##
 Libhubhezi laphendvula latsi,
@@ -87,7 +77,6 @@ ngekungatfolakali kwalomutsi.
 Tinyoni letindizako ngito
 letitawubanjwa.
 Kwanyalo sitekele ngalomutsi!”
-
 
 ##
 Logwaja waphendvula
@@ -98,7 +87,6 @@ kute ulapheke kanye nje,
 kufanele utigcobise ngenhlitiyo
 yempisi.”
 
-
 ##
 Impisi yatsi nayiva loko, yacala
 yachachatela. Ngobe nguye
@@ -108,18 +96,15 @@ lesifo. Akunamsita ngalutfo
 kutsi aphikise logwaja mayelana
 nalomutsi.
 
-
 ##
 Yase impisi iyabaleka.
 Kute kube ngunamuhla, impisi
 itsandza kudla bologwaja kepha
 atihambelani nemabhubesi.
 
-
 ##
 * License: [CC-BY]
 * Text: Francisco Escondido
-* Illustration: Claudio Molina and Hélder de Paz Alexandre
-* Translation: Nombuso Mabaso and Thobile Mkhonto
-* Language: siSwati
-
+* Illustration: Claudio Molina, Hélder de Paz Alexandre
+* Translation: Nombuso Mabaso, Thobile Mkhonto
+* Language: ss

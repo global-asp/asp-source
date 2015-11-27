@@ -1,5 +1,4 @@
 # Animals dig a well
-Um conto tradicional dos Manyungwes de Moçambique
 
 ##
 It happened one year that the rain didn't fall. The trees dried up and died. The rivers

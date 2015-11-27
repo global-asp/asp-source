@@ -55,5 +55,4 @@ die wolf!
 * Text: Folktale
 * Illustration: José Nhambo
 * Translation: Kayla Haarhoff
-* Language: Afrikaans
-
+* Language: af

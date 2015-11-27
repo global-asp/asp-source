@@ -1,5 +1,4 @@
-# Mulongo ni
-Namunyu
+# Mulongo ni Namunyu
 
 ##
 Olwolire nga ŋabaaŋo eyo
@@ -13,7 +12,6 @@ hu hyalo ehi balanga baati
 Budongo. Lulala nyina ya
 Mulongo gamutuma ohuja
 amaaji hu sobere.
-
 
 ##
 Ni gaali n’atiina nga gagaana
@@ -29,7 +27,6 @@ nabo mu kwi. Coka abameeri
 babe nga baloma baati baali
 beyuna.
 
-
 ##
 Nga Mulongo abaloma ati,
 "Kale. Nabagaane mwideŋo."
@@ -39,7 +36,6 @@ ng’agaŋira engo ahena atiina
 mwideŋo ohwendula abameeri
 babe.
 
-
 ##
 Mu hutiina galonderera ahagira
 ahaali ni hehirira erwabi. Ni
@@ -48,7 +44,6 @@ engereha, nga gagaanayo
 obugira obwene obungi. Nga
 himuhaya ohumanya hagira hi
 ahabameeri babe baŋambire.
-
 
 ##
 Geemeerera aŋo ohuhena
@@ -66,7 +61,6 @@ n’aŋa ali. Olwohuba gaali
 adembire, ero lyamuŋamba
 ng’aŋenyuha.
 
-
 ##
 Ni gasisimuha, owiire bwali
 bwirire era ng'abona
@@ -81,7 +75,6 @@ agesyaho ohuduluma aye
 aganamunyu gala agaali njala
 ndigamuganya.
 
-
 ##
 “Gulala hu ganamunyu ago era
 ogwali ogubbala gwamwo nga
@@ -89,7 +82,6 @@ gumuloma ataduluma,
 siganamulye. Aye nga Mulongo
 agegayirira n'agaloma ati,
 "Mundehe tiine engo!"
-
 
 ##
 Coka aganamunyu gaŋiira
@@ -99,7 +91,6 @@ yijuuye amagumba n'esoŋera ni
 jigungumuha.
 Nga Mulongo gelambaasa ŋaasi
 gefuula aŋenyuha.
-
 
 ##
 Mu hirema, gaŋulira
@@ -131,7 +122,6 @@ abanamunyu bahye boosi
 balyaho.
 Olw’ehyo ogunamunyu ogwo
 nga guloma guuti, “Ale ewe
-
 
 muhasi wange tiina ewenywe
 olange abahwe baaje.”
@@ -171,7 +161,6 @@ abita hu mugongo
 gw'ogunamunyu, ng'aduluma
 eja kafuufu.
 
-
 ##
 Nga ŋaweene aŋo aganamunyu
 gala agandi gagaluha, nga
@@ -181,7 +170,6 @@ ohumubbinga, ni gahayuha
 olw'obusungu n'ohunyolwa.
 Coka mu hiseera ehyo gaali
 sigaŋanga hu muŋamba.
-
 
 ##
 Ni gaali ni goleeresa hu hyalo
@@ -198,14 +186,12 @@ wawe. Nga bamuloma baati,
 "Mulongo, Mulongo, hwali
 huŋeega huuti ofuuye!"
 
-
 ##
 Ohuŋwa omulundi ogwo, Mulongo n'Abaana abandi sibatiina mwideŋo boŋene.
-
 
 ##
 * License: [CC-BY]
 * Text: Sarah Nangobi
 * Illustration: Wiehan de Jager
 * Translation: Enoch Wandera
-* Language: Lunyole
+* Language: nuj

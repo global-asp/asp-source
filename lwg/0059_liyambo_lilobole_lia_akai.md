@@ -1,5 +1,4 @@
-# Liyambo lilobole
-lia Akai
+# Liyambo lilobole lia Akai
 
 ##
 Akai olwa yali nashiri
@@ -11,7 +10,6 @@ Senje waye yakasia
 liyambo lilobole lino
 khurula khu omunasi.
 
-
 ##
 Liyambo lilitsingi lie
 tsirangi tsinyinji
@@ -20,7 +18,6 @@ Liali liaukhana nende
 amayambo ka
 nyinamwana Akai yali
 ninako munzu.
-
 
 ##
 Eshialo shiabotokhana
@@ -31,7 +28,6 @@ ketsula.
 Amakhala kali amanji,
 tsimbubi nende
 tsinzukha tsiosi.
-
 
 Alali Akai shiyalikho
 mumaraba kokhulumwa
@@ -44,13 +40,11 @@ Mama waye yaboola,
 lilobole limuoninjia
 okhurula khumaraba.”
 
-
 ##
 Akai yali omwana
 omuchesi.
 Yeka womwalo kwaambi
 kwolusuba kwali.
-
 
 ##
 Yamanya we inzu ya
@@ -59,7 +53,6 @@ Yatsitsanga
 okhusangalira
 amabeere ke ingamia
 nende kukhu waye.
-
 
 ##
 Inyanga ndala, Akai
@@ -72,7 +65,6 @@ tawe.
 Yakorera mufikulu. Yali
 nende oburii.
 
-
 ##
 Yekhala hasi wo musala
 kweshinikha nalinda
@@ -80,13 +72,11 @@ obukhonyi.
 Tsindolo tsiamutira
 niyanza okhuloora.
 
-
 ##
 Endi nilwo amaloro kali:
 Yali nakonire hasi
 khwiyambo liaye
 lilobole.
-
 
 Omukhasi wafwanana
 nende kukhu waye yali
@@ -106,14 +96,12 @@ yalola eshiyalayal
 shiemere khwisaka
 akulu waye.
 
-
 ##
 Olwa Akai yema,
 eshiyala shiapurupusia
 tsimbaa tsiayo ne
 shiimisia Akai khunjira.
 Yalonda eshiyala.
-
 
 ##
 Akai yola abundu we
@@ -124,7 +112,6 @@ shia liyambo,
 shifwanana nende shia
 Akai.
 
-
 ##
 Okhutola liyambo, Akai
 yalola amakulu
@@ -133,7 +120,6 @@ kanyinamwana.
 Yamala alole omwalo
 kwolusuba kwa
 batayangamo amatsi.
-
 
 ##
 Oluyia lwabo Akai
@@ -145,7 +131,6 @@ inyama ne
 nibekhooyera omwana
 wabu okhucherera.
 
-
 ##
 Akai yekhala
 khwiyambo liaye
@@ -153,10 +138,9 @@ nasangalira eshipande
 shikali shia inyama
 inofu isambe.
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Ursula Nafula
-* Language: Oluwanga
+* Language: lwg

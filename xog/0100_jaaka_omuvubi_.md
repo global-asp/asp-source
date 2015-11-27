@@ -1,21 +1,15 @@
 # Jaaka omuvubi
-Tom Sabwa and Children’s
-Development Center at
-Masese
 
 ##
 Ono ni Jaaka omuvubi
 avila Namina.
 
-
 ##
 Avubila ku mwiiga kiira.
-
 
 ##
 Alina elyato, akatimba,
 n’eilobo.
-
 
 ##
 Awuna iinho enkoko
@@ -24,19 +18,16 @@ ku mwiga okugema
 emputa ehnenhe
 n’entono.
 
-
 ##
 Kusaawa nga inha
 edhokunkyo
 yadhitundila mukatale
 akanenhe akeiindha.
 
-
 ##
 Jaaka kyiki ekyibailewo?
 Lero bisaze? Nga
 munivu iinho.
-
 
 ##
 “Lero embela mbi.
@@ -45,7 +36,6 @@ tendhikiliza kuvuba.
 Neilobo emputa yajile
 nayo.”
 
-
 ##
 “Aye nninha eisubi
 enkyo lwidha kuba
@@ -53,11 +43,8 @@ lulunji,
 kuba ela nguze neilobo
 eiyaka.”
 
-
 ##
 * License: [CC-BY]
-* Text: Tom Sabwa and Children’s Development Center
-at Masese
+* Text: Tom Sabwa, Children’s Development Center at Masese
 * Illustration: Zablon Alex Nguku
-* Language: Lusoga
-
+* Language: xog

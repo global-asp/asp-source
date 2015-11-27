@@ -101,7 +101,5 @@ nie!
 ##
 * License: [CC-BY]
 * Text: Ane Henderson
-* Illustration: Marion Drew, Zablon Alex Nguku,
-blackmoondev.com and Wiehan de Jager
-* Language: Afrikaans
-
+* Illustration: Marion Drew, Zablon Alex Nguku, blackmoondev.com, Wiehan de Jager
+* Language: af

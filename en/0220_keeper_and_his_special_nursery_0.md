@@ -38,7 +38,7 @@ elephant under big blanket.
 
 ##
 Ndiwa was under the blanket.
-He was five days’ old.
+He was five days' old.
 Keeper fed Ndiwa with
 a bottle.
 
@@ -46,7 +46,7 @@ a bottle.
 The third orphan that month
 was Malea. She arrived at
 the nursery on a red tractor.
-She was six months’ old.
+She was six months' old.
 
 ##
 Malea the rhinoceros soon
@@ -61,7 +61,7 @@ woken up by the arrival of
 Ambia.
 
 ##
-Ambia was five months’ old.
+Ambia was five months' old.
 She was weak after her long
 journey.
 
@@ -75,7 +75,7 @@ Tiny twins Abei and Moit
 arrived in the middle of
 August.
 These antelopes were only
-a few hours’ old. They were
+a few hours' old. They were
 very sick.
 
 ##
@@ -89,7 +89,7 @@ saved Moit.
 The last orphans to arrive in
 August were Kopi, Kepi and
 Keji.
-These cubs were two weeks’
+These cubs were two weeks'
 old.
 They were very hungry when
 they arrived.
@@ -117,6 +117,6 @@ return to the wild.
 
 ##
 * License: [CC-BY]
-* Text: Ursula Nafula and Nina Orange
+* Text: Ursula Nafula, Nina Orange
 * Illustration: Magriet Brink
 * Language: en

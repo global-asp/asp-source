@@ -1,30 +1,22 @@
-# Sa'aa gaafa
-tokko qabdu
-Sebongile Daniel, Mpho
-Ntlhanngoe and
-Khothatso Ranoosi
+# Sa'aa gaafa tokko qabdu
 
 ##
 Heeeee! Sa'aa bayyee
 bareddu mana keessa
 jirti.
 
-
 ##
 Eegee hin qabduu,
 gaafa tokko qabdi.
 Baayyee bareeddi..
 
-
 ##
 Furdoo dha, garaa ishee
 guddaa dha.
 
-
 ##
 Sa'aa bayyee cimtuu
 dha.
-
 
 ##
 Tikseen ishee baayyee
@@ -33,20 +25,17 @@ isaa qofa akka
 dhageessu
 barsiiseeraan.
 
-
 ##
 Yeroo tikseen ishee
 hamuuf deemu, isheen
 kophaa ishee marga
 dheeddi.
 
-
 ##
 Sa'aattiin kun lola irratti
 bayyee cimtuu dha
 kanaafuu sa'oonni
 biroon hin sodaatuun.
-
 
 ##
 Namoonni bayyeen
@@ -57,12 +46,9 @@ hinsodaatuun.
 Sa'aa akkasii yoo argite
 maal gootaa?
 
-
 ##
 * License: [CC-BY]
-* Text: Sebongile Daniel, Mpho Ntlhanngoe and
-Khothatso Ranoosi
+* Text: Sebongile Daniel, Mpho Ntlhanngoe, Khothatso Ranoosi
 * Illustration: Marion Drew
-* Translation: Khothatso Ranoosi, Marion Drew and
-Siyane Aniley
-* Language: Afan Oromo
+* Translation: Khothatso Ranoosi, Marion Drew, Siyane Aniley
+* Language: om

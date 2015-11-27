@@ -11,7 +11,7 @@ Story ID | Title | License
 0185 | [Buna obotuko bwachete ase ekenyoro ki’Opio](http://africanstorybook.org/stories/buna-obotuko-bwachete-ase-ekenyoro-ki’opio) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0246 | [Okoba Okoyia Okuya ](http://africanstorybook.org/stories/okoba-okoyia-okuya) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0251 | [Nokungu N’eimbulu](http://africanstorybook.org/stories/nokungu-n’eimbulu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0252 | [Omote  oria okonyete  okenyoro ki’Ombalantu](http://africanstorybook.org/stories/omote-oria-okonyete-okenyoro-ki’ombalantu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0252 | [Omote oria okonyete okenyoro ki’Ombalantu](http://africanstorybook.org/stories/omote-oria-okonyete-okenyoro-ki’ombalantu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0264 | [Amarube](http://africanstorybook.org/stories/amarube) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0283 | [Omwalimu Moraa](http://africanstorybook.org/stories/omwalimu-moraa) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0294 | [Amatoke A’baba](http://africanstorybook.org/stories/amatoke-a’baba) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

@@ -108,4 +108,4 @@ gepraat nie.
 * Text: Gaspah Juma
 * Illustration: Jesse Breytenbach
 * Translation: Jeanelle du Preez
-* Language: Afrikaans
+* Language: af

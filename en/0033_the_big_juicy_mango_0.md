@@ -59,5 +59,5 @@ my last!
 ##
 * License: [CC-BY]
 * Text: Katelyn Mostert
-* Illustration: Catherine Groenewald and Wiehan de Jager
+* Illustration: Catherine Groenewald, Wiehan de Jager
 * Language: en

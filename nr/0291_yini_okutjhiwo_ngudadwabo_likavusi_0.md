@@ -1,6 +1,4 @@
-# Yini okutjhiwo
-ngudadwabo
-likaVusi?
+# Yini okutjhiwo ngudadwabo likaVusi?
 
 ##
 Ngelinye ilanga ekuseni ugogo
@@ -10,7 +8,6 @@ kubabelethi bakho. Bafuna
 ukwenzela udadwenu ikhekhe
 elikhulu lomtjhado wakhe."
 
-
 ##
 Endleleni eya kubabelethi bakhe,
 uVusi wahlangana nabesana ababili
@@ -19,14 +16,12 @@ waphamula iqanda kuVusi
 walibethanisa nomuthi. Laphuka
 iqanda.
 
-
 ##
 “Wenzeni?” kulila uVusi. “Iqanda
 lela bekungele khekhe. Ikhekhe lelo
 bekungelo mtjhado kadadwethu.
 Uzokuthini udadwethu nakungana
 khekhe lomtjhado?"
-
 
 ##
 Abesana bacolisa ngokurhuga
@@ -36,7 +31,6 @@ yokukhamba ongayinikela
 udadwenu,” kwatjho munye. UVusi
 waragela phambili nekhambo lakhe.
 
-
 ##
 Endleleni wahlangana namadoda
 amabili akha indlu. “Singayi
@@ -44,7 +38,6 @@ sebenzisa intonga eqinileko leyo?”
 kwabuza munye.
 Kodwana intonga le beyingaka qini
 khulu bona ingakha indlu, yaphuka.
-
 
 ##
 “Wenzeni?” kulila uVusi. “Intonga
@@ -56,7 +49,6 @@ mtjhado kadadwethu. Gadesi akuna
 qanda, akuna khekhe, akuna sipho.
 Uzokuthini udadwethu?”
 
-
 ##
 Abakhi bacolisa ngokuphula
 intonga. “Angeza sakwazi
@@ -66,7 +58,6 @@ dadwenu,” kwatjho munye. UVusi
 waragela phambili ekhambeni
 lakhe.
 
-
 ##
 Athi asakhamba ngendlela
 wahlangana nekomo nomlimi.
@@ -75,7 +66,6 @@ bumnandi! Ngingahlephula kancani
 ngidle?” kubuza ikomo.
 Kodwana utjani lobo bebumnandi
 khulu ikomo yabudla boke.
-
 
 ##
 “Wenzeni?” kwatjho uVusi. “Utjani
@@ -92,7 +82,6 @@ akunaqanda,akuna khekhe begodu
 akunasipho. Uzakuthini
 udadwethu?”
 
-
 ##
 Ikomo yaqolisa ngombana
 beyinomrhobholo. Umlimi wavuma
@@ -101,7 +90,6 @@ njengesipho sakadadwabo.
 Awa-ke kwabanjalo uVusi
 wakhamba.
 
-
 ##
 Kodwana ikomo yabuyela kumlimi
 ngesikhathi samadina/isidlo
@@ -109,7 +97,6 @@ sebusuku.
 uVusi walahleka ekhambeni lakhe,
 wafika lada emtjhadweni ka
 dadwabo. Abayeni bebasele badla.
-
 
 ##
 “Ngizokwenza njani," kwatjho u
@@ -127,7 +114,6 @@ waka dadwethu. Kwanje
 akunaqanda, akuna khekhe begodu
 akunasipho.”
 
-
 ##
 Wathula kancani udadwabo lika Vusi
 aqabanga, bese wathi, "Vusi
@@ -140,13 +126,9 @@ ilanga leli."
 uVusi wenza njalo kwabamnandi
 emnyanyeni.
 
-
 ##
-Yini okutjhiwo ngudadwabo
-likaVusi?
 * License: [CC-BY]
 * Text: Nina Orange
 * Illustration: Wiehan de Jager
-* Translation: Tshabalala Amanda and Sekgosana
-Thulisile
-* Language: isiNdebele
+* Translation: Tshabalala Amanda, Sekgosana Thulisile
+* Language: nr

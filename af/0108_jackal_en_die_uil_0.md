@@ -203,5 +203,4 @@ in argief.
 * Text: Traditional San story
 * Illustration: Manyeka Arts Trust
 * Translation: Diane Ladbrooke
-* Language: Afrikaans
-
+* Language: af

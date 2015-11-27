@@ -1,8 +1,4 @@
-# Ipungutjha
-engumahlakaniphana
-itererha
-udumbana
-osithingithingi
+# Ipungutjha engumahlakaniphana itererha udumbana osithingithingi
 
 ##
 Kwasuka sukela, ngelinye ilanga
@@ -14,7 +10,6 @@ arhidla isililo sendlala. GRrrrrr!
 Weqela phezulu afuna ukudla
 ngapha nangapha.
 
-
 ##
 Warareka hlangana nemithi
 emangweni isikhathi eside
@@ -25,7 +20,6 @@ ithayiza kodwana angaboni
 kuhle eduze kwakhe ngebanga
 lendlela.
 
-
 ##
 Yarhidla isililo ipungutjha
 “Aaaauuuu” yawela ngesizibeni
@@ -35,14 +29,12 @@ iziphamandla yeke-ke akhange
 abone bona kunesiziba phambi
 kwakhe.
 
-
 ##
 "Mmayeee ingwani yami!"
 phela uyakhumbula. "Kufanele
 ngiphume ngapha
 ngesizibeni.Nakungasinjalo
 ngizakubulawa yindlala."
-
 
 ##
 Ipungutjha enguqongo yarhidla
@@ -54,7 +46,6 @@ amanzi. Ngetjhudu wezwa bona
 yipungutjha elilako watjhinga
 ngesizibeni ngebelo.
 
-
 ##
 "uMraro yini?" udumbana
 abonakale mbala bona
@@ -63,7 +54,6 @@ wesiziba la amnandi
 kwamanikelela.Nginesizungu
 nangiduda ngingedwa.Yewize
 sidude sobabili."
-
 
 ##
 "Ilanga litjhisa khulu" kutjho
@@ -74,7 +64,6 @@ mina."
 ngizakusiza bona uphume,"
 kuthembisa ipungutjha
 enguqongo.
-
 
 ##
 Mbala udumbana eqele
@@ -89,12 +78,9 @@ wacwila wabhalelwa kuphuma
 ngemanzini, wamemeza wathi,
 "Sizani! Ngibawa isizo!"
 
-
 ##
-Ipungutjha engumahlakaniphana
-itererha udumbana osithingithingi
 * License: [CC-BY]
 * Text: Kholeka Mabeta
 * Illustration: Benjamin Mitchley
 * Translation: Gatsheni N.W Hlophe L.E Mabena B.E
-* Language: isiNdebele
+* Language: nr

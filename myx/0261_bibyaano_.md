@@ -14,7 +14,6 @@ bweewe buulayi ibwo, tsimoni
 tsiwaanga, ne khufuurira ilala
 intsibirisa yeewe iye angaaki naabi.
 
-
 ##
 Nga nio alinyukhile buukhaana,
 basooleli, ni baseetsa baakhulu,
@@ -26,7 +25,6 @@ mu lwaanyi shifukhu shibuufu,
 akhali khuulyakho khu byaano ta,
 niye ukane amuyile nga umukhasi
 weewe.
-
 
 ##
 Kamakhuuwa kano kaamalatana
@@ -41,7 +39,6 @@ Niye ekhala imbuka inyiimbi iri,
 ukhaliindile ta, waalya bibyaano,
 baamuwoona weelayo.
 
-
 ##
 Umuraangilisi we babaayi niye
 uweelakho. Aaba abonekha buulayi,
@@ -51,7 +48,6 @@ waamwikoomba. Ne bari bamurusila
 bibyaano, abweene ni abweene,
 waabilya. Naye baamuwoona
 weelayo.
-
 
 ##
 Umusaani uweelakho aaba ali ni
@@ -69,7 +65,6 @@ likhumi, intsala yaamuminya,
 waalya. Naye baamuwoona
 weelayo.
 
-
 ##
 Khukhwiilakho, umwaami naye weetsawo. Niye aaba umulyakhani,
 ewulila naabi, naluundi nga abonekha buubi, nga mbaawo
@@ -84,7 +79,6 @@ Ne n’aakobola, luluukhu lwe bibyaano lwaamukhupa, ni kiminwa
 kyaarakikha khuurandaala!
 Umukhaana waakhupa shikhoowe, nga umusaani uyo
 baamuwoonile, weelayo.
-
 
 ##
 
@@ -122,7 +116,6 @@ kumuusi. Uri tsoola saawa likhumi, umulimi tsana waasaba
 kameetsi. Umukhaana waaloomba mu mwoyo kweewe ari khali
 aliile. Ne aaba ashiloomba aryo, isaawa yoola ndweela iye ashilo.
 
-
 ##
 
 ##
@@ -139,7 +132,6 @@ kumweenya kumulayi naabi,
 kukwarusa babaandu mu bukali,
 khuuroongisa baakole khu lukuuto.
 
-
 ##
 Mu baandu abo, mwabamo
 babakaanisi b’omusooleli uwe
@@ -150,7 +142,6 @@ kamapeesa ni tsikhaafu, siinga
 alekha umukhaana uyo.
 Lubaluba, niye waakaanila
 kamapeesa ni tsikhaafu, weetsiila.
-
 
 ##
 Babakaanisi bano baakwaarisa
@@ -163,10 +154,9 @@ basaali b’omukhaana, baakhola
 kamayiiya ke khuubatubaasa
 boombi atweela mu bukhwaale.
 
-
 ##
 * License: [CC-BY]
 * Text: Shakira Bodio
 * Illustration: Wiehan de Jager
 * Translation: Cornelius Wekunya
-* Language: Lumasaaba
+* Language: myx

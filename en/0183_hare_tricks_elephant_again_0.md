@@ -76,7 +76,7 @@ his legs was the only way
 they could become thin.
 
 ##
-Elephant’s legs hurt very badly,
+Elephant's legs hurt very badly,
 so he crawled out of the fire.
 He could not stand with his
 burned legs, so he lay down.
@@ -96,7 +96,7 @@ no longer friends.
 
 ##
 * License: [CC-BY]
-* Text: Agnes Gachaba and Ursula Nafula
+* Text: Agnes Gachaba, Ursula Nafula
 * Illustration: Wiehan de Jager
 * Translated By: Ursula Nafula
 * Language: en

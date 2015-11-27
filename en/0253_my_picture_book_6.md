@@ -15,6 +15,6 @@ A cat
 ##
 * License: [CC-BY]
 * Text: Oku Modesto
-* Illustration: Rob Owen, Marleen Visser, Katrien Coetzer, Wiehan de Jager, Karen Lilje, Catherine Groenewald and Alice Toich
+* Illustration: Rob Owen, Marleen Visser, Katrien Coetzer, Wiehan de Jager, Karen Lilje, Catherine Groenewald, Alice Toich
 * Adaptation: Rose Alungho
 * Language: en

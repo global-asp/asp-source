@@ -1,5 +1,4 @@
-# Umuyiinga we
-Binywiinywi
+# Umuyiinga we Binywiinywi
 
 ##
 Yabawo lutweela, binywiinywi
@@ -9,7 +8,6 @@ babaandu, ni bisolo ni bili.
 Khanywiinywi shiina
 khakhanyala khuuba
 umuyiinga?
-
 
 ##
 Kila khatweela khaloma khari,
@@ -47,7 +45,6 @@ Bibiramile byayokesa biri,
 iwe tsikhiikhi ta! Iwe utsya
 khukona nga inyaanga irura.”
 
-
 ##
 Biryo binywiinywi byalekha
 khutsya aleeyi ta.
@@ -79,7 +76,6 @@ ngaaki khuumala bifukhu
 bitaru, nga siiwolakho ta,
 yaatsya nga ilola kwe nyaanga.
 
-
 ##
 Nga ili mu ngaaki iyo,
 binywiinywi bibiramile
@@ -87,7 +83,6 @@ byaawulila nga Ingosya ikukuula
 iri, “Ise niye ufuura
 khukhwiyiinga-a-a! Ari ise niye
 umuyiinga!
-
 
 ##
 Ne angaakikho khuukifuura
@@ -119,7 +114,6 @@ angaaki khufuura binywiinywi
 bibiindi byoosi. Ari ise niye
 umuyiinga weenywe!”
 
-
 ##
 Ne khukhwaamila mu lutaaha
 lwayo, mwasookhamo
@@ -132,7 +126,6 @@ Ne Ingosya yaaba nga yaluwile
 naabi nga shinyala ni
 khuupamburukha luundi ta.
 
-
 ##
 Ingosya yewuta aasi mbola
 busa, nga khanywiinywi tsana
@@ -143,7 +136,6 @@ Biryo byaaliindilila busa biri nga
 khakoboole, bakhafurakekho
 kamooya kaakho koosi.
 
-
 ##
 Ne Nakholo mu bukyeekhe
 bwakho ni khaabona nga
@@ -151,7 +143,6 @@ binywinywi byashe byakhalaale
 naabi, khewuta khaatsya
 khekhupa mwilowo lilyaba lye
 ndemu
-
 
 ##
 Biryo binywiinywi bibiramile
@@ -164,7 +155,6 @@ ibulafu.”
 Tsikhiikhi wekhala iburaangisi
 we lilowo waaliinda
 
-
 ##
 Ne wekhuuba abe inyaanga
 yaabilile buulayi, tsikhiikhi
@@ -174,7 +164,6 @@ Nakholo, khesheenga ibulafu,
 khabona nga tsikhiikhi ali
 khuukona, Khafubutukha
 kharura khaatsya
-
 
 ##
 Tsikhiikhi kwaswaala luukali,
@@ -188,13 +177,12 @@ tsikhiikhi eela mu khukona
 mwonyene, nga binywiinywi
 bibiindi sibimubonakho ta.
 
-
 ##
 * License: [CC-BY]
 * Text: South African Folktale
 * Illustration: Wiehan de Jager
 * Translation: Milton Eridad Shissa
-* Language: Lumasaaba
+* Language: myx
 
 Adapted from a story in 'South
 African Folk-Tales', by James A.

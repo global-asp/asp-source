@@ -1,5 +1,4 @@
-# Isuubi kipooli ku
-mugaati
+# Isuubi kipooli ku mugaati
 
 ##
 isuubi
@@ -10,11 +9,9 @@ ekimala okuzuukusa
 endhala eyo
 obwidhuvu
 
-
 ##
 * License: [CC-BY]
 * Text: Johanna Kistner
 * Illustration: Johanna Kistner
 * Translation: Cornelius Gulere
-* Language: Lusoga
-
+* Language: xog

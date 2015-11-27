@@ -1,5 +1,4 @@
-# Omosacha
-omotang’ani
+# Omosacha omotang’ani
 
 ##
 Abwo kare kare ekero riroba
@@ -8,12 +7,10 @@ nigo biatubete ense eye buna
 oborangeti, nemete emetambe
 nigo yabetete erioba.
 
-
 ##
 Ase ense eye, engoro nere
 yabwate amache, amatoereru,
 naende amakendu.
-
 
 ##
 NSe yamache aya,
@@ -24,7 +21,6 @@ emeringori emekong’u,
 neria yende nigo
 yarenge enke naende
 engusu.
-
 
 ##
 Bono rituko erimo, embura enene
@@ -49,7 +45,6 @@ togende igoro ase ense torore riroba riria.
 “Inaki toramenye ase ense” eng’iti eria enke ekaboria.
 “Ntonyare kouagura nechinda chiato?”
 
-
 ##
 Chinyoni chiria chikoiruruka
 tichigotosekerera kobera nse,”
@@ -73,12 +68,10 @@ Na korwa nse yemetwe yabo,
 amaboko abere nebiara amo
 nenchinchara bikamera.
 
-
 ##
 Korwa engaki eyio kogenderera bagatiga koba ching’iti, bono
 bakaba abanto, Omosacha nomokungu.
 Riria buna bakwenakwerigereria, baganchana.
-
 
 ##
 “Togende tomenye ebitunwa iria igoro” omokungu oria
@@ -88,16 +81,14 @@ Tonyare korenda obonyansi nemete yonsi pi. Omosacha oria
 agateba. “Na igo korosia abasani necinyoni chionsi ame
 nemenyama yonsi pi.“
 
-
 ##
 “Inchwo,” omosacha oria omotang’ani
 “Nachire,” omokungu oria omotang’ani akairaneria
 Naende bagatara amo gochia ase ense eria yabo enyia.
-
 
 ##
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Jemma Kahn
 * Translation: Dennis Ogaro Ondieki
-* Language: Ekegusii
+* Language: guz

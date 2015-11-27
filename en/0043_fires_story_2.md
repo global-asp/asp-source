@@ -34,7 +34,7 @@ alone.
 
 ##
 * License: [CC-BY]
-* Text: Deborah Namugosa, Beatrice Nabune, Alison Tukei and Rose Sabano
-* Illustration: Rob Owen, Wiehan de Jager and Amir Bachir António Necas
+* Text: Deborah Namugosa, Beatrice Nabune, Alison Tukei, Rose Sabano
+* Illustration: Rob Owen, Wiehan de Jager, Amir Bachir António Necas
 * Adaptation: Nina Orange
 * Language: en

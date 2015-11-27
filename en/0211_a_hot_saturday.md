@@ -64,9 +64,9 @@ wasn't from the sun.
 
 ##
 * License: [CC-BY]
-* Text: Nathi and David
+* Text: Nathi, David
 * Illustration: Wiehan de Jager
-* * Translated By: Nathi and David
+* * Translated By: Nathi, David
 * Language: en
 
 We Nathi and David versioned this

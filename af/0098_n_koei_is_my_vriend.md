@@ -17,8 +17,7 @@ goeie skoene.
 
 ##
 * License: [CC-BY]
-* Text: Frista and Fatima
-* Illustration: Marleen Visser and Felicity Bell
+* Text: Frista, Fatima
+* Illustration: Marleen Visser, Felicity Bell
 * Translation: Vanessa Rademeyer
-* Language: Afrikaans
-
+* Language: af

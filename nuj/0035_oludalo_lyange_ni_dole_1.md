@@ -1,5 +1,4 @@
-# Oludalo lyange ni
-dole
+# Oludalo lyange ni dole
 
 ##
 
@@ -22,7 +21,7 @@ dole
 * Text: Lawrence A. Konjuro
 * Illustration: Natalie Propa
 * Translation: Bubaali primary school
-* Language: Lunyole
+* Language: nuj
 
 This story was translated by
 teachers at Bubaali primary school.

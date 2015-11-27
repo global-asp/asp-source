@@ -1,5 +1,4 @@
-# Engoko
-Ne’Kebaki
+# Engoko Ne’Kebaki
 
 ##
 Abwo kare, engoko ne’kebaki
@@ -9,7 +8,6 @@ pi.
 Nigo barenge gokora ebinto
 biabo amo.
 
-
 ##
 Rituko erimo, enchara egacha
 ase ense. Ekebaki kegatara are
@@ -18,7 +16,6 @@ Gekairana kerosete sana.
 “Goika kobe neng’encho ende
 engusu gotara.” ekebaki
 kegateba.
-
 
 ##
 Ekero babogete korwa chitoro
@@ -32,7 +29,6 @@ yamarionya aya aito are
 mobere. Nabo eyio eragere
 ogotara gwaito kobe okogusu.”
 
-
 ##
 Ekaba buna ekebaki keria nakio
 gioka kiabwate esindani
@@ -43,7 +39,6 @@ Ake igo gekanyara
 gotambururuka are nechimbaba
 ibere, kegatiga engoko eria nse
 garia.
-
 
 ##
 Engoko eria ekarosa gosona
@@ -59,7 +54,6 @@ chiabo nachirochio.
 Nabwo abwo chinyoni chiria
 chikairuruka igoro ase rire.
 
-
 ##
 Ekero enyoni eria yomoiso
 yairanatie esindani eria
@@ -71,7 +65,6 @@ bigachaka gochiesa nero. Ekero
 biarosete nomochieso oria,
 bigatiga esindani eria ase
 amaraba ime.
-
 
 ##
 Emarogoba eyio, ekebaki
@@ -85,7 +78,6 @@ Ekarigia chikoni, isiko keorori,
 gotatiga teyenyoreti sindani
 eria.
 
-
 ##
 “Gaki ing’a rituko erimo rioka
 inkorigerie esindani,“ Engoko
@@ -93,7 +85,6 @@ ekaebereria ekebaki. Erinde
 onyare gosonerera amarionya
 ao nakonyara kaoiruruka korigia
 endagera yende.”
-
 
 ##
 “Ero bono nakoire rituko erimo
@@ -110,7 +101,6 @@ Igo ekebaki kegaika nse
 bwango gekabogoria egechuch
 ekemo gekaira.
 
-
 ##
 Korwa abwo nonya mbono,
 ekebaki ekero kegoeta, nigo
@@ -125,10 +115,9 @@ eroro.”
 Nabirobio biaraneria: “Titori
 bariri. Tiga tominyoke.”
 
-
 ##
 * License: [CC-BY]
 * Text: Ann Nduku
 * Illustration: Wiehan de Jager
 * Translation: Dennis Ogaro Ondieki
-* Language: Ekegusii
+* Language: guz

@@ -11,7 +11,6 @@ lana . begodu ungenzele lana.
 Wangithiya ngendlu. Egade ibizwa
 ukuthi yi "isikhova sendlu".
 
-
 ##
 Abobunti baka Helen abalithoba
 nabodadwakhe bakhulele lana
@@ -24,7 +23,6 @@ bangani labekahlala khona kodwana
 bekangana ndaba.
 Sukela ekuthomeni uHelen wenze
 izinto ezihlukile kunabanye abantu.
-
 
 ##
 Ngemva kokobana udadwakhe
@@ -42,7 +40,6 @@ Enqodweni yakhe wabona ikosi
 kunye namaphiramidi kunye nama
 kamela esanteni.
 
-
 ##
 Makakhulako , uHelen bekafunda
 intori zendaweni ezikude. Kodwana
@@ -57,7 +54,6 @@ elwandle.
 kodwaba iinkhova bekuzinto
 azithanda khulu.
 
-
 ##
 UHelen bekathanda incwadi
 neentori khulu waze wakhetha
@@ -67,7 +63,6 @@ noJohannes Pienaar. Naye bekangu
 titjhera, angumbali begodu adlala
 imidlalo yakumabonakude.
 wamutjela bona babaleke.
-
 
 ##
 uHelen no Johannes batjhada.
@@ -80,7 +75,6 @@ nomyeni wakhe bebahlala balwa.
 uMaka Helen wagula khulu
 ngalokho wabona kuncono abuyele
 ekhaya.
-
 
 ##
 uHelen bekangakajabuli neze
@@ -98,7 +92,6 @@ kodwana ukhumbule bona, thina
 iinkhova sikhona. sikuqalile, biza u
 wooooh!.
 
-
 ##
 UHelen wabona kuncono bona
 azakhele ikusasa elikhanyako,
@@ -115,7 +108,6 @@ Irada leyo bekayifakile wabhala
 isikhombiso esithi: "lona mhlaba
 wami."
 
-
 ##
 Emini u Helen wathatha izinto
 ukuzifundisa ukubamba
@@ -130,7 +122,6 @@ ubusuku bekalala eenkumbeni
 ezihlukileko .bekahlala akhetha leli
 elibonisa inyanga ne neekanyezi
 kuhle.
-
 
 ##
 Abantu base Nieu Bethesda
@@ -150,7 +141,6 @@ netiye emnyama kuphela. Wabhala
 encwadini yakhe ukuthi:
 "Nangingedwa ngiyajabula."
 
-
 ##
 Itoni yakhe yakhula beyakhula,
 kwaze kwafika lana kungasena
@@ -167,7 +157,6 @@ mnyama mnyama. Bekazi ukuthi
 maduzane bekangekhe asakghona
 ukubona.
 
-
 ##
 Kodwana nakavala amehlo wakhe
 kokuqina, kosazana Helen zakhe
@@ -183,11 +172,9 @@ Kodwana sisajamile lana namhlanje,
 nangendlela asitjhiya ngayo, etonini
 ayenzako, siqale etjhona langa.
 
-
 ##
 * License: [CC-BY]
 * Text: Jacqui L’ange
 * Illustration: Wendy Morison
 * Translation: Thulisile Masilela
-* Language: isiNdebele
-
+* Language: nr

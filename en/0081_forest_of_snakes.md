@@ -11,18 +11,16 @@ This snake scared many people.
 It swallowed whole goats and
 sheep.
 
-
 ##
 One day, sisters Apiyo, Ajoh and
 Atieno were going to the forest to
 fetch firewood.
-The girls’ grandmother warned,
+The girls' grandmother warned,
 “Beware of Unyalego the big snake.
 Do not take anything from the
 forest except the wood.”
 Only Ajoh did not pay attention to
 her grandmother.
-
 
 ##
 The girls packed milk, bananas,
@@ -32,7 +30,6 @@ and a sharp machete for chopping
 the wood.
 Then they left for the forest.
 
-
 ##
 On the way, the sisters chatted
 and laughed.
@@ -40,16 +37,14 @@ Suddenly, Apiyo, the eldest of
 them, said, “Be quiet. We are
 coming to where Unyalego lives.”
 
-
 ##
 Atieno called to the others, “Look,
-here are Unyalego’s golden teeth.
+here are Unyalego's golden teeth.
 Let us take them.”
 Apiyo reminded them, “Don't forget
-grandmother’s warning. We must
+grandmother's warning. We must
 not take anything from the forest
 except firewood.”
-
 
 ##
 Ajoh said, “I don't trust
@@ -59,7 +54,6 @@ want the golden teeth.”
 Her sisters were worried. “Ajoh, we
 warned you,” they said.
 Ajoh did not care.
-
 
 ##
 At that moment Unyalego came
@@ -71,7 +65,6 @@ chatting and laughing. He hid under
 a rock next to the road where the
 girls would pass on their way back.
 
-
 ##
 The sisters were going home
 carrying their firewood on their
@@ -80,7 +73,6 @@ Suddenly, they heard “Hzzzzzzzz!”
 There was Unyalego with his mouth
 wide open, ready to bite. The girls
 were terrified.
-
 
 ##
 Unyalego asked the girls, “Who
@@ -94,7 +86,6 @@ But the guilty one will sing badly.
 She will be my food for the next
 three days!”
 
-
 ##
 Apiyo started to sing with a clear
 voice:
@@ -103,18 +94,16 @@ Mwenye meno bado yuko nyuma.”
 Then Atieno sang the song. She also
 sang well.
 
-
 ##
-Lastly, it was Ajoh’s turn. She was
+Lastly, it was Ajoh's turn. She was
 scared. She stepped forward and
 started singing. But her singing
 sounded terrible and the words
 were wrong.
-Unyalego shouted, “Can’t you sing
+Unyalego shouted, “Can't you sing
 properly like the others?”
 The snake knew that Ajoh took his
 golden teeth.
-
 
 ##
 Unyalego opened his huge jaws and
@@ -125,7 +114,6 @@ what happened.
 “I warned her, if only she had
 listened,” the girls' grandmother
 said sadly.
-
 
 ##
 * License: [CC-BY]

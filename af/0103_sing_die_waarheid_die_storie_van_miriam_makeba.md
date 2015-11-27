@@ -116,11 +116,8 @@ braaf en sterk. Ek het die waarheid
 in al my liedjies gesing.
 
 ##
-Sing die Waarheid: Die Storie van
-Miriam Makeba
 * License: [CC-BY]
 * Text: Jade Mathieson
 * Illustration: Louwrisa Blaauw
 * Translation: Claudia Tredoux
-* Language: Afrikaans
-
+* Language: af

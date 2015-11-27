@@ -1,6 +1,4 @@
-# Anansi orenteire
-abanto
-emegano
+# Anansi orenteire abanto emegano
 
 ##
 Kare, kare, abwo kare sana,
@@ -16,7 +14,6 @@ Bakaboria Anansi, oronyambobe
 oronyambobe roria orongaini
 robakonye.
 
-
 ##
 Anansi, akarosia eusi etaambe
 nakorina eusi eria yarenge konanta
@@ -28,7 +25,6 @@ kagoteba, “ Obe, emegano eye nigo
 ere yerigori rinene. Tokonyara
 koyeakanera aye, akanyambobe
 aka.”
-
 
 ##
 “Nechibesa irenga emegano eye
@@ -45,7 +41,6 @@ amaiso aye akarwa amariga.
 Akarengereria buna emegano eria
 nigo yagachire buya mono.
 
-
 ##
 Igo anansi agaika ng’ora ng’ora ase
 eusi eria yarenge konantananta
@@ -61,7 +56,6 @@ endagera yamarogoba. Mambia
 yaye, amaene pi akanyora echui
 yagure engoro eria ime.
 
-
 ##
 Obe gaki, tiga inkokonye, mosani
 one!” Anansi agateba. “Rara inse
@@ -75,7 +69,6 @@ Nyasae.
 Rakini Nyame agaseka tu
 nakomoboria, “Ng’ai emenyama
 eria yende ere?
-
 
 ##
 Igo Anansi akairana gocha nse
@@ -92,7 +85,6 @@ rigoma korwa ase ritoke nagwetuba
 omotwe oye, nakweimorera amache
 aria amatigari ase omobere oye.
 
-
 ##
 Koruoo akarangeria ebiarambe
 biria, “inwe ebiarambe ebi! Inchwo
@@ -102,7 +94,6 @@ kebakenge korwa ase embura.”
 Momanyete ebiarambe tibiancheti
 gotwerwa, igo bikairuruka bigasoa
 ekerandi keria kia Anansi ime.
-
 
 ##
 Anansi bwango bwango agasiba
@@ -115,7 +106,6 @@ gochia komworokia Nyasae.
 Rakini Nyame akamoboria, “Ng’ai
 omonyama oria bwomoiso ore?”
 (bono akaba tarigoseka naende).
-
 
 ##
 Igo naende Anansi agaika gochia
@@ -133,7 +123,6 @@ koamererania. “oronsaginsagi oro
 norotambe.” “Yaya, tirori rotambe!”
 “Ee norotambe!”
 
-
 ##
 Ake igo, eng’iti eria egasoka na
 kobaboria ninki barenge
@@ -150,7 +139,6 @@ mono! Nigo inde omonene mono!
 Beka ango egete ekio ang’e nainche
 monyare gopima!”
 
-
 ##
 Igo anansi agakora igo nagosiba
 eng’iti eria nomogoye oria erinde
@@ -160,7 +148,6 @@ Ekero akorete gosiba eng’iti eria
 nemegoye eria, anansi
 akayebogoria akayeira mbaka igoro
 onyasae.
-
 
 ##
 Abwo Nyame agancherana buna
@@ -178,15 +165,13 @@ Ekiagera gose emegano
 noyekonogwa tari eyokogacha ase
 chisanduku chiemete.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Dennis Ogaro Ondieki
-* Language: Ekegusii
+* Language: guz
 
 Read another version of this story
 at www.historyforkids.org/learn/
 Africa/literature/anansi.htm
-

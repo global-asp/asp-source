@@ -1,5 +1,4 @@
-# Amaulukho nende
-kukhu
+# Amaulukho nende kukhu
 
 ##
 Odongo nende Apiyo bali
@@ -14,7 +13,6 @@ Yali yamenya mulukongo lwo
 khuluba hambi nende inyanza
 ingali.
 
-
 ##
 Odongo nende Apiyo bali no
 busangafu khubera bali batsia
@@ -26,7 +24,6 @@ Shibakona tawe ne bakhupa
 imbakha ya amaulukho eshiro
 shiosi.
 
-
 ##
 Istuli mutsuli, barula nende
 sabwe mumutoka okhutsia
@@ -37,11 +34,9 @@ amachani.
 Babala emitoka nende
 okhwimba tsinyimbo.
 
-
 ##
 Mufise fitutu, abaana bachonya
 ne bakona.
-
 
 ##
 Samwana Odongo nende Opiyo
@@ -56,7 +51,6 @@ Kanyada'.
 Yali omukhaye wa amani khandi
 we eshifwani.
 
-
 ##
 Nyar-Kanyada yabasangalira
 nende okhubenjisia munzu
@@ -69,7 +63,6 @@ mberi," Odongo naboola.
 "Tawe, eshianje mberi," Apiyo
 naboola.
 
-
 ##
 Namalire okhubolola efihanwa,
 Nyar-Kanyada yaana tsikhabi
@@ -77,18 +70,15 @@ khu betsukhulu baye
 okhulondana ne milukha
 chiabo.
 
-
 ##
 Odongo nende Apiyo barula
 erwanyi.
 Balonda amapurupru nende
 amanyonyi.
 
-
 ##
 Baniina khumisala khandi
 besoka mumatsi ke inyanza.
-
 
 ##
 Angolobe bwirire bakalukha
@@ -96,12 +86,10 @@ nango okhulia shiokhulia shia
 angolobe.
 Bashilia, baanza okhukona!
 
-
 ##
 Mutsuli, sabwe yakalukaha
 mwitokho nabalekha wa kukhu
 wabwe Nyar-Kanyada.
-
 
 ##
 Odongo nende Apiyo bakhonya
@@ -113,7 +101,6 @@ Batola amabuyu ke efitakho
 nende okhwaya tsifwa
 mushirundu.
 
-
 ##
 Nyar-Kanyada yechesia
 abetsukhulu baye okhufuka
@@ -123,7 +110,6 @@ eshinulu.
 Yabamanyia nga okhutekha
 omuchele kwe inasi khulwa
 okhulira inyeni isambe.
-
 
 ##
 Inyanga ndala itsuli, Odongo
@@ -138,7 +124,6 @@ Okhuchaka nyanga eyo,
 Odongo yaya tsing'ombe
 obulayi tsilenjira mumaraba ta.
 
-
 ##
 Inyanga yindi, abaana batsia
 khushiro nende Nyar-Kanyada.
@@ -148,13 +133,11 @@ nende esabuni.
 Apiyo yekhoera okhubolera
 abakuli obukusi bwe ebindu.
 
-
 ##
 Angolobe, banywa ichai halala.
 Bakhonya kukhu wabwe
 okhubala amapesa kayali
 nanyolere.
-
 
 ##
 Mufise fitutu, amaulukho kawa
@@ -163,7 +146,6 @@ mwitokho.
 Nyar-Kanyada ymanusia
 Odongo ikofia ne Apiyo
 omuchosi.
-
 
 ##
 Lwo sabwe yetsa okhubeenda,
@@ -175,12 +157,10 @@ Yamwenya ne naboola,
 ta. Ndalalinda hano lwo
 mukalukha mulukongo khandi."
 
-
 ##
 Odongo nende Apiyo
 bamufumberera hambi no
 okhumusebula.
-
 
 ##
 Olwa Odongo nende Apiyo
@@ -196,10 +176,9 @@ nende Apiyo basangalira
 amaulukho nende kukhu
 wabwe!
 
-
 ##
 * License: [CC-BY]
 * Text: Violet Otieno
 * Illustration: Catherine Groenewald
 * Translation: Margaret Amateshe
-* Language: Oluwanga
+* Language: lwg

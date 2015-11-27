@@ -135,5 +135,5 @@ enige vriende nie.
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
-* Translation: Emily Aling and Maxine Fibiger
-* Language: Afrikaans
+* Translation: Emily Aling, Maxine Fibiger
+* Language: af

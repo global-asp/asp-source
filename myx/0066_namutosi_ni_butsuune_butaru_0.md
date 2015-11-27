@@ -1,11 +1,8 @@
-# Namutosi ni
-butsuune
-butaru
+# Namutosi ni butsuune butaru
 
 ##
 Aabawo khaalekho, bakhaana
 bataru baatsya khureenya tsiikhu.
-
 
 ##
 Antsye aaba abiilile naabi, kila
@@ -13,12 +10,10 @@ batsya i luutsi khuusuba.
 Baryo baasuba nga benyaha, nga
 behanyakila kameetsi.
 
-
 ##
 Baatsya khukhebulila nga antsye
 abukabukana.
 Beeyunakho khuukobolayo ingo.
-
 
 ##
 Nga bali aambi khukhwoola ingo,
@@ -30,7 +25,6 @@ munjeete khukoboleyo.” Ne basaale
 beewe baaloma bari antsye
 bwelabuule naabi.
 
-
 ##
 Aryo Namutosi waakobolayo iluutsi
 yenyene.
@@ -39,13 +33,11 @@ akyeendaka khaangu khuukobolayo
 ingo.
 Ne wakoraana khu lwe shishiilima
 
-
 ##
 Iburaangisikho waabonayo kumulilo
 kumulikha nga kwaamila mu ntsu.
 Waakyendaka khaangu woolayo,
 waakhoonyaka khu lwiitsi.
-
 
 ##
 Shamwiyaangisa khuubona nga
@@ -58,7 +50,6 @@ Imbwa yaamwiilamo iri, “Ingila
 mukari, noola ta, ikhuluma.
 Aryo Namutosi wenjila mu ntsu.
 
-
 ##
 Lwanyuma imbwa yaamuloma iri,
 “Indeekhele biilyo.”
@@ -70,7 +61,6 @@ noola ta, inakhuluma!”
 Aryo Namutosi wamaaya
 waakiteekhela biilyo.
 
-
 ##
 Imbwa yeelakho yaamuloma iri,
 “Intsalile buulili.”
@@ -80,7 +70,6 @@ ta.”
 Imbwa nayo yaamurisaka iri, “Yaala
 buulili, noola ta, inakhuluma.” Aryo
 Namutosi waala buulili.
-
 
 ##
 Buli busheele, Namutosi
@@ -93,7 +82,6 @@ basaale baase. Ingana weeye intsu,
 uteekhe biilyo, usiinge bibiindu
 byase, nga ishiili khukobola ingo ta.
 
-
 ##
 Lubaluba nga imbwa ilitsiile,
 Namutosi waakusa butsuune butaru
@@ -103,7 +91,6 @@ waakhara inyuma we lulwiitsi, ni
 khakhaandi waakhara mwitaala.
 Lwanyuma waarandabala tsindimo
 khuutsya ingo.
-
 
 ##
 Ne imbwa ni yakobola, yaheentsa
@@ -116,7 +103,6 @@ khuriiri.” Khakhaandi nakho khari,
 khataru nakho khari, “Ise indi ano
 mwiitaala.”
 
-
 ##
 Khaangukho, imbwa yaamanya iri
 Namutosi waakiwomeele. Iryo
@@ -128,10 +114,9 @@ yashuukha, yenyukhilamo yaatima
 yeelayo. Ni khukhwoolesa ari
 sibakibonatsakakho luundi ta.
 
-
 ##
 * License: [CC-BY]
 * Text: Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Fabian Wakholi
-* Language: Lumasaaba
+* Language: myx

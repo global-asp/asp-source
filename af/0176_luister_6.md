@@ -38,5 +38,4 @@ Babas babbel...
 * Text: Carole Bloch
 * Illustration: Jean Fullalove
 * Translation: Marquerite Wepener
-* Language: Afrikaans
-
+* Language: af

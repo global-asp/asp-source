@@ -53,8 +53,7 @@ gekry!”
 
 ##
 * License: [CC-BY]
-* Text: Basilio Gimo and David Ker
+* Text: Basilio Gimo, David Ker
 * Illustration: Carol Liddiment
 * Translation: Elizma Hiscock
-* Language: Afrikaans
-
+* Language: af

@@ -8,14 +8,12 @@ Inyoni beyikghona ukuphapha
 kodwana Ipisi yona beyikhona
 ukukhamba kwaphela.
 
-
 ##
 Ngelinye ilanga Ipisi, ifuna
 ukwazi okuthileko ngomngani
 wayo, yabuza inyoni, “Kgani
 yini into emhlophe le ehlala
 ingaphasi kwentamo yakho?”
-
 
 ##
 Inyoni yaphendula, “Yinyama enonileko enamafutha
@@ -30,7 +28,6 @@ maphiko wokuthi aphaphe?
 ungiboleke amanye wamasiba wakho ukuze ngikhone
 ukuzenzela amaphiko wokuphapha. Ngifuna ukwazi
 ukuphapha njengawe.”
-
 
 ##
 Kodwana inyoni beyingadimani,
@@ -47,7 +44,6 @@ angamphaphisa.
 Kwafanele ukuthi ize nelinye
 iqhinga.
 
-
 ##
 “Ngiyakubawa mnganami," ipisi
 ibawa inyoni, “ngingabambelela
@@ -63,7 +59,6 @@ njengesithembiso senyoni
 baphaphela phezulu
 esbhakabhakeni.
 
-
 ##
 Inyoni yaphapha, yaphapha
 beyadinwa. Kodwana Ipisi yathi,
@@ -74,7 +69,6 @@ emhlophe enonileko
 enamafutha ngaphezu kwabo,
 nomlomo wayo besewuzele
 amathe ngokurhala.
-
 
 ##
 Nabafika esbhakabhakeni bafikelela iqatha lokuthoma
@@ -88,7 +82,6 @@ Kodwana ipisi yaphendula iphikisana nalokhu ekutjhiwo
 yinyoni yathi:
 Masiba wenyoni bambelelani, ningasuki. Masiba wenyoni
 bambelelani, ningasuki.
-
 
 ##
 
@@ -104,14 +97,12 @@ Kodwana ithe nayithi ibamba
 ‘inyama’ leya, ekuzwileko beku
 mamafu athambileko!
 
-
 ##
 Ipisi bese iwa msinya kwanje.
 “Sizani, sizani!” irhuwelela.
 Kodwana bekunganamuntu
 oyizwako. Inyoni nayo
 beyilahleke emafini.
-
 
 ##
 Ipisi yawela phasi ngokufohloka
@@ -121,7 +112,6 @@ obukhulu, iphuke nedolo
 begodu izele neembazi
 umzimba woke.
 
-
 ##
 Kusukela ngalelo langa kufika
 nje, Ipisi iyahluza begodu izele
@@ -130,11 +120,9 @@ Zange ikgone ukuphapha
 nanamhlanjesi. Begodu yona
 nenyoni abasese bangani.
 
-
 ##
 * License: [CC-BY]
 * Text: Ann Nduku
 * Illustration: Wiehan de Jager
-* Translation: Thamsanqa Mokoena, Sphiwe Msiza and
-Victoria Masina
-* Language: isiNdebele
+* Translation: Thamsanqa Mokoena, Sphiwe Msiza, Victoria Masina
+* Language: nr

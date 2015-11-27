@@ -1,7 +1,4 @@
-# Shinga eshiro
-shietsa
-mulukoba lwa
-Opio
+# Shinga eshiro shietsa mulukoba lwa Opio
 
 ##
 Khale elia, eshiro shishialolekhanga
@@ -9,7 +6,6 @@ mu lukongo lwabu Opio tawe.
 Abandu bakonanga nibachonyire,
 ne bakholanga emirimo
 nibakhabuukha.
-
 
 ##
 Inyanga ndala, Opio yatsia
@@ -23,7 +19,6 @@ niyekhala hasi, aulukhe.
 Niyakhachonyolokha, ne khandi
 abuukha alondakho. Ne shiyanyoola
 tsimbwa tsiaye tawe.
-
 
 ##
 Inyuma we tsinyanga tsinyinji, yola
@@ -39,7 +34,6 @@ okhunywa amalwa?” Opio yali
 nobulo obunji muno kho
 nanywakho. Ne tsindolo nitsimuyira.
 
-
 ##
 Ne olwa yabukha, shiyanyala
 okhulola tawe.
@@ -52,7 +46,6 @@ shiomusatsa oyo imbeli weinzu eyo.
 okhunywa.” Shinyala okhulola
 obulayi khandi tawe.”
 
-
 ##
 Omusatsa oyo namuboolera ari,
 “Sholikho obubi tawe. Bulano
@@ -64,7 +57,6 @@ muno okhulondokhana nende
 eshiro.
 Ye nende mwenenzu balomaloma
 okhuula itsuli.
-
 
 ##
 “Enyala endie okhuirakho eshiro
@@ -82,7 +74,6 @@ Nokhupa amashemo, eshirima
 shilerukha. Ne nochenda notsia
 busa imbeli , shilakhulondakho."
 
-
 ##
 Opio nakhola shinga yali
 naboolerwe.
@@ -91,7 +82,6 @@ khulukongo lwabu ingolobe
 yalondakho.
 Yekomba okhulingakho inyuma ne
 nalakhola ario tawe.
-
 
 ##
 No lwayoola khulukongo lwabu,
@@ -104,7 +94,6 @@ Opio?" omusiani wabu namureeba.
 shikhuloondakho esho?”
 nyakhusenje namureeba.
 
-
 ##
 Opio naboola ari, “Abetsa banje,
 eshindu eshimali shiamulola shino
@@ -116,16 +105,12 @@ oburi ne khandi siesi ndali noburi
 endio. Ne mulalola mbu eshiro
 neshilayi.”
 
-
 ##
 Nolwa eshiro shietsa mulukongo lwa Opio.
 
-
 ##
-Shinga eshiro shietsa mulukoba lwa
-Opio
 * License: [CC-BY]
 * Text: Robert Ekuka
 * Illustration: Wiehan de Jager
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

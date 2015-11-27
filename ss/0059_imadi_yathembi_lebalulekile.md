@@ -1,5 +1,4 @@
-# Imadi yaThembi
-lebalulekile
+# Imadi yaThembi lebalulekile
 
 ##
 Ngesikhatsi Thembi
@@ -10,7 +9,6 @@ Lemadi lebalulekile lentiwa ngu
 anti wa Thembi ngemacembe
 empayini.
 
-
 ##
 Lemadi beyinemibala lefaka
 ekhatsi: umbala logcamile
@@ -19,7 +17,6 @@ Kanye naloluhlata satjani.
 Lemadi beyihlukile kunawo
 onkhe emamadi lanawo make
 wa-Thembi endlini.
-
 
 ##
 Indzawo yasekhabo Thembi
@@ -31,12 +28,10 @@ Kodvwa Thembi bekangekho
 engotini yekulunywa
 nguletidalwa letiyingoti.
 
-
 ##
 Make wakhe watsi, "Lelimadi la
 Thembi lelikhetsekile limvikela
 kunome ngabe nguyiphi ingoti.”
-
 
 ##
 Thembi bekangumntfwana
@@ -44,7 +39,6 @@ lohlakaniphile.
 Wafundza kutfola lapho
 kunemtfombo longashoni
 wekukha emanti.
-
 
 ##
 Waphindze wafundza nekutsi
@@ -54,7 +48,6 @@ Bekavame kuya ayotitika
 ngelubisi lwelikamela nagogo
 wakhe.
 
-
 ##
 Ngalelinye lilanga Thembi
 bekangenayo inhlanhla. Wasuka
@@ -63,12 +56,10 @@ akazange afika.
 Walahleka etintsabeni.
 Thembi bekasaba.
 
-
 ##
 Wahlala ngaphansi kwesihlahla
 alindze lusito. Madvutane
 watunywa butfongo waphupha.
-
 
 ##
 waphupha kanjena:
@@ -83,12 +74,10 @@ Watsi nakalula sandla sakhe
 atsatsa lolubisi, wase
 uyaphaphama.
 
-
 ##
 Thembi wavula emehlo akhe kancane. Watsi nakabuka
 etulu,wabona inyoni lencane leluhlata salungangane isime
 egaleni lebelingetulu kwakhe.
-
 
 ##
 Watsi Thembi
@@ -98,14 +87,12 @@ yaphaphisa timphiko yakhomba
 Thembi indlela. Walandzela
 lenyoni.
 
-
 ##
 Thembi wafika
 emphambanandlela. Lenyoni
 leluhlata salungangane yawisa
 siceshana selimadi lebesifana
 ncamashi nelimadi laThembi.
-
 
 ##
 Asacobonga lesiceshana
@@ -116,7 +103,6 @@ wabona lomtfombo wemanti
 longashoni lapho bakha khona
 emanti.
 
-
 ##
 Umndeni wa Thembi
 wahlabelela waphindze
@@ -126,22 +112,19 @@ Bahlaba imbuti,batfosa inyama
 babungata kubuya
 kwemntfwana wabo aphephile.
 
-
 ##
 Thembi wahlala emadini yakhe
 lekhetsekile atfokotela licatsa
 lelikhulu lenyama letfosiwe.
-
 
 ##
 Thembi wahlala lakhe
 lelikhetsekile atfokotela licatsa
 lelikhulu lenyama letfosiwe.
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
-* Translation: Zodwa Mnisi and Nontethelelo Ndzinisa
-* Language: siSwati
+* Translation: Zodwa Mnisi, Nontethelelo Ndzinisa
+* Language: ss

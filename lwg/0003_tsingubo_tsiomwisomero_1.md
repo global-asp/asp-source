@@ -1,50 +1,36 @@
-# Tsingubo
-tsiomwisomero
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
+# Tsingubo tsiomwisomero
 
 ##
 Liriinda lino ne liraambi.
-
 
 ##
 Omuchosi kuno
 nomukhoongo.
 
-
 ##
 Iloloti ino neikhoongo.
 
-
 ##
 Omukoye
-kwomushibuno…
-
+kwomushibuno...
 
 ##
 Ikofia ino neinditi.
 
-
 ##
 Tsisokisi netsinyimbikiti.
-
 
 ##
 Halali efilaro fino
 nefiyiakha.
 
-
 ##
-…. fiyela obulayi
+.... fiyela obulayi
 mufilenje.
-
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Mlungisi Dlamini
 * Translation: Catherine Were
-* Language: Oluwanga
-
+* Language: lwg

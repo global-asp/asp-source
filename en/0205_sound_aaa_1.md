@@ -48,8 +48,8 @@ Sound Aaa i will never forget you.
 
 ##
 * License: [CC-BY]
-* Text: Cissy Namugerwa and Ritah Katetemera
-* Illustration: Wiehan de Jager, Benjamin Mitchley, Cathy Feek, Sue Kramer, Kathy Arbuckle, Mlungisi Dlamini, Sean Whitehead, Jesse Breytenbach, Franz Phooko, Jesse Pietersen, Catherine Groenewald, Jano Strydom, Karlien de Villiers and Vusi Malindi
+* Text: Cissy Namugerwa, Ritah Katetemera
+* Illustration: Wiehan de Jager, Benjamin Mitchley, Cathy Feek, Sue Kramer, Kathy Arbuckle, Mlungisi Dlamini, Sean Whitehead, Jesse Breytenbach, Franz Phooko, Jesse Pietersen, Catherine Groenewald, Jano Strydom, Karlien de Villiers, Vusi Malindi
 * Adaptation: Cissy Namugerwa
 * Language: en
 

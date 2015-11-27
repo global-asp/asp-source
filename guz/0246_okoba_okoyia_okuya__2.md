@@ -1,5 +1,4 @@
-# Okoba Okoyia
-Okuya
+# Okoba Okoyia Okuya
 
 ##
 Ase emiaka emenge, egetunwa
@@ -19,7 +18,6 @@ n’echimbori nakomenta nayio amo
 nechingabi chiorosana chiarenge
 ase ayio.
 
-
 ##
 Ebinto nigo biarenge ebitoereru
 baka ekero Matata abete
@@ -34,7 +32,6 @@ gekagechigwa mono okoba
 yogosariwa koria gwechinderu
 chiaye, gotatiga rende
 akaremereria.
-
 
 ##
 Ekero Ki’Omokubio, abana
@@ -53,7 +50,6 @@ chigachaka gokea na gokea nobosio
 bwaye bogachaka konyira. Omoerio
 ndoche chiria ibere chigasira.
 
-
 ##
 Chingabi chiria chigatama ekiagera
 bonyansi botambe tibwarengeoo
@@ -62,7 +58,6 @@ amo n’echimbori chikarea nakorea
 mono.
 Kera omonto akaigwa oboro boria
 egetunwa gio’Okwalango kiaigwete.
-
 
 ##
 Abanto b’Akwere bakaamua buna goika babwenerete
@@ -75,7 +70,6 @@ n’abanto baye bakaba nemeyega yokogokia
 Okwalangu naboigo nakorentera Okwalangu emete
 ao ao buna chibakora, emeringamu amo
 n’emesocho.
-
 
 ##
 Onde taiyo bwancheretwe kogenda
@@ -95,7 +89,6 @@ kobua buna yarenge kare. Chingabi
 chigacha chikaria obonyansi naende
 chigogete.
 
-
 ##
 “Ochi kare Baraka, ochi kare
 Baraka!” Abanto baria ba’Kwere
@@ -105,10 +98,9 @@ nabanto baye bagateba. “Gaki tiga
 abana baito amo n’abana babo
 bagosike botambe bokongu!”
 
-
 ##
 * License: [CC-BY]
 * Text: Dennis Ogaro Ondieki
 * Illustration: Catherine Groenewald
 * Translation: Dennis Ogaro Ondieki
-* Language: Ekegusii
+* Language: guz

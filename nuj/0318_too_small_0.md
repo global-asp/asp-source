@@ -53,5 +53,4 @@ house!”
 * Text: Media Matters
 * Illustration: Sandy Lightly
 * Translation: Gershom Hirome
-* Language: Lunyole
-
+* Language: nuj

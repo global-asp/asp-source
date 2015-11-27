@@ -1,17 +1,14 @@
-# Omuhaana
-Owehyeju
+# Omuhaana Owehyeju
 
 ##
 Lulala yaaliyo omuhaana
 owesiina Nagudi naali wehyeju
 bugali weene.
 
-
 ##
 Nabuli olu nyina gamutumanga
 ohuhola omulimo gwosi
 gatenguŋanga.
-
 
 ##
 Oludaalo lulala nyina galwaaye.
@@ -24,26 +21,21 @@ wehyeju gasalaŋo hweyabuhira
 mu hwebbomba eyo hungira eja
 ewa nguhwaawe
 
-
 ##
 Owiire ni werire nga nyina atagiha ohweralihirira
 
-
 ##
 Nyina gahoba abo huhitehere bamuyeede ohuheja Nagudi .
-
 
 ##
 Gaali mweŋenderefu kubanga
 ŋaaliŋo ehinyaŋa ehirya
 otuhaana owiire .
 
-
 ##
 Abaatu bendula Nagudi aye nga
 omwene sigemanyiyeho ati
 wirire
-
 
 ##
 Esaawa j’ehyegulo hy’ ehinyaŋa
@@ -55,7 +47,6 @@ banatere ohwoola huhidiba
 ehyo . Nagudi gaali
 sigemanyiye niwirire .
 
-
 ##
 Nagudi gaweene ehinyaŋa
 nihiija nga atagiha ohwiteera.
@@ -64,7 +55,6 @@ ahahaana niheteera nga
 batagiha ohuduluma nibaja eyiri
 ejanjaasi.
 
-
 ##
 Abehitehere bagaana Nagudi
 nahiri muhidiba ni gesinduhire
@@ -72,13 +62,9 @@ bugali weene. Era ohuŋwa hu
 ludaalo olwo geega ohuŋulira
 n’ohwisa munyina eŋono.
 
-
 ##
 * License: [CC-BY]
 * Text: Bathokwa book club
-* Illustration: Catherine Groenewald, Vusi Malindi, Rob
-Owen, Natalie Propa, Ingrid Schechter and Melany
-Pietersen
+* Illustration: Catherine Groenewald, Vusi Malindi, Rob Owen, Natalie Propa, Ingrid Schechter, Melany Pietersen
 * Translation: Christopher M. Bukheye
-* Language: Lunyole
-
+* Language: nuj

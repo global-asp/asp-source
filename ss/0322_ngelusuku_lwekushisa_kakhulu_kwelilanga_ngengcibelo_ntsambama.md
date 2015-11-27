@@ -1,11 +1,4 @@
-# Ngelusuku
-lwekushisa
-kakhulu
-kwelilanga
-ngengcibelo
-ntsambama
-Nombulelo Thabane and
-Tessa Welch
+# Ngelusuku lwekushisa kakhulu kwelilanga ngengcibelo ntsambama
 
 ##
 Bekuyintsambama
@@ -17,7 +10,6 @@ Hambani niyodlala
 ngaphandle!” kwasho unina.
 “Angifuni niloku nilandzelana
 nami.”
-
 
 ##
 Sagijimela ngaphandle.
@@ -32,7 +24,6 @@ kuphendvula Lerato.
 “Sitawumane sidlale emtfuntini
 losedvute kwemanti.
 
-
 ##
 Kepha kudlala elangeni
 kubanga kushisa, nanobe udlala
@@ -44,14 +35,12 @@ emahembe etfu netiketi. Kepha
 bekungekho umehluko, sikuva
 kushisa.
 
-
 ##
 Safaka tinyawo emfuleni kuze
 siphole.
 Sase sitselana ngemanti.
 Ngemva kwaloko, besesihleti
 ekhatsi emantini.
-
 
 ##
 "Hheyi buyani! Asibhukusheni,"
@@ -60,18 +49,15 @@ ngaloko."
 Sabhukusha sabhukusha, sate
 sakhohlwa ngesikhatsi.
 
-
 ##
 Lilanga beseliyoshona, sesicala
 kuva emakhata. Besitibeke
 kuphi timphahla tetfu?
 
-
 ##
 Sibuke phansi kwetihlahla.
 Sabuka emahlatsini.
 Sabuka yonkhe indzawo.
-
 
 ##
 Bekunetinkhomo eceleni
@@ -85,14 +71,12 @@ Lerato. “Akusiyo imbali lebovu,”
 kumemeta Mpho. “Lihembe
 lakho!”
 
-
 ##
 Sabuka lenye Inkhomo
 lebeyihlafuna lokuluhlata
 kwesibhakabhaka.
 “Siketi sami lesa!” kumemeta
 Bontle.
-
 
 ##
 Saya ekhaya ngemaphenti,
@@ -107,12 +91,9 @@ tibunu tetfu tatfola kufutfumala.
 Loku bekungasiko loko
 kwelilanga.
 
-
 ##
-Ngelusuku lwekushisa kakhulu
-kwelilanga ngengcibelo ntsambama
 * License: [CC-BY]
-* Text: Nombulelo Thabane and Tessa Welch
+* Text: Nombulelo Thabane, Tessa Welch
 * Illustration: Wiehan de Jager
-* Translation: Joyce Ngomane and Zinhle Msibi
-* Language: siSwati
+* Translation: Joyce Ngomane, Zinhle Msibi
+* Language: ss

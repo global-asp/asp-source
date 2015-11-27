@@ -1,6 +1,4 @@
-# Libhubesi
-nengulube
-yesiganga
+# Libhubesi nengulube yesiganga
 
 ##
 Kudzala kwakukhona libhubesi lebelinemandla
@@ -11,7 +9,6 @@ Kodvwa ngalelinye lilanga ekuseni libhubesi
 ngalesikhatsi lifuna lelingakudla labanjwa
 lugibe.
 
-
 ##
 Libhubesi labhonsa kakhulu ngenca
 yetinhlungu. latama, kuhlutfula kulolugibe.
@@ -19,7 +16,6 @@ Lolugibe lwaya ngekufutsela kakhulu emlenteni
 walo lelibhubesi. Libhubesi laya ladzinwa
 labuye laba netinhlungu kakhulu emlenteni
 walo. Ekugcineni laphela emandla.
-
 
 ##
 Kwandlula emalanga libhubesi lishiswa lilanga.
@@ -31,7 +27,6 @@ kuphela emalanga. “ Ngitakufa ngibulawe
 yindlala nekoma lapha kulolugibe,”
 laticabangela lodvwa.
 
-
 ##
 Ngalelinye lilanga ekuseni, libhubesi leva
 umsindvo usondzela ngasehlatsini. Libhubesi
@@ -40,7 +35,6 @@ wayo Kanye nebantfwana, bakhuluma bahleka.
 Lomndeni wetingulube tesiganga bewuya
 emfuleni kuyotinatsela emanti ubuye udlale
 ngeludzaka lingakashisi kakhulu lilanga.
-
 
 ##
 "Ngulube yesiganga! Ngicela ungisite, ngulube
@@ -54,7 +48,6 @@ ngingakukhulula."
 kangaka. Sitawuba bangani nangabe
 ungangikhulula," kwasho libhubesi.
 
-
 ##
 Ingulube yesiganga yaba
 neluvelo. “Angitsandzi
@@ -65,7 +58,6 @@ Yase ikhulula libhubesi
 ngetimphondvo tayo
 letinemandla. Yasindzisa
 umngani wayo lomusha.
-
 
 ##
 "Ngiyabonga kakhulu mngani
@@ -81,7 +73,6 @@ wami angeke uphindze
 ulibalekele libhubesi," ingulube
 yesiganga yayiticabangela.
 
-
 ##
 Libhubesi lahamba lichuta
 liphelelwe nagemandla.
@@ -92,7 +83,6 @@ ngeludzaka. "Namuhla lilanga
 lami lenhlanhla," kusho
 libhubesi umlomo walo uphuma
 ematse.
-
 
 ##
 “Yeyi mngani wami lomusha,”
@@ -107,7 +97,6 @@ Ingulube yesiganga yamangala
 kakhulu. “Ngikusindzise
 elugibeni manje sowufuna kudla
 bantfwana bami?”
-
 
 ##
 “Ngiyacolisa mngani wami,"
@@ -124,7 +113,6 @@ webantfwabana bakho,
 ngitotitsatsela mine,” kubhodla
 libhubesi.
 
-
 ##
 Ingulube yesiganga beyati ayinaso sivinini
 nobe emandla elibhubesi.. Angeke yakwati
@@ -134,7 +122,6 @@ bami.
 Kodvwa kwekucala ngifuna ungikhombe kutsi
 wabanjwa njani kulolugibe kute gitewukwati
 kusindzisa lelinye lemabhubesi kulololugibe.
-
 
 ##
 Libhubesi lacabanga
@@ -148,7 +135,6 @@ kulolugiba kukhombisa umngani
 wakhe ngulube yesiganga
 kwekutsi wabanjwa njani
 kuleligiba.
-
 
 ##
 “Kubuhlungu!” kubhodla
@@ -164,7 +150,6 @@ ematinyo akho lanemandla
 Kanye netidladla letikhaliphile
 tingakusita yini.”
 
-
 ##
 "Balekani Balekani Balekani
 kakhulu!" umfati wengulube
@@ -176,7 +161,6 @@ wengulube yesiganga.
 Bantfwana bagijima kakhulu
 bancamula emahlatsi.
 
-
 ##
 “Ngulube yesiganga ngicela ungisite!”
 kuncenga libhubesi liva kucija kwetidladla
@@ -186,7 +170,6 @@ ungisindzisa kulolugibe.”
 ngiphindze ngikukholwe futsi,” kusho ingulube
 yesiganga. “Ngitawucwayisa naletinye tilwane
 kutsi tingakusiti ngobe usilima..”
-
 
 ##
 Ingulube yesiganga yabona bantfwana bayo
@@ -199,10 +182,9 @@ Kanye nebantfwana bayo tihlala tigijima
 tiphakamise imisila yato kute tibone kutsi
 tonkhe tiphephile.
 
-
 ##
 * License: [CC-BY]
 * Text: South African Folktale
 * Illustration: Wiehan de Jager
-* Translation: Mduduzi Sengwayo and Siyanda Nkosi
-* Language: siSwati
+* Translation: Mduduzi Sengwayo, Siyanda Nkosi
+* Language: ss

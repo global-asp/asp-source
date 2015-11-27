@@ -11,7 +11,6 @@ Beba nebantfwana labasitfupha.
 Bonkhe labantfwana
 bebangemantfombatane.
 
-
 ##
 Ngalesikhatsi Namukhaywa
 akhulelwe umntfwana wakhe
@@ -25,7 +24,6 @@ ungatfola umntfwana wemfana
 ngitakwentela umcimbi
 lomkhulu!”
 
-
 ##
 Nasesikhatsi sekukhululeka
 sisondzele, Namukhaywa
@@ -33,7 +31,6 @@ wahamba wayobona Umbelekisi
 wesintfu. Ngabe lomntfwana
 utawuba intfombatane nobe
 ngumfana?
-
 
 ##
 Bekungumfana nentfombatane
@@ -45,13 +42,11 @@ Mulongo, waphatseka kabi.
 Wabona kutsi kunentfo yinye
 lokumele ayente.
 
-
 ##
 Namukhaywa washiya Mulongo
 etandleni tembelekisi wesintfu
 wase utsatsa Mukhwana waya
 naye ekhaya kumyeni wakhe.
-
 
 ##
 Bekatfokotile kukhombisa
@@ -65,13 +60,11 @@ Ndong’a wabita nemphakatsi
 kutojabulela lilanga lekutalwa
 kwemntfwana wakhe wemfana.
 
-
 ##
 Mukhwana wakhula waba
 lijahha lelicotfo futsi naMulongo
 wakhula waba yintfombatane
 lecotfo.
-
 
 ##
 Ngalelinye lilanga Mukhwana
@@ -80,7 +73,6 @@ wakhe, wabona intfombi lenhle
 kakhulu. Wakhuluma
 nelingekhatsi lakhe watsi, “Lena
 yintfombi lengifuna kuyishada.”
-
 
 ##
 Kepha nakamcela kutsi
@@ -97,7 +89,6 @@ Barera mungo muno,
 Mukhwana.
 Iyeyi yakwa, Mukhwana."
 
-
 ##
 Kwachubeka kwenteka
 ngaleyondlela. Mukhwana
@@ -109,7 +100,6 @@ walandsisela make wakhe.
 Kepha ngasosonkhe sikhatsi
 nangim' mcela, uhlabela liculo
 lelifanako.
-
 
 ##
 Lokwam' mangalisa,
@@ -126,7 +116,6 @@ tembelekisi wesintfu, bese
 ngibuya nawe ekhaya kubabe
 wakho."
 
-
 ##
 Ngalesikhatsi Mukhwana atjela
 babe wakhe lendzaba, watibona
@@ -134,7 +123,6 @@ kutsi bekangenti kahle. Wabita
 Namukhaywa base baya
 kumbelekisi wesintfu bobabili
 kuyolandza Mulongo.
-
 
 ##
 Ngalesikhatsi Mulongo afika
@@ -145,7 +133,6 @@ umsimeto wesintfu
 wekuhlanganisa Mulongo kanye
 nebanakabo labasikhombisa.
 
-
 ##
 Ngemva kwemnyaka, Mulongo
 washada nendvondzana
@@ -153,11 +140,9 @@ yenkhosi yendzawo leganyile.
 Nguye loletsa umcebo Kanye
 nentfokoto emndenini.
 
-
 ##
 * License: [CC-BY]
 * Text: Matthews M Wanga
 * Illustration: Wiehan de Jager
-* Translation: Mlimi Prince Nhlanhla and Masina
-Lindokuhle Richard
-* Language: siSwati
+* Translation: Mlimi Prince Nhlanhla, Masina Lindokuhle Richard
+* Language: ss

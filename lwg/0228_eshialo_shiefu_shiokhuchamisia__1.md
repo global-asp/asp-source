@@ -1,5 +1,4 @@
-# Eshialo shiefu
-shiokhuchamisia
+# Eshialo shiefu shiokhuchamisia
 
 ##
 Tsinyanga tsindi khale, abandu
@@ -9,12 +8,10 @@ niyalonga. Yapara, “Ekhoyile
 okhuba nende omulindi
 wefilonje fianje.”
 
-
 ##
 Italanyi niilokha, “Nesie
 nabongo womumutsuru. Enyala
 okhulinda eshialo shino.”
-
 
 ##
 Inzofu nayo niifureresia ekulu,
@@ -22,7 +19,6 @@ Inzofu nayo niifureresia ekulu,
 okundu okukhongo kwa
 amani. Mubwatoto ekhoyere
 okhunyoola emilimo echo.”
-
 
 ##
 Okunyeni okukhongo kwo mumatsi kwalinga
@@ -37,7 +33,6 @@ Endi okundu okukhoongo, abulao ounyala
 okhukhola eshindu shiaukhane nende
 akawenya.”
 
-
 ##
 Okunyeni kundi okukhongo kwa
 meno amamemu, nako
@@ -45,7 +40,6 @@ nikupara mbu ameno kako
 amamemu ka kuli nako, niko
 akali nikenyekha khumilimo
 echo.
-
 
 ##
 Indutsu niitsekha. “Tsisolo tsino
@@ -60,7 +54,6 @@ mumatsi. Nesie sienyene
 ouyerere okhuba omulindi we
 shialo shiosi.”
 
-
 ##
 “Ndalalonga OMUNDU.” Tsisolo tsiosi tsiauka,
 nishindu shina shino eshilangwa mbu
@@ -69,7 +62,6 @@ nomba obwoya, nomba amasale?
 Alerukhanga nga italanyi?
 Asoche nga inyeni?
 Apurushe ekulu nga indutsu?
-
 
 ##
 Eliuba liali nilikwire, nishili eshiro bulano.
@@ -82,7 +74,6 @@ meno.
 Kario omusatsa wa mbeli nende omukhasi
 balongwa, nende eshikhoba eshitorotoro
 eshimali nga eshiro.
-
 
 ##
 Bwangu bwangu eshilo
@@ -97,7 +88,6 @@ niyeema nende omukhasi, be
 shikhoba eshilafu, tsimoni
 tsielikulu nende liswi liolukusi.
 
-
 ##
 Bulano mumabwibwi
 nimwikhola mushiteere. Eliuba
@@ -107,7 +97,6 @@ omusatsa nende omukhasi be
 eshikhoba eshiengu, liswi limali
 nende tsimoni tsiokhwishikha
 kho tsinyale okhulola eliuba.
-
 
 ##
 Bulano yali ingolobe, eshialo shiali nishikhwesa
@@ -120,7 +109,6 @@ tsing’ining’ini nga tsimoni. Imbeli we yeema
 omundu musatsa nende omukhasi be
 eshikhoba shie inengesi yeliuba nilikwa, liswi
 limali nende tsimoni.
-
 
 ##
 Tsisolo tsiosi tsialinga nitsiwuka
@@ -136,7 +124,6 @@ khumatere komukhono kwanje,
 enyala okhubeera. Endesherwe
 khukhuboola endio.”
 
-
 ##
 Ipunda niyiyinia liparo liayo,
 “Obware obumali nende obulafu
@@ -148,7 +135,6 @@ Inzofu nayo niyifurerera yiri,
 "LIKOSHEKOSHE liakhabeere
 ifwani indayi.”
 
-
 ##
 Okunyeni okukhoongo kwalinga ameno kabo
 nikumwenya nikwechesia akayo amamemu.
@@ -157,7 +143,6 @@ batsia okhuba abokhukhulinda?” Ha! Ha! Ha!
 Tsinyeni tsikhongo nende tsinditi nitsitsekha.
 Olwa tsieinikha mulusuba lwamatsi,
 nitsitubuula inyuma omukhweso kweikhwenu.
-
 
 ##
 Nasaye yamwenyakho busa kaala
@@ -177,7 +162,6 @@ eshialo eshilayi shino.
 ##
 * License: [CC-BY]
 * Text: Herminder Ohri
-* Illustration: Herminder Ohri and Baaraan Ijal
+* Illustration: Herminder Ohri, Baaraan Ijal
 * Translation: Catherine Were
-* Language: Oluwanga
-
+* Language: lwg

@@ -153,7 +153,7 @@ them all at Ombalantu?
 
 ##
 * License: [CC-BY]
-* Text: Karen von Wiese, Beryl Salt, Muhdni Grimwood and Barbara Meyerowitz
+* Text: Karen von Wiese, Beryl Salt, Muhdni Grimwood, Barbara Meyerowitz
 * Illustration: Julia te Water Naude
 * Translated By: Sheila Drew
 * Language: en

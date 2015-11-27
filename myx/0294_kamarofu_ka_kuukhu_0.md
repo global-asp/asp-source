@@ -1,5 +1,4 @@
-# Kamarofu ka
-Kuukhu
+# Kamarofu ka Kuukhu
 
 ##
 Inimilo ya Kuukhu yaba yiyaangisa,
@@ -18,7 +17,6 @@ aaramisayo shimoonyo shitweela
 sheesi aakhamboolelakho ta: eena
 isi arobesela kamarofu.
 
-
 ##
 Shifukhu shitweela, nabona
 kumuyayi, nga baakureere mu
@@ -36,7 +34,6 @@ kano kaashi?”Niye aantsilamo busa
 ari, “Kali kamaru kaase
 namakaanga.”
 
-
 ##
 Ise shaantsikhoyesa naabi
 khuubona Kuukhu, kamarofu,
@@ -51,7 +48,6 @@ khola nga niindi
 khuukhulomela.”Indyo naatsya
 butima.
 
-
 ##
 Nga ni nakobola, nanyoola Kuukhu
 nga wekhaale khu lwaanyi ne nga
@@ -64,7 +60,6 @@ Ne sheesi Kuukhu aantsilamo
 shonyene ari, “Bili mu shifwo shase
 namakaanga.”
 Shaakhalasa naabi.
-
 
 ##
 Lwanyuma lwe bifukhu bibili,
@@ -82,7 +77,6 @@ busa ni ibulangiti ikhale. Ise
 naabera ibulangiti naawunyila
 luulukhu lulukhongelesa.
 
-
 ##
 Likono lya Kuukhu lyanendekulusa,
 nga alaanga ari, “Uli khuukhola
@@ -97,7 +91,6 @@ nakhebulila nga naba indi
 khuumuunamuuna khulwe
 khufuumbula shiifwo sha Kuukhu
 sha namakaanga.
-
 
 ##
 Shifukhu shisheelakho, nga Kuukhu
@@ -115,7 +108,6 @@ nilyo lilyafuurisakho khun’gaaha
 khukhwaama nga ye ndyaatsaka
 khu marofu.
 
-
 ##
 Shifukhu shishaloondakho nga
 Kuukhu ali mu nimilo ibuumbi aaha
@@ -130,7 +122,6 @@ akhololela ibulafu. Naanyalisa busa
 khuubisa kamarofu mu shitweeya
 shase, naakeenda naamubirakho
 
-
 ##
 Shifukhu ndi shisheelakho shaba
 she likaantso. Kuukhu eenyukha
@@ -141,7 +132,6 @@ Sinatimilakho khuumukyenilakho
 khu shifukhu isho ta. Ne nga abe
 siinyala khuumutatayila imbuka
 ndeeyi ta.
-
 
 ##
 Lwanyumakho angoloobe khu
@@ -154,10 +144,9 @@ kuukhu, khukhwaama khu basaali
 baase, ni khufuurira ilala
 khukhwaama khu muundu yeesi.
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Cornelius Wekunya
-* Language: Lumasaaba
+* Language: myx

@@ -32,5 +32,5 @@ much.
 ##
 * License: [CC-BY]
 * Text: Ritah Katetemera
-* Illustration: Wiehan de Jager and Catherine Groenewald
+* Illustration: Wiehan de Jager, Catherine Groenewald
 * Language: en

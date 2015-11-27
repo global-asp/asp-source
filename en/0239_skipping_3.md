@@ -17,7 +17,7 @@
 ##
 * License: [CC-BY]
 * Text: Marion Drew
-* Illustration: Marion Drew, Kathy Arbuckle, Mlungisi Dlamini and Wiehan de Jager
+* Illustration: Marion Drew, Kathy Arbuckle, Mlungisi Dlamini, Wiehan de Jager
 * Adaptation: Ivan higenyi
 * Language: en
 

@@ -1,10 +1,8 @@
-# Mukhwana
-nende Mulongo
+# Mukhwana nende Mulongo
 
 ##
 Khale, khwaliho nende omusiani walangungwa mbu Mukhwana.
 Yali nende omukhaana wabu walangungwa mbu Mulongo.
-
 
 ##
 
@@ -14,7 +12,6 @@ khotsa wabu. Ne balindwa obubi muno.
 Bopungwa ne tsisala tsindambi, nende okhuyebwa obusera
 obwangu bwangu okhunywa nge eshiakhulia lulala khunyanga.
 Kho belukha nibakhama.
-
 
 ##
 
@@ -28,7 +25,6 @@ mwibina olwa emba nendula elwanyi okhuyima, ne khandi
 olatekha inyama tawe. Amanani kachama isami ye inyama
 iteekhwa.”
 
-
 ##
 
 ##
@@ -37,7 +33,6 @@ niyerire-eshituyu nomba amayoni nomba eshichwaya.
 Ne olwa yachelela mwibina, yemba:
 “Mulongo, Mulongo, omwana wa mama, nzikulila libina. Tsipicho
 tsinjile. Lili nemiluu chibili.”
-
 
 ##
 
@@ -50,7 +45,6 @@ omulekhule khandi omusangafu.
 “Aundi, napara, abalia-bandu babulao.” Aundi amanani kabulao
 khotsa yenyanga busa okhukhurisia.
 
-
 ##
 
 ##
@@ -58,7 +52,6 @@ Inyanga yalondakho shiyali noburi bwosi bwosi tawe ne nabwana
 omulilo okhwora. Ne yakubwana mwibina omuliango nikwikaleokhwikalila obusuku.
 "Shimbara nobubi okhusambakho akhayama khatiti tawe. Nobulayi
 okhubakho nende eshiakhulia eshiteshe."
-
 
 ##
 
@@ -74,7 +67,6 @@ bwangu bwangu.
 Mukhwana yali nachonyere muno ne nalanyala okhuingana tawe,
 nibekhala hasi nibatsililila okhulia.
 
-
 ##
 
 ##
@@ -88,7 +80,6 @@ Nakhwana naboola ari, "Tawe ewe sholi omusiani wefu tawe;
 omwoyo kwo shikufwanana nende okwaye tawe."
 Yali nende obulindi obulayi mwibina.
 
-
 ##
 
 ##
@@ -98,7 +89,6 @@ mama, nzikulira libina. Tsipicho tsinyala okhwinjiramo. Lili nende
 emiluu chibili.”
 Omwoyo oko kwaulilikha shinga kwo musiani wabu, kho niyekula
 omuliango.
-
 
 ##
 
@@ -110,17 +100,15 @@ Mulongo yanyoola obwiyangu nayooya likoshe okhurula mumuliro.
 Yalakasia likoshe khunjira ya balondakho ano nende alia olwa
 yachingwa nibatsia.
 
-
 ##
 
 ##
 Inyanga eyo, shia Mukhwana yanyalilwa okhukwakho mu khuima
 khwe shiali omulinga kwe tsinzushi-yali nakusukune khwibeka.
 Olwa yoola khwibina, yanyola omuliango kwe libina nikwikushe ne
-omukhaana wabu natsile…ne likoshe nilinyululushe khunjira ilinjile
+omukhaana wabu natsile...ne likoshe nilinyululushe khunjira ilinjile
 mumutsuru.
 Yaloonda likoshe elo okhuula olwa yalola omulilo ehalekho.
-
 
 ##
 
@@ -135,7 +123,6 @@ Okundu oko nikumukalusia kuri, “Ndalakhuwa amatsi, nikaba mbu
 ofuchirira mbu shiolatilakho khumusiko kwanje tawe."
 Ne nikura omusiko kwako oko kaala obulayi mukhatsu khakwo.
 
-
 ##
 
 ##
@@ -144,7 +131,6 @@ omusiko oko, ne omukhana wabu naruuma narula mumusiko oko.
 Mukhwana nashukhasia omusiko oko nende okukwe okwali
 nikwitsulemo tsinzushi. Omukhana nomusiani wabu nibefisa
 okhulola eshiali nishitsia okhwikholekha.
-
 
 ##
 
@@ -158,7 +144,6 @@ Tsinzushi nitsimuluma omukhono, niyayula.
 “Tsia omukhonye!” nikulanjilisia omusiani wako. Ne amakalusio kali
 kalia kalia
 
-
 ##
 
 ##
@@ -169,7 +154,6 @@ nitsikuluma omurwe, eliulu nende tsimoni.
 Ne olwa kwakhaywa okhulola, kwarumaruma nikuyochera nikuulila
 obutsuni.
 
-
 ##
 
 ##
@@ -179,10 +163,9 @@ eshilayi okhuba omulinga kwe inzushi.
 Efise efirambi inyuma wako, Mukhwana nende Mulongo balia
 obushi obunulu okhurula mu mulinga oko.
 
-
 ##
 * License: [CC-BY]
 * Text: South African Folktale
 * Illustration: Jemma Kahn
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

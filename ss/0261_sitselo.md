@@ -16,7 +16,6 @@ lokungetulu kwako konkhe,
 bekuyindlela lemangalisako
 yekutiphatsa kwakhe.
 
-
 ##
 Uma akhulela esigabeni sakhe
 sekuba yintfombi, emajaha
@@ -30,7 +29,6 @@ sitselo itawunikwa sandla
 sendvodzana yabo kutsi
 iyishade.
 
-
 ##
 Indzaba yagcwala ummango
 wonkhe. Indvodza leyacala kuta
@@ -42,7 +40,6 @@ sitselo.
 Wahlala sikhashana wase udla
 lesitselo bamcosha.
 
-
 ##
 Kwalandzela umphatsi
 wekugcina tilwane. Naye
@@ -52,7 +49,6 @@ yamtsandza. Kodvwa
 nakanikwa lesitselo wavele
 wasidla ngekuphutfuma. Naye
 wacoshwa!
-
 
 ##
 Lendvodza leyalandzela
@@ -69,7 +65,6 @@ Ngensimbi yesine, wahlaselwa
 yindlala wase uyadla. Naye
 ngekunjalo wacoshwa.
 
-
 ##
 Kwalandzela inkhosi,
 beyitikhukhumeta, igugile futsi
@@ -82,14 +77,12 @@ Kutsite ngetikhatsi tensimbi
 yesitfupha, wacela kuya
 ngasendlini yangasese
 
-
 ##
 Wavunyelwa kuya.
 Nakabuya bekanukelela liphunga lalesitselo kani futsi
 tindzebe takhe temlomo betibovu tju! Sewudle lesitselo
 endlini lencane!
 Lentfombatane yakhululeka ngoba naye wacoshwa.
-
 
 ##
 Emva kwemalanga, kwafika
@@ -107,7 +100,6 @@ Intfombatane yakhala
 tinyembenti telulaka
 nekudvumateka.
 
-
 ##
 Ngelilanga lelilandzelako,
 kwafika umlimi. Beka
@@ -121,7 +113,6 @@ nalentfombatane. Intfombatane
 yamunika titselo letinyenti yase
 imcela kutsi adle ahambe.
 
-
 ##
 Utsite nakanikwa lesitselo, wala kusidla. Lentfombatane
 beyilindze kabuhlungu. Imini yandlula, nensimbi yesibili.
@@ -130,7 +121,6 @@ yathandaza kutsi amane adle lesitselo, wachubeka
 nekuthandaza watsi ubuka sikhatsi watfola sekuyinsimbi
 yesikhombisa. Lomlimi waphumelela kufeza sifiso sebatali
 bentfombatane yabo.
-
 
 ##
 Batali bakhe besekumele
@@ -147,7 +137,6 @@ ashaya netandla. Linyenti
 lebantfu bema emgwacweni
 bafuna kubona letitsandzani.
 
-
 ##
 Kulelinyenti lebantfu bekukhona
 netisebenti tenkhosana
@@ -158,7 +147,6 @@ atawuyekela lentfombatane.
 Ngaphandle kwekungabata,
 wakhetsa kutsatsa imali kanye
 netinkhomo wahamba nato.
-
 
 ##
 Letisebenti tagcokisa
@@ -172,10 +160,9 @@ kwahlelwa umcimbi
 wekuhlanganisa laba lababili
 emshadweni.
 
-
 ##
 * License: [CC-BY]
 * Text: Shakira Bodio
 * Illustration: Wiehan de Jager
-* Adaptation: Nobuhle Nkosi and Thulane Mogwenya
-* Language: siSwati
+* Adaptation: Nobuhle Nkosi, Thulane Mogwenya
+* Language: ss

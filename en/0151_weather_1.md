@@ -24,8 +24,8 @@ Tell me more about weather........
 ##
 * License: [CC-BY]
 * Text: Clark Ness
-* Illustration: Microsoft Clip Art, Jesse Breytenbach, Wiehan de Jager, Rijuta Ghate and Vusi Malindi
-* Adaptation: Nabune Beatres, Hamba Dinah and Alungho Rose
+* Illustration: Microsoft Clip Art, Jesse Breytenbach, Wiehan de Jager, Rijuta Ghate, Vusi Malindi
+* Adaptation: Nabune Beatres, Hamba Dinah, Alungho Rose
 * Language: en
 
 This story was adapted during story time at Mugulu integrated primary school.

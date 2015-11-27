@@ -61,5 +61,5 @@ Zimanz'iinwele zakho!
 * License: [CC-BY]
 * Text: Letta Machoga
 * Illustration: Marleen Visser
-* Translated By: Nolitha Bikitsha and Thandabantu Magengelele
+* Translated By: Nolitha Bikitsha, Thandabantu Magengelele
 * Language: en

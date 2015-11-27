@@ -71,5 +71,4 @@ Totsiens!!!
 * Text: Marion Drew
 * Illustration: Marion Drew
 * Translation: Lara Grealy
-* Language: Afrikaans
-
+* Language: af

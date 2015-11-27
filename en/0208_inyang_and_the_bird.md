@@ -55,8 +55,7 @@ The bird had saved Inyang!!
 ##
 * License: [CC-BY]
 * Text: Simon Ipoo
-* Illustration: Catherine Groenewald, Wiehan de Jager,
-Kathy Arbuckle, Rijuta Ghate and Jemma Kahn
+* Illustration: Catherine Groenewald, Wiehan de Jager, Kathy Arbuckle, Rijuta Ghate, Jemma Kahn
 * Language: en
 
 Turkana practice pastoralism and nomadism.

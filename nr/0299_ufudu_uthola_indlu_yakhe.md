@@ -1,10 +1,8 @@
-# UFudu uthola
-indlu yakhe
+# UFudu uthola indlu yakhe
 
 ##
 Ngelinye ilanga uFudu wayekhamba esikghweni. Bekafunisisa. Bekaqalisisa kude
 naphasi etjanini. Wahlangana noMneke.
-
 
 ##
 “Kukhona okufunako?” kwabuza uMneke.
@@ -12,7 +10,6 @@ naphasi etjanini. Wahlangana noMneke.
 ngethutjana na?"
 UMneke wathi, “Awa, akhange, kodwana ngizakusiza
 ukuyifuna!"
-
 
 ##
 Wakhwela emgogodlheni kaFudu. UFudu wakhamba athwele uMneke
@@ -23,7 +20,6 @@ beliphezulu emafini.
 Ngemva kwesikhatjhana bahlangana noSotjhara. “Kukhona enikufunako?”
 kwabuza uSotjhara.
 ”Iye Sotjhara, ngifunana nendlu yami. Akhange uyibone, ngethutjana na?"
-
 
 ##
 uSotjhara wathi, “Awa, akhange,
@@ -36,7 +32,6 @@ kwakhononda uFudu. uSotjhara
 wabuya. “Kulungile,
 ngizakweqayeqa nami.”
 
-
 ##
 UFudu waragela phambili, bano
 Mneke nosoTjhara bazigedle
@@ -45,12 +40,10 @@ bacalisisa, kodwana belingekho
 itshwayo lendlu. Ilanga bese
 lehlele phasi kancani emafini.
 
-
 ##
 Ngemva kwesikhatjhana bahlangana noNombongwe. ”Kukhona enikufunako?”
 kwabuza uNobongwe.
 “Iye, nombhongo, ngifunana nendlu yami, akhange uyibone, ngethutjana na?”
-
 
 ##
 Nombongwe wathi: “Awa,
@@ -64,13 +57,11 @@ bafunisisa, kodwana belingekho
 itshwayo lendlu. Kwathoma
 ukubetha ummoya olula.
 
-
 ##
 Ngemva kwesikhatjhana bahlangana neKhondlo. Belimatasatasa ngengadi
 yeembali.
 “Kukhona enikufunako?" kwabuza ikhondlo. “Iye, Khondlo, ngifunana nendlu
 yami, akhenge uyibone, ngethutjana na?"
-
 
 ##
 Ikhondlo lathi: “Awa, akhange
@@ -82,7 +73,6 @@ iimbali zami emva.”
 UFudu wajama. Ikhondlo
 lazithabulula ladobha iimbali
 zalo.
-
 
 ##
 Ufudu waragela phambili,
@@ -96,7 +86,6 @@ eenyaweni zikaFudu. UFudu
 wadinwa. “Nibudisi,” wadosa
 umoya.
 
-
 ##
 Umoya weza ngamandla.
 Isibhakabhaka sabanzima.
@@ -108,26 +97,21 @@ Kuza izulu.
 kwabuza uMneke noSotjhara
 noNombongwe neKhondlo.
 
-
 ##
 Umoya wavunguza begodu wabetha. Wavuthela uMneke noSotjhara no
 Nombongwe neKhondlo wabasusa emgogodlheni kaFudu.
-
 
 ##
 Kweza isinanja, ko-ko-ko. UFudu wathukwa warhunyela ngemgogodlheni wakhe.
 Kwafuthumala begodu kwahlaleka.
 “Oh, nasi indlu yami!”
 
-
 ##
 “Oh, nasi indlu yami!”
-
 
 ##
 * License: [CC-BY]
 * Text: Maya Fowler
 * Illustration: Katrien Coetzer
-* Translation: Thulani Sombili and Khensani Mdaka
-* Language: isiNdebele
-
+* Translation: Thulani Sombili, Khensani Mdaka
+* Language: nr

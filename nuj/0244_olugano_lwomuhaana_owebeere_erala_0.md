@@ -1,6 +1,4 @@
-# Olugano
-lw’omuhaana
-ow’ebeere erala
+# Olugano lw’omuhaana ow’ebeere erala
 
 ##
 Hale hale ŋaaliŋo omusinde
@@ -31,7 +29,6 @@ agwa hu nabendene wuwe
 amusalaho ebeere alikitulaho
 wokitu!
 
-
 ##
 Ni gahena ng'anyanguha
 gagamayo mwideŋo aŋa gaali
@@ -51,18 +48,15 @@ Ebeere erala?”
 ##
 Omusinde oyo ni gaŋulira ehyo,
 gaduluma embiro nanyanguha
-hy’esasi ni gagamayo engo…
+hy’esasi ni gagamayo engo...
 Gaali goola omuhasi wuwe ni
 gahafanga.
 Olw'esisi ayamaani, yeesi
 gatondoha ng'afa.
 
-
 ##
-Olugano lw’omuhaana ow’ebeere
-erala
 * License: [CC-BY]
 * Text: Cornelius Wekunya
 * Illustration: Rachael Napagi
 * Translation: Gershom Hirome
-* Language: Lunyole
+* Language: nuj

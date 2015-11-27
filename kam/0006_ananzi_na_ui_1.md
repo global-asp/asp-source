@@ -10,7 +10,6 @@ na ũĩ w’onthe ĩũlũ wa nthĩ. Aiaa
 ũĩ ũsu nthĩnĩ wa mbisũ ya
 ndaka.
 
-
 ##
 Mũthenya ũmwe Nyame
 nĩwasũanĩe kũnenge Ananzi
@@ -18,7 +17,6 @@ mbisũ ĩsu yaa ũĩ.
 Kĩla ĩvinda Ananzi akunĩkĩla
 mbisũ nthĩnĩ nĩwamanyaa kĩndũ
 kyeũ. Nĩwew’aa mũyo mũno!
-
 
 ##
 Ĩndĩ Ananzi nũndũ wa ĩtomo
@@ -33,7 +31,6 @@ ya ndaka. Ananzi ĩndĩ niwovee
 wethĩa ĩsũĩte mbee wake, na
 anzĩa kũlĩsa mũtĩ.
 
-
 ##
 Ĩndĩ kyaĩ kĩndũ kyũmũ kũlĩsa
 mũtĩ akũkũnangwa nĩ mbisũ saa
@@ -48,7 +45,6 @@ Ananzi nĩwatatie kwovea ĩla
 mbisũ mwongonĩ na mũio wake
 wethĩwa nĩwavũtha.
 
-
 ##
 Ĩndĩ kyaĩ kĩndũ kyũmũ kũlĩsa
 mũtĩ akũkũnangwa nĩ mbisũ saa
@@ -62,7 +58,6 @@ mwongo tikw’o laisi?”
 Ananzi nĩwatatie kwovea ĩla
 mbisũ mwongonĩ na mũio wake
 wethĩwa nĩwavũtha.
-
 
 ##
 Nĩyavalũkile nthĩ na yanyaĩka
@@ -72,11 +67,9 @@ kũĩma, kũtuma ngũa na
 kũsovya mĩio ya kyũma na
 syĩndũ ingĩ ila andũ mesĩ kwĩka.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Anna Kula
-* Language: Kikamba
-
+* Language: kam

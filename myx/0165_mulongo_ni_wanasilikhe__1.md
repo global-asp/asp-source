@@ -1,5 +1,4 @@
-# Mulongo ni
-wanasilikhe
+# Mulongo ni wanasilikhe
 
 ##
 Khaleekho abawo umusani bari
@@ -11,7 +10,6 @@ itsala. Baaba bamenyamo boosi
 bataya tsaka khuhiima nikhuhenza
 byekhulya musisaali.
 
-
 ##
 Sifukhu sitwela Mulongo numukhasi
 ni babaana baakhalaho
@@ -22,7 +20,6 @@ Nambuya walomela Mulongo ni
 khwi syendekho lundi mukari.
 Mulongo warangila nabo
 balondakho.
-
 
 ##
 Khanga busa Mulongo wabona
@@ -39,7 +36,6 @@ nga itsala yabaminyile nalundi yaba
 bwilabulye bakhalaho bikhaale
 balinde umwene hango.
 
-
 ##
 Khangubusa bawulira sisindu
 sihelerakhaiyuma wetsu.baarya
@@ -50,7 +46,6 @@ lnywe nanu ? mukhanasi” Mulongo
 waloma ari “ Khwitsile inga
 khuentsa byekhulya ltsala yakwa
 musibala syeefe.
-
 
 ##
 Wanasilikhe wabaha biilyo baalya
@@ -65,7 +60,6 @@ Wabulula Mukhwana wamuloma
 khuniina khuyembe kusiimbe naabi
 ebise.”
 
-
 ##
 Wanesilikhe naakobola khangukho
 wareeba ari “Utekhere Mukhwana?
@@ -74,7 +68,6 @@ Wanesilikhe warakila inyama inga
 enukuna. Nga wamalile lundi
 waloma Nambuya ari “kumukamba
 utekhe Namono.”
-
 
 ##
 Nibwasya Mulongo numukhasi
@@ -86,7 +79,6 @@ wareeba ari watekhele Namono? “
 Nambuya wabeha ari
 Namutekhele.”
 
-
 ##
 Inga Wamalikhe khulya Wanesilikhe
 walakila Nambuya khutekha
@@ -97,7 +89,6 @@ tsinyama tekhele wanesilikhe.
 Naamala umulera. Inyama, Mulongo
 waniina mukheyembe.
 
-
 ##
 Lnga bwilabula wanesirikhe
 wakhobola. Nambuya wamuwa
@@ -105,7 +96,6 @@ inyama yesi atekhele Wanesikihe
 wakilala kumulungo waaloma
 Nambuya ari “ kumukhamba itekha
 wamweene.”
-
 
 ##
 Sifukha isyo Wanesilkhe aleobola
@@ -121,7 +111,6 @@ nalundi inga bili khuwunya buubi.
 Namono inda yamushukho
 warakikha khunyalala. Byakwa khu
 wanesilikhe.
-
 
 ##
 Wanasilkhe wakalala khu nina
@@ -140,7 +129,6 @@ siinga wiboha kumukosi mumilo
 wamala watumbira iffi khwakhu
 yetta khukhukweesa uniine.”
 
-
 ##
 Wanesilikhe watimaka muntsu
 wakhobola ni kumukosi kusilo,
@@ -157,9 +145,8 @@ barula khukuyembe . baatsya
 beliilisa hango ni bibindu bya
 Wanesilikhe.
 
-
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
 * Illustration: Natalie Propa
-* Language: Lumasaaba
+* Language: myx

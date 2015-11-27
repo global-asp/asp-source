@@ -1,5 +1,4 @@
-# Anansi ainenge
-andu ngewa
+# Anansi ainenge andu ngewa
 
 ##
 Tene, tene vyu Ngai wa itu Nyame
@@ -8,7 +7,6 @@ ya muti matuni. Kuu nthi andu
 mayai na ngewa sya utavanya na
 mai athatu. Makulya Anansi
 mbuavui mbui amatethye.
-
 
 ##
 Anansi aseuvya ulwalui muasa na
@@ -20,7 +18,6 @@ Anansi muno na amwia " oo, ngewa
 ii ni sya thooa munene, na
 ndutonya kusyivia kavwavuli kaa".
 
-
 ##
 "Thooa wasyo ni mwau" Anansi
 akulya "Mbetee nyamu itatu mbai
@@ -31,7 +28,6 @@ imelasya andu onthe.
 Atheka na atheka, onaa ngwa syake
 to syai vandu vaseo.
 
-
 ##
 Anansi atheaa nthi na aitumia ula
 ulwalui na avika avindiisya,
@@ -41,7 +37,6 @@ na kiko na enuka aee liu wa wioo.
 Kioko vate ngui, Ngo niwalikite
 iimani yiu. Akalang’a kila vandu
 ateo nde atonya kumaala.
-
 
 ##
 "Eka ngutethye munyanyawa"
@@ -55,7 +50,6 @@ matu. Ateo nyamu atheka na
 amukulya na amukulya " ila ingi ili
 syiva.
 
-
 ##
 Kwou Anansi atheea ingi kumantha
 kyumbe kya keli. Avindiisya na
@@ -67,14 +61,12 @@ ithangu ya yiu na ekunikilya mutwe
 na eyitikisya kiwu kingi mwiini wake
 wonthe.
 
-
 ##
 "Inywi nzweei, umaalukai mwone,
 nikukua! mituki, likai kikuuni
 kyakwa na mwikauiwe" nzweei
 siendete kuwiwa kwoou syalika
 kikuuni kya Anansi.
-
 
 ##
 Anansi aseuvya ulwalui ukunikite
@@ -83,7 +75,6 @@ onasyatata. Aikua aitwaia Ngai wa
 matuni ituni. Na Nyame asya “ya
 mwisyo yiva”? Ateo ndathekaa
 muno.
-
 
 ##
 Kwoou Anansi atheea nthi na
@@ -98,7 +89,6 @@ Nzoka yatuaa mambiisya ngananio.
 "Uvonge uu ni muasa" "aiyee ti
 muasa", "ii ni w'o".
 
-
 ##
 O mituki Nzoka yaumaluuka na
 yamakulya meneenanisya kyau? "Ni
@@ -110,13 +100,11 @@ kuvituka muti uu" Nzoka yasya. " Ni
 muasa muno, ni Nzoka nene"
 nthimei na muti wenyu.
 
-
 ##
 Kwou Anansi eeka uu na
 amyoveanisya na muti na tuuvonge
 nikana ilunngale. Amy’ova vyu,
 Anansi amitwaa ituni.
-
 
 ##
 Nyame ai no muvaka etikile kana
@@ -128,10 +116,9 @@ muka na nyamu ingi vamwe na
 andu. Nundu ngewa nisyakuewa ti
 sya kuia masandukuni ma muti.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Stephen Musyoka
-* Language: Kikamba
+* Language: kam

@@ -111,9 +111,8 @@ Indringer in my liggaam.
 * Text: Val Morris
 * Illustration: Felicity Bell
 * Translation: Xiancha
-* Language: Afrikaans
+* Language: af
 
 Books in Homes is supported by
 White River Rotary Club South
 Africa.
-

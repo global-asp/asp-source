@@ -1,5 +1,4 @@
-# N'wavhundlani
-na N'wahawu
+# N'wavhundlani na N'wahawu
 
 ##
 Kaleloko ka masiku
@@ -16,7 +15,6 @@ bikana.
 
 N´wahawu ano hlamula
 
-
 ##
 N´wavhundlani ano
 hlamula aku:
@@ -27,7 +25,6 @@ hi dzivela a nzilu,
 hicela mati,
 lomu ka bota hi
 kungeta.
-
 
 ##
 Nzita sangula himina
@@ -49,7 +46,6 @@ gongonza a tapa,
 makumu n´wahawu
 ano vhulula a mbita .
 
-
 ##
 Tsena lezvaku loku
 kucikele a khati ga
@@ -57,7 +53,6 @@ n´wahawu,
 n´wavhundlani
 ano teka a ribze ga
 hombe
-
 
 ##
 Loku a mati
@@ -78,5 +73,4 @@ munghana wakwe!
 * Text: Mozambican folktale
 * Illustration: Reginaldo Vicente Manhice
 * Translation: Lorde Urias Cândido
-* Language: Xitswa
-
+* Language: tsc

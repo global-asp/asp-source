@@ -180,7 +180,7 @@ En dit is die einde van die storie.
 
 ##
 * License: [CC-BY]
-* Text: Alan Kenyon and Viv Kenyon
+* Text: Alan Kenyon, Viv Kenyon
 * Illustration: Wiehan de Jager
 * Translation: Lindsey Davis
-* Language: Afrikaans
+* Language: af

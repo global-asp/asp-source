@@ -1,6 +1,4 @@
-# Enguge
-ejerwenga eno
-ni neera
+# Enguge ejerwenga eno ni neera
 
 ##
 Abaatu abamenyanga mu
@@ -8,7 +6,6 @@ buyumba obudidiri mu hitahere
 hyawe emirembe jabaŋwaho
 olw’esolo ejomwisugu ejatagiha
 ohutiinanga ni jibatihirisa.
-
 
 ##
 Esolo ejo jalyanga ebirime
@@ -18,14 +15,12 @@ sihyali hiraŋi hyahumenyamo,
 coka abaatu abo ni bahaya eyi
 banaaje.
 
-
 ##
 Hirala hu bidaala nga hifuna
 ehyohuhola. Nga hisenguhira
 mu sozi.
 Sihyali higumu ohufuna ebiryo
 mu sozi.
-
 
 ##
 Esugu lyameranga mufwa
@@ -35,7 +30,6 @@ materemuho g'esozi.
 Abasaaye bateganga enduyu
 jomu mabaale ate abaana
 baŋimanga enyuni.
-
 
 ##
 Amago agandi goosi nga
@@ -47,7 +41,6 @@ abahye ati: "Obulamu bulaŋi
 eyo bwomu sozi bulaŋi. Hola
 wujeyo wesi.”
 
-
 ##
 Mu hamanga hatono amago
 agandi goosi gasenguha mu
@@ -56,7 +49,6 @@ maago gafuna epungulu
 omwohumenya era omwo
 baŋulira obubalire n’emiyaaya.
 
-
 ##
 Amangu abaana bafuuha bangu
 mu huniina agabaale n’ohufuna
@@ -64,7 +56,6 @@ ebiryo hu misaala.
 Basobolanga ohweŋuuba
 musaga j'emisaala oti hani
 kima.
-
 
 ##
 Pola pola ebiitu byatagiiha
@@ -75,7 +66,6 @@ baati esuulu jaawe jaali jiri
 hugeeja era ti baali bali
 humeraho efiiri nyingi.
 
-
 ##
 Hiisi ludalo olu bahejanangaho
 babonanga baati ameeno
@@ -83,13 +73,11 @@ gaawe gaali maleŋi. Era
 batagiiha ohugendera
 humagulu ane.
 
-
 ##
 Bafuuha ebisolo ebinyaha
 ebyali ni bitabonehangaho mu
 hifo ehyo. Jino nj'esolo eji baatu
 balanga baati enguge.
-
 
 ##
 Mu hamanga hatotono, enguge
@@ -97,17 +85,14 @@ jali mu sangaalo. Jalehera
 ohubesa enduyu j'omusoozi nga
 jilya amasa g'omwiroba.
 
-
 ##
 Bebirira engeri ey’ohulomamo. Befihulamo engoye
 olwohuba ti amagulu n'emihono jaaliho amooya amamali.
-
 
 ##
 Gaali gahihebulira gaati gaali
 baatu. gahejanangaho hu
 gasuulu nga gejeha.
-
 
 ##
 Aye sigasiima ohujehana.
@@ -118,15 +103,13 @@ olwohujehanangaho
 n’obusungu. Hiisi lugo
 Iwa tinanga lumenya hu lwaŋo.
 
-
 ##
 Ceeva enguge jimenya mu bubinja butono hatyane era sijimenya mu bibinja
 ebibbala nga engwanga ely'enguge.
-
 
 ##
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Benjamin Mitchley
 * Translation: Bukheye Mulongo Christopher
-* Language: Lunyole
+* Language: nuj

@@ -5,13 +5,11 @@ Masenge Marane gaŋaaye Joe
 ebbesa atiine hu duuka agule
 sukaali n’omugaati.
 
-
 ##
 Masenge Marane
 gaŋaaye Joe ebbesa
 atiine hu duuka agule
 sukaali n’omugaati.
-
 
 ##
 Natoola hu duuka
@@ -22,19 +20,16 @@ ogw’emotoka.
 Ganyangula omupiira
 nga samba.
 
-
 ##
 .5Nga awona enyuni ne
 guluha
 Gendire ohuyibbaha.
-
 
 ##
 .Gawene eŋombe ni
 jaaya.
 Gemereye nga
 atandiiha ohunjembera
-
 
 ##
 Jessica gawuusa ‘’Joe ali
@@ -44,7 +39,6 @@ gamugowolamo ti
 aluuye hulwa aye
 agowola.
 
-
 ##
 Kooja Dan galerire
 omwana Tola nigenda
@@ -52,12 +46,10 @@ ategehe ehyo mu
 mugamba honyo atiine
 hu mulimo.
 
-
 ##
 Joe gawona ahabwa
 ahaŋere ngaduluma ni
 naho mu ngira.
-
 
 ##
 Gademba bugali weene
@@ -66,18 +58,15 @@ mu saŋu.omugaali
 nataye ebbesa ni
 jibulamo.
 
-
 ##
 Gaduluma nagowolayo
 engo nabula sukaali
 n’omugaati.
 
-
 ##
 Masengewe Marena gamubuusa
 ati,’’sukaali n’omugaati biri;
 ebbesa jiri?
-
 
 ##
 Soniŋe,senge nguduuye bugali weene nagosya ebbesa.
@@ -85,11 +74,6 @@ Soniŋe,senge nguduuye bugali weene nagosya ebbesa.
 ##
 * License: [CC-BY]
 * Text: Annet Ssebaggala
-* Illustration: Kathy Arbuckle, Mlungisi Dlamini, Catherine
-Groenewald and Benjamin Mitchley
-* Translation: Beatres Nabune DINAH HAMBA ASUMAN
-LIPOTO
-* Language: Lunyole
-
-translated by Beatres Nabune
-
+* Illustration: Kathy Arbuckle, Mlungisi Dlamini, Catherine Groenewald, Benjamin Mitchley
+* Translation: Beatres Nabune, Dinah Hamba, Asuman Lipoto
+* Language: nuj

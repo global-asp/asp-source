@@ -1,8 +1,4 @@
-# Omulagiriri
-w'aŋali
-omudungere
-n’omwegalulo
-gugwe
+# Omulagiriri w'aŋali omudungere n’omwegalulo gugwe
 
 ##
 Luno nj'olugano lw'omusinde oyu balanganga baati Mulongo.
@@ -18,7 +14,6 @@ Ni haweene Mulongo nahalengereye hatagiha ohutuumatuuma ni
 hatiina eri omudugere. Nekola yaaho eri oti yalubeye Nagasusuni
 hatiinanga pohemerera ohuhahasa haati Mulongo ali huhalondaho
 batiine eri omudungere.
-
 
 ##
 
@@ -37,7 +32,6 @@ Gamanyanga aŋali agayali agabba
 era agalimo omudugere
 ogunyunyula oti hi.
 
-
 ##
 Mulongo gataaye ebyoma bibye
 ebigatambisanga mu huŋiima
@@ -50,7 +44,6 @@ olwo ni lwaŋamba omuliro
 galuŋambiiye ameeno ganiina ni
 nalwo hu jambula.
 
-
 ##
 Amangu ago gaŋulira enjuhi ni
 jisingirira mu kombe. Gaŋeega ati
@@ -60,7 +53,6 @@ obuŋoomi w’omudugere”. Ni gola
 olusaala oluliho omuliro mu kombe.
 Enjuhi Japwanguha mu koombe
 n’obusungu obutasoboha.
-
 
 ##
 Enjuhi ejisinga obungi ni jahena
@@ -76,7 +68,6 @@ nahyambaye mwigosi ni hireerejera
 hu hifuba. Ni gahena ohusohona
 ebiyali mu kombe ganihuha
 polapola.
-
 
 ##
 Nagasusuni n'esuubi eryene eringi
@@ -95,7 +86,6 @@ haguujiriye omugabo gwaho ng'olu
 sambo yaali ti omulagiriri afuna
 ahasiimo.
 
-
 ##
 Nehabona Mulongo gesimihisya muliro abugula ebitamba bibye
 nga geterayo yingo galeha ahayuni nago huhyerere.
@@ -112,7 +102,6 @@ engeri eyi otabonangaho! Nagasusuni gebuusa lwahina omusinde
 ono abwaga ekola ekale eyohusiima ahuholeye ehiraŋi!
 Nagasusuni hano sinjahaali ni habula maani era nabuli mu ngeli
 haali haja hwesasusa.
-
 
 ##
 
@@ -131,7 +120,6 @@ Mulongo gaŋambya muliro nga bulijo olusaala lulwe olwaduha
 obulaŋi naluŋambihise ameeno ganina omusaala. Ahanagasusuni
 ho hehaaye nalengerera ebija mu moni.
 
-
 ##
 
 ##
@@ -148,7 +136,6 @@ n’obusungu. Engwe siyahoma hu huminyaala hwongene aye
 yaasama yahenamo ageeno gayo agoogi yahena yatumira hu
 musinde ono yamuŋalaŋala amadete mu moni mwosimwosi.
 
-
 ##
 
 ##
@@ -163,7 +150,6 @@ sijamuŋwaho obulamu buwe wosi wosi.
 Nagasusuni gegalula era Mulongo sigagobolayo hulonda mulagiriri
 w’aŋali omudugere yeesi.
 
-
 ##
 Ni naŋo, abaana ba Mulongo
 n'abejihulu babe ni baŋulira
@@ -173,12 +159,9 @@ Ohuŋwa olwo hiisi olubajasa enjuhi
 baleheraho aŋo nagasusuni
 ehitundu hy’ehiyali ehirimo ebyana.
 
-
 ##
-Omulagiriri w'aŋali omudungere
-n’omwegalulo gugwe
 * License: [CC-BY]
 * Text: Zulu folktale
 * Illustration: Wiehan de Jager
 * Translation: Bukheye Mulongo Christopher
-* Language: Lunyole
+* Language: nuj

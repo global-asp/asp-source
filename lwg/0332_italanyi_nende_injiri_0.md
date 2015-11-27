@@ -1,5 +1,4 @@
-# Italanyi nende
-Injiri
+# Italanyi nende Injiri
 
 ##
 Mundalo tsia khale, Italanyi yali isolo ya amani
@@ -7,7 +6,6 @@ khandi yaribwa muno.
 Yatiiranga tsisolo tsindi niitsilia.
 Itsuli ndala lweyali ikhaba shiokhulia shiomabwibwi,
 yatirwa nolukhanda lwo muyimi.
-
 
 ##
 Italanyi yaoola ekulu khulwo butsune.
@@ -18,14 +16,12 @@ italanyi olwa yatsirira okhukhwesa.
 Italanyi yachonya ne iulira obutsune obukali
 khushilenje. Olunyuma, yafwa omwoyo.
 
-
 ##
 Tsindalo tsiabira Italanyi niyekhala mumubasu kufwa.
 Yali inzala khandi obulo na yabulao uchihonia.
 Tsingufu tsiachiwamo.
 "Ndalafwa khulwa inzala nobulo mulukhanda luno,"
 niyeparira.
-
 
 ##
 Istuli ndala, Italanyi yaulira oluyoka okhurula
@@ -37,7 +33,6 @@ Oluyia lwe Injiri lwali lutsia mumwalo okhunywa
 amatsi no khubaya mumatoyi omubasu
 kulakhachaka okhufwa.
 
-
 ##
 "Injiri! Nochama khonya! Injiri!" Italanyi ilira.
 "Nochama rusia mulukhanda luno," Italanyi isaya.
@@ -48,7 +43,6 @@ mmabwibwi nekhuinyia mulukhanda.
 esho ta. Khulaba abetsa niurusia mulukhanda,"
 Italanyi iboola.
 
-
 ##
 Injiri yabererera Italanyi.
 "Sheyanzisibwa okhuulola
@@ -58,7 +52,6 @@ Injiri yakhwesa olukhanda
 okhurumushira tsinzika tsiaye
 tsirambi okhuhonia Italanyi.
 Injiri yahonia omwitsa waye omuyia.
-
 
 ##
 "Orio omwitsa wanje okhuuhonia,"
@@ -71,7 +64,6 @@ omwitsa waye. "Oluyia lwanje
 shilwirukha italanyi khandi ta,"
 niipara.
 
-
 ##
 Italanyi yatsia niitiechera khandi
 indeshere. Yali khandi inzala.
@@ -79,7 +71,6 @@ Mufise efio, yalola abaana be Ingiri
 babayanga mumatoyi.
 "Luno ne inyanga yanje yeikhabi,"
 Italanyi iboola niiratsa amare.
-
 
 ##
 "Yiwe Injiri, omwitsa wanje omuyia,"
@@ -95,7 +86,6 @@ Injiri yauka.
 mulukhanda ne wenya okhulia
 abaana banje?"
 
-
 ##
 "Umbere omwitsa wanje," Italanyi
 iboola, "abula endi inzala muno.
@@ -107,7 +97,6 @@ amengu.
 "Nolamba mulala khu baana bo,
 endebukulira omwene," ioola.
 
-
 ##
 Injiri yali imanyire ibula tsimbiro nende amani ka
 Italanyi.
@@ -117,7 +106,6 @@ Shiyakhanyalirwe okhushinga abaana baye mwihe.
 Alali ndenya umanyie nga watirwa nolukhanda, kho
 enyalirwe okhuhonia italanyi yiindi khulukhanda
 luno."
-
 
 ##
 Italanyi yakanakana obunulu bwo
@@ -129,7 +117,6 @@ injisiamo eshilenje shiaye
 okhwechesia omwitsa waye nga
 yatirwa.
 
-
 ##
 "Wuui!" Italanyi yaoola.
 Injiri yali niikalire eshilenje shie
@@ -139,7 +126,6 @@ Italanyi khulukhanda.
 nobulo khandi. Khulole kakhaba
 ameno kao ka amani nende
 amatere amamemu kalakhuhonia.
-
 
 ##
 "Yirushe! Yirushe! Yirushe mutsie!"
@@ -151,7 +137,6 @@ nalangisia.
 Abaana berukha tsimbiro okhubirira
 mufitsakha.
 
-
 ##
 "Injiri nochama khonya!" Italanyi isaya khandi.
 Yali mubustune khulwa mumunwa mwo lukhanda lwo
@@ -161,7 +146,6 @@ muyiimi.
 ta," Injiri iboola.
 "Ndalaboolera tsisolo tsindi tsilakhuhonia ta shichira
 oli omubatsa.
-
 
 ##
 Injiri yalola abaana baye berukhanga halala nende
@@ -173,10 +157,9 @@ Okhula luno, tsinjiri na abaana babo berukhanga
 bachinjire tsisuru ekulu okhumanyia buli mundu
 aonere.
 
-
 ##
 * License: [CC-BY]
 * Text: South African Folktale
 * Illustration: Wiehan de Jager
 * Translation: Margaret Amateshe
-* Language: Oluwanga
+* Language: lwg

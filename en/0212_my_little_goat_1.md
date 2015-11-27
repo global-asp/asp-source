@@ -21,6 +21,5 @@ goat with a coat!
 ##
 * License: [CC-BY]
 * Text: Bukheye Mulongo
-* Illustration: Marion Drew, Rob Owen, Catherine
-Groenewald and Magriet Brink
+* Illustration: Marion Drew, Rob Owen, Catherine Groenewald, Magriet Brink
 * Language: en

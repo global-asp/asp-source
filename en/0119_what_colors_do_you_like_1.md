@@ -47,9 +47,7 @@ My friend and I like green apple.
 ##
 * License: [CC-BY]
 * Text: Annet Ssebaggala
-* Illustration: Sandy Lightly, Catherine Groenewald,
-Wiehan de Jager, Sue Kramer, Rijuta Ghate and Amir
-Bachir António Necas
+* Illustration: Sandy Lightly, Catherine Groenewald, Wiehan de Jager, Sue Kramer, Rijuta Ghate, Amir Bachir António Necas
 * Language: en
 
 Children and teachers will enjoy reading this story.

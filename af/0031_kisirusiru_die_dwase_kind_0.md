@@ -121,5 +121,4 @@ huis.
 * Text: Cissy Kiwanuka Luyiga
 * Illustration: Catherine Groenewald
 * Translation: Siglinde Loedolff
-* Language: Afrikaans
-
+* Language: af

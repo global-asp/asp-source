@@ -1,11 +1,9 @@
-# A Hawu Yiga a
-Mudoza wa Yona
+# A Hawu Yiga a Mudoza wa Yona
 
 ##
 A kali ka masiku a ci
 gwaja ni hawu avahi va
 ka mungana.
-
 
 ##
 A siku ginwe a ci gwaja
@@ -16,12 +14,10 @@ A hawu yi vumeli
 nakuveni awuhi thlamu
 ka yona.
 
-
 ##
 Vona va yile ka simu ga
 zvi pfaki va ya sangula
 a kuga.
-
 
 ##
 Nakuveni n'wa thlari
@@ -32,7 +28,6 @@ n'wa hawu kasi ku
 mukomba aku yena ahi
 wa cumu.
 
-
 ##
 N'wa thlari n'wa ci
 gwaja a b’ili a huwa aku
@@ -41,7 +36,6 @@ Amakhamba! A zvi
 pfaki zvi fambile,
 a gama a tlula a
 tsutsuma.
-
 
 ##
 Hiku hatlisa, a n'winyi a
@@ -52,7 +46,6 @@ Kanilezvi, a mudoza
 wakwe wa ku leha a wu
 mu khomeletela.
 
-
 ##
 A n'winyi wa simu a mu
 landzili na a kari a
@@ -61,11 +54,9 @@ Nyima! Nyima! Nziku
 wonili, hi wena n'wa
 hawu.
 
-
 ##
 Kanilezvi, va mu khomili
 va sangula aku mub’a.
-
 
 ##
 Anga zikotangi aku
@@ -74,7 +65,6 @@ aku ngalu:
 A nzi hi ni mungana wa
 mina n'wa ci gwaja. Hi
 yena anga nzi ramba.
-
 
 ##
 Kanilezvi a venyi va
@@ -95,7 +85,6 @@ ga. N'wa ci gwaja a
 rambili n'wa hawu kasi
 a ku ta fehlula.
 
-
 ##
 Loku va mbetili aku
 fehlula n'wa ci gwaja a
@@ -105,7 +94,6 @@ wa ku fehlula. N'wa ku
 fayela, n'wa hawu a
 hlamula aku ngalu:
 Ayeyi! A nzi zvi tivi.
-
 
 ##
 N'wa ci gwaja a ti ngalu
@@ -122,5 +110,4 @@ vahe va ka mungana.
 * Text: Mozambican folktale
 * Illustration: Horácio José Cossa
 * Translation: Rafael Ernesto Samuel
-* Language: Xitswa
-
+* Language: tsc

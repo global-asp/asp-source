@@ -1,14 +1,10 @@
-# Omwesuuso
-gwa keke
-Marion Drew and
-Khothatso Ranoosi
+# Omwesuuso gwa keke
 
 ##
 Keke akaikarra hamwesuuso
 gwe.
 Oguyagonzaaga muno.
 Haisomero lye.
-
 
 ##
 Keke ya yesuusaga mpora.
@@ -20,7 +16,6 @@ kurahuka.
 Mukasumi akeke akasanga ali
 haiguru muno.
 
-
 ##
 Keke obuyarozire hansi.
 Akasanga ali haiguru
@@ -28,13 +23,11 @@ mumasonsolya.
 Yayeta bagenzi be ngu mundole
 haiguru nambere ndi!
 
-
 ##
 Akaba aine omuhimbo kuba
 haiguru muno.
 Akaba nasobora kurora ekyaro
 kyona.
-
 
 ##
 Haka hwaho obwire bwingi,
@@ -44,7 +37,6 @@ kwehuuba.
 Haigura akeeta, “Mau! Mau!
 Tinkusobora kuleka omwesuuso
 nyenka.”
-
 
 ##
 Omwesuuso gukagumizaamu
@@ -57,12 +49,10 @@ Akarra obundi gumpikya
 haiguru hakwezi. Akacwamu
 kuguguru kayo.
 
-
 ##
 Obuyateekerriize ekyo
 akalekera omwesuuso.
 Yagwa hansi.
-
 
 ##
 Abaana bakateera enduuru
@@ -72,7 +62,6 @@ Yayata omutwe.
 Keke akarra Ai! Ai! Ai! Bataahi
 boona.
 Bakwatwa obuganyi.
-
 
 ##
 Keke atamanye kyokukora.
@@ -84,12 +73,10 @@ obwingi.
 Keke kwoku agurukire ha
 mwesuuso ya hutaara omutwe.
 
-
 ##
 Omukyara Nyakaisiki akegenda
 hamwesuuso.
 Yaiha keke hansi.
-
 
 ##
 Yamunywegera hamutwe.
@@ -99,7 +86,6 @@ Tindukwongera kwesuusa
 nyenka.
 Tinkagendaga ha kwezi.
 
-
 ##
 Omkyara Nyakaisiki yamunihiza
 omurundi ogundi kwe’esuusa
@@ -107,10 +93,9 @@ nawe.
 Nukwo omwesuuso obugulihika
 ha kwezi bagenda boombi.
 
-
 ##
 * License: [CC-BY]
-* Text: Marion Drew and Khothatso Ranoosi
+* Text: Marion Drew, Khothatso Ranoosi
 * Illustration: Marion Drew
-* Translation: Rhodah Kangume and Gideon Sunday
-* Language: Rutooro
+* Translation: Rhodah Kangume, Gideon Sunday
+* Language: ttj

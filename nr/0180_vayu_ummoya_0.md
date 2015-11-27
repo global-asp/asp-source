@@ -1,6 +1,4 @@
 # Vayu ummoya
-Madhuri Pai and Rohini
-Nilekani
 
 ##
 Soke isikhathi
@@ -14,7 +12,6 @@ Yini eyenza lokho
 kwenzeke?
 Vayu, ummoya!
 
-
 ##
 Ibisi elingekomitjini
 yami - litjhisa khulu,
@@ -25,7 +22,6 @@ owenza lokho
 kwenzeke?
 Vayu, ummoya!
 
-
 ##
 Amarharideni
 aphephetha arhuhle
@@ -34,7 +30,6 @@ Ngubani owenza lokhu
 kwenzeke?
 Vayu, ummoya!
 
-
 ##
 Umbani uhlaba kude le.
 Amafu anzima akhamba
@@ -42,7 +37,6 @@ ngendlela yami.
 Ngubani owenza lokho
 kwenzeke?
 Vayu, ummoya!
-
 
 ##
 Amataka aya ngapha
@@ -54,7 +48,6 @@ Kwenziwe ngubani koke
 lokhu?
 Vayu, ummoya!
 
-
 ##
 Kude nendlu, siyadlala,
 sele ngikhona
@@ -63,7 +56,6 @@ umma awalungisako.
 Ngubani owenza lokhu
 kwenzeke?
 Vayu, ummoya!
-
 
 ##
 Irhalasi liwa efesdirini
@@ -75,7 +67,6 @@ okumbi kangaka?
 Iye, bekungu Vayu,
 ummoya!
 
-
 ##
 Kulila umlozi.Isitimela
 siyangena.
@@ -84,7 +75,6 @@ ngizwa itjhada laso.
 Ngubani owenza lokho
 kwenzeke?
 Vayu, ummoya!
-
 
 ##
 Awubonakali.
@@ -95,13 +85,11 @@ Kungaba ngubani?
 Iye!
 Ummoya!
 
-
 ##
 
 ##
 * License: [CC-BY]
-* Text: Madhuri Pai and Rohini Nilekani
+* Text: Madhuri Pai, Rohini Nilekani
 * Illustration: Rijuta Ghate
-* Translation: B Sibiya and TM Mabaso
-* Language: isiNdebele
-
+* Translation: B Sibiya, TM Mabaso
+* Language: nr

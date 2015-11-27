@@ -39,5 +39,4 @@ Hahomire aŋo.
 * Text: Carole Bloch
 * Illustration: Vian Oelofsen
 * Translation: BUBAALI PRIMARY
-* Language: Lunyole
-
+* Language: nuj

@@ -1,19 +1,13 @@
-# Be muungo
-mweefwe
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
+# Be muungo mweefwe
 
 ##
 Waandayase Kutosi ali
 khuusoma shitabo sye
 lileekelo.
 
-
 ##
 Maayi ali khuusoma i
 Bayibuli.
-
 
 ##
 Umukooko wase Nelima
@@ -21,18 +15,15 @@ ali khuusoma shitabo
 shishikanikha khu bye
 khuuteekha.
 
-
 ##
 Paapa waandaye wa
 paapa ali khuusoma
 luupapula lwe
 kamakhuuwa.
 
-
 ##
 Kuukhu ali khuusoma
 shiitabo.
-
 
 ##
 Umukooko wase
@@ -41,22 +32,17 @@ naye ali khuusoma
 shiitabo she
 bifwaananyi.
 
-
 ##
 Indi khuusoma shiitabo
 shino.
-
 
 ##
 Imbuka inoola isome
 buli shiindu.
 
-
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Kathy Arbuckle
 * Translation: Fabian Wakholi
-* Language: Lumasaaba
-
+* Language: myx

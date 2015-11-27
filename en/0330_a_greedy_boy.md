@@ -25,7 +25,7 @@ and removed the birds from him.
 ##
 * License: [CC-BY]
 * Text: Tukei A Cathy
-* Illustration: Marleen Visser, Wiehan de Jager, Eden Daniels and Bronwen Heath
+* Illustration: Marleen Visser, Wiehan de Jager, Eden Daniels, Bronwen Heath
 * Language: en
 
 It is bad to cheat others

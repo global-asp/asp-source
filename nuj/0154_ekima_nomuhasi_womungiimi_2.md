@@ -1,13 +1,10 @@
-# Ekima
-n’omuhasi
-w’omuŋiimi
+# Ekima n’omuhasi w’omuŋiimi
 
 ##
 Mwideŋo lye Miwa, mwalimo
 ekima eyaali n’enaku.
 Hiisi oluyasalanga enyana nga
 yi fa.
-
 
 ##
 Obusiba w’ohufirwa wagema
@@ -16,13 +13,11 @@ Yatuumanga yaŋwa hu lusaga
 nga yitiina hu lundi, Kwi! Kwi!
 Kwi!
 
-
 ##
 Ekima yabererenga mu
 hweralihirira aye yerarihiriranga
 bugaali ni yawene ejahye
 nijisundya abaana baajo.
-
 
 ##
 Ekima yino yaha cuhiye eno
@@ -31,13 +26,11 @@ g’omusaala.
 Endaalo jabitaŋo yaliranga
 nyoo.
 
-
 ##
 Ehiseera hyolire nga esaala.
 Ya salaŋo etiine hupi no lugudo
 ababiita bayiŋe ekabi etafa
 hyejahye.
-
 
 ##
 Ekima yaninuha nga yitengeha
@@ -46,14 +39,12 @@ Mu haseers aho omuŋimi
 gabugula ahaana h’ekima nga
 ahaŋira ewuwe.
 
-
 ##
 Omuŋimi gadunda ahaana he
 kima gaŋira ewuwe.
 Nigola engo abasani babe
 abadatu batagiha
 ohuhagudusa.
-
 
 ##
 Abaseere abadatu bembanga
@@ -63,14 +54,12 @@ Hadanye ŋaasi
 Danya eno
 Danyira ola.
 
-
 ##
 Abasere bagudulanga
 hahakima, ekima niyihaye hu
 musaala ne balengeleye.
 Yatyanga yiti omwana ono yeesi
 aŋanga gafa hyabahye.
-
 
 ##
 Nga aŋo omuhasi w’omuŋimi
@@ -80,10 +69,8 @@ Nga ‘aloma n’obuhenerefu
 atimwegenderese! Muhalete
 eno. Mutahahuburaŋo.
 
-
 ##
 Gahalera ngahasabira emiyaya.
-
 
 ##
 Omuhasi w’omuŋimi gahata
@@ -92,10 +79,9 @@ namasanyu.
 Yahafumberera nga yituumira
 hu musaala.
 
-
 ##
 * License: [CC-BY]
 * Text: Wesley Kipkorir Rop
 * Illustration: Jesse Breytenbach
 * Translation: Beatres Nabune
-* Language: Lunyole
+* Language: nuj

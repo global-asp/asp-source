@@ -29,9 +29,7 @@ Hier is dit!
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Bronwen Heath
-* Translation: Abigail de Sousa and Judy Grobler
-* Language: Afrikaans
-
+* Translation: Abigail de Sousa, Judy Grobler
+* Language: af

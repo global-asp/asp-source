@@ -33,6 +33,6 @@ I am travelling by Taxi...
 ##
 * License: [CC-BY]
 * Text: Nina Orange
-* Illustration: Wiehan de Jager, Angie & Upesh and Marion Drew
+* Illustration: Wiehan de Jager, Angie & Upesh, Marion Drew
 * Translated By: Silindile Dube
 * Language: en

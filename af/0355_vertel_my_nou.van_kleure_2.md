@@ -50,5 +50,4 @@ Ek weet nie!
 * Text: Madhav Chavan
 * Illustration: Rijuta Ghate
 * Translation: Carla-Mari de Bruyn
-* Language: Afrikaans
-
+* Language: af

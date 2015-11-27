@@ -1,5 +1,4 @@
-# Enjojo n’e
-Nyapimpina
+# Enjojo n’e Nyapimpina
 
 ##
 Obusumi bwaira muno
@@ -7,13 +6,11 @@ mukikaali ekikooto hakaba
 bahaliyo omukama nomu
 harawe omurungi Batebe.
 
-
 ##
 Enjojo yaikaraga munju
 harubaju rumu orwekikaali
 enyapimpina yaikaraga
 harubaju.
-
 
 ##
 Mubwire obu hakaba haroho
@@ -22,7 +19,6 @@ yoona.
 Omukama akatunga
 ekitekerezo. Yayeta abatahibe
 babiri mukikaali.
-
 
 ##
 Omukama yagambira enjojo
@@ -33,7 +29,6 @@ Omukama akaraganiza
 ekisembo ekya maani hali ogu
 arasingura.
 
-
 ##
 Enyapimpina ekaba etaina
 kunihira nkoku ekaba eri nceke.
@@ -43,7 +38,6 @@ muno kandi.
 Enjojo yagenda yatandika
 kusambirra ensi.
 
-
 ##
 Ecuku nyingi yaija baitu amaizi
 gataije. Enjojo ekasamba ensi
@@ -52,7 +46,6 @@ Baitu ekaba ejwahire muno
 yahereza enyapimpina omugisa
 kulengaho.
 
-
 ##
 Enyapimpina yatandika
 kusamba ensi hanyuma yobwire
@@ -60,16 +53,14 @@ buke amaizi gaija.
 Abantu bataikirize ekibarozere
 namaiso gaabo!
 
-
 ##
 Omukama yahereza
 enyapimpina omuhara.
 Enjojo yataaha muka ebihirwe.
 
-
 ##
 * License: [CC-BY]
 * Text: Stella Badaru
 * Illustration: Wiehan de Jager
-* Translation: Lucy Kabasambu and Robert Kirisa
-* Language: Rutooro
+* Translation: Lucy Kabasambu, Robert Kirisa
+* Language: ttj

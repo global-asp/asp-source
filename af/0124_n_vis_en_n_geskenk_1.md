@@ -153,5 +153,4 @@ stere toe.
 * Text: Liesl Jobson
 * Illustration: Jesse Breytenbach
 * Adaptation: Ranique Nel
-* Language: Afrikaans
-
+* Language: af

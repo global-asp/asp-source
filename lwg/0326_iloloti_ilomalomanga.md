@@ -1,5 +1,4 @@
-# Iloloti
-Ilomalomanga
+# Iloloti Ilomalomanga
 
 ##
 Inyanga yindi khale kwaliho okundu
@@ -12,7 +11,6 @@ Nikurureba kuri, "Niwina khwiinywe
 owachamwa nende abebusi bebe
 bosi babiri?’’
 
-
 ##
 Mulala khu bakhana abo naboola
 ari, ”Mama wanje yanjama
@@ -23,7 +21,6 @@ Ne owakhataru naboola ari, ”Esie
 ndachamwa nende abebusi banje
 bosi."
 
-
 ##
 Okundu oko nikuboolera
 omukhaana owachamwa nende
@@ -32,7 +29,6 @@ olukhanya lwe tsikhwi khumukongo
 kwako.
 Kho omukhana oyo nakulondakho.
 
-
 ##
 Nibatsiakho oluchendo. "Omukhana
 nareeba okundu oko ari, “Tsikhwi
@@ -40,14 +36,12 @@ tsitsio tsileena?” Nako nikuboola
 kuri, “Tsili hambi ne emisala
 chilolokha chilia.”
 
-
 ##
 Nolwa bola hamisala echo,
 Omukhana nareeba khandi,
 “Tsikhwi tsitsio tsileena?”
 Nakwo nikuboola kuri, “Tsili hambi
 hano.”
-
 
 ##
 Batsiririra imberi ne nibabukana
@@ -58,7 +52,6 @@ Nako okundu oko nikukalusia kuri,
 ”Alangwa mbu Iloloti
 ilomalomanga.”
 
-
 ##
 Omukhana narekukha okhwimba:
 Shinangwa iloloti yokhwimba tawe,
@@ -68,7 +61,6 @@ Oho! Papa wanje, wandachama,
 Oho! Eshisanda shianje,
 shienywerangakho, amabere!
 
-
 ##
 Lwo omusatsa oyo yahulira
 akomukhana oyo yali niyembanga,
@@ -76,10 +68,9 @@ yamuhonia namukalusia wabebusi
 be.
 Olukano luwerao!
 
-
 ##
 * License: [CC-BY]
 * Text: Caroline Lentupuru
 * Illustration: Wiehan de Jager
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

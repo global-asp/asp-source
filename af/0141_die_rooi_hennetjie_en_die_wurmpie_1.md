@@ -97,4 +97,4 @@ vyande.
 * Text: Winny Asara
 * Illustration: Winny Asara
 * Translation: Tanja Pouwels
-* Language: Afrikaans
+* Language: af

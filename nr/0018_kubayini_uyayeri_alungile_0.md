@@ -1,5 +1,4 @@
-# Kubayini uYayeri
-alungile?
+# Kubayini uYayeri alungile?
 
 ##
 UYayeri olungileko
@@ -9,14 +8,12 @@ Siyazibuza kobana,
 “Kubayini uYayeri
 alungile?”
 
-
 ##
 Ulunge khulu
 emalangeni adlulileko.
 Siyazibuza kobana,
 “Kubayini u Yayeri
 alungile?”
-
 
 ##
 Undlula umbhede
@@ -26,7 +23,6 @@ Siyazibuza kobana,
 “Kubayini uYayeri
 alungile?”
 
-
 ##
 Ulotjhisa ababelethi
 bakhe kanye nogogo
@@ -34,7 +30,6 @@ nobamkhulu.
 Siyazibuza kobana,
 “Kubayini uYayeri
 alungile?”
-
 
 ##
 Uhlamba ubuso bakhe
@@ -44,7 +39,6 @@ Siyazibuza kobana,
 “Kubayini uYayeri
 alungile?”
 
-
 ##
 Uhlamba amazinyo
 wakhe nge
@@ -53,14 +47,12 @@ Siyazibuza kobana,
 “Kubayini uYayeri
 alungile?”
 
-
 ##
 Uhlamba ngamanzi
 amakhaza.
 Siyazibuza
 kobana,”Kubayini
 uYayeri alungile?”
-
 
 ##
 Wembatha izambatho
@@ -70,7 +62,6 @@ Siyazibuza kobana,
 “Kubayini uYayeri
 alungile?”
 
-
 ##
 Wembatha
 amanyathelo wakhe
@@ -79,14 +70,12 @@ Siyazibuza kobana,
 “Kubayini uYayeri
 alungile?”
 
-
 ##
 Urhabela esikolweni
 sakhe e-Mbala.
 Siyazibuza kobana,
 “Kubayini uYayeri
 alungile?”
-
 
 ##
 Wenza iimfundo zeSayensi, zokuPhilisana
@@ -96,7 +85,6 @@ Siyazibuza kobana,
 “Kubayini uYayeri
 alungile?”
 
-
 ##
 Uyavuma, uyagida,
 begodu udlala nebholo
@@ -105,10 +93,9 @@ Siyazibuza kobana,
 “Kubayini uYayeri
 alungile?”
 
-
 ##
 * License: [CC-BY]
 * Text: Michael Oguttu
 * Illustration: Vusi Malindi
-* Translation: Ntuli m.j. and Masanabo z.
-* Language: isiNdebele
+* Translation: Ntuli m.j., Masanabo z.
+* Language: nr

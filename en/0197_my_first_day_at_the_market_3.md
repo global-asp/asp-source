@@ -13,8 +13,8 @@ One morning my mother called me and said, “Etabo,
 today you turn six years old. We have a present for
 you.”
 “What is it? What is it?” I asked eagerly.
-“Tomorrow we’re going by bus to the market in
-Eldoret,” she replied, “And we’re taking you with us!”
+“Tomorrow we're going by bus to the market in
+Eldoret,” she replied, “And we're taking you with us!”
 My first visit to the city! I was so excited that I could
 hardly sleep that night.
 
@@ -29,7 +29,7 @@ aunt.
 
 ##
 The bus was very full, so I had to sit
-on my mother’s lap.
+on my mother's lap.
 Tired from the heat and excitement,
 I slept the whole way and saw
 nothing.
@@ -64,7 +64,7 @@ you buy one for me?”
 
 ##
 As soon as she gave me the apple, I
-let go of my mother’s hand, took
+let go of my mother's hand, took
 the fruit with both hands, and bit
 into the juicy flesh.
 I had never enjoyed a fruit the way I
@@ -86,7 +86,7 @@ A while later, a woman took me by
 the hand and led me to a place
 where there were other children.
 A big man with a thick beard asked,
-“What’s your name, boy?”
+“What's your name, boy?”
 “E-ta-bo,” I replied through my
 tears.
 
@@ -98,7 +98,7 @@ would buy the children in the room.
 Soon a woman came in and picked
 up one of the children.
 “I will be the next one to be taken
-away,” I thought. “And then I’ll
+away,” I thought. “And then I'll
 never go home again!”
 I started crying once more.
 
@@ -124,10 +124,10 @@ for you to give you your birthday
 present.”
 And from a big bag, she pulled out a
 shiny blue helicopter.
-“It’s yours!” she said.
+“It's yours!” she said.
 
 ##
 * License: [CC-BY]
-* Text: Timothy Kabare and Ursula Nafula
+* Text: Timothy Kabare, Ursula Nafula
 * Illustration: Catherine Groenewald
 * Language: en

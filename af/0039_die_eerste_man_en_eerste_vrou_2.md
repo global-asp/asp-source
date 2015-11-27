@@ -73,4 +73,4 @@ En hulle gaan toe saam die nuwe wêreld binne.
 * Text: Southern African Folktale
 * Illustration: Jemma Kahn
 * Translation: Ezelle van den Berg
-* Language: Afrikaans
+* Language: af

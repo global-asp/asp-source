@@ -1,7 +1,4 @@
-# Engeri eyi
-owiire wajamo
-mu hitahere hya
-Watindi
+# Engeri eyi owiire wajamo mu hitahere hya Watindi
 
 ##
 Egongo eyo mu hitahere hya
@@ -9,7 +6,6 @@ Watindi owiire siweeranga. Abaatu
 baŋenyuhanga lwa hundemba era
 batambanga hiisi olu
 basisimuhanga.
-
 
 ##
 Opio gaali museere owendanga
@@ -22,7 +18,6 @@ yenyene. Gaŋamba embwa ji je aja
 huŋiima Muhamanga hatotono
 heene nga embwa jifulumusa
 enjobe.
-
 
 ##
 Opio nga alondaho, Nga aduluma
@@ -38,7 +33,6 @@ mulala ngaloma omweenemo ati ,
 “Mbingire enjobe ehimanga hireeŋi.
 Nenda ohuŋolaho.”
 
-
 ##
 Omwene ŋanjo ngamulo ati,
 “weyihalire oŋumule . Wahendireho
@@ -48,7 +42,6 @@ ganywaho. Ng’a hena geŋenyuhira.
 Nigasisimuha gaali saabona Gafuta
 ohulimtula neeno jeriimba ohwola
 olujalimbuhira erala
-
 
 ##
 Ng’abona omusinde mumoni
@@ -72,7 +65,6 @@ nibaloma.Hino hyagerire Opio
 gegomba asigaleho ŋango ayo
 awoneho owiire ni wiira nudi.
 
-
 ##
 Ne genyoha owiire nibuteera .
 Gasuunga omwene mago engeri
@@ -89,14 +81,12 @@ egongo owiire wahaŋoyeŋo. Siinga
 galuŋama huluŋama natahejire
 yigongo owiire wahamulodire.”
 
-
 ##
 Ehyo njehi Opio gahola. Gatiina
 buleeŋi egulo eryo ewabwe.
 Gendire bugali ahejeho egongo Ne
 sigahihola. Goola ohubona ewabwe
 nabameeri babe.
-
 
 ##
 Abehitakere hy’Opio nibamuweene,
@@ -107,7 +97,6 @@ Olwobuti wabahye, Opio yeesi obuti
 wamuŋamba. Nga wangewe aheja
 egongo hu wiire. Ayoni naaŋo nga
 owiire bugotaŋo.
-
 
 ##
 Opio gaali munyiigi bugali weene
@@ -123,17 +112,12 @@ huŋuumula. Enywe
 mweŋendehereeye heesi tyo. Ne
 munaheege ohwenda owiire.
 
-
 ##
 Yino nj’engeri eyi wiire wajamo muhitahere hy’Opio.
 
-
 ##
-Engeri eyi owiire wajamo mu
-hitahere hya Watindi
 * License: [CC-BY]
 * Text: Robert Ekuka
 * Illustration: Wiehan de Jager
-* Translation: Rtd Rev. Samson Padere and Samson
-Padere
-* Language: Lunyole
+* Translation: Rtd Rev. Samson Padere, Samson Padere
+* Language: nuj

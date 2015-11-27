@@ -3,46 +3,36 @@
 ##
 Amatsilili kemba.
 
-
 ##
 Tsimbeba tsiolunyu
 tsilila.
 
-
 ##
 Tsinzukha tsifura.
-
 
 ##
 Tsimbwa tsisema.
 
-
 ##
 Tsimbusi tsiana.
-
 
 ##
 Tsing’ombe tsiana.
 
+##
+Tsitalanyi tsibulula...
 
 ##
-Tsitalanyi tsibulula…
-
-
-##
-……na amakhumuniu
+......na amakhumuniu
 kabula omwoyo kwosi
 kwosi.
 
+##
+Abana baroboya...
 
 ##
-Abana baroboya…
-
-
-##
-……abaana
+......abaana
 balomaloma.
-
 
 ##
 
@@ -51,5 +41,4 @@ balomaloma.
 * Text: Carole Bloch
 * Illustration: Jean Fullalove
 * Translation: Margaret Amateshe
-* Language: Oluwanga
-
+* Language: lwg

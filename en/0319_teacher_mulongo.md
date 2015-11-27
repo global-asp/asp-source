@@ -63,6 +63,6 @@ teacher.
 ##
 * License: [CC-BY]
 * Text: Lawrence A. Konjuro
-* Illustration: Vusi Malindi, Alice Toich, Jesse Breytenbach, Wiehan de Jager, Mia du Plessis, Karlien de Villiers, Cathy Feek and Franz Phooko
-* Adaptation: Christopher Bukheye Mulongo and Rose Alungho
+* Illustration: Vusi Malindi, Alice Toich, Jesse Breytenbach, Wiehan de Jager, Mia du Plessis, Karlien de Villiers, Cathy Feek, Franz Phooko
+* Adaptation: Christopher Bukheye Mulongo, Rose Alungho
 * Language: en

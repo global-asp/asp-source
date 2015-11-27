@@ -110,7 +110,7 @@ maan toe gaan!”
 
 ##
 * License: [CC-BY]
-* Text: Marion Drew and Khothatso Ranoosi
+* Text: Marion Drew, Khothatso Ranoosi
 * Illustration: Marion Drew
 * Translation: Kimberly Lange
-* Language: Afrikaans
+* Language: af

@@ -58,6 +58,5 @@ Hurray!
 ##
 * License: [CC-BY]
 * Text: Agnes Mabururu
-* Illustration: Wiehan de Jager, Jesse Breytenbach and
-Jesse Pietersen
+* Illustration: Wiehan de Jager, Jesse Breytenbach, Jesse Pietersen
 * Language: en

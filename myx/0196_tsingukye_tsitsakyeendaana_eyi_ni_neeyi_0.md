@@ -1,6 +1,4 @@
-# Tsingukye
-tsitsakyeendaana
-eyi ni neeyi
+# Tsingukye tsitsakyeendaana eyi ni neeyi
 
 ##
 Babaandu be mu shaalo she
@@ -11,7 +9,6 @@ Tsisolo tse mwirome tsaarakikha
 khukhwiitsatsaka ni
 tsibariisariisa.
 
-
 ##
 Tsisolo tsino tsalyatsaka biilime
 byaabwe byoosi, ni lulala abe
@@ -21,14 +18,12 @@ khuumenyamwo. Ne abe
 babaandu bano banyala
 khuutsya waheena?
 
-
 ##
 Babaandu be muungo
 mutweela baafuna she
 khuukhola.
 Shaba shihangafu naabi
 khuunyoola biilyo mu ngoongo.
-
 
 ##
 Bisiinyo byatsowa akari muufwa
@@ -38,7 +33,6 @@ khwe tsingoongo.
 Basaali baraakikha khuureka
 butuuyu, ni babaana nabo
 bawaambisatsaka binywiinywi.
-
 
 ##
 Babaandu be tsiingo tsitsiindi
@@ -50,7 +44,6 @@ weewe ari, “Buulamu buli
 buulayi mu ngoongo. Waakha
 khukhwiitsa ibweene iyo nawe.”
 
-
 ##
 Lubaluba tsiingo
 tsitsamenyatsaka imaayo we
@@ -61,7 +54,6 @@ khuumenyamwo, bewulila
 buukhafu buulayi luundi nga
 bewulila buulayi naabi.
 
-
 ##
 Khaangukho, babaana
 baarakikha khukhwikaamaka
@@ -70,7 +62,6 @@ kamatuunda mu misaala. Abe
 banyalisa khukhwisuungwaara
 mu sakya tse kimisaala nga
 tsikhobe ni tsikhola.
-
 
 ##
 Mbolambola, bibiindu
@@ -84,7 +75,6 @@ keloosela khuuba kamaboofu,
 naluundi kimibili kyaabwe nga
 kili khukhwiitsulakho bubwooya.
 
-
 ##
 Buli mbuka isi
 baalolanatsakakho, bebona nga
@@ -92,7 +82,6 @@ kameeno kaabwe kasongokha
 naabi. Baarakikha
 khuukyeendela khu bikyele
 bine.
-
 
 ##
 Baryo beekyela bibuumbe
@@ -103,7 +92,6 @@ Bibuumbe bino nibyo byeesi ari
 babaandu balaanga bari
 Ingukye.
 
-
 ##
 Imbuka yaabirawo nga
 tsingukye tsimenya mu
@@ -112,12 +100,10 @@ khuutimisa butuuyu,
 tsaarakikha khuulyatsaka bye
 mwiloba.
 
-
 ##
 Tsebilila luulomo lwe khuukanikha. Tseyabulamo tsingubo
 tsatso lwekhuuba bikyele byatso ni kamakhono keene
 byaba byetsuulekho bubwooya.
-
 
 ##
 Ne tsaaba nga tsishebulila tsiri
@@ -125,7 +111,6 @@ lutweela tsabakho babaandu.
 Tsaaba nga tsilolana kamoolu
 kaatso kamaboofu, tsaaba nga
 tsiitsekhelela tsonyene busa.
-
 
 ##
 Ne tsingukye sitsakana naabi
@@ -140,17 +125,13 @@ liikali. Isho shaakila buli ingukye
 ni muungo mwayo yaatsya
 yaamenya iyo yonyene.
 
-
 ##
 Shisheene isho nisho shishikila tsingukye tsimenya mu bukuuka bukyeekhe ni
 shaleelo shino, tsaalekha khumenya nga linaambo lye tsingukye ta.
 
-
 ##
-Tsingukye tsitsakyeendaana eyi ni
-neeyi
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Benjamin Mitchley
 * Translation: Fabian Wakholi
-* Language: Lumasaaba
+* Language: myx

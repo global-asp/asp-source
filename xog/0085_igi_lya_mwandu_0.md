@@ -1,7 +1,4 @@
-# Igi lya mwandu
-Nambi Sseppuuya
-Community Resource
-Centre
+# Igi lya mwandu Nambi Sseppuuya
 
 ##
 Agho olwatuuka, nga ebaayo
@@ -14,13 +11,11 @@ okubayiza."
 Omulenzi yaligema yagya mu
 bibye.
 
-
 ##
 Okusooka yayagaanana na bakubi
 ba mbafu. Baamusaba eigi.
 Yalibagha.
 Baalikubisa embafu. Lyayatika.
-
 
 ##
 Omulenzi yalira ati,
@@ -30,19 +25,16 @@ Lyali lya dhaadha wange. Ate
 dhaadha ti yampa busa, yampa
 kufunamu mwandu."
 
-
 ##
 Batyo abembafu baamuwaamu oluti
 olukuba embafu.
 Era omulenzi yatambula yagya.
-
 
 ##
 Okwiraku omulenzi yayagaanana na
 abazimbi. Baamusaba oluti lwe.
 Baalukozesa okuzimba nhumba.
 Lwamenhekamu ebitundu bibiri.
-
 
 ##
 Omulenzi yalira ati,
@@ -57,14 +49,12 @@ Lyali lya dhaadha wange.
 Ate dhaadha ti yampa busa,
 yampa kufunamu mwandu."
 
-
 ##
 Batyo abazimbi baamuwaamu
 ekinwa ekyeisubi lyokusereka
 nhumba.
 Era omulenzi yatambula
 yeyongerayo.
-
 
 ##
 Okwiraku omulenzi yaayagaanana
@@ -73,7 +63,6 @@ ono amughe ekinwa ekyeisubi.
 Omwayi owe ente yaligha ente ye.
 Era ete yalya eisubi lyonalyona
 yalimalawo.
-
 
 ##
 Omulenzi yalira ati,
@@ -89,13 +78,11 @@ lyali lya dhaadha wange. Ate
 dhaadha ti yampa busa.
 Yampa kufunamu mwandu."
 
-
 ##
 Atyo omwaayi yagha omulenzi ente
 ye.
 Era omulenzi yatambula
 yeyongerayo.
-
 
 ##
 Yali ataayo, omulenzi yayagaanana
@@ -105,7 +92,6 @@ baamusaba ente ye.
 Yagibagha.
 Era baagibaaga baagilya
 yonayoona.
-
 
 ##
 Omulenzi yalira ati,
@@ -136,9 +122,8 @@ omutwaale."
 Era lutyo, olugero olukoba luti,
 "okalya ira kaira ira" lwatuukirira.
 
-
 ##
 * License: [CC-BY]
 * Text: Nambi Sseppuuya Community Resource Centre
 * Illustration: Wiehan de Jager
-* Language: Lusoga
+* Language: xog

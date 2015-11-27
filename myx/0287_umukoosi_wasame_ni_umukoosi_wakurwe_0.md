@@ -1,17 +1,12 @@
-# Umukoosi
-Wasame ni
-Umukoosi
-Wakurwe
+# Umukoosi Wasame ni Umukoosi Wakurwe
 
 ##
 Oyu niye Umukoosi
 Wasame
 
-
 ##
 Oyu niye Umukoosi
 Wakurwe
-
 
 ##
 Umukoosi Wakurwe ni
@@ -22,20 +17,17 @@ baatsya
 khukyeendakakho
 boombi.
 
-
 ##
 Bakyeenda boola khu
 ndulo khwe luluutsi,
 baarakikha
 khuukhaabisana.
 
-
 ##
 “Iwe s’unyala khuruuka
 luluutsi luno ta!”
 “Iseese inyala! Iwe niye
 ukhanyala ta.”
-
 
 ##
 Umukoosi Wasame
@@ -48,7 +40,6 @@ Aryo Umukoosi Wasame
 waapuruurukha
 waambukha luluutsi.
 
-
 ##
 Lwanyuma Umukoosi
 Wakurwe naye
@@ -58,7 +49,6 @@ khukhwisiikha aasi
 lwekhuuba kumurwe
 kweewe kwaba
 kumuboofu naabi.
-
 
 ##
 Umukoosi Wasame
@@ -72,12 +62,9 @@ khukhwaama khu
 lubeka lutweela
 khukhwoola khu luundi!
 
-
 ##
-Umukoosi Wasame ni Umukoosi
-Wakurwe
 * License: [CC-BY]
 * Text: Dorothy Fetaru
 * Illustration: Joshua Waswa
 * Translation: Milton Eridad Shissa
-* Language: Lumasaaba
+* Language: myx

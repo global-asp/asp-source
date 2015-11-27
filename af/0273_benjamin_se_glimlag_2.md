@@ -147,5 +147,4 @@ glimlag van almal.
 * Text: Vianne Venter
 * Illustration: Genevieve Terblanche
 * Translation: Maryke Van Nieuwenhuizen
-* Language: Afrikaans
-
+* Language: af

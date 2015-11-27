@@ -1,6 +1,4 @@
-# Tsingurwe
-shitsinjisibwa
-tawe
+# Tsingurwe shitsinjisibwa tawe
 
 ##
 Emiaka chiabira, tsisolo
@@ -11,19 +9,16 @@ Balanga tsisolo tsindi
 tsietsinzika tsionyone.
 Omundu undi yesi yesi tawe.
 
-
 ##
 Olwa ingurwe yaulira likhuwa
 liobucheni ibo, yapara, "Embula
 tsinzika. Endakhola shina?"
-
 
 ##
 Mustuli bushiere, yanyoola
 inganakani.
 Alahandia tsinzika khumurwe
 kwaye okhurumushira iula.
-
 
 ##
 Inganakani yayo yatiya ne
@@ -32,7 +27,6 @@ lwayenjisibwa mubucheni.
 Eshibi shiali mbu obucheni
 bwali butsiririra hambi ne
 eliuba.
-
 
 ##
 Olwa obucheni bwetsulamwo
@@ -43,7 +37,6 @@ Tsisolo tsietsinzika tsiauka.
 "Niwina oyo ubula tsinzika?
 Yetsere shina hano?" bareeba.
 
-
 ##
 Omwami we tsisolo yalokha,
 "Khamare ingurwe muchifube
@@ -51,13 +44,11 @@ hasi khushialo." Bakhamara
 ingurwe bachifuba hasi
 khushialo.
 
-
 ##
 Eshibera khungurwe! Olwa
 yakwa, yakwira amolu kayo.
 Eliulu liayo liapama khandi
 listoba.
-
 
 ##
 Kho olauka ta nolola eliulu
@@ -65,11 +56,9 @@ lieingurwe liapama khandi
 okhutsoba, shichira liali lirio
 okhurula khale.
 
-
 ##
 * License: [CC-BY]
 * Text: Basilio Gimo
 * Illustration: Laura Libertore
 * Translation: Margaret Amateshe
-* Language: Oluwanga
-
+* Language: lwg

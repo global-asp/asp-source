@@ -42,5 +42,5 @@ THE END
 ##
 * License: [CC-BY]
 * Text: Melissa Chetty
-* Illustration: Wiehan de Jager, Marleen Visser, Catherine Groenewald and Cathy Feek
+* Illustration: Wiehan de Jager, Marleen Visser, Catherine Groenewald, Cathy Feek
 * Language: en

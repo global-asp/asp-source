@@ -96,6 +96,6 @@ lions.
 ##
 * License: [CC-BY]
 * Text: Francisco Escondido
-* Illustration: Claudio Molina and Hélder de Paz Alexandre
+* Illustration: Claudio Molina, Hélder de Paz Alexandre
 * Adaptation: Little Zebra Books
 * Language: en

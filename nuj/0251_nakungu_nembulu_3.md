@@ -1,7 +1,4 @@
-# Nakungu
-n’Embulu
-Alan Kenyon and Viv
-Kenyon
+# Nakungu n’Embulu
 
 ##
 Hala hale ŋaliŋo omusinde omwafu
@@ -12,7 +9,6 @@ Nakungu gaali muyonjo ate naali
 wahyere bugali. Abasaye ba
 Nakungu bamwenda nga bugali
 weene.
-
 
 ##
 Lulala abasaaye, ba Nakungu
@@ -26,7 +22,6 @@ robboni, apeesa ko n;embira
 jomu mamiro nejaŋo amusebula
 atiina ewa hojaye.
 
-
 ##
 Nakungu gaali n’ohwaambuha
 erungu ko goole ewahojaye.
@@ -36,7 +31,6 @@ maaji.
 Ni goola engereha w’erungu,
 gagengeyo ahahaama ahati ni
 hambaye agalilewo
-
 
 ##
 Ahahaana aho nga habussa
@@ -50,7 +44,6 @@ era keesi peyindi hutina.
 Wange ewe nga abahaana bano
 bagendera ŋalala olugendo lwawe.
 
-
 ##
 Baba bahiri hugendaho ŋano ni
 ŋala, nga ahahaana ahali mu
@@ -61,7 +54,6 @@ nambaleho” yeesi sigali mubi aga
 gefihulamo esikaati n’embira
 ahaŋa.
 
-
 ##
 Ahahaana hano ni hatusamo
 agaleewo ko ni hambala engoye ja
@@ -70,7 +62,6 @@ omuhira gwa hahaana.
 obuti nga baŋamba Nakungu.
 Nakungu nga afania ati dala
 ahahaana hano yali mbulu.
-
 
 ##
 Abahaana bano beyongeeye
@@ -82,7 +73,6 @@ musala ogwali hu hiswa yiiti,’’Ndehe
 nambaleho ohwola hu musaala
 ogwo’’
 
-
 ##
 Ni boola hu musaala nga Nakungu
 nindi asunga owahye esikaati
@@ -93,7 +83,6 @@ hwirungu eriri mu momi.’’
 Olwo hutya nga Nakungu nindi
 gefugirira
 
-
 ##
 Sibaluye nga boola hwirungu.
 Nakungu nga nindi aloma Embulu
@@ -103,7 +92,6 @@ Nakungu yiiti,``olumala gandeha
 nambaleho olwola hu hayumba
 aŋaali abahasi abehaye bala’’
 Ngaŋo beyongera ohugenda.
-
 
 ##
 Nakungu n`embulu ni boola hu
@@ -117,7 +105,6 @@ Nakungu ni gaŋuliye ebyo nga esoni
 n’obuti bimuŋamba nga aliguha
 embiro bbwa-a-a aja gehweha mu
 hidooli.
-
 
 ##
 Embulu nga yitina ewa
@@ -134,7 +121,6 @@ wanamwene Nokungu n’aŋenyuha
 mu hidooli era nalyanga humeere
 eyi mbwa jalyangaho.
 
-
 ##
 Mu musi Nakungu gajanga gehweha
 mu ndimiro ya duuma nga ko
@@ -146,7 +132,6 @@ mutonganyama.
 Ni naali mu ngira nga nagaana
 embulu eyaŋira esikaati yange
 n’embira jange o-oese omutahi.
-
 
 ##
 Lulala mulala hubaganda ba
@@ -163,7 +148,6 @@ aŋulira olwembo. Ehi gahola
 hwendulirisa ohwola alugawene
 mwiŋwawe Nakungu.
 
-
 ##
 Nakungu ng’alomera hojaye ng’olu
 mbulu yaali ne muhongerehise
@@ -175,7 +159,6 @@ mundala hu samba ejaali ŋango.
 Mutonganyama gaali amanyire ehi
 aŋanga ohuhola ohwebbinga ho
 embulu.
-
 
 ##
 Mutonganyama gaali aŋuliyeho ati
@@ -189,7 +172,6 @@ amabere bbongo bejusa Ngaŋo ko
 alanga abahaana bomu hitehere
 ehyo boosi baaje mu mbaha jo
 hutuuma eroŋo eririmo bbongo.
-
 
 ##
 Oludaalo olwe’mbaha jo hutuuma ni
@@ -207,7 +189,6 @@ ebyene ebyembaha nga ko yiija
 yeyanja ŋalala n’abahaana bo hu
 hitehere
 
-
 ##
 Abahaana hya mula mula batiina ni
 batuma eroŋo, ohwosa olu lubu
@@ -220,7 +201,6 @@ yihwesa ohwola olu mbulu yagwa
 mwiroŋo elyalimo amabere ga
 bbongo.
 
-
 ##
 Embulu yesolaho ni yenda eŋwe
 mwiroŋo lyalimo bbongo, aye
@@ -232,11 +212,9 @@ Aye Nakungu nga amenya ewa
 hojaye mu mirembe ohuhena
 eteŋama enyene endeŋi.
 
-
 ##
 * License: [CC-BY]
-* Text: Alan Kenyon and Viv Kenyon
+* Text: Alan Kenyon, Viv Kenyon
 * Illustration: Wiehan de Jager
 * Translation: Mugoya Job Joel
-* Language: Lunyole
-
+* Language: nuj

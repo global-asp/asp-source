@@ -40,5 +40,4 @@ Kat?
 * Text: Nicola Rijsdijk
 * Illustration: Karen Lilje
 * Translation: Kristell Beckmann
-* Language: Afrikaans
-
+* Language: af

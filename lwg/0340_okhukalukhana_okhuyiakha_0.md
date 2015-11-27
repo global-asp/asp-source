@@ -1,5 +1,4 @@
-# Okhukalukhana
-Okhuyiakha
+# Okhukalukhana Okhuyiakha
 
 ##
 Khulwe tsimbaka tsinyinji, eshikulu
@@ -17,7 +16,6 @@ khung’ombe, amakondi nende
 tsimbusi tsiolukongo olo nende kata
 efichwaya fiamenya mushikuri esho.
 
-
 ##
 Efindu fiali busa efilayi, okhula
 shinga Eshifuluko yanyoola bwe
@@ -31,7 +29,6 @@ tawe.
 Eshikulu shia Sang’alo shiasinyikha
 khulwa okhunyasibwa emimela
 chiashio, ne nishiisumilisia busa.
-
 
 ##
 Mwijuma , abaana nende abetsa be
@@ -50,7 +47,6 @@ tsiakhama. Tsinguku tsia omwalo
 kwa chwele tsiatong’a nitsilingane
 busa neshibeela.
 
-
 ##
 Efichwaya fiauya mushikuri omo
 okhuba amakale kafiabayilangamo
@@ -62,7 +58,6 @@ fiang’aya ne fing’ayilila.
 Buli mulala yalola uburuma bwe
 eshikulu shia Sang’alo.
 
-
 ##
 Abandu ba Sanga’lo balola mbu eshindu shikhoyere
 okhukholekha. Baliimana ne nibarusiayo we likuru
@@ -73,7 +68,6 @@ Eshifuluko.
 Ikhabi nende abandu be bakhola efisashilo, ne
 nibarerera Eshifuluko efihanwa fie tsisiola, tsindaa
 nende emilulusia.
-
 
 ##
 Abulawo owaninakho khushikulu
@@ -104,10 +98,9 @@ bebe nibaboola. "Abaana befu
 nende abetsukhulu befu
 bakhuheresie oluyali inziayo."
 
-
 ##
 * License: [CC-BY]
 * Text: Catherine Were
 * Illustration: Catherine Groenewald
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

@@ -39,5 +39,4 @@ Die einde.
 * Text: Danielle Bruckert
 * Illustration: Danielle Bruckert
 * Translation: H. Van der Haar
-* Language: Afrikaans
-
+* Language: af

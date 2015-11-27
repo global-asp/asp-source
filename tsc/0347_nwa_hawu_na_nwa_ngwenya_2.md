@@ -1,5 +1,4 @@
-# N'wa Hawu na
-N'wa Ngwenya
+# N'wa Hawu na N'wa Ngwenya
 
 ##
 N'wa hawu awa kari a hanya
@@ -8,7 +7,6 @@ kari ka congo akuhi ni ci
 tikwana. A misinya ya mihanzu
 ayihi kona lomu ka ci tikwana
 leco.
-
 
 ##
 N'wa hawu awa lava aku ya ga
@@ -19,7 +17,6 @@ aku thlula laha hehla ka gona,
 hiku gumesa a wa ta thlula kala
 le citikwanini.
 
-
 ##
 A thlulili le moyeni a gama a
 jatama laha ka ribze. A gama a
@@ -28,7 +25,6 @@ A tsakili hi kuga a mihanzu ya
 khwati a gama aya kaya. A
 mahili lezvu hiku tala ka
 masiku.
-
 
 ##
 Kanilezvi n'wa ngwenya awa
@@ -39,7 +35,6 @@ famba uya etlela laha ka ribze.
 A muvala wa miri wakwe a wu
 fana ni wa ribze.
 
-
 ##
 A nzaku ka masikunyana, n'wa
 ngwenya a wonili n'wa hawu na
@@ -47,7 +42,6 @@ a wuya kambe le citikwanini.
 Yena a nomili laha ka ribze a
 gama a peta a hloku lomu
 matini.
-
 
 ##
 N'wa hawu loku a mbetili a kuga
@@ -59,7 +53,6 @@ ribze:
 N'wa ribze, ku khwatsi u kulili. U
 muneni ke?
 
-
 ##
 N'wa ngwenya awa fayeli, a
 pimisili a ribze ga wulawula.
@@ -68,7 +61,6 @@ n'wa hawu aku:
 Nzi wa hombi hiku kunani
 ngwenya ya hombi yi nzi
 etlelelaku.
-
 
 ##
 A hawu yi ti ngalu:
@@ -83,7 +75,6 @@ Hikumaha loku, n'wa ngwenya
 amu khiletili laha ka hlan'a
 wakwe!
 
-
 ##
 Loku va txikelili seyu, n'wa
 hawu a nomili le sinyeni a gama
@@ -95,7 +86,6 @@ Kanilezvi, n'wa ngwenya ati
 ngalu kakwe:
 U nzi tsembisili....
 
-
 ##
 N'wa hawu anu hleka a gama
 aku ngalu:
@@ -106,11 +96,9 @@ davi ta sinya. N'wa ngwenya
 anga zvangi amu khomili n'wa
 hawu waku tala hi wutlari!
 
-
 ##
 * License: [CC-BY]
 * Text: Mozambican folktale
 * Illustration: Amir Bachir António Necas
 * Adaptation: Rafael Ernesto Samuel
-* Language: Xitswa
-
+* Language: tsc

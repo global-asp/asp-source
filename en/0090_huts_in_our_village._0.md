@@ -31,8 +31,8 @@ the most beautiful huts.
 
 ##
 * License: [CC-BY]
-* Text: Yusuf, Yvonne, Desire, Arafat, Judith, and Susan
-* Illustration: Magriet Brink, Rob Owen, Danica Strydom, Wiehan de Jager and Kathy Arbuckle
+* Text: Yusuf, Yvonne, Desire, Arafat, Judith,, Susan
+* Illustration: Magriet Brink, Rob Owen, Danica Strydom, Wiehan de Jager, Kathy Arbuckle
 * Language: en
 
 The story was created by primary three children of Mango Grove Junior school.

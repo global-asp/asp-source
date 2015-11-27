@@ -1,5 +1,4 @@
-# Babaana be
-buwuula
+# Babaana be buwuula
 
 ##
 Aabawo khaalekho,
@@ -8,7 +7,6 @@ muungo mutweela abe
 babamenya nga
 baasangaafu.
 
-
 ##
 Abe sibasoolanakho ta.
 Baayeetatsaka naabi
@@ -16,13 +14,11 @@ basaali baabwe
 muungo ni mu
 mikuunda.
 
-
 ##
 Ne shonyene ndi abe
 sibafukiilisibwakho
 khukhwisyeendakho
 aambi ni kumulilo ta.
-
 
 ##
 Abe bali ni
@@ -30,11 +26,9 @@ khuukholatsaka
 kimilimo kyaabwe mu
 shilo mwonyene.
 
-
 ##
 Lwekhuuba baabuumbibwa khukhwaama
 mu buwuula!
-
 
 ##
 Ne mutweela khu
@@ -43,14 +37,12 @@ wewotooma naabi
 khuutsyakho ibulafu mu
 muumu.
 
-
 ##
 Ne lutweela
 khukhwiwotooma
 khuno khwaabiririra
 naabi. Babaandaaye
 baamureewura...
-
 
 ##
 Ne byaba byaabirire
@@ -60,7 +52,6 @@ khuuyengukhakila mu
 muumu kukwaba
 kwaabilile.
 
-
 ##
 Basooleli be buwuula
 babaramile baawulila
@@ -68,7 +59,6 @@ kumutaambo,
 khuubona nga
 waandayaabwe
 ayengukhaka awawo.
-
 
 ##
 Ne baafunayo
@@ -80,12 +70,10 @@ tsana,
 baabuwumbamwo
 khanywiinywi.
 
-
 ##
 Baayila waandaayabwe
 khanywiinywi tsana khu
 lukiingi luleeyi naabi.
-
 
 ##
 Nga inyaanga niyarura,
@@ -94,10 +82,9 @@ waatsya nga eemba mu
 buwaanga bwe
 kumutikhinyi.
 
-
 ##
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Wiehan de Jager
 * Translation: Milton Eridad Shissa
-* Language: Lumasaaba
+* Language: myx

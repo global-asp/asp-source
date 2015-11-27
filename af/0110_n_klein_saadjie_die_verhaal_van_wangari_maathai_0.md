@@ -96,11 +96,8 @@ Wangari het in 2011 gesterf, maar elke keer wat ons ‘n boom sien, kan ons dink
 aan haar groot bydra in Afrika.
 
 ##
-'n Klein saadjie: Die verhaal van
-Wangari Maathai
 * License: [CC-BY]
 * Text: Nicola Rijsdijk
 * Illustration: Maya Marshak
 * Translation: Monique
-* Language: Afrikaans
-
+* Language: af

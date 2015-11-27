@@ -1,5 +1,4 @@
-# Ingokho ni
-Ikhosi
+# Ingokho ni Ikhosi
 
 ##
 Aabawo khaalekho, ingokho ni
@@ -7,7 +6,6 @@ ikhosi baamenyatsaka atweela
 mu lukoosi, ni binywiinywi
 bibiindi. Buli shiindu
 baashikholatsakila atweela.
-
 
 ##
 Shifukhu shitweela, akwawo
@@ -18,7 +16,6 @@ Yaakobolayo ingo nga yaaluwile
 naabi. Yeelomela inyene iri,
 “Yaakhiile khuubawo isaambo
 inyaangu iye khuukyeenda!”
-
 
 ##
 Nga baamalile khuukona
@@ -33,7 +30,6 @@ khwe kamooya keefwe kano.
 Manya isho kane
 shikhwaanguyisile khuukyeenda
 khweefwe.
-
 
 ##
 Khu shaalo isho, Ikhosi yonyene
@@ -50,7 +46,6 @@ yaatsya mwifuumbilo
 khuuteekhelakho babaana
 baayo biilyo.
 
-
 ##
 Ne binywiinywi bibiramile
 byaaba byaboone Ikhosi nga
@@ -60,7 +55,6 @@ impiso nabyo binabe tsindaha.
 Mu mbuka ifwiiti iri binywiinywi
 byaaba biikali naabi
 bibipamburukhila mu ngaaki.
-
 
 ##
 Ne khanywiinywi
@@ -73,7 +67,6 @@ bwaba bwaluyile
 khukhwiinyaha, bwalekha
 impiso tsana mu muyekhe.
 
-
 ##
 Ne lwanyumakho khu nyaanga
 tse angoloobe, ikhosi
@@ -85,7 +78,6 @@ yaatsya yaalola khu kabada.
 Yaatsya mwifumbilo. Yaatsya
 yaalola khu lwaanyi. Ne
 yaalekha khunyoola impiso ta.
-
 
 ##
 Kila ingokho iloomba Ikhosi iri,
@@ -102,7 +94,6 @@ umbekho mutweela khu baana
 boowo, khuuwaanda impiso
 iyo.”
 
-
 ##
 Ikhosi ni yakobola khu shifukhu
 shisheelakho, yaanyoola nga
@@ -114,7 +105,6 @@ kumuluundi mutweela,
 yaawutula khanywiinywi
 khatweela yaapamburukha
 yaatsya.
-
 
 ##
 Khukhwaamila abweenewo, buli
@@ -137,5 +127,4 @@ khutsye khwiibise.”
 * Text: Ann Nduku
 * Illustration: Wiehan de Jager
 * Translation: Milton Eridad Shissa
-* Language: Lumasaaba
-
+* Language: myx

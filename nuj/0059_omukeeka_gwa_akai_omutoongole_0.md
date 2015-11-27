@@ -1,6 +1,4 @@
-# Omukeeka gwa
-Akai
-Omutoongole
+# Omukeeka gwa Akai Omutoongole
 
 ##
 Akai nigaali nahiri
@@ -13,7 +11,6 @@ galuha omukeeka
 ogwenjabulo guno
 ohunɳwa musaasa.
 
-
 ##
 Omukeeka nago gwaali
 mu malangi aga pinka,
@@ -23,7 +20,6 @@ Gwali gwawuhana hu
 mikeeka ejindi eji nyina
 ya Akai gaali najo mu
 hitiira.
-
 
 ##
 Eroba ohwetoloola
@@ -45,12 +41,10 @@ ogw’ enjawulo
 gumutangira eri ehigosi
 hyosi”.
 
-
 ##
 Akai gaali mwaana
 mwogi . Gegire eri
 esobere eyohupi.
-
 
 ##
 Geega eyihitiira hya
@@ -61,7 +55,6 @@ amabeere ganasugirya
 naali ɳalala
 ninguhwawe.
 
-
 ##
 Oludaalo Lulala ,Akai
 sigaali nyo n’ekabi.
@@ -71,13 +64,11 @@ nguhwawe eyatoola.
 Gagotera mu soozi .
 Akai gatya .
 
-
 ##
 Gehaaye mu mudodo
 galinda obuyeedi .
 sigalwaɳo nga ero
 limwibq era gaaloota.
-
 
 ##
 Ehirooto hyatina hiiti;
@@ -85,7 +76,6 @@ Gaali agandaye hu
 mukeeka gugwe ogwo
 ogwe’njawulo.
 Omuhasi agafana
-
 
 hyanguhwawe gaali aɳo
 namuhumire.
@@ -106,7 +96,6 @@ aha bbululu
 nihetengereeye hu
 lusaga ɳamugulu wuwe.
 
-
 ##
 Akai nigenyoha,
 ahayuni aha bbululu
@@ -114,7 +103,6 @@ hahuubba amabaɳa
 gaaho nga olwo
 hatangiririra .
 Akai Gahaloonda.
-
 
 ##
 Akai goola aɳ’engira
@@ -124,7 +112,6 @@ bbululu yalagasa
 ahatundu h’omukeeka
 ahafananira erala.
 N’omukeeka gwa Akai.
-
 
 ##
 Nigangala ahatundu
@@ -136,7 +123,6 @@ nigali’ganyina.
 esobeere eyibajangamo
 amaaji.
 
-
 ##
 Ab’amago ga Akai
 bembire era bahiina ni
@@ -146,7 +132,6 @@ enyama ni basaɳalya
 olw’omwaana waawe
 ohugaluha mulamu.
 
-
 ##
 Akai gehaaye hu
 mukeeka gugwe
@@ -154,10 +139,9 @@ ogw’enjawulo koga
 ɳomerwa ogunohi
 gwe’enyama enjohye.
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Gershom Hirome
-* Language: Lunyole
+* Language: nuj

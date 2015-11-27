@@ -121,6 +121,5 @@ her family.
 ##
 * License: [CC-BY]
 * Text: Matthews M Wanga
-* Illustration: Wiehan de Jager
-Ursula Nafula
+* Illustration: Wiehan de Jager, Ursula Nafula
 * Language: en

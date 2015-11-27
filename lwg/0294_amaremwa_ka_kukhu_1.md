@@ -1,5 +1,4 @@
-# Amaremwa ka
-Kukhu
+# Amaremwa ka Kukhu
 
 ##
 Eshilundu shia Kukhu shiali
@@ -18,7 +17,6 @@ Nabutswa eliamefiswi elala lialiwo
 shiamboolera tawe- wayenjekhanga
 amaremwa.
 
-
 ##
 Inyanga ndala ndalola eshimwero
 eshikhoongo nishibakalwe khu
@@ -35,30 +33,27 @@ nakashiina kukhu?” Nemureeba.
 Likalusio liandanyoola liali mbu,
 “Namaru kobufumu bwanje.”
 
-
 ##
 Kali okokhuchamisia okhulola
 kukhu, amaremwa, amaru nende
 eshimwero.
 Kukhu yamala yarume okhutsia wa
 mama wanje. “Kukhu bayie ndekha
-endolekho nga okasia …". Ne
+endolekho nga okasia ...". Ne
 shiyaulira akanje tawe.
 “Lekha okhunyasia, omwana ewe.
 Khola ngo obolirwa,” nakhaya sa.
 Ndarekukha tsimbiro.
-
 
 ##
 Olwa ndakalukha, kukhu yali
 niyekhale elwanyi ne eshimwelo
 nomba amaremwa shikaliwo tawe.
 Kukhu, eshimwero shili yena, nako
-amaremwa koosi kale, khandi….”ne
+amaremwa koosi kale, khandi....”ne
 likalusio liandanyoola liali busa,
 “Fiosi fili wobufumu bwanje buli.”
 Kali kokhusinyisia muno!
-
 
 ##
 Tsinyanga tsibiri nitsiwere, kukhu
@@ -75,7 +70,6 @@ Ndafunula lirungeti, nesitia amolu
 khushimwero, nembunyirisia omuya
 oko.
 
-
 ##
 Omwoyo kwa kukhu kwarengusia
 olwa yayiba, “okholanga
@@ -86,7 +80,6 @@ niyandeba.
 Lirebo lie ero lianzitsulisia mbu,
 embere neshimwenyanga khulwo
 khunyoola amefiswi kobufumu bwe.
-
 
 ##
 Inyanga yalondakho, olwa kukhu
@@ -101,7 +94,6 @@ ndabootokhana inyuma weinzu
 nelilia bwangu bwangu.
 Liali linulu okhushirakho elindi liosi
 lia ndaliakho.
-
 
 ##
 Nibushiere, kukhu niyayanga eliani
@@ -131,7 +123,6 @@ nyangeyo tawe.
 Alali shindeefwira khu fise efirambi
 tawe.
 
-
 ##
 Angolobe, lwandalangwa nende
 mama, papa nende kukhu,
@@ -142,10 +133,9 @@ khandi tawe, okhurula khu kukhu,
 kata abebusi, nomba omundu yesi
 yesi.
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

@@ -75,7 +75,7 @@ civilization
 
 ##
 * License: [CC-BY]
-* Text: Basilio Gimo and David Ker
-* Illustration: Carol Liddiment and Wiehan de Jager
+* Text: Basilio Gimo, David Ker
+* Illustration: Carol Liddiment, Wiehan de Jager
 * Translated By: Nagaraj
 * Language: en

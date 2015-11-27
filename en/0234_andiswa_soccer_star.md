@@ -39,6 +39,5 @@ allowed to play soccer at the school.
 ##
 * License: [CC-BY-NC]
 * Text: Eden Daniels
-* Illustration: Eden Daniels
-Lisa Treffry-Goatley (ed.)
+* Illustration: Eden Daniels Lisa Treffry-Goatley (ed.)
 * Language: en

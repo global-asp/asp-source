@@ -1,6 +1,4 @@
-# Omogano
-O’Khayanga
-Nekerandi kiaye
+# Omogano O’Khayanga Nekerandi kiaye
 
 ##
 Kare kare, omonto narengeoo
@@ -11,7 +9,6 @@ omwana oyomo. Erieta riaye nigo
 arenge korokwa Khayanga. Bonsi
 batato nigo bamenyete ase
 ekenyoro gekorokwa Silaa.
-
 
 ##
 Omwaka oyomo, Waswa akarwara
@@ -36,7 +33,6 @@ Emasio. Rosa tabwate binto binge.
 Bonsi babere bakamenya obogima
 obokongu, obotaka. Rosa nigo
 
-
 ##
 Rituko erimo, Khayanga akagenda
 gotara ase chimbera chia ise na
@@ -44,7 +40,6 @@ ng’ina erio anyare kobatebia buna
 barenge abataka.
 Akabeka egekabu abwete nse na
 nagochaka korera, kagoteba:
-
 
 ##
 Tata gaki, ing’ai gwachiete?
@@ -62,10 +57,9 @@ ogotera gokorwa ekerandi keria
 ime. Ogotera koria nigo kwarenge
 ogwokogombia mono.
 
-
 ##
 Ekerandi keria nigo kiarenge gotera
-iga…
+iga...
 Khayanga, ee, Khayanga!
 Khayanga, ee, Khayanga!
 Omwana oito omwanchwa!
@@ -76,7 +70,6 @@ oito!
 Kebogorie nagotara nakerokio kera
 ase!
 
-
 ##
 Korwa rituko erio, Khayanga akabogoria ekerandi keria kera ase
 arenge kogenda. Agakebeka ase arenge korara, akaba gakoboka
@@ -84,7 +77,6 @@ nakio na kweyaka amaguta kageikaranserete. Baka ekaba buna
 kera ekero atagakebogoirie nigo arenge kogechiwa sana. Ekiagera
 kera ekero agakeboigirie, nigo giakamoinyorie ise na ng’ina yagera
 oigwa buya.
-
 
 ##
 Korwa rituko erio, Khayanga
@@ -99,28 +91,24 @@ kera ekero agakeboigirie, nigo
 giakamoinyorie ise na ng’ina yagera
 oigwa buya.
 
-
 ##
 One day, something bad happened
 to her special Gourd. It broke when
 she was fetching water in the river.
 Khayanga’s heart broke as well.
 
-
 ##
 Khayanga held the pieces of the
 broken Gourd in her small hands
 and sang:
-
 
 ##
 Father and Mother,
 See the gourd is broken.
 The gourd you gave me.
 What do I do, Mother and Father?
-Be kind and show me a sign…
+Be kind and show me a sign...
 That you are still with me.
-
 
 ##
 Khayanga heard her mother’s voice
@@ -135,7 +123,6 @@ Khayanga obeyed and suddenly,
 the broken Gourd became whole
 once again.
 
-
 ##
 Khayanga continued to carry her
 Gourd everywhere she went.
@@ -145,19 +132,15 @@ type of gourd is this?”
 With her special Gourd, Khayanga
 received everything she needed.
 
-
 ##
 With the special Gourd, Khayanga
 knew that her parents were
 watching over her.
 Nothing bad could happen to her.
 
-
 ##
-Omogano O’Khayanga Nekerandi
-kiaye
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Dennis Ogaro Ondieki
-* Language: Ekegusii
+* Language: guz

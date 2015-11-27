@@ -34,7 +34,7 @@ school?
 ##
 * License: [CC-BY]
 * Text: Ivan Higenyi
-* Illustration: Wiehan de Jager, Karlien de Villiers, Alice Toich, Kathy Arbuckle, Jano Strydom, Vusi Malindi, Catherine Groenewald and Candace di Talamo
+* Illustration: Wiehan de Jager, Karlien de Villiers, Alice Toich, Kathy Arbuckle, Jano Strydom, Vusi Malindi, Catherine Groenewald, Candace di Talamo
 * Language: en
 
 Suitable for Children in Lower primary.

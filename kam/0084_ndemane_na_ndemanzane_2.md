@@ -1,5 +1,4 @@
-# Ndemane na
-Ndemanzane
+# Ndemane na Ndemanzane
 
 ##
 Ĩvinda ĩmwe tene, vaĩ kamwana keetawa Ndemane. Kaaĩna mwĩĩituinya weetawa
@@ -8,7 +7,6 @@ Ndemanzana. Ĩla inya na ĩthe woo meetiwe, nĩmaendie kwĩkala na mwendw’ethe
 Nĩmavũawa na myũnzyu ndaasa na kunengwe kaũsũlũ kavũthũ ĩvinda ĩmwe tu kwa
 muthenya.
 Kwondũ wa ũu nimasembie matoloka.
-
 
 ##
 Nĩmethĩiy’e ngunga ya kwĩkala nthĩnĩ. Maĩna vw’ĩa
@@ -21,7 +19,6 @@ Ndemane nĩwakanisye mwĩĩtuinya amwĩa, “nathi
 kusyĩma ĩkala nthĩnĩ wa ngunga na ndũkaue nyama.
 Malya-andũ mevata na muuke wa nyama ĩiko”.
 
-
 ##
 Kĩla wĩĩo Ndemane nĩwaetae kĩla ũwaie - kavalũkũ
 kana kasũni kana nzia.
@@ -30,7 +27,6 @@ Evakuvĩ na ngunga nĩwainaa:
 Mbingũĩe ngunga ĩno.
 Nthũngũlũlũ noilĩke
 Ĩna tũlima twĩlĩ.
-
 
 ##
 Ndemanzane nĩwew’aa ũtulu wa kwĩkala nthĩnĩ wa
@@ -43,7 +39,6 @@ Nĩwasũnĩie ndeto ii: “kũtonya kwĩthĩwa vate kĩndũ
 kĩĩtawa malya-andũ. Mwendwau atonya kwĩthĩwa
 aweetaa malya-andũ nĩkana atwĩkĩe vw’ĩa.”
 
-
 ##
 Mũthenya ũla watĩĩe nĩwew’ie ena ũnyiau wa
 kwakania mwaki ote.
@@ -52,7 +47,6 @@ kwakania mwaki ote.
 Nĩwasũanĩie, “nĩnĩsĩ ngailĩla kasama kanini ĩũlũ wa
 mwaki vaĩ ũndũ wĩkĩka. Ũtonya kwĩthĩwa ũndũ museo
 mũno kũya lĩu mũue."
-
 
 ##
 Ĩla mwanaainya wokie mũsyĩ nĩwainie otatene,
@@ -68,7 +62,6 @@ nyana sũanĩ nza wa ngunga.”
 Nũndũ Ndemane aĩ mũnou na ndendaa ngalali,
 nĩmekalile nthĩ maya lĩu woo vamwe na ũtanu.
 
-
 ##
 Mũthenya ũla watĩĩe nĩwavuvie mawki and auwa lĩu
 ĩngĩ. Kavinda kanini amina kũua nĩwew’ie wasya
@@ -82,7 +75,6 @@ Ndemanzane nĩwaisye, “Aiie. We ndwĩĩ mwanaainya
 wakwa; wasya waku tita wake.” Nĩwew’ie ee ũsũvĩonĩ
 wa ngunga.
 
-
 ##
 Okavinda kanini kathela, mũndũ
 nĩwainie nza wa ngunga, “mbingũĩe
@@ -95,7 +87,6 @@ Nthũngũlũlũ noilĩke
 Nũndũ wasya wew’ĩkaa ta wa
 mwanaainya nĩwavingũie mwango.
 
-
 ##
 Ĩmũndũ ĩnene ĩna masyulĩ maĩngĩ
 nĩyosũie mũomonĩ wa ngunga.
@@ -105,7 +96,6 @@ aĩna kamwanya okanini ka kwosa
 mũu kuma mwakini.
 Akuĩtwe nĩwendie etĩte mũu nzĩanĩ
 vala mesĩla.
-
 
 ##
 Mũthenya ũsu Ndemane nĩwatweete mwaatũ wĩna nzũkĩ mwĩta na aikua na mũvuko atũlĩtye
@@ -123,7 +113,6 @@ Ndemane nĩwakwananisye mũvuko
 na syana isu nisyeevithie syetela
 syone ũndũ ũla ũkwĩkĩka.
 
-
 ##
 Ĩmũndũ ĩsu ĩkweete na kĩw’ũ yokie
 na kĩmwana na mwĩĩtu wake.
@@ -136,7 +125,6 @@ na eetana, “Nĩkĩkũmana!”
 Kĩmwana nĩkyatũmiwe, “Thi
 wamũtetheesye!”. Nakyo kyathi
 kyekiwe ota mwĩĩtuinya.
-
 
 ##
 Ĩmũndũ ĩu nĩyalikile nyũmba ĩlonzete ĩkwasya, “Mwĩkoone ta nĩ ndia.” Nĩyavingie mũomo na
@@ -154,7 +142,6 @@ Kwa ĩvinda ĩasa kuma mũthenya
 nĩmaĩĩe ũkĩ mũseo kuma mwatũnĩ
 ũsu.
 
-
 ##
 Vakuvi na mwaki vaĩna ĩmũndũ ĩnene ĩna masyulĩ maĩngĩ ĩkalĩte
 nthĩ na ĩmũvuko ĩnene vakuvĩ nayo. Ndemane nĩwathengeie
@@ -163,7 +150,6 @@ wandetheesya na kĩw’ũ? Nĩnomĩa kũũ na nĩngwenda kĩw’ũ.”
 Ĩmũndũ ĩu nĩyamũie, “Nĩngũkwetee kĩw’ũ wambatha kana
 ndwĩkwata mũvuko wakwa. Nĩyalikilye mũvuko ũsu nyũmba neesa.
 
-
 ##
 
 ##
@@ -171,6 +157,6 @@ ndwĩkwata mũvuko wakwa. Nĩyalikilye mũvuko ũsu nyũmba neesa.
 * Text: South African Folktale
 * Illustration: Jemma Kahn
 * Translation: Anna Kula
-* Language: Kikamba
+* Language: kam
 
 South African folktale

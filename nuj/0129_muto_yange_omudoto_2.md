@@ -1,50 +1,36 @@
-# Muto yange
-omudoto
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
+# Muto yange omudoto
 
 ##
 Sisimuha naŋwana
 omuliro.
 
-
 ##
 Ni kena nga mbasa
 amaaji.
 
-
 ##
 Nga nasaaga ekwi.
 
-
 ##
 Nga kuyuga mu bi piiya.
-
 
 ##
 Nga saagula mu
 nyumba.
 
-
 ##
 Noosa esaani.
 
-
 ##
-Lwahiina tamba bugali tyo…
-
+Lwahiina tamba bugali tyo...
 
 ##
 Ne muganda yange ni
 geholera gw'ohugudula.
 
-
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Mlungisi Dlamini
 * Translation: Gershom Hirome
-* Language: Lunyole
-
+* Language: nuj

@@ -73,4 +73,4 @@ Akinyi wees.
 * Text: Lawrence A. Konjuro
 * Illustration: Vusi Malindi
 * Translation: Karien van Wyk
-* Language: Afrikaans
+* Language: af

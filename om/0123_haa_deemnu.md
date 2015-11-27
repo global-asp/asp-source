@@ -1,62 +1,50 @@
 # Haa deemnu!
 
 ##
-Funyaankoon…
-
+Funyaankoon...
 
 ##
-…kaalsii xuraawaa
+...kaalsii xuraawaa
 fuunfadha
 
-
 ##
-…abaaboo
+...abaaboo
 babbareedduus nan
 fuunfadha.
 
+##
+Ijakoon...
 
 ##
-Ijakoon…
-
-
-##
-…afuuffee qilleensa
+...afuuffee qilleensa
 keessa deemu nan
 ilaala
 
-
 ##
-…adurree gammadduus
+...adurree gammadduus
 nan arga.
 
-
 ##
-Afaankootiin…
-
+Afaankootiin...
 
 ##
 ...galaana ashaboo
 qabu nan dhandhama.
 
-
 ##
-…cuunfaa mi’aawaa
+...cuunfaa mi’aawaa
 burtukaanaas nan
 dhandhama.
 
-
 ##
-Harkakootiin…
-
+Harkakootiin...
 
 ##
 ...harkakeen qabadha.
-
 
 ##
 * License: [CC-BY-NC]
 * Text: Carole Bloch
 * Illustration: Thembinkosi Kohli
 * Translation: Dinqisisa Temesgen
-* Language: Afan Oromo
-
+* Language: om

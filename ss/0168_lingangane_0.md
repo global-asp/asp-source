@@ -12,7 +12,6 @@ lenyoni. Butjoki baPensa bebungandiza emoyeni
 njenge nyoni uma nje bekangatfola tinsiba temsila
 wale nyoni.
 
-
 ##
 Pensa wahamba waya enyangeni
 kuyofuna lusito. “Ngicela ungisite
@@ -28,7 +27,6 @@ Wente ligiba ubeke lencangozi
 ngekhatsi kwaleligiba. Itoheha
 lelingangane.”
 
-
 ##
 Pensa bekangati kutsi lenyanga
 nale nyoni bebangabangani.
@@ -43,7 +41,6 @@ undizele khashana kakhulu kunalo
 mlilo. Ngifuna kubona kutsi ngubani
 lotoncoba emkhatsini wenu.”
 
-
 ##
 Pensa wacala kutingela lenyoni.
 Wahlala esigangeni washikisha
@@ -55,7 +52,6 @@ Tincangozi lebetisemaceleni
 kwemlilo tandiza kepha Pensa
 wakhona kubamba intsetse lencane
 wayifaka egibeni lakhe.
-
 
 ##
 Lingangane alizange likhone
@@ -70,7 +66,6 @@ kwelingangane. Wagijima waya
 egibeni lakhe. inyoni
 beyibambekile!
 
-
 ##
 Lenyoni yacela Pensa kutsi
 ayikhulule.
@@ -80,7 +75,6 @@ ungewami! Tinsiba takho titokwenta
 butjoki bami bundize emoyeni
 njengawe.”
 
-
 ##
 lingangane lamemeta, "Uma
 ungibulala angeke usatitfola tinsiba
@@ -88,7 +82,6 @@ tami, ngoba ngitabe sengifile.
 Ngikhulule, ngiyatsembisa kutsi
 ngitokunika tinsiba letintja njalo
 inyenti ingagcwala."
-
 
 ##
 Ngalobo busuku inyanga yatsatsa
@@ -102,7 +95,6 @@ bayayikhumbula indzaba
 yelingangane, baphindze
 bayindlulisele ebantfwaneni babo
 njengesikhumbuto.
-
 
 ##
 Pensa waya ekhaya wenta butjoki
@@ -113,7 +105,6 @@ kudla lokulungile ngoba butjoki
 bakhe bentiwe ngetinsiba
 telingangane.
 
-
 ##
 Ngalobo busuku inyanga yatsatsa
 bantfu baya emcimbini
@@ -126,7 +117,6 @@ bayayikhumbula indzaba
 yelingangane, baphindze
 bayindlulisele ebantfwaneni babo
 njengesikhumbuto.
-
 
 ##
 Story notes
@@ -141,11 +131,9 @@ Winberg, interpreted digitally by Satsiri Winberg through
 manipulations of the Manyeka Art Collection of paintings made by
 San artists.
 
-
 ##
 * License: [CC-BY]
 * Text: Traditional San story
 * Illustration: Manyeka Arts Trust
-* Translation: T.w. khumalo and E.i. yende
-* Language: siSwati
-
+* Translation: T.w. khumalo, E.i. yende
+* Language: ss

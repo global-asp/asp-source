@@ -1,5 +1,4 @@
-# Haŋambi
-n’Ehudu
+# Haŋambi n’Ehudu
 
 ##
 Lwali lulala Namumbirya oyu
@@ -9,7 +8,6 @@ Epama ejo jaali enyeene endaŋi nyo
 era ni jiŋooma bugali. Kale
 gajinyiiya n'owegenderesa.
 Ng'ahena gehala ohulya.
-
 
 ##
 Haŋambi ko ni gaali ni genda ohutagiha ohulya,
@@ -23,7 +21,6 @@ Ngendire olugendo olwene oluleeŋi, olundembisye
 era enjala yinuma.”
 Haŋambi gabula hyahuhola ohutusaho ohuganya
 Wanehudu gengire.
-
 
 ##
 Haŋambi gaali mwimi nyo nga saŋanga
@@ -39,7 +36,6 @@ Wanehudu gahena gahaniambuha gaaja hu lwabi
 ohusaaba mu ngalo era ni gahena nga nindi
 ahaniambuha ohwagaama hu hiŋulo.
 
-
 ##
 Wanehudu gatiinanga ohusaaba mu
 ngalo eno Haŋambi geriila epama.
@@ -52,7 +48,6 @@ hitahere hyefe wabuhangaho
 ewange keesi nahuhyasa.”
 Ng'aŋo Wanehudu ahaniambuha,
 gagamayo ebubwe.
-
 
 ##
 Ebiseera ni hyabitaŋo, Haŋambi gatandiiha
@@ -69,7 +64,6 @@ Haŋambi agobolamo ati, “Yee! Ehyo nahisiime
 bugali.” Mu hiseera ehyo enjala yaali yeyongera
 hweyongera ohumusogota.
 
-
 ##
 Nga Wanehudu getubbya mu lwabi
 aje ategehe ebiryo. Haŋambi niye
@@ -83,7 +77,6 @@ ohuloma atyo nga nindi getubbya
 atagiha ohulya amahoose aga gaali
 n'ategehire.
 
-
 ##
 Haŋambi gagesyaho ohwetubbya
 coka sihyasoboha olwohuba niye
@@ -95,7 +88,6 @@ Wayirenga gagesyaho obukodyo
 obuŋera sigaŋanga hweyiniha.
 Ehyegulo nga himuhaya ohwolaho.
 
-
 ##
 Olufanyuma enyo Haŋambi gasuna
 ehiŋeego. Gabbirya agabaale mu
@@ -106,7 +98,6 @@ Ni getubbya galengera ebiryo ebi
 wanehudu gaali n'ategehire
 gaŋunyira nahawoowo habyo.
 Amate gatagiha ohusyolola.
-
 
 ##
 Naye Haŋambi ni gaali ni genda
@@ -122,7 +113,6 @@ n'ahuhiroboosaho alooma, ati
 Oba ebiŋeego bibaaye ŋe?” Ng'aŋo
 Haŋambi gefihula ekooti.
 
-
 ##
 Coka olw'ohubula mabaale musaŋu
 ohumuŋambirira ŋaasi, Haŋambi
@@ -134,10 +124,9 @@ galengerera Wanehudu n'alya
 emeere eyo enofu ohwola olu
 gayihenaŋo yosi yosi!
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Mera Stephen
-* Language: Lunyole
+* Language: nuj

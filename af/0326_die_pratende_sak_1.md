@@ -71,4 +71,4 @@ Fluit , fluit my storie is uit !
 * Text: Caroline Lentupuru
 * Illustration: Wiehan de Jager
 * Translation: Tariek Erasmus
-* Language: Afrikaans
+* Language: af

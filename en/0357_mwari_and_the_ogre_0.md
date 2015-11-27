@@ -52,5 +52,5 @@ what she was told.
 ##
 * License: [CC-BY]
 * Text: Alice Kapolondo
-* Illustration: Catherine Groenewald, Jeremiah Dube and Wiehan de Jager
+* Illustration: Catherine Groenewald, Jeremiah Dube, Wiehan de Jager
 * Language: en

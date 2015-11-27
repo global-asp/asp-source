@@ -1,11 +1,8 @@
-# Prisca nende
-Obushinga
-Butaru
+# Prisca nende Obushinga Butaru
 
 ##
 Mundalo tsiabura khale, abakhana
 bataru batsia okhurenya tsikhwi.
-
 
 ##
 Omubasu kwali nikwakha omululu
@@ -14,11 +11,9 @@ mumwalo.
 Belama nibabaya nibaanyulana kho
 amatsi mumwalo.
 
-
 ##
 Betsulila mbu efise fiwele.
 Nibaalalasia okhutsia ingo.
-
 
 ##
 Olwa bali busa ambi nende ingo,
@@ -29,7 +24,6 @@ naomberesia abashie.
 Nabo abashie nibaboola mbu efise
 fiwere muno.
 
-
 ##
 Kho Prisca nakalukha khumwalo
 yenyene.
@@ -38,13 +32,11 @@ nayuchilisia okhutsia nango.
 Abula, yakora injira khulwe
 eshilima.
 
-
 ##
 Ale kho, yalola obulafu okhurula
 mukhatili.
 Yayuchilisia okhutsiayo ne
 nakhong’onda khu muliango.
-
 
 ##
 Okhumuwuchisia, okubwa
@@ -56,7 +48,6 @@ enyoole kho abundu engone.”
 oko nikumuboolera.
 Kho Prisca niyenjira.
 
-
 ##
 Bwangu bwangu okubwa oko
 nikumuboolela, “Yalikhao ufuchile!”
@@ -65,7 +56,6 @@ ta,” Prisca nakukalusia.
 “Fuka bwangu nomba ekhunyanye,"
 Okubwa oko nikumubuurulira.
 Kho Prisca nakufuchila obusuma.
-
 
 ##
 Khandi okubwa oko nikumuboolela
@@ -76,7 +66,6 @@ okhwalira kho imbwa ta."
 ekhunyanye!" Okubwa oko
 nikumubuurulira.
 Kho Prisca nakwalira eshitali.
-
 
 ##
 Buli nyanga yakufuchiranga nende
@@ -90,7 +79,6 @@ Yeya inzu, oteshe efiakhulia khandi
 ofuye efindu fianje, nendakalukha
 tawe."
 
-
 ##
 Olwa okubwa oko kwali
 nikwakhatsia, Prisca yakhunyula
@@ -101,7 +89,6 @@ weshitali, olundi inyuma wo
 muliango, nolundi mulukaka.
 Mana niyelukha tsimbilo bwangu
 bwangu natsia ewabu.
-
 
 ##
 Olwa okubwa oko kwakalukha,
@@ -114,7 +101,6 @@ olushinga lwa mbeli nilukalusia.
 olushinga lwakhabili nilukalusia.
 “Nga endi ano, mulukaka,“
 olushinga lwa khataru niluboola.
-
 
 ##
 Bulano okubwa oko nikumanya mbu
@@ -130,10 +116,9 @@ nikushukhana tsimbiro. Ne okhurula
 olwenolo, kushiri okhulolokhakho
 mwitala omo khandi.
 
-
 ##
 * License: [CC-BY]
 * Text: Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Catherine Were
-* Language: Oluwanga
+* Language: lwg

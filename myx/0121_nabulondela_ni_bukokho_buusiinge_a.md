@@ -1,6 +1,4 @@
-# Nabulondela ni
-bukokho
-buusiinge (A)
+# Nabulondela ni bukokho buusiinge (A)
 
 ##
 Buno bwaba bukhwaale
@@ -19,13 +17,11 @@ nga shiwanwa she kamasaalikha
 keewe; naye waaba nga abukana
 naabi.
 
-
 ##
 “Waondoshe hapo hao kuku
 wachafu Refiloe!” mamake alipiga
 kelele, “Siwataki popote karibu na
 hema la harusi.”
-
 
 ##
 Refiloe aliwafukuza kuku kutoka
@@ -33,7 +29,6 @@ kwenye hema.
 “Torokeni enyi viumbe washienzi.”
 alisema, “Sitaki mliwe kwenye
 harusi ya Palesa.”
-
 
 ##
 “Mama asema kwamba hii itakuwa
@@ -48,7 +43,6 @@ ndani, “acha hao kuku wako na uje
 kunisaidia na hivi vyungu
 tafadhali!”
 
-
 ##
 
 ##
@@ -59,7 +53,6 @@ finished, there was not a single speck of dust anywhere.
 The chickens poked their heads inside the front door. ‘Out!’
 shouted Refiloe’s mother, ‘out you scruffy things with your dirty
 feet and beaks!’
-
 
 ##
 Refiloe aliwafuata kuku wake hadi nje kwenye ua.
@@ -72,7 +65,6 @@ Refiloe alikuwa na wakati mgumu kuwashika kuku
 wake. Hawakufikiria kwamba kuoga ilikuwa jambo
 zuri kwao.
 
-
 ##
 Refiloe alimweka kuku wa kwanza
 ndani ya ndoo ya maji.
@@ -81,7 +73,6 @@ mwenda wazimu.
 “Kaa wima, ewe kiumbe shenzi,”
 Refiloe alipiga kelele.
 “Haitachukuwa muda mrefu!”
-
 
 ##
 Refiloe alipolipangusa pua na
@@ -95,14 +86,12 @@ Kisha alimlaza juu ya nyasi ili
 akauke. Kuku alitulia pale akiwa
 amelala.
 
-
 ##
 Aliwaosha kuku wote wanane na kuwaweka kwenye
 mstari juu ya nyasi ili wakauke.
 Hakuna yeyote aliyesongesha hata unyoya mmoja.
 “Nitawaacha kulala kwa muda mfupi,” Refiloe
 aliwaza, kisha akaenda kukiangalia chungu mekoni.
-
 
 ##
 Shangazi zake Refiloe, yaani Mama
@@ -112,7 +101,6 @@ muda mrefu.
 Walitakiwa wafanye matayarisho
 hayo kwa pamoja lakini
 hawakupendana hata kidogo.
-
 
 ##
 Mama Ngwe aliwaona kuku wa Refiloe wakiwa
@@ -124,7 +112,6 @@ Hakuna kuku hata mmoja aliyesonga. “Kamili
 kabisa!” Alitabasamu. Sasa nitawaweka mahali
 ambapo Mamake Pedi hatawahi kuwapata.” kisha
 akaweka kifurushi hicho pembeni kati ya malenge.
-
 
 ##
 Mama Pedi aliamua kutayarisha kitoweo chake alichopenda cha
@@ -142,7 +129,6 @@ akitembeatembea nyumbani.
 Pedi alipanda juu ya ukuta wa bustani na kuwaweka kuku katika
 mstari kwenye paa la nyumba ya nyasi.
 
-
 ##
 
 ##
@@ -152,7 +138,6 @@ wake.
 Aliona kwamba hawakuwa wamelala juu ya nyasi tena. “Lazima
 wawe wamekauka vizuri kwa sasa. Nina hakika wameenda
 kutafuta kifungua kinywa chao,” alisema.
-
 
 ##
 Harusi ya Palesa ilikuwa ya kufana. Wale kuku
@@ -170,13 +155,11 @@ Hakuna hata mguu mmoja wa kuku uliotetemeka
 wakati kondoo waliranda na kuingia ndani ya hema
 wakiwa karibu kuangusha keki ya harusi.
 
-
 ##
 Ilikuwa wakati babake bwana harusi
 alipokuwa katikati mwa hotuba yake
 ndipo mambo yalianza kubadilika
 kwenye lilie paa.
-
 
 ##
 Kuku wa kwanza alieneza mbawa zake na kuruka kwenye kifua cha
@@ -188,7 +171,6 @@ Mwanamke aliyekaa karibu na Mama Ngwe aliweka kichwa chake
 chini ya meza, “Ai, aai, aaaaii, he, he, heeeeeeee!” alichekelea.
 Wale kuku wote waliamua kujiunga na wale wawili wa kwanza.
 Hungemwona Mama Ngwe kwa ajili ya kuku hao wote!
-
 
 ##
 
@@ -203,7 +185,6 @@ Then the two aunts looked at each other and started giggling.
 Mme Pedi opened her mouth wide with laughter. Mme Ngwe threw
 back her head and laughed until all her chins shook.
 Refiloe couldn’t believe it!
-
 
 ##
 
@@ -230,10 +211,8 @@ nitalazimika kuwaosha tena kesho!”
 ##
 
 ##
-Nabulondela ni bukokho buusiinge
-(A)
 * License: [CC-BY]
 * Text: Marion Drew
 * Illustration: Wiehan de Jager
 * Translation: Milton Eridad Shissa
-* Language: Lumasaaba
+* Language: myx

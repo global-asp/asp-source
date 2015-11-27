@@ -1,5 +1,4 @@
-# Imbusi, Imbwa
-nende Ing’ombe
+# Imbusi, Imbwa nende Ing’ombe
 
 ##
 Imbusi, Imbwa nende
@@ -7,7 +6,6 @@ Ing’ombe bali abetsa
 abakhongo.
 Inyanga ndala batsia
 oluchendo mumutoka.
-
 
 ##
 Ngala batukha
@@ -18,13 +16,11 @@ amamondo buli mundu.
 Ing’ombe yarunga
 amamondo kayo.
 
-
 ##
 Imbwa niirunga amanji
 kho khulwokhubera yali
 niibula amapesa
 akayerana.
-
 
 ##
 Olwa omwirusi wo
@@ -34,7 +30,6 @@ katonyere, ne Imbusi
 niirwatsukha tsimbiro
 niishiri okhurunga.
 
-
 ##
 Omwirusi yasinyikha
 muno.
@@ -42,7 +37,6 @@ Niyerusia mutoka
 nashiri okhukalusiria
 Imbwa amamondo kali
 katonyere.
-
 
 ##
 Esho ne shifune
@@ -54,7 +48,6 @@ omwirusi wo mutoka
 yatong’a nende
 amamondo kayo.
 
-
 ##
 Nayo Imbusi niulire
 oluyoka lwo mutoka,
@@ -62,7 +55,6 @@ neirukha.
 Yaria yakhatirwa khulwo
 khukhaya khurunga
 amamondo.
-
 
 ##
 Nayo I ng’ombe
@@ -80,4 +72,4 @@ kosi.
 * Text: Fabian Wakholi
 * Illustration: Marleen Visser
 * Translation: Margaret Amateshe
-* Language: Oluwanga
+* Language: lwg

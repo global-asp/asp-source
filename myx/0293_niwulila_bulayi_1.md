@@ -6,12 +6,10 @@ I enjoy skipping rope...
 Nikhoya nga
 ndikhusuna kumukosi....
 
-
 ##
 &hellip;alone.
 
 .....senyene
-
 
 ##
 I enjoy skipping it with
@@ -21,14 +19,12 @@ Nikhoya ngandikhusuna
 kumukosi atwela nu
 musaale wase.
 
-
 ##
 I enjoy reading
 interesting stories.
 
 Nikhoya khusoma
 tsingano tsitsikhoyesa
-
 
 ##
 I enjoy walking in the
@@ -38,7 +34,6 @@ Nikhoya khukenda
 mukyewa ni basaale
 basye.
 
-
 ##
 I enjoy washing utensils
 for my mother.
@@ -46,7 +41,6 @@ for my mother.
 Nikhoya khusingila
 Maayi bibindu
 byekhulilakho
-
 
 ##
 I enjoy writing big
@@ -65,14 +59,12 @@ fruit.
 Nikhoya khulya bibyano
 byabulisambo.
 
-
 ##
 I enjoy sleeping on a
 big bed.
 
 Nikhoya khukona
 khubutunde bubalayi.
-
 
 ##
 I enjoy listening to
@@ -83,7 +75,6 @@ Nikhoya khu rkeresa
 maayi nga anganikhila
 tsingano tsitsikhoyesa.
 
-
 ##
 Ooh! I enjoy doing all
 these things!
@@ -91,10 +82,9 @@ these things!
 Nikhoya khukhola
 bibindu ibi byoosi.
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Wiehan de Jager
 * Translation: Fabian Wakholi
-* Language: Lumasaaba
+* Language: myx

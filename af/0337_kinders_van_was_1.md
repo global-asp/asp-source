@@ -65,4 +65,4 @@ gevlieg in die lig in.
 * Text: Southern African Folktale
 * Illustration: Wiehan de Jager
 * Translation: Suzette Hallatt
-* Language: Afrikaans
+* Language: af

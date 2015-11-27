@@ -1,7 +1,4 @@
-# Sisyutse
-sye’tsala ni
-kamatsangwali
-kamalulu
+# Sisyutse sye’tsala ni kamatsangwali kamalulu
 
 ##
 Abaaho khaleekho sitsutsye,
@@ -9,7 +6,6 @@ ne’nga itsala ili khusilya.
 Yaba sili khukendakendakho
 mukyewa nga siheetsa
 byakhulya.
-
 
 ##
 Syatundubikha kumukunda kwe
@@ -19,14 +15,12 @@ kwekamatsangwali
 katsungatsunga khu lusakya
 lwe murwe
 
-
 ##
 Wilomela yenyene ari, “ako
 kafaana kanukutsile bulayi.”
 Wisyendakho inyuma khafwiti
 ari,ameeyo isutile ilaala
 mungaki.
-
 
 ##
 Kamatsangwali yaba
@@ -35,7 +29,6 @@ Wanatsutse ehena ne wikhupa
 haasi makalama nga
 mbakhwoola khu matsangwali
 ta.
-
 
 ##
 Wanatsutse
@@ -48,7 +41,6 @@ Afu ,afu oleele ilaala angaki
 khumatsangwali,wimuula asi
 kwe’ngoolo.
 
-
 ##
 Witsemamu lundi na lundi
 ne’nga sanyala khukhwola
@@ -58,11 +50,9 @@ ni’nyukha khukhwolesa
 kumukongo kwitsula
 kamakotso.
 
-
 ##
 Imamalilisi wabirurakho
 wikendela waatsya.
-
 
 ##
 Wanatsutse aaba mukhalafu
@@ -76,12 +66,9 @@ Wisindikhilisa watsya.itsala
 yaba yamuliliile ilaala khufura
 matayi.
 
-
 ##
-Sisyutse sye’tsala ni kamatsangwali
-kamalulu
 * License: [CC-BY]
 * Text: Kholeka Mabeta
 * Illustration: Benjamin Mitchley
 * Translation: Aryada Naomi Nora
-* Language: Lumasaaba
+* Language: myx

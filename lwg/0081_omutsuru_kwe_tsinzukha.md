@@ -1,5 +1,4 @@
-# Omutsuru kwe
-tsinzukha
+# Omutsuru kwe tsinzukha
 
 ##
 Olukoba lwa Matungu
@@ -12,7 +11,6 @@ Inzukha yino yarisia abaandu abanji
 khubeera yalitsanga tsimbusi nende
 amakondi.
 
-
 ##
 One day, sistersInyanga ndala,
 Asitou, Joy nende Sofia bali batsia
@@ -22,7 +20,6 @@ nende Unyalego. Mulabukule
 eshindu shiosi mumutsuru ilali
 tsikhwi.”
 Joy shiyaulirisia ka kukhu waye ta.
-
 
 ##
 Abakhaana bachinga amabeere,
@@ -34,13 +31,11 @@ lwokhurema emisala.
 Bachaka oluchendo okhutsia
 mumutsuru.
 
-
 ##
 Khunjira, abakhaana bakhupa
 tsimbakha nibatsekha.
 Asitou yababoolera, “Bune. Luno no
 lukoba lwa Unyalego.”
-
 
 ##
 Sofia yabalangasia, “Lole, ameno ka
@@ -49,7 +44,6 @@ Khukabukule.
 Asitou yabaparisia, “Kukhu
 yakanisie khulabukula eshindu
 mumutsuru ta ilali tsikhwi.”
-
 
 ##
 Joy nakalusia, “Kukhu abeeya.
@@ -62,7 +56,6 @@ oburi. “Joy, kukhukaya okhubukula
 ameno,” nibaboola. Joy shiyaulirisia
 ta.
 
-
 ##
 Mufise fitutu, Unyalego yarula
 okhukhaaba ameno kaye.
@@ -73,7 +66,6 @@ nende okhutsekha. Yefisa
 khulwanda hambi nende omuhanda
 wa abakhaana bali babire.
 
-
 ##
 Abakhaana betukha tsikhwi
 khumirwe chiabo.
@@ -82,7 +74,6 @@ Batirwa nende oburi nibatema
 okhwifisa. Balola Unyalego
 niyasame omunwa, okhwenya
 okhubaluma.
-
 
 ##
 Unyalego yareba, “Niwina ubukule
@@ -95,14 +86,12 @@ kanje alemba obubi. Alaba
 shiokhulia shianje khu tsinyanga
 tsitaru.”
 
-
 ##
 Asitou yemba obulayi:
 Sio mimi, sio mimi aliye na meno,
 Mwenye meno bado yuko
 nyumaaaaaah.
 Joy yesi yemba olwimbo.
-
 
 ##
 Olumalirisi, Sofia yemba.
@@ -116,17 +105,15 @@ Inzukha yamanya niye wali
 nabukule ameno kaye
 kang’inang’ina.
 
-
 ##
 Unyalego yamira Sofia.
 Abakhaana babo berukha okhutsia
 mulukongo okhukanira be
 mulukongo kali kekholeshe.
 
-
 ##
 * License: [CC-BY]
 * Text: Joseph Sanchez Nadimo
 * Illustration: Rob Owen
 * Translation: Margaret Amateshe
-* Language: Oluwanga
+* Language: lwg

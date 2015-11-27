@@ -162,4 +162,4 @@ gegaan nie.
 * Text: Sarah Nangobi
 * Illustration: Wiehan de Jager
 * Translation: Desiré Eybers
-* Language: Afrikaans
+* Language: af

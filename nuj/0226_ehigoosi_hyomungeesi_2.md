@@ -1,5 +1,4 @@
-# Ehigoosi
-hy’omuŋeesi
+# Ehigoosi hy’omuŋeesi
 
 ##
 Olwolile, hu hyalo ehy’esozi
@@ -7,7 +6,6 @@ mw’Afrika, yaliyo omuŋeesi
 haŋunye.
 Abohu hyalo ohwo bamulanganga
 baatii, "Muhubba byoma."
-
 
 ##
 Muhubba byoma gaali amanyihene
@@ -18,7 +16,6 @@ Becaananga enyiriri enyene endeŋi
 ohwebonera obukodyo wa muhuba
 byoma.
 
-
 ##
 Hasahya wa Mugaba, omuŋugi
 w’ehyalo, gaŋulira ebiŋamba hu
@@ -27,14 +24,12 @@ Gatuma abalobera babe baje
 ohuleete Muhubba byoma mu
 mbuga yiye.
 
-
 ##
 Muhubba Byoma gaali n'esanyu ni
 gaŋulira ati Hasahya wa Mugaba
 genda ohumubona.
 Ng'aloma ati, "Hinasangaase
 ohuholera habaha."
-
 
 ##
 Ni goola nga Hasahya wa Mugaba
@@ -45,7 +40,6 @@ Hino hyasangaasa Muhubba byoma
 era gebaasa habaha n'ohumwenya
 n'amwenya.
 
-
 ##
 ‘Ng'omwami amuloma ati, "Nenda
 oboote, mu byoma bibyo, omuutu
@@ -55,14 +49,12 @@ Muhubba Byoma gasoberwa.
 Ate n'eŋuma muutu hu hyalo ohwo
 atenguŋa omwami.
 
-
 ##
 Muhubba byoma obwire obwo
 sigalimba hwiro n'alowoosa ehi
 anahole.
 Obuti wamuŋamba era geralihirira
 bugali.
-
 
 ##
 Muhubba byoma galowoosa hu
@@ -73,7 +65,6 @@ ohwo mbo olwohuba gaali
 asunguŋahise Hasahya wa Mugaba
 habaha w'ehyalo ehyo.
 
-
 ##
 Ni wahya Muhubba byoma sigatiina
 mu hyobo hihye.
@@ -82,7 +73,6 @@ ohuŋeega ehi anahole.
 Gali ko atiina, nga ŋabaŋo omusaaja
 muhulu oyu gabona ni gehaaye
 ŋaasi w'omusala.
-
 
 ##
 Omusaaja muhulu oyo gaali nje
@@ -93,7 +83,6 @@ nenda wunjeede." Nga Muhubba
 byoma amuloohesa ehizibu hihye.
 Ng'omusaaja muhulu alowoosa
 ohuhena ahamanga ng'aloma ati....
-
 
 ##
 "Yagama hu hyalo olome habaha oti
@@ -110,7 +99,6 @@ Muhubba byoma ŋawene aŋo
 gaduluma gatiina hu hyalo mu
 mbuga ya Hasahya wa Mugaba.
 
-
 ##
 Ni goola ng'aloma habaha ati,
 Konyo sobole ohubbota omusaaja
@@ -124,7 +112,6 @@ hyoma.
 Hasahya w'Mugaba gafugiirira.
 Galagira abasaaja babe ohulomera
 ab’ehyalo.
-
 
 ##
 Amaliro gaŋulirihana mu hiisi
@@ -142,7 +129,6 @@ Hasahya w'Mugaba byamusobera
 ng'ahanda alanga Muhubba byoma
 mu mbuga.
 
-
 ##
 Ng'amuŋamba mu ngalo amuloma
 ati, "Muhubba byoma, oli musaaja
@@ -152,7 +138,6 @@ ohuhweyaasa ohuba mulala hu
 basaaja abagesi hu hyalo hyange.
 Era kusunga oganye obe ndiiwe
 atangirira abalobera bange."
-
 
 ##
 Nga Muhubba byoma aloma ati,
@@ -166,10 +151,9 @@ hu hyalo, nga niye ni Muhubba
 byoma bafuuha baŋi b’amagesi eri
 Hasahya wa Mugaba.
 
-
 ##
 * License: [CC-BY]
 * Text: Ugandan folktale
 * Illustration: Wiehan de Jager
 * Translation: Mubbalya Charles
-* Language: Lunyole
+* Language: nuj

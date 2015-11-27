@@ -49,5 +49,5 @@ case.
 ##
 * License: [CC-BY]
 * Text: Ritah Katetemera
-* Illustration: Michael Nakuwa, Benjamin Mitchley, Wiehan de Jager, Bronwen Heath, Catherine Groenewald and Rijuta Ghate
+* Illustration: Michael Nakuwa, Benjamin Mitchley, Wiehan de Jager, Bronwen Heath, Catherine Groenewald, Rijuta Ghate
 * Language: en

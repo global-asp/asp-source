@@ -6,12 +6,10 @@ I enjoy skipping rope...
 Nyumirwa ohutuuma
 omugoye.......
 
-
 ##
 &hellip;alone.
 
 ...seeka.
-
 
 ##
 I enjoy skipping it with
@@ -20,14 +18,12 @@ my friend too.
 Nyumirwa ohugutuuma
 ni meeri yange yesi.
 
-
 ##
 I enjoy reading
 interesting stories.
 
 Nyumirwa ohusoma
 engero ejinyoonya
-
 
 ##
 I enjoy walking in the
@@ -37,7 +33,6 @@ Nyumirwa ohugenda
 mu hisaaɳe n’abameeri
 bange.
 
-
 ##
 I enjoy washing utensils
 for my mother.
@@ -45,7 +40,6 @@ for my mother.
 Nyumirwa ohwohesa
 maama
 ebyo’hunyiyiramo
-
 
 ##
 I enjoy writing big
@@ -65,14 +59,12 @@ Nyumirwa ohulya
 ebibala ebyengeri
 nengeri.
 
-
 ##
 I enjoy sleeping on a
 big bed.
 
 Nyumirwa ohugona
 huhitaliri ehibbala.
-
 
 ##
 I enjoy listening to
@@ -83,7 +75,6 @@ Nyumirwa ohuɳulirisa
 maama naagana
 engero ejinyoonya.
 
-
 ##
 Ooh! I enjoy doing all
 these things!
@@ -91,10 +82,9 @@ these things!
 Ooh! ese ohuhola ebiitu
 bino byoosi hunyoonya.
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Wiehan de Jager
 * Translation: William Christopher Bukheye Mulongo
-* Language: Lunyole
+* Language: nuj

@@ -6,7 +6,6 @@ wuwe abali n'omwana omulala
 yeŋene, omuseele ni bamulanga
 baati Muŋubebe.
 
-
 ##
 Lulala Muŋubebe ni gaali n'aja
 ohulobba embusi ng'olwiga
@@ -15,7 +14,6 @@ Nyina ni gamutuma hwiduka
 ohugula episyo amutingire esaati
 yiye, Muŋubebe gagula episyo
 ng'ayita mu saŋu y’esaati.
-
 
 ##
 Ne ni gaali ni gagamayo engo,
@@ -30,7 +28,6 @@ Olundi otanga episyo hu hapapula”.
 Nga Muŋubebe agaluhamo ati,
 “Kale maama, tegeeye,” .
 
-
 ##
 Oludalo olwalondaho, Muŋubebe gabugula esongo ng'aja amaaji.
 Gahebulira ehi nyina gamuloma, nga awoŋa esongo mu hipapula
@@ -41,7 +38,6 @@ Ni goola engo, nyin gamunyonyola n'edembe ati, “Mwana wange,
 olundi wetwihanga esongo hu mutwe. Aŋo oja husobola ohuyigega
 n'etajijuhise amaaji.”
 Muŋubebe gamugobolamo, “Kale maama, tegeeye.”
-
 
 ##
 
@@ -62,7 +58,6 @@ bajihwesa baŋira balooba! Obanga
 soŋanga hutegeera ehi bahuloma,
 wuja huŋwa ŋango ŋano.”
 
-
 ##
 Nindi olundi, nga semwana
 amutuma ohugula enyama mu
@@ -76,7 +71,6 @@ Oŋeega
 Muŋubebe gool engo enyama
 n'efaana yitye?
 
-
 ##
 Semwana ganyiiga ng'amuloma
 ohusoloosamo otutwe amuŋwere
@@ -89,13 +83,11 @@ olwohufumbiro ohubaho
 nehy’ohutandihiraho ohutongola
 enyumba.
 
-
 ##
 Bagenda baŋesa ahateŋama naye
 ndibatafuna ŋahutongola enyumba.
 Ni wira, basalaŋo ohuniina
 omusaala baŋenyuhe ohwo.
-
 
 ##
 Baali bahaniina omusaala, ko ni
@@ -111,7 +103,6 @@ ebyembaha ebyene banyalagataŋo
 embiro baleha aŋo hiisi ehibaali ni
 nahyo.
 
-
 ##
 Nga Muŋubebe ni nyina baninuha
 hu musaala.
@@ -122,10 +113,9 @@ Era amangu dala bafuna ehifo
 ehyohutongolamo enyumba, nga
 besenga aŋo mu sanyu.
 
-
 ##
 * License: [CC-BY]
 * Text: Cissy Kiwanuka Luyiga
 * Illustration: Catherine Groenewald
 * Translation: Gershom Hirome
-* Language: Lunyole
+* Language: nuj

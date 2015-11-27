@@ -1,7 +1,4 @@
-# Ukuvuma
-ngeqiniso:
-Indatjana
-kaMiriam
+# Ukuvuma ngeqiniso: Indatjana kaMiriam
 
 ##
 Eminyakeni eyadlulako,
@@ -11,7 +8,6 @@ umntazanyana.Loyo mntazana
 bekungimi. Umma wangithiya
 igama wathi ngingu uMariam
 Makeba.
-
 
 ##
 Umma bekasisangoma,
@@ -23,7 +19,6 @@ ukuze asithlogomele. Umma
 wathoma ukuthengisa utjwala
 obenziwe ekhaya ukwenzela
 bona sithole imali.
-
 
 ##
 Abantu bomthetho batjela
@@ -38,7 +33,6 @@ bengimdinga umma. Nanyana
 bengimntwana nje nami ngiyile
 ejele.
 
-
 ##
 Bengimntanzanyana othanda
 ukucula. Ukukhula kwami
@@ -52,7 +46,6 @@ nelanga licaleke likhanya.
 Ukuvuma kungeze ngathaba
 khulu emoyeni.
 
-
 ##
 Bengivuma esondweni, lokhu
 kwenza
@@ -62,7 +55,6 @@ abantu boke. Nasivumako
 sizizwe sizithemba singasabi
 litho sinamandla.
 
-
 ##
 Abantu bebathi iphimbo lami
 lisisipho Kanye neengoma zami
@@ -70,7 +62,6 @@ zikhethekile. Ngivume nabanye
 abavumi begodu umvumo
 wethu uzwakale iphasi loke
 mazombelele.
-
 
 ##
 Ekhaya bekuseSophiatown,
@@ -87,7 +78,6 @@ baphethe bebangafuni ukuthi
 umuntu omnyama nomhlophe
 babe bangani.
 
-
 ##
 Bengazi bonyana akukalungi
 ukuhlukumeza abantu
@@ -101,7 +91,6 @@ ngangivuma e-America,
 ngatjelwa bona ngingasabuyela
 ekhaya.
 
-
 ##
 Iphasi mazombe lezwa indaba
 yami. Iingoma zami Kanye
@@ -112,7 +101,6 @@ abantu abano mbala onzima.
 Ngaqubeka ngokuvuma
 ngezehlakalo ezenzeka
 enarheni yekhethu.
-
 
 ##
 Umhlaba woke bewuthanda
@@ -128,7 +116,6 @@ bakhona ngade bangaphasi
 kwegandelelo bedodu kungana
 nkululeko.
 
-
 ##
 Izinto zatjhuguluka ngesikhathi
 uNelson Mandela nakaba
@@ -137,7 +124,6 @@ Abantu abatjha baphatha bese
 imithetho yegandelelo
 yakhamba. Ngabuyela ekhaya
 ngethemba elitjha.
-
 
 ##
 Ngemva kwalokho ngakwazi
@@ -152,17 +138,13 @@ ngingasabi. Bengivuma
 ngeqiniso kizo zoke iingoma
 zami.
 
-
 ##
-Ukuvuma ngeqiniso: Indatjana
-kaMiriam
 * License: [CC-BY]
 * Text: Jade Mathieson
 * Illustration: Louwrisa Blaauw
-* Translation: Mahlangu K.M and Ubisi T
-* Language: isiNdebele
+* Translation: Mahlangu K.M, Ubisi T
+* Language: nr
 
 Ukuthola ilwazi elinengi ge Book
 Dash cala Iwebsiti elandelako
 :www.bookdash.org
-
