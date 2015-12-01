@@ -4,7 +4,6 @@ Story ID | Title | License
 -------- | ----- | -------
 0001 | [Mwanamme mrefu](http://africanstorybook.org/stories/mwanamme-mrefu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0002 | [Tazama wanyama](http://africanstorybook.org/stories/tazama-wanyama) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
-0002 | [Wanyama wa kufugwa](http://africanstorybook.org/stories/wanyama-wa-kufugwa) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0003 | [Sare za shule](http://africanstorybook.org/stories/sare-za-shule) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0004 | [Mbuzi, Mbwa na Ng’ombe](http://africanstorybook.org/stories/mbuzi-mbwa-na-ng’ombe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0005 | [Anansi na Kasa](http://africanstorybook.org/stories/anansi-na-kasa) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
@@ -75,7 +74,6 @@ Story ID | Title | License
 0243 | [Kusherehekea likizo kwa nyanya](http://africanstorybook.org/stories/kusherehekea-likizo-kwa-nyanya) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0244 | [Msichana mwenye titi moja](http://africanstorybook.org/stories/msichana-mwenye-titi-moja) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0251 | [Nonkungu na Imbulu](http://africanstorybook.org/stories/nonkungu-na-imbulu-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0251 | [Nonkungu na Imbulu](http://africanstorybook.org/stories/nonkungu-na-imbulu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0252 | [Mti ulionusuru kijiji cha Ombalantu](http://africanstorybook.org/stories/mti-ulionusuru-kijiji-cha-ombalantu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0254 | [Ng’ombe wa sokoni](http://africanstorybook.org/stories/ng’ombe-wa-sokoni) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0256 | [Viatu  vyangu vya kwanza](http://africanstorybook.org/stories/viatu-vyangu-vya-kwanza) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
