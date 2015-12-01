@@ -53,6 +53,7 @@ lsm | Lusamia
 luc | Aringati
 luo | Dholuo
 lwg | Oluwanga
+mas | Maa
 mer | Kimîîru
 mhi | Ma'di
 myx | Lumasaaba
