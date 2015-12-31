@@ -46,6 +46,7 @@ ISO code | Language Name
 [kr](https://github.com/global-asp/asp-source/tree/master/kr) | Kanuri
 [laj](https://github.com/global-asp/asp-source/tree/master/laj) | Leblango
 [lgg](https://github.com/global-asp/asp-source/tree/master/lgg) | Lugbarati
+[lgg-official](https://github.com/global-asp/asp-source/tree/master/lgg-official) | Lugbarati (Official)
 [lg](https://github.com/global-asp/asp-source/tree/master/lg) | Luganda
 [lko](https://github.com/global-asp/asp-source/tree/master/lko) | Olukhayo
 [lsm](https://github.com/global-asp/asp-source/tree/master/lsm) | Lusamia
@@ -72,7 +73,6 @@ ISO code | Language Name
 [teo](https://github.com/global-asp/asp-source/tree/master/teo) | Ateso
 [tn](https://github.com/global-asp/asp-source/tree/master/tn) | Setswana
 [toh](https://github.com/global-asp/asp-source/tree/master/toh) | Gitonga
-[ts](https://github.com/global-asp/asp-source/tree/master/ts) | Changana
 [tsc](https://github.com/global-asp/asp-source/tree/master/tsc) | Xitswa
 [ts](https://github.com/global-asp/asp-source/tree/master/ts) | Xitsonga
 [ttj](https://github.com/global-asp/asp-source/tree/master/ttj) | Rutooro
