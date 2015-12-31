@@ -37,7 +37,6 @@ ISO code | Language Name
 [fr](https://github.com/global-asp/asp-source/tree/master/fr) | French
 [gur](https://github.com/global-asp/asp-source/tree/master/gur) | Gurene
 [guz](https://github.com/global-asp/asp-source/tree/master/guz) | Ekegusii
-[gwr](https://github.com/global-asp/asp-source/tree/master/gwr) | Lugwere
 [ha](https://github.com/global-asp/asp-source/tree/master/ha) | Hausa
 [kam](https://github.com/global-asp/asp-source/tree/master/kam) | Kikamba
 [kdj](https://github.com/global-asp/asp-source/tree/master/kdj) | Ngakarimojong

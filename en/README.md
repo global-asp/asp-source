@@ -105,7 +105,7 @@ Story ID | Title | License
 0101 | [The Cooking Game](http://africanstorybook.org/stories/cooking-game) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0102 | [Kalabushe the talkative](http://africanstorybook.org/stories/kalabushe-talkative) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0103 | [Singing the Truth: The Story of Miriam Makeba](http://africanstorybook.org/stories/singing-truth-story-miriam-makeba) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0104 | [Letter to mum, brief vir mama](http://africanstorybook.org/stories/letter-mum-brief-vir-mama) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0104 | [Letter to mum](http://africanstorybook.org/stories/letter-mum-brief-vir-mama) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0105 | [Duck and Blind snake](http://africanstorybook.org/stories/duck-and-blind-snake) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0106 | [Namukuru's bicycle](http://africanstorybook.org/stories/namukuru’s-bicycle) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0107 | [Jackal and the sun](http://africanstorybook.org/stories/jackal-and-sun) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
