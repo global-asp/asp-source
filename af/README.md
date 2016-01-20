@@ -44,7 +44,6 @@ Story ID | Title | License
 0180 | [Vayu, die wind](http://africanstorybook.org/stories/vayu-die-wind-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0184 | [Mulongo en die hiënas](http://africanstorybook.org/stories/mulongo-en-die-hiënas) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0188 | [My ma maak tuin](http://africanstorybook.org/stories/my-ma-maak-tuin) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0220 | [King of birds](http://africanstorybook.org/stories/king-birds-5) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0224 | [Die Dansende Boerbok](http://africanstorybook.org/stories/die-dansende-boerbok) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0232 | [Slaperige Mnr.Luiheid](http://africanstorybook.org/stories/slaperige-mnrluiheid-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0237 | [Ek kan dit ook doen](http://africanstorybook.org/stories/ek-kan-dit-ook-doen) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)

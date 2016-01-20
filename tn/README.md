@@ -33,6 +33,7 @@ Story ID | Title | License
 0202 | [Refiloe le dikoko tsa gagwe](http://africanstorybook.org/stories/refiloe-le-dikoko-tsa-gagwe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0206 | [Meno](http://africanstorybook.org/stories/meno) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0215 | [Difitlholo](http://africanstorybook.org/stories/difitlholo) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
+0220 | [Motlhokomedi le serapa sa gagwe se se kgethegileng](http://www.africanstorybook.org/stories/motlhokomedi-le-serapa-sa-gagwe-se-se-kgethegileng) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0231 | [Buka ya maemo a bosa](http://africanstorybook.org/stories/buka-ya-maemo-bosa) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0237 | [Ke kgona go dira se](http://africanstorybook.org/stories/ke-kgona-go-dira-se) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0241 | [Kotsi](http://africanstorybook.org/stories/kotsi-0) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)

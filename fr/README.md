@@ -58,6 +58,7 @@ Story ID | Title | License
 0188 | [Ma mère a fait des plantations](http://africanstorybook.org/stories/ma-m%C3%A8re-fait-des-plantations-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0210 | [Olivia Mahe](http://africanstorybook.org/stories/olivia-mahe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0213 | [Coq et Lièvre](http://africanstorybook.org/stories/coq-et-li%C3%A8vre) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0220 | [Keeper et son orphelinat spécial](http://www.africanstorybook.org/stories/keeper-et-son-orphelinat-sp%C3%A9cial) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0232 | [M. Paresseux est fatigué](http://africanstorybook.org/stories/m-paresseux-est-fatigu%C3%A9) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0235 | [Le pou écrasé](http://africanstorybook.org/stories/le-pou-%C3%A9cras%C3%A9) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0236 | [Le roi Kayanja et sa fille](http://africanstorybook.org/stories/le-roi-kayanja-et-sa-fille) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

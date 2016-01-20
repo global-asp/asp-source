@@ -26,6 +26,7 @@ Story ID | Title | License
 0179 | [Umbala Obomvu ](http://africanstorybook.org/stories/umbala-obomvu) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0180 | [UVayu omoya](http://africanstorybook.org/stories/uvayu-omoya) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0210 | [UTingi kunye Nenkomo](http://africanstorybook.org/stories/utingi-kunye-nenkomo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0220 | [UMgcini nekhaya leenkedama](http://www.africanstorybook.org/stories/umgcini-nekhaya-leenkedama) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0228 | [Ilizwe Lethu Elimangalisayo](http://africanstorybook.org/stories/ilizwe-lethu-elimangalisayo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0233 | [Umvundla Uya Ethekweni](http://africanstorybook.org/stories/umvundla-uya-ethekweni) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0242 | [UNdlovu namaSele](http://africanstorybook.org/stories/undlovu-namasele) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

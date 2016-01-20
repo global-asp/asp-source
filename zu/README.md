@@ -40,6 +40,7 @@ Story ID | Title | License
 0203 | [Impukane](http://africanstorybook.org/stories/impukane) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0215 | [Ukudla kwasekuseni Breakfast](http://africanstorybook.org/stories/ukudla-kwasekuseni-breakfast) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0218 | [Ugogo owayenomusa nentombazane enukayo](http://africanstorybook.org/stories/ugogo-owayenomusa-nentombazane-enukayo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0220 | [Umgcini nesikhungo esikhethekile](http://www.africanstorybook.org/stories/umgcini-nesikhungo-esikhethekile) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0241 | [Ingozi](http://africanstorybook.org/stories/ingozi-0) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0251 | [uNonkungu Kanye nembulu](http://africanstorybook.org/stories/unonkungu-kanye-nembulu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0265 | [Ukujabula  nokuphatheka kabi](http://africanstorybook.org/stories/ukujabula-nokuphatheka-kabi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

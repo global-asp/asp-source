@@ -129,17 +129,6 @@ moja.
 Halafu wataweza kurudi porini.
 
 ##
-Wana umri gani na ni wangapi?
-Soma tena hadithi kisha ujibu maswali haya.
-1. Ni wanyama wangapi walifika katika chekechea mwezi Agosti?
-2. Nani alifika kwanza?
-3. Mnyama huyu alikuwa na umri gani?
-4. Nani alifika mwisho? Wanyama hao walikuwa na umri gani?
-5. Ni wanyama gani waliofika mwezi Agosti waliokuwa na umri wa chini zaidi?
-6. Walikuwa na umri gani?
-7. Ni mnyama yupi aliyefika mwezi Agosti aliyekuwa mzee kwa wote?
-
-##
 * License: [CC-BY]
 * Text: Ursula Nafula, Nina Orange
 * Illustration: Magriet Brink

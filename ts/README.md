@@ -2,4 +2,5 @@
 
 Story ID | Title | License
 -------- | ----- | -------
+0220 | [Muhlayisi na vuhlayiselo byo hlawuleka](http://www.africanstorybook.org/stories/muhlayisi-na-vuhlayiselo-byo-hlawuleka) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0264 | [Mapapila](http://africanstorybook.org/stories/mapapila) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
