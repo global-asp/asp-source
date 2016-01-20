@@ -2,7 +2,10 @@
 
 ##
 Skilpad loop een dag deur die veld. Hy soek en soek. Ná ’n ruk loop hy verby
-Slak. “Jy lyk of jy iets soek,” sê Slak vir Skilpad. “Ja Slak, ek soek my huis. Weet jy
+Slak.
+
+##
+“Jy lyk of jy iets soek,” sê Slak vir Skilpad. “Ja Slak, ek soek my huis. Weet jy
 dalk waar ek hom kan kry?”
 
 ##

@@ -118,7 +118,6 @@ of a sudden, he thought about what
 the old woman said, that he mustn't
 take anything except the root.
 
-##
 He took the money out his pocket and put it back in the bowl.
 
 ##

@@ -6,8 +6,6 @@ giatenenete kegoseka gatigati y’eroro y’Akwere.
 Korwa ase chimboto na ase ensemo yaye chinsoko
 ibere inchiarwete aroro nakoumerana korosia oroche
 oronene oromo.
-
-##
 Oroche oro, nigo rwarenge korokwa Temu naende nigo rwarenge
 kominyoka rokweminamina ase eroro eria ya kwene.
 Nigo rwarenge gokonya etugo yechiombe, ching’ondi amo
@@ -20,8 +18,6 @@ abete omoteneneri. Akarua okoraa buna enchera
 erosigwe korwa igor yegetunwa keria mbaka nse
 erine anyore ase akorinera egetunwa
 nagweturungania gochio nse ng’ora igo.
-
-##
 Egetunwa keria ki’Olokwango gekagechigwa mono okoba
 yogosariwa koria gwechinderu chiaye, gotatiga rende
 akaremereria.
@@ -32,8 +28,6 @@ babo nigo barenge korina egetunwa keria gochiesa.
 Nigo barenge kominyoka kera ase, bakobuna emete
 nechinsaginsagi, nagouta emerero barenge gotiga
 kegwoka.
-
-##
 Engaki egaeta, Olokwango akagechiwa mono. Ng’ora ng’ora
 ogoseka koria kwaye kogachaka gosira. Chimboto chiria chiaye
 chigachaka gokea na gokea nobosio bwaye bogachaka konyira.
@@ -67,8 +61,6 @@ keria naende, nokoba yaigo obonyansi boria
 bokanyora ribaga kwama naende. Ng’ora ng’ora
 ogiseka koria gw’Okwalangu gokairana nagokina
 mono amo n’echimboto chiaye naende chigakina.
-
-##
 Korwa ase chimboto chiria, chinsoko chiria chikaminyoka naende.
 Noroche roria rwarenge korokwa Temu rokairana anende. Eroro
 ekaba naende machani nonya kobua buna yarenge kare. Chingabi

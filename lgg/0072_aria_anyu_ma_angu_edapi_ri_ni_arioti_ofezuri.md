@@ -12,8 +12,6 @@ Ciriciriciri ciriciriciri ciriciriciri mu drile aria ma o'duko o'bitaa be,
 sopa paale karakarau nezu kilili kini oguzu obi ima vuti ra.
 
 ##
-
-##
 Saa azini miniti kali na ru `dile ni
 ma vutia, ca ki elio pati azi ni
 amboru ni vu. Traa traa e`do di
@@ -94,8 +92,6 @@ Awoko nya traatraa ni tu! Agu `di eco e`yo oku `i `ye pi a`bia drio
 okpo ndra yo `dini ku. Eri nga mu e`yo ini le ri `ye ra!
 
 ##
-
-##
 O`du alu sabiti tre ma vutia, Oguzu eri vini omveta traatraa ni `ba
 omvezu anyu vu ri. Ka mu anyu ndra ini nzu asi zu ri ma aji alu za
 ri ma dria e`yo ega `bo, Oguzu e`do aria gakanyaa ru ri ma vuti bi
@@ -104,8 +100,6 @@ ku di geri oku ini `ba omve zu “ciriciriciri-ciriciriciri-ciriciriciri” ri r
 emu di ri ava li pati azini daru oci be ni ma etia. “Ahaa” Oguzu ega.
 ‘Le turu ma ovu di pati `di ma sia.' Mbeleru edu aci ra e`do di tu
 pati `da ma sia, kali aci be ri pie ima tia. Traatraa ri lu eri ne ne.
-
-##
 
 ##
 Oguzu ni turia, ri di osu `i eri andruni anyu ma nota oku rile ri ku
@@ -119,8 +113,6 @@ gbadridri ra `dama vutia awoko nya eri `bani eri engazu o`dua risi
 tu. Esi ima mile lurua, zi ima ti wala ima si `wara azini cipi aci aci
 `diyi e`dazu ra coti zo agu pi `da ma dria andreti ni `yazu onyofi
 si.
-
-##
 
 ##
 Oguzu ari ru esizu pati `da ma sia risi vaa `dole kile eri `ye e`de
@@ -142,12 +134,8 @@ ma horongoto ambo ndeni azini oso
 be coro ri ku traatraa dri.
 
 ##
-Aria anyu ma angu e`dapi ri ni arioti
-ofezuri
 * License: [CC-BY]
 * Text: Zulu folktale
 * Illustration: Wiehan de Jager
 * Translation: Dorothy Fetaru
 * Language: lgg
-
-Adapted from a Zulu folktale.

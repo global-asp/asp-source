@@ -9,7 +9,6 @@ Buli kiseera yasooba
 nga mpolampola
 okunonya ekyokulya.
 
-##
 Noluvanyuma.....
 
 ##

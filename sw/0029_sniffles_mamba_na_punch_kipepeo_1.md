@@ -12,8 +12,6 @@ mnyama mwingine. Kwa hivyo mama na baba walilazimika
 kumlisha Sniffles kila siku.
 
 ##
-
-##
 Sniffles hakutaka kuwa mamba. “Nina sura mbaya,”
 aliangua kilio kila alipofikiria. Hakutaka hata kuishi kama
 mamba wanavyoishi. Rafikiye mpendwa alikuwa Punch,
@@ -26,8 +24,6 @@ walifurahisha sana. Sniffles alimkalia Punch kichwani
 wakiogelea. Mamba wengine walicheka na kuwafanyia
 mzaha. Hilo halikumsumbua Sniffles. Aliendelea kulia,
 kuvuta pua lake na kwa kuendeleza urafiki wake na Punch.
-
-##
 
 ##
 Alasiri moja, wakati jua lilikuwa limeangaza mno, Punch
@@ -44,8 +40,6 @@ kuwatandaza juu ya ubao, shangazi yangu aliniambia,”
 Punch alisema halafu akaruka na kwenda zake.
 
 ##
-
-##
 Mamba wengine walimsikia Sniffles akillia na kupiga kelele,
 "Wanaume wanakuja kutuua.
 Jificheni...Harakisheni...Jificheni.” Mwanzoni mamba
@@ -56,8 +50,6 @@ Wanaume hao walipiga kipande hicho risasi maanake kwa
 mbali kilifanana kabisa na mamba. Wanaume hao
 hawakuona mamba wowote, ila mamia ya vipepeo ambao
 walirukia nyuso na nywele zao.
-
-##
 
 ##
 Huku wakitingiza vichwa vyao wakitaka
@@ -90,10 +82,6 @@ Mamba wale wengine walijivunia sana ujasiri wa Sniffles
 kwa vile alikuwa ameonyesha umaarufu wake kama
 mamba kamili.
 Sasa, Sniffles pia alijivunia kuwa mmoja.
-
-##
-
-##
 Vipepeo wote waliruka wakiwazunguka mamba
 wakipeperusha mbawa zao.
 “Asante ewe Sniffles,

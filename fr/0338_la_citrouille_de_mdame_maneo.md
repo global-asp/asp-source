@@ -78,7 +78,6 @@ de la citrouille?" demandent les
 parents des bergers. "Vous devez la
 laisser tranquille."
 
-##
 "L'été prochain la citrouille s'ouvrira à nouveau et la sorcière
 dispersera des graines de citrouille dans tous les villages. Nous
 aurons beaucoup, beaucoup de citrouilles à manger," disent les

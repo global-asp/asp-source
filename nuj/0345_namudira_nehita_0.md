@@ -39,7 +39,6 @@ hita. Ejanjaasi ly'owemba lyali
 hy'erya nyina. Olwembo lwali
 lwemba luuti:....
 
-##
 Namudira ee, Namudira!
 Sooli weŋene nabuhoda omulala!
 Mwana wange omuhoda omulala!
@@ -65,7 +64,6 @@ Ng'aŋo Namudira ahotama
 asolososa ebijo by'ehita abiŋimba
 ŋalala atagiha ohwemba ati:...
 
-##
 Bbaaba ni maama,
 Mubone ehita hibwagihiremo.
 Ehita ehimwapaye.

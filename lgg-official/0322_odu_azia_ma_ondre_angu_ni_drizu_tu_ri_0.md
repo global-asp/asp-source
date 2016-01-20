@@ -1,9 +1,4 @@
-# O'dú ázɨ́á má
-òndré àngù nɨ́
-drɨzʉ́ tù rɨ̀
-Nombulelo Thabane and
-Tessa Welch
-Lugbarati (Official)
+# O'dú ázɨ́á má òndré àngù nɨ́ drɨzʉ́ tù rɨ̀
 
 ##
 O'dú ázɨ ́á mà òndré àzɨ ́nɨ àlʉ
@@ -14,7 +9,6 @@ Aluma 'ɨ ̀fǔ àmvé mú avɨ ̂ sɨ ̀.” Íyǎ
 'yo àma nɨ ́. “Álènɨ ́ àfa èmɨnɨ ́ èmɨ
 otrazʉ́ mâ páláa 'dì kʉ.”
 
-
 ##
 Áfʉ̀ nzʉ́ jóá rɨ ̀ sɨ ̀ óngʉ́sɨ ̀. “'Bâ mu
 kɨ ́ avɨ ́ yí tiá 'dálé.” Aluma 'yo.
@@ -23,7 +17,6 @@ kɨ ́ avɨ ́ yí tiá 'dálé.” Aluma 'yo.
 'dɨ ̀” 'Bayo 'yo. “'Bá nga nɨ ́ yí wě
 kʉ.” Aluma omvɨ. “àma lʉ́ mu
 avɨ ́ índrɨ ́kà yí tiá 'dǎ rɨ ̀ mà ètíá.”
-
 
 ##
 Te báká ombʉ́zà ovʉnɨ ́ ápàrákà
@@ -34,13 +27,11 @@ rɨ kírí drɨ ́ àma nɨ ́ drɨ. Àma òtrʉ̀ dɨ ́
 vɨ ́nɨ àma vɨ ́lé sɨ ̀káyɨ ̀tɨ ̀ pɨ sátɨ ̀ pie.
 Te àngʉ̀ drɨ kírí àma nɨ ́ 'dánɨ.
 
-
 ##
 Àsʉ àmà pá pɨ ́ yí alɨ ́á yɨ ambɨ ́zʉ́.
 'Dà mà vútiá, àma e’dó dɨ ́ vɨ ́nɨ yí
 òyǎ àmà ruá. Mbèlèrʉ́ àma odú
 yí sɨ ̀ kpòcò.
-
 
 ##
 “ 'Àhá! Àwèkɨ ́ yí,” Maturu ‘yo.
@@ -48,17 +39,14 @@ yí sɨ ̀ kpòcò.
 àwè àma, àwè ama, kpere àma
 nɨ ́ é'yó àvìrɨ ́a sâ dria ra.
 
-
 ##
 Ètú e’dó ‘dě, díká ègbè e’dó
 àmà fú. Àma vɨ ́é bongo yɨ ngólé
 yǎ?
 
-
 ##
 Àma òndà patí ètɨ ́. Àndà àngʉ́
 ásé alɨ ́á. Àndà àngʉ̀ pàrí wóróá.
-
 
 ##
 Tí àzɨ ́ yɨ ndrâ dè yí ágeíá 'dǎ
@@ -69,12 +57,10 @@ nya,” Aluma ‘yo. “'Dà ovʉnɨ ́ patɨ ́
 fʉ̀ nɨ kʉ” Maturu tre. “Dà mɨ ̂ sátɨ ̀
 nɨ!”
 
-
 ##
 Ànè vɨ ́nɨ tí àzɨ ́nɨ rɨ àfa àzɨ ́ bùlû nɨ
 nyarɨ ́a“'Dà má vɨ ́lé sátɨ ̀ rɨ ̀ 'ɨ.”
 'Bayo tre. ”
-
 
 ##
 Àmvɨ àkúá pájɨ ̀mà sɨ ̀ àzɨ ́nɨ àmà
@@ -86,12 +72,9 @@ rá? sâ were vútíá, àmà ètɨ ́ drɨ
 drɨ ́á àcɨ ́ àcɨ ́. Te ovʉ́nɨ ́ ètú mà
 drɨtá sɨ ̀ kʉ, Kàlíká mà àzó sɨ ̀.
 
-
 ##
-O'dú ázɨ́á má òndré àngù nɨ́ drɨzʉ́
-tù rɨ̀
 * License: [CC-BY]
-* Text: Nombulelo Thabane and Tessa Welch
+* Text: Nombulelo Thabane, Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Dorothy Fetaru
-* Language: Lugbarati (Official)
+* Language: lgg-official

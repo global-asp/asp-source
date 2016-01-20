@@ -31,7 +31,6 @@ Kibuyu hicho kiliimba wimbo mtamu
 na wa kuburudisha. Wimbo
 wenyewe uliimbwa hivi:
 
-##
 Khayanga, ee, Khayanga!
 Mtoto wetu, mpendwa!
 Tuko na wewe, mpendwa!

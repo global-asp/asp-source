@@ -33,8 +33,6 @@ répondit le hibou. J’ai les plus
 grands yeux de tous les
 oiseaux. C’est moi qui devrais
 être le roi. »
-
-##
 « Non, pas toi, Hibou ! crièrent les oiseaux, tu t’endors dès
 que le soleil se lève ! »
 

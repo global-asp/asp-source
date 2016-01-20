@@ -60,7 +60,6 @@ isigege sakhe esinukayo, wagijima
 waya ekhaya kubazali bakhe
 wayecula ethi:
 
-##
 Mama, ngivulele yimina, ngiyanuka;
 Mama, ngivulele yimina, ngiyanuka;
 Nginuka kabi kakhulu
@@ -76,7 +75,6 @@ Wagijima waya endlini
 kamalumekazi nomalume wakhe,
 bamuzwa ecula:
 
-##
 Ngivuleleni umnyango, ngiyanuka.
 Ngivuleleni umnyango, ngiyanuka,
 Nginuka kabi kakhulu.
@@ -131,6 +129,8 @@ Ukhulu wakhe wayejabule kakhulu,ephatheke kahle futhi ezizwa ebalulekile.
 ##
 Ugogo owayenomusa
 nentombazane enukayo
+
+##
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Catherine Groenewald

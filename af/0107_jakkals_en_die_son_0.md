@@ -78,8 +78,6 @@ meisie nie, en vertel vir ouers om nie hul kinders te forseer om te
 trou ter wille van huishulp nie. Dit ontlok ook die kragtige
 voorkoms van die warm son in die woestyn en doen wat stories
 doen – gee alles in natuur 'n persoonlikheid.
-
-##
 Die illustrasies in die storie is van storieborde deur Marlene
 Winberg, digitaal geinterpreteer deur Satsiri Winberg deur
 manipulasies van die Manyeka Art Collection van skilders gemaak

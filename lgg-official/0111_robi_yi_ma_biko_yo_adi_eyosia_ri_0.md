@@ -1,16 +1,13 @@
 # Ròbí y? mà 'b?́ko yo à'd? e'yós?̀à r?̀
-Lugbarati (Official)
 
 ##
 O'dú àl? Ètóó r? ací yí àra mà
 tiás?̀.
 
-
 ##
 Ròbí n? dè v?́n? 'dǎ c?́, acír?á
 è'yere èr?́bí àrǒp? pkàc?̀ 'd?̀y?
 oc?́r?á.
-
 
 ##
 Ròbí aw?́n?́ Ètóó n? 'dǎ c?́
@@ -20,7 +17,6 @@ yàr?̀ ně k? àn?́ drìléònz?́ s?̀ 'bà
 mà drìá k?́n?̀ “M? '?́ Ròbí!
 M?́ ecó n?́ ně k?́n?̀ '?́'bà m??
 pá mâ pá drìá r?̀ k??́?”
-
 
 ##
 Ròbí a'?́ tr?̀tá Ètóó v?́ k?́n?̀,
@@ -33,7 +29,6 @@ Otré Ròbí mà drìá k?́n?̀ “m?́
 m? nga nèrá. M?̀ nga e'yó
 m?́n?́ 'yé 'd?̀ mà pángá esúu rá
 ”
-
 
 ##
 Ètóó ko drì mú Àc?́ v?́ 'yo èr? n?́ k?́n?̀ “'?́mú m?́ evé Ròbí n? sâ èr?n?́ èf?̀z?́
@@ -51,7 +46,6 @@ nyar?́á yí àra v?́ r?̀s?̀ rè 'dán?́,
 Àc?́ ko ti lèkù lèkù rá evé
 Ròbí mà 'b?́ko y? tékètékè.
 
-
 ##
 Ròb? e'dó óngú àw?́ be nz?z?́
 yíá 'dálé.
@@ -64,7 +58,6 @@ Mâ 'b?́ko d?́ yo yò
 Mâ 'b?́ko àlátárá ndr?̀zà r?̀ '?
 'dóo!
 
-
 ##
 E’yo ‘disiRobiefuniyi vu risiamve ‘dapikuoriacidririsi.
 Ayikofu di ndraEtoonikayiRobiniveleacisirisi, kini, “Esu ma dri ‘bo!”
@@ -72,8 +65,7 @@ Ayikofu di ndraEtoonikayiRobiniveleacisirisi, kini, “Esu ma dri ‘bo!”
 
 ##
 * License: [CC-BY]
-* Text: Basilio Gimo and David Ker
-* Illustration: Little Zebra Books and Carol Liddiment
+* Text: Basilio Gimo, David Ker
+* Illustration: Little Zebra Books, Carol Liddiment
 * Translation: Doris Maandebo
-* Language: Lugbarati (Official)
-
+* Language: lgg-official

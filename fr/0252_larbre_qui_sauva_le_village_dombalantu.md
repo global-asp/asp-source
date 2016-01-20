@@ -15,8 +15,6 @@ asseyez-vous et écoutez," dit Grand-mère. Et elle commence son
 histoire.
 
 ##
-
-##
 Il était une fois une petite fille qui s’appelait Thaïmi et qui habitait
 dans le village d’Ombalantu. Un jour, elle alla chercher de l’eau
 avec son frère, Angula, à la rivière. Tandis que Thaïmi remplissait
@@ -28,8 +26,6 @@ Elle regarda autour d’elle, mais elle ne voyait pas Angula. Elle ne
 savait pas où il était parti. Mais ce qu’elle savait, c’est qu’elle ne
 pouvait pas rentrer sans son petit frère. Elle se mit alors à sa
 recherche. Elle marcha, marcha, marcha.
-
-##
 Elle finit par le trouver, allongé dans l’herbe derrière une grosse
 fourmilière. Quand elle s’approcha de lui, il posa un doigt sur sa
 bouche. Pourquoi devait-elle se taire ? Non loin d’eux, un groupe
@@ -40,8 +36,6 @@ hommes sont des voleurs. Ils ont l’intention de voler notre bétail et
 de brûler le village. Viens vite. Nous devons rentrer en vitesse pour
 alerter tout le monde." Alors, sans faire le moindre bruit, Thaïmi et
 Angula s’éclipsèrent et se mirent à courir vers leur village.
-
-##
 
 ##
 Non loin du village, ils rencontrèrent leur oncle. Il emmenait boire
@@ -75,8 +69,6 @@ Un endroit sûr.
 Un endroit secret.
 
 ##
-
-##
 "Je connais un endroit !" dit-elle. "Je connais un endroit où nous
 serons tous en sécurité !"
 Mais les villageois ne pouvaient pas l’entendre. Ils faisaient trop de
@@ -87,16 +79,12 @@ Tous les villageois s’arrêtèrent.
 Thaïmi leur lança : "Je connais une cachette. Suivez-moi."
 Elle prit Angula par le bras.
 "Viens, montrons-leur notre arbre. Nous serons tous en sécurité làbas !" son frère secoua la tête.
-
-##
 "Non, Thaïmi . C’est notre secret. Tu disais qu’on ne devait jamais
 le révéler à personne."
 "C’est vrai", répondit-elle. "C’était un secret. Mais maintenant,
 nous sommes tous en danger." Thaïmi et Angula guidèrent les
 villageois jusqu’à un baobab qui se dressait non loin de là.
 Personne ne comprit pourquoi.
-
-##
 
 ##
 "Pourquoi nous avoir amenés ici ? Nous ne pouvons pas nous
@@ -129,8 +117,6 @@ l’herbe sèche et de petites flammes jaillirent, qui firent bientôt
 place à un feu chaud et lumineux.
 
 ##
-
-##
 Dehors, les voleurs s’approchaient peu à peu.
 Soudain, l’un d’entre eux poussa un cri, en montrant l’arbre du
 doigt. De la lumière émanait de l’intérieur. Des yeux ardents les
@@ -140,8 +126,6 @@ branches. Des volutes de fumée montaient vers le ciel.
 s’enfuit en courant. Un autre fit de même. Et un troisième. Ainsi de
 suite, jusqu’à ce qu’ils aient tous déguerpi. Les habitants du
 village d’Ombalantu étaient sauvés.
-
-##
 
 ##
 Grand-mère se tait.

@@ -117,7 +117,6 @@ Tout à coup, il se rappela ce que la
 vieille femme avait dit, qu’il ne
 devait rien prendre sauf la racine.
 
-##
 Il retira l’argent de ses poches et le remis dans le saladier.
 
 ##

@@ -123,7 +123,6 @@ Jackal probeer om die firesticks
 gryp, maar Uil gooi hulle oor sy nek
 sodat hulle oor sy rug gehang.
 
-##
 Hulle klap die hele dag lank. Die ritme van die klap gemaak Uil
 vergeet van al oor die firesticks.
 Toe hulle swaai rondom op sy bors weer, jackal gryp die firesticks
@@ -158,7 +157,6 @@ Jackal het die groot djaba, die groot
 kleipot waarin die familie gestoor
 water. "
 
-##
 Jackal voorgegee om te verlaat vir sy huis, maar hy in die geheim
 het omgedraai om die plek van water. Hy het die groot pot oor
 sodat die water begin vloei op die grond.

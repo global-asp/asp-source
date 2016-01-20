@@ -29,7 +29,6 @@ et apaisante. Khayanga reconnut la
 voix de sa défunte mère.
 Les paroles allaient ainsi:
 
-##
 Khayanga, Khayanga!
 Notre enfant, bien-aimé!
 Tu n'es pas seule, mon enfant!
@@ -57,7 +56,6 @@ Khayanga tenait les morceaux de la
 gourde cassée dans ses petites
 mains et chantait:
 
-##
 Père et Mère,
 Regardez, la gourde est cassée.
 La gourde, que vous m’avez offerte.

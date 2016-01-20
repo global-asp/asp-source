@@ -82,8 +82,6 @@ ons nie nat word nie.
 ##
 Ek is in klas twee en ek weet baie dinge.
 Ek wil meer goed weet.
-
-##
 Wat ek nie weet nie, vra ek my ouers of my
 onderwyser.
 

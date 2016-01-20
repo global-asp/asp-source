@@ -1,7 +1,7 @@
 # Things I know
 
 ##
-This is a manyatta.
+This is a Manyatta.
 It is my home.
 My home is in Turkana
 County.

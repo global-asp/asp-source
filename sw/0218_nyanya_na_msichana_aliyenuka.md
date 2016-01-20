@@ -60,7 +60,6 @@ iliyonuka na kukimbilia nyumbani
 kwa wazazi wake.
 Aliimba:
 
-##
 Mama, nifungulie mlango, miye nanuka;
 Mama, nigungulie mlango, miye nanuka;
 Miye nanuka vibaya mno.
@@ -76,7 +75,6 @@ Alikimbilia nyumba ya mjombake na
 shangaziye.
 Walimsikia akiimba:
 
-##
 Nifungulie mlango, miye nanuka;
 Nifungulie mlango, miye nanuka;
 Miye nanuka vibaya sana.

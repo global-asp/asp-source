@@ -20,9 +20,8 @@ Ma joale we.
 Ma afajo yi oji.
 
 ##
-Ma azi nga andekokoru `dini a`disi ya…
+Ma azi nga andekokoru `dini a`disi ya ...
 
-##
 ... de ma adri gaa ri ni
 lu ini avi ‘i.
 

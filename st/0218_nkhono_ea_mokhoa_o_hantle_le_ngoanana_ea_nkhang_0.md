@@ -63,7 +63,6 @@ Bapaqama mosikong oa noka ba
 kupelitsoe ke mathe a noha. Mathe
 a noha ane a nkha hampe.
 
-##
 Ompulele lemati, kenkha hampe
 Ompulele lemati, kenkha hamper
 Kenkha hampempe
@@ -79,7 +78,6 @@ matha hotloha mono ntlong ea
 rakhali le rangoane oa hae, Ba
 moutloa antse a bina are …
 
-##
 Ompulele lemati, kenkha hampe
 Ompulele lemati, kenkha hamper
 Kenkha hampempe

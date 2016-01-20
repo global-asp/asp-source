@@ -73,8 +73,7 @@ Serpent géant.
 Alors Katitu réveilla ses deux sœurs
 plus grandes. « Mes sœurs, mes
 sœurs, mes sœurs » chuchota-t-elle
-de plus en plus fort, « réveillezvous, réveillez-vous, réveillez-vous !
-»
+de plus en plus fort, « réveillezvous, réveillez-vous, réveillez-vous ! »
 
 ##
 Quand les deux grandes filles se
@@ -142,8 +141,6 @@ dans les airs : « C’est mon frère, c’est mon frère qui joue de la
 flûte faite avec mon bois !
 Mes sœurs m’ont abandonnée, elles m’ont abandonnée et
 l’éléphant m’a avalée, il m’a avalée ! »
-
-##
 Le petit garçon courut alors à la maison et tendit la flûte de roseau
 à son père pour qu’il en joue. De nouveau, la flûte chanta :
 « C’est mon père, c’est mon père qui joue de la flûte faite avec
@@ -215,8 +212,6 @@ intelligente » appartient à un type d’histoire bien connu où un
 enfant, vulnérable, sauve la vie d’autres personnes et résoud des
 problèmes grâce à son intelligence et au pouvoir des mots plutôt
 qu’à des superpouvoirs.
-
-##
 Les illustrations de cette histoire proviennent d’un storyboard de
 Marlene Winberg, interprété numériquement par Satsiri Winberg
 grâce aux manipulations et aux effets spéciaux de la Manyeka Art

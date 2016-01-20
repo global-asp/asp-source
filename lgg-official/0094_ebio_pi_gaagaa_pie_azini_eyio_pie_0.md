@@ -1,7 +1,4 @@
-# Èbǐo pǐ, gǎ agǎ a
-pɨe à zɨnɨ é yío
-pɨe
-Lugbarati (Official)
+# Èbǐo pǐ, gǎ agǎ a pɨe à zɨnɨ é yío pɨe
 
 ##
 O’dú àzɨ ́nɨ ándrâ àlʉ, líkí àmbó rʉ ‘de
@@ -16,7 +13,6 @@ orí`bâ drɨ ́ nyazàrʉ. Élɨ ́o patí é fɨ ́
 kárákàrà ‘dà fè è bi ̌o mà tʉ̀sʉ́ nɨ ́ razʉ
 lɨ ́ nɨ sɨ. Ècó yì mà à zɨ esú ‘ɨ ́ mà
 ngú lú pi ́ nɨ ́ ngǒ nɨ rʉ?
-
 
 ##
 Nga dɨ ́ ‘ɨ ́ nga à ’dɨ ‘yé ɨ ́ yà rɨ egá ‘ɨ ́
@@ -34,7 +30,6 @@ bénɨ.
 Fè àwa’dìfô gǎa gǎa yɨnɨ ́ rá nga ‘ɨ arɨ ̌
 muzʉ́ àkûa élɨ ́o patí éfí ndêrì nyazʉ́.
 
-
 ##
 Tè é lɨ ́o patí é fi ́ àlʉ rɨ canɨ ́ è rɨnɨ ́ kʉ.
 Nga di ́ dri ̀ dǎ vílé pá alé ìrì rìsɨ ̀ , `yè
@@ -50,7 +45,6 @@ nyaká rɨ ‘ɨ!” Èbǐo omvɨ “ovʉ nɨ ́ ‘dàlé
 kʉ” cotí e’dó owʉ́. Càndí àmbórʉ bi
 Gǎa gǎa yɨ erɨ sɨ ̀ tʉ̀.
 
-
 ##
 Drùsì ‘dínɨ ò’bìtì drìo drìo, gǎa gǎa
 àlʉ àlʉ so èri drɨ ́ ‘bíkò àlʉ àlʉ . Nga
@@ -64,7 +58,6 @@ yɨnɨ ́ lèzʉ́ èlɨ ́o patí éfí ètìzʉ rɨa, èrɨ tre
 jʉ̀rʉ́à mà alɨ ́a. Sâa azɨ alɨa, Èbǐo etrá
 élɨ ́o patí éfí drɨ ́a ‘ɨ ́ drɨ ́ ra, kʉ gǎa gǎa
 yɨ pírínɨ .
-
 
 ##
 Gǎa gǎa dě pi ndéni ̀ ri ngá ‘yó. “á nì
@@ -80,7 +73,6 @@ Ànɨ ́ se á vá è zǔ , mbʉ té ‘dɨnɨ te
 …cà lú ! E’dé yi ́ alɨ ́a cú é yi ́o yɨ mà
 á gá dú a.
 
-
 ##
 Àfa à ma vʉ ‘dɨ ̌a ci ́rɨ ̀ à ’dʉ nɨ?” é yi ́o
 à zɨ ́nɨ zɨ ó ’dú ko hò rò hò rò sɨ.
@@ -94,7 +86,6 @@ ma esú pi ni yo. Èmi ́ má vi ́lé ori ́’bá
 oko má nɨ ́ dri fuzʉ́ yɨ be ‘di ̀yi!” wʉ ɨ ́
 ká ɨ ra à nɨ ́ fè é yi ́o yɨ mà á si ́a cà ndi ́ fɨ
 tʉ.
-
 
 ##
 Éyi ́o à mba rɨ ki ̀ni ̀ “à má ngá ni ̌ mɨ
@@ -110,7 +101,6 @@ ò dri ́ yi ́ mvʉ rɨ lé dè fè yi ́ nɨ razʉ ‘bi ́lé
 è rɨ mà pá vú tǐa lé rʉ rɨ ̀ mà ali ́a. Èrɨ ni ́
 é mvú a fè ri ́a vi ́lé , ‘yo “alu fudri ̀ ci ́!”
 
-
 ##
 Ò’bi ́ti dri ̂o dri ̂o drù si ̀ ‘di ́nɨ, dè ngà
 à ngù e’dó ni ́ ngà mvě kɨ, Èbi ̂o enga
@@ -121,7 +111,6 @@ nga à ni ́ má à zà ko ó ’dʉ́kó má ni ́ lě
 ò lǔ rɨ ò lʉ zʉ́ beni ̀. Mi ́ ecó má à zà kó
 dè ngà é yi ́o azɨ ‘dɨyɨ engá nɨ ́ kʉ rá ?”
 
-
 ##
 Ò’bi ́ti dri ̂o dri ̂o drù si ̀ ‘di ́nɨ, dè ngà
 à ngù e’dó ni ́ ngà mvě kɨ, Èbi ̂o enga
@@ -131,7 +120,6 @@ be engá zʉ́ yi ́ ‘dɨ ̀ mà ǎ a’dá sɨ ̀, yɨ di ́
 nga à ni ́ má à zà ko ó ’dʉ́kó má ni ́ lě
 ò lǔ rɨ ò lʉ zʉ́ beni ̀. Mi ́ ecó má à zà kó
 dè ngà é yi ́o azɨ ‘dɨyɨ engá nɨ ́ kʉ rá ?”
-
 
 ##
 Àwó kó nya é yi ́o ‘dà ‘bá nɨ è rɨ engǎ
@@ -145,7 +133,6 @@ ma lʉ́ dri ̀ è dǎ mbè lè . ɨ ́ mu ngà kʉ
 fô !” Èbi ̂o ‘yo, è rɨnɨ ́ nzù rɨ ́a á sé tá lá sɨ ̀
 ‘dá lé .
 
-
 ##
 Àmanɨ ́ à mà nɨ ni ̌ rɨ sɨ , é yi ́o nɨ ngà
 ki ́ri ́ è bi ̌o nɨ tè rɨa ɨ ́ mà andreti i ̀zǔ
@@ -153,10 +140,9 @@ azɨnɨ milé nyó rò lé ‘dà be ki ́ri ́ yi ́ dri ̀ a
 à mvé .
 Èbi ̌o pi, gǎ a gǎ a pie à zɨ ́nɨ é yi ́o pɨe.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Alice Ojobiru
-* Language: Lugbarati (Official)
+* Language: lgg-official

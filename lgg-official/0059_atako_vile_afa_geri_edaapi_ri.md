@@ -1,6 +1,4 @@
-# Atako vɨ́lé àfa
-gèrì e'daápɨ rɨ̀
-Lugbarati (Official)
+# Atako vɨ́lé àfa gèrì e'daápɨ rɨ̀
 
 ##
 Atako nɨ ́ ndráa ngà
@@ -11,7 +9,6 @@ drɨ ̀á. Atako mà awúpi
 edé ndráa èrɨ mà bírìsì
 'dɨ ̀ ndéndé sɨ ̀.
 
-
 ##
 Bírìsì ndê mà wúrá o'bé
 ndráa 'ɨ ika sɨ ̀, bùlû sɨ ̀
@@ -19,7 +16,6 @@ ndráa 'ɨ ika sɨ ̀, bùlû sɨ ̀
 sɨ ̀. Ejínɨ ́ ndráa 'ɨ bírìsì àzɨ ́
 Atako mà ándríi vɨ ́lé jóá
 'dǎ 'dɨ ̀yɨ be kʉ.
-
 
 ##
 Atako pɨ vɨ ́lé àkú rɨ ̀ mà
@@ -33,13 +29,11 @@ Te àfa ònzɨ ́ 'dɨ ̀yɨ mà àzɨ ́
 àlʉ nɨ elónɨ ́ ndráa Atako
 mà ruá àlʉ nɨ kʉ.
 
-
 ##
 Èrɨ mà ándrí 'yo kɨ ́nɨ ̀
 “Atako mà bírìsì 'dà nɨ
 èrɨ mà àgeí tè àfa ònzɨ ́
 'dɨ ̀yɨ sɨ ̀ nɨ ̀.”
-
 
 ##
 Atako nɨ ndráa mvá àzɨ ́
@@ -47,14 +41,12 @@ Atako nɨ ndráa mvá àzɨ ́
 pàrí 'bánɨ ́ yí à'di ekózʉ́
 rɨ ̀ rá.
 
-
 ##
 Nì vɨ ́nɨ átà ndráa 'ɨ ́mà
 díi mà jó ngʉ̀á yàrɨ ̀ rá.
 Èrɨ òku mu 'ɨ ́mà díi vɨ ́lé
 'dálé ngàmɨ ́á lésú mvu
 cɨ ́cɨ ́.
-
 
 ##
 O'dú àzɨ ́nɨ àlʉ, Atako mà
@@ -65,7 +57,6 @@ awɨ ́ cá kʉ yé. Àvɨ ̀ kʉ́ 'bé
 táláá. Òrì ndè Atako nɨ
 káyɨ ̀.
 
-
 ##
 Ngà dɨ ́ rɨ ́ patí élípákʉ rʉ́
 rɨ ̀ mà ètɨ ́á àzàkoma tèzʉ́
@@ -73,7 +64,6 @@ engázʉ́ 'bá cɨ ́rɨ ̀ vʉ́. sâ
 were vʉ́tíá ó'dú 'be èrɨ
 rá díká orobí e'dó èrɨ
 òbɨ ̌.
-
 
 ##
 Orobí òbɨ ̀ èrɨ kɨ ́nɨ ̌: La 'ɨ
@@ -85,14 +75,12 @@ mà drìá. Òkʉ́ àzɨ ́ e'dápɨ
 nɨ ́ ngàmíà lésú bàkúlè
 àmbó nɨ mà alɨ ́á.
 
-
 ##
 Atako zì 'ɨ ́mà mile
 è'yere. Èrɨ nɨ ́ àngʉ̀ nèzʉ́
 'bʉ̀á rɨ ̀á, nè àrɨ ́á àzɨ ́nɨ
 gǎkányaá ndrɨ ̀zà patí
 síá 'ɨ ́mà drìlíá 'dǎ.
-
 
 ##
 Atako kà mú engá oru
@@ -101,14 +89,12 @@ ndrɨ ̀zà rɨ ̀ e'dó Atako mà
 drì cé. Atako e'dó àrɨ ́á
 ndê mà vʉ́ti bɨ ̌.
 
-
 ##
 Atako ecá pàrí àzɨ ́ gèrì
 yɨnɨ ́ yɨ awazʉ́ ìrì nɨá.
 Àrɨ ́á ndrɨ ̀zàrɨ ̀ e'bé bírìsì
 àzɨ ̀ 'ɨ ejípɨ Atako vɨ ́lé rɨ ̀
 be nɨ
-
 
 ##
 Atako kà mú bírìsì 'dà
@@ -117,7 +103,6 @@ rá nì rá 'dà ɨ ́mà andríi
 mà pámvʉ́ nɨ. Cotí nè yí
 à’di pàrí yɨ nɨ ́ òku yí à'di
 ekózʉ́ rɨ ̀ mà alɨ ́á rɨ ̀.
-
 
 ##
 ‘Bá Atákó pɨ vɨ ́lé àkúá
@@ -128,7 +113,6 @@ ongó Atako nɨ a'ɨ ́zʉ́
 mvá nɨ ́ ecá àkúá kílílí
 rɨ ̀sɨ ̀.
 
-
 ##
 Atako rɨ dɨ ́ 'ɨ ́mà bírìsì
 àtandʉ́ rʉ́ 'dà.mà drìá
@@ -136,10 +120,9 @@ ká rɨ dɨ ́ zá ozózà àzɨ ́
 mbgurufʉ nɨ nyá àyɨ ̀kòsɨ ̀
 ndò.
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Doris Maandebo
-* Language: Lugbarati (Official)
+* Language: lgg-official

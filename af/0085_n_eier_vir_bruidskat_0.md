@@ -82,8 +82,6 @@ stok was ook nie myne nie. Dit het
 aan die bessie versamelaars
 behoort. Hulle het dit ook nie
 sonder rede vir my gegee nie.
-
-##
 Hulle het dit vir my gegee omdat hulle die eier gebreek het. Die
 eier was ook nie my eier nie.Die eier het aan my ouma behoort.
 Ouma het die eier vir my gegee vir bruidskat”.
@@ -120,8 +118,6 @@ Hulle het nie die bondel gras sonder rede vir my gegee nie. Hulle
 het my stok gebreek. Die stok was nie myne nie. Die bruid se
 familie het toe vir die seun gesê: “Ons het niks oor om jou mee te
 betaal nie, maar laat ons die bruid vir jou gee.”
-
-##
 En dit is waar die gesegde vandaan
 kom: “What comes around goes
 around.”

@@ -37,8 +37,6 @@ ku.
 emvu ‘dii ojizu fo!”
 
 ##
-
-##
 Rafa ma andri ni ndra afu nya ivile jo ri si tu. Le ma ovu alatara ru
 aje ni. Oji afa joa ‘dii, tri eyi, ondri eyi, dika onyi eyi alatara ru.
 Kamu de ‘bo, ondi alua ni esuru afa azi ma rua ku.
@@ -106,8 +104,6 @@ abaza si.
 omvu alia,” ‘yo asi si.
 
 ##
-
-##
 “Ma curu'do imi zi ngole ya?” Awupi Fetaru‘yo. “Le ma esu pari
 muke ni emi ‘ba zu,” ‘yo eri ni di aci si jo talaa ria. “Ma ega pari azi
 ‘bo,” asi ‘yo. “Ma emi ‘ba jo sia ‘bua!” Awupi Fetaru tu pati ‘bani to
@@ -142,8 +138,6 @@ aai, aaaaii, he, he, heeeeee!' A'u aceepi ‘dii embu woro Anguparu
 ma dria. Mi econi eri ma dri ne ku!
 
 ##
-
-##
 Amu eyi e'do otre aguta si. Agupi bii eyi ma ‘a agutaa si. Oku oja
 eyi ogua si agutaa si. Agupi anzi ezo anzi pie bii eyi agutaa si.
 Dede eyi ma agate azu agutaa si. Mbaza eyi angu so eyi ma tuke
@@ -153,14 +147,10 @@ agutaa si. Anguaparu ze ima dri vile agutaa si kpere eri ma
 agbaragbu e'do ‘i aya. Sara nga di usu ti be mgbo!
 
 ##
-
-##
 Omu emupi ‘dii woro nga ‘yo kini ada ada, aje ‘da ri nde Enyati
 Kuluva onyi si ra. ‘Eee, emi ma drile ba!' Sara ‘yo a'u ‘dii ni, esu eri
 eyi ‘ba a'ujoa. ‘Ayia ‘yo ‘i eco emi ‘ba a'di omvu alia dika ku,” ‘yo
 eyi ni. “Te emi eca vini ondi ru dika. Ma iga ma emi oji dika drusi!”
-
-##
 
 ##
 * License: [CC-BY]

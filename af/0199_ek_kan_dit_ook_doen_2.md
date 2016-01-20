@@ -21,6 +21,8 @@ Kyk, ek kan knip-oog!
 Ek sing in die koor
 
 ##
+
+##
 Ek kan lees
 
 ##

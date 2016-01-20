@@ -63,8 +63,6 @@ aria nde ni nyaka ku. 'Ba 'diyi 'yo kini e'yo aria 'di ma dria ri eri lu
 o'dukoni oluzaru anzi nyiri yi ni.
 
 ##
-
-##
 'Ba yi di lu ega kaukau 'dini kini eli
 azi drioni si aria azi 'biko be ndriza
 ni ndra ci. 'Ba yi ma dria azi ga eli
@@ -82,8 +80,6 @@ aluni ku. Kani 'ba 'diyi rii e'yo nze kini, “'Di woro enzo ni. Ama
 o'duko 'dile ri olu ama anzi yini a'di 'yezu? Le ama anzi ma zoo,
 ma ega di e'yo piri 'diyi e'yo cika ni yi ma dria. Aria ozoo edepiri
 eca di candi si tu enga di ima opipi ku. Ozoo 'di di vini ku indi.
-
-##
 
 ##
 Oko risi 'ba 'dayi 'yo kini, “Ama nga
@@ -118,8 +114,6 @@ ozoo 'dasi saaru. Mva 'di 'yo ba angu nde ma alea 'diyi ni kini,
 “Emi ma eri nga. Andru afe te mukati aria ndriza nyakua 'dia ndeni
 ri ni, coti ozoo e'do 'di.” 'Ba 'diyi gaa e'yo mva nde ni nze ri si kini
 e'yo aria 'da ma dria ri eri o'duko ni.
-
-##
 
 ##
 Ayiko fu 'ba angu nde ma alea 'diyi

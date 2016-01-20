@@ -16,7 +16,6 @@ ami, demanda au Corbeau :
 blanche qui est toujours en dessous
 de ton cou ?”
 
-##
 Corbeau répondit :
 “C’est la viande grasse que j’ai l’habitude de manger dans le ciel.
 J’en mange depuis tellement longtemps que maintenant elle est
@@ -73,8 +72,6 @@ Plumes du Corbeau, détachez-vous.
 En réponse, la Hyène chanta le contraire :
 Plumes du Corbeau, ne vous détachez pas. Plumes du Corbeau
 tenez, ne vous détachez pas.
-
-##
 
 ##
 Finalement, les plumes ne

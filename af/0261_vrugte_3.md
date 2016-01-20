@@ -48,8 +48,6 @@ die vrugte eet en weggestuur sou
 word. Hy was toe bedien met die
 vrugte, maar geweier om die vrugte
 te eet.
-
-##
 'n Hele tyd is al verby en die meisie begin toe die man smeek om
 die vrugte te eet. Teen vier uur het die honger die man oorval en
 toe eet hy die vrugte. Hy was ook weggestuur.
@@ -80,8 +78,6 @@ hom verstaar en het hom bewonder.
 Sy het hom eenkant toe gevat en
 hom gesmeek om nie die vrugte te
 eet nie.
-
-##
 Sy het hom bedien met baie minder vrugte as vir die ander mans.
 Teen die middag het die prins alreeds sy vrugte geëet en hy was
 weggestuur.
@@ -93,18 +89,16 @@ jonk en was gewild onder baie mense omdat hy 'n goeie prater is.
 Hy was vasbeslote dat hy sou wen. Die meisie het hom met baie
 vrugte gedien en hom gesmeek om dit te eet sodat hy weggestuur
 word.
+
+##
 Wanneer die vrugte aan hom bedien was, het hy geweier om die
 vrugte te eet. Die meisie het in angs gewag. Die middag was al
 verby, toe kom twee uur. Teen vier uur het die boer vir water
 gevra.
-
-##
 Die meisie het gebid dat die man die vrugte sou eet, sy het gebid
 totdat die klok sewe uur geslaan het.
 Die boer het die toets van uithouvermoë gewen wat die ouers
 opgestel het!
-
-##
 
 ##
 Haar ouers het toe hul dogter

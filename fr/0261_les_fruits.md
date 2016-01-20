@@ -60,6 +60,8 @@ jeune fille souhaitait qu’il mange et s’en aille.
 Lorsqu’on lui servit des fruits, il refusa de les manger.
 Il resta toute la journée. Vers six heures, il demanda
 s’il pouvait aller aux toilettes.
+
+##
 Il fut autorisé à y aller. Quand il revint, le parfum des
 fruits l’enveloppait, et ses lèvres étaient rouges ! Il
 avait mangé des fruits dans les toilettes ! Au grand
@@ -78,21 +80,20 @@ Mais à midi, le prince avait déjà
 mangé un fruit et il fut renvoyé. La
 jeune fille fondit en larmes de
 colère et de déception.
-.
 
 ##
 Le lendemain, un paysan vint à son tour. Il était pauvre et
 paresseux, mais il était jeune et connu pour être bavard. Il était
 déterminé à gagner. La jeune fille lui servit beaucoup de fruits et
 lui demanda de manger et de s’en aller.
+
+##
 Quand il fut servi, il refusa de manger. La jeune fille attendait
 douloureusement. Midi passa, puis deux heures. À quatre heures,
 le paysan demanda de l’eau.
 La jeune fille pria pour qu’il mange des fruits, mais elle priait
 encore lorsque l’horloge sonna sept heures. Ce paysan avait
 surmonté l’épreuve d’endurance fixé par les parents !
-
-##
 
 ##
 Les parents durent confier leur fille

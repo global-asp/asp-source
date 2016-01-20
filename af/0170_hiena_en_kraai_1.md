@@ -12,7 +12,6 @@ Eendag vra Hiëna nuuskierig vir sy
 vriend Kraai, " Wat is die wit ding
 wat altyd onder jou nek is ? "
 
-##
 Kraai antwoord: " Dit is die vetterige vleis wat ek gewoonlik eet in
 die lug. Ek eet dit nou al vir so lank , dit sit vas op my nek.
 Met die aanhoor van vleis , het speeksel begin stort vanuit Hiëna
@@ -64,8 +63,6 @@ Hy sing toe:
 In reaksie , sing Hiëna die teenoorgestelde:
 "Kraai vere hou vas, moenie julself uitpluk nie. Kraai vere hou vas,
 moenie julself uitpluk nie."
-
-##
 
 ##
 Uiteindelik, kon die vere nie meer

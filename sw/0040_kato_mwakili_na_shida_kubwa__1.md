@@ -65,8 +65,6 @@ walilia. “Bila shaka tutakufa,” walisema kisha wakalia kwa
 uchungu.
 
 ##
-
-##
 Mjombake Kato na shangaziye walikuwa kimya
 sana na kindi wote wadogo walisonga karibu
 na mamao.
@@ -75,8 +73,6 @@ akiona haya, “Naishi katika Msitu wa Mbali,
 labda tunaweza kwenda sote huko.”
 Kulikuwa na sauti za mchangamko na mmoja
 akasema, “Vipi?”
-
-##
 Kato alikuna kichwa na kuwaza sana, “Sawa,
 Kindi ya Moja kwa Moja, inaweza kuwapeleka
 kindi na vipepeo, buibui, watoto wa vipepeo na
@@ -85,10 +81,10 @@ Ndege wanaweza kuruka au waje nasi.
 Fugo nao pamoja na panya wadogo na nyoka
 wa nyasini wanaweza kutumia Fugo ya Moja
 kwa Moja ipitiayo chini kwa chini.
-Kila mmoja lifikiria kuwa hilo lilikuwa wazo
-murua kabisa.
 
 ##
+Kila mmoja lifikiria kuwa hilo lilikuwa wazo
+murua kabisa.
 Bwana Popples aliharakisha kumuuliza Bwana
 Grumbles, dereva wa treni ya moja kwa moja
 ya chini kwa chini ikiwa angeweza kuwabeba

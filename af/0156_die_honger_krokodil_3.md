@@ -8,7 +8,6 @@ baie honger krokodil.
 Hy het stadig en
 saggies vir kos gesoek.
 
-##
 En toe...
 
 ##

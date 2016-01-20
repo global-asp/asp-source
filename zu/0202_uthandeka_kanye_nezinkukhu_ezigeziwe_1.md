@@ -44,8 +44,6 @@ lezonkukhu zakho uze uzongisiza la
 emabhodweni!”
 
 ##
-
-##
 Umama kaThandeka wayeziqhenya kakhulu ngendlu yakhe futhi
 wayefuna yonke into ihambe ngohlelo ngomshado. Wahlanza
 umuzi wakhe ewukhuculula, epholisha yonke into.
@@ -132,8 +130,6 @@ ngizonibeka phezu kwendlu.” UmaMtshali wagibela odongweni
 lasengadini wazibeka phezu kwendlu ngokulandelana.
 
 ##
-
-##
 Ngosuku olulandelayo kwabe sekuwusuku lomshado. UThandeka
 waba owokuqala kwabavukayo eyobheka izinkukhu zakhe. Wabona
 ukuthi akukho nkukhu esalele otshanini.
@@ -173,16 +169,12 @@ Zonke izinkukhu zakhetha ukulandela lezi ezimbili. Wawungeke
 usamkhomba umamNgwenya embozwe izinkukhu!
 
 ##
-
-##
 Izivakashi zazimemeza ziphelile uhleko.
 Amadoda ayesebambe izisu efa insini.
 Abesifazane babegingqika nezitulo behleka.
 Abafana namantombazane babeze babambane bephelile uhleko.
 Ogogo base behluleka ukuphefumula ngenxa yokuhleka.
 Amakhehla ayeze ashaye izinduku zokudondolozela phansi ehleka.
-
-##
 
 ##
 Labo mamncane ababili babukana emehlweni bansinsitheka.
@@ -197,8 +189,6 @@ zakhe ngesikhathi ezidushela esilugwini sazo kusihlwa. “Umama
 uthe ngeke esanenza isidlo sakusihlwa.”
 “Kodwa bhekani nje senigcole kanjani futhi. Ngicabanga ukuthi
 kuzomele ngiphinde nginigeze kusasa!”
-
-##
 
 ##
 UThandeka kanye nezinkukhu

@@ -1,6 +1,4 @@
-# ̀ íó pi Rò kó be
-Ib
-Lugbarati (Official)
+# ̀ íó pi Rò kó be Ib
 
 ##
 Ìbìó pɨyɨ ndrâ ètó be á gyíi nɨ. Yɨ ndrâ
@@ -12,7 +10,6 @@ té tró ò’bìzʉ àfá 'ɨ ́ be ìndɨ ̀ 'dɨ ̀yɨ
 awazʉ́ à nyà pá àzɨ ́ ‘dɨ ̀yɨ pie rá tɨ ́, Ìbíó
 rɨ ́ ovʉ́ èrɨ ‘be à’yàsɨ ̀.
 
-
 ##
 ̀ ̀ó nga di ́ otʉ́tá àzɨ ́nɨ ò tʉ́ lè zʉ́
 ‘Dɨ ́nɨ, Ibi
@@ -23,7 +20,6 @@ Ibìó
 nga dɨ ́ écá ètó mà ámvʉ́ èrɨ ́ bɨ ́
 pìnɨ ́ patí éfɨ ́ be rɨ ̀ mà é 'ɨ ́ɨ rʉ́.
 
-
 ##
 ̀ ̀ó nga dɨ ́ mʉ́ cúá ‘ɨ ́ mà patí éfɨ ́ pɨ
 Ibi
@@ -33,7 +29,6 @@ Ròbɨ ́à ndě mà èselé à zɨ ́ sɨ ̀ jé kà ká
 à kʉ́ ‘ɨ ́ vɨ ́lé rɨ ̀ nɨ ́, ngà dɨ ́ èrɨ ‘bǎ ròbɨ ́à
 drìá ógéyɨ ́á mà aléá.
 
-
 ##
 ̀ ̀ó ko dɨ ̀ drì muzʉ́ àkʉ́á ógéyɨ ́á bé
 Ibi
@@ -41,7 +36,6 @@ à sò zà rʉ́ ‘ɨ ́ mà drìá, óngó ngozà pie
 àyɨ ̀kòsɨ ̀.
 Rɨ e’yó egá àfa ndʉ́ ndʉ́ 'ɨ ́nɨ ́ lè lé
 ojelé ròbɨ ́à ‘ɨ ́ vɨ ́lé rɨ ̀ sɨ ̀ rɨ ̀ mà drìá.
-
 
 ##
 Erɨnɨ ́ mʉrɨ ́á gèrɨ ̀á yɨ ́màyɨ ́ nga e’dó
@@ -51,7 +45,6 @@ ozóó à mbórʉ́ nɨ rʉ́.Ibi
 ógéyɨ ́á gèrì tɨá apá patí ètɨ ́á.
 Rɨ ‘ɨ ́ mà ó géyɨ ́á ndê ně cɨ ́cɨ ́ ‘bá àzɨ ́nɨ
 mà ‘dʉ ógéyɨ ́á ndě kʉ be nɨ ̀.
-
 
 ##
 ̀ ̀ó mà rʉ́á ecá
@@ -64,7 +57,6 @@ ozoó nɨ ́ ‘ɨ de rɨá ,” Ibi
 a’dúle a’dúle. “E’yó mʉ́ké rɨ ̀, ‘bà
 'ɨ ́mà séndè mà drìá kà ká cɨ ́.”
 
-
 ##
 Sâ were mà vútiá, rò kó rɨ ongá ìnyɨ ́á
 ‘dà sɨ ̀, ngá ógéyɨ ́á gèrì tiá rɨ ̀ ně.
@@ -72,7 +64,6 @@ Nè ógéyɨ ́á ndê mà aléá sé ndè pɨ
 kà ká be.
 Nga di ́ ógéyɨ ́á ndê mà ti a’bʉ́ ɨ ́ mà
 òpìlé ’bɨ ́ yɨ sɨ cɨ ́ kpere ozoó nɨ ́ àtɨ ̀rɨá.
-
 
 ##
 ̀ ̀ó nè ròkó nɨ ́ rɨrɨá ‘ɨ ́ mà ó géyɨ ́á tiá.
@@ -88,7 +79,6 @@ rɨ mânɨ ́. Má esʉ́ èrɨ nyakʉ́á gèrìkò tiá
 dɨ ̀á.” Ibi
 ‘yó Rò kónɨ ́, “Èrɨ mânɨ ́, à lʉ ngà mɨ ́nɨ ́
 'dɨ ̀!”
-
 
 ##
 ̀ ̀ó mu àwókó pie rókó nɨ tozʉ́ ópɨ ́
@@ -107,7 +97,6 @@ rɨ ̀ sɨ ̀ mɨ ́ ésʉ́ cé dè má a’bú ma
 énga yó kɨ ́nɨ ̀ ógéyɨ ́á ndê mɨ ̂nɨ ́ a’dɨ
 sɨ ̀?” Rò kó omvɨ èrɨ.
 
-
 ##
 Ópɨ ́ pi kâ mú e’yó ‘bá ìrì ‘dɨ ̀yɨ nɨ ́ ‘yo
 ̀ ̀ó pɨ mà ti pě
@@ -115,7 +104,6 @@ lérɨ ̀ erɨɨ ́ kílílí ‘bo, ngá Ibi
 rò kó be rè.
 Ngá dɨ ́ e’yó ndé mà alé nya sâ è zʉ́
 yɨ mà vʉ́tíá. Àsìzʉ́ lí dɨ ́ kési ̀ rá.
-
 
 ##
 ̀ ̀ó pi omvé Rókó be
@@ -127,7 +115,6 @@ lè àfa àzɨ ́nɨ ovʉʉ́pɨ mɨ ̂nɨ ́ kʉ rɨ ̀ rí.”
 ̀ ̀ó egá ngà ‘ɨ ́ erɨ ènzò nɨ. Nga ‘ɨ
 Ibi
 mbé àwʉ́drìá.
-
 
 ##
 ̀ ̀ó nɨ ndè zʉ́rɨ ̀ eré ɨ ́
@@ -144,12 +131,9 @@ aléá patí éfɨ ́ yɨ sá èrɨ ́bí pie díká.
 Té Ibi
 ezákìzàrʉ́ àzɨ ́nɨ ágyíi kókò rʉ́.
 
-
 ##
-̀ íó pi Rò kó be
-Ib
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Alice Ojobiru
-* Language: Lugbarati (Official)
+* Language: lgg-official

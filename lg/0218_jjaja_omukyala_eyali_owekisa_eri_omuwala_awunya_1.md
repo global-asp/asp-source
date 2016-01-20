@@ -80,7 +80,6 @@ nayambala akakooyi ke mubwangu
 era nadduka okudda ewaabwe mu
 bazzadde be nga bwayimba nti:
 
-##
 Maama nzigulirawo oluggi, mpunya.
 Maama nzigulirawo oluggi mpunya.
 Mpunya, bubi nnyo.
@@ -98,7 +97,6 @@ Awo nadduka nagenda mu nyumba
 ya Senga ne Kojja we. Namuli yajja
 nga bwayimba nti:
 
-##
 Senga nzigulirawo oluggi, mpunya.
 Kojja nzigulirawo oluggi mpunya.
 Mpunya, bubi nnyo.

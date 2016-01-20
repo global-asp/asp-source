@@ -1,5 +1,4 @@
 # Àyákáká
-Lugbarati (Official)
 
 ##
 Ndráa drìò, àngʉ̀ àzɨ ́ ‘bánɨ ́
@@ -9,7 +8,6 @@ díká èrɨ mà òkʉnɨ mà rú
 Àyákáká ‘ɨ. YƗ mà anzɨ yɨ ndráa
 ázɨ ́á. Anzɨ ‘dɨ ̀yɨ ndráa drɨ ́á
 ezóanzɨ yɨ.
-
 
 ##
 Àyákáká kà muzʉ́ ‘ɨ ́ mà mvá
@@ -22,13 +20,11 @@ Te‘ɨ ́kà mánɨ ́ ágúpíámvá osi, mà
 nga mɨ ́nɨ ́ òmù àzɨ ́ àmbó ‘dɨ ́nɨ nɨ
 ‘bàa ‘ɨ ́.
 
-
 ##
 Sâ mvá nɨ ́ osizʉ́ rɨ ̀ kà mú ecá
 ‘bo, Àyákáká mu òkʉ́ ‘bá osiípɨ rɨ ̀
 vʉ́. Mvá ‘dɨ ̀ nɨ nga ovʉ zámvánɨ
 yàkànɨ ̀ ágúpíámvánɨ?
-
 
 ##
 Mvá osi ágúpíámvá àzɨ ́nɨ
@@ -42,12 +38,10 @@ Te nè Lèkʉrʉ́ nɨ ‘dɨ ́nɨ, càndɨ ́ fu
 Te kírí egá kɨ ́nɨ ̀ e’yó àzɨ àlʉ ɨ ́nɨ ́
 ecó ‘yé rá nɨ cɨ ́.
 
-
 ##
 Àyákáká kʉ Lèkʉrʉ́ nɨ òkʉ́
 ‘báosiípɨ rɨ ̀ vʉ́ ‘dǎ. ‘Du Àyɨ ̀kònɨ ́ nɨ
 jí àkúá ɨ ́mà ágúpɨ ́ vʉ́ ‘dálé 'ɨ ́.
-
 
 ##
 E’da mvá ágúpɨ ́árʉ́rɨ ̀ Òndògánɨ ́
@@ -57,12 +51,10 @@ omve súrú ndulu rɨ ̀ emʉ́zʉ́ òmù
 ɨ ́mà mvánɨ ́ àndrʉ̀ osizʉ́
 águpíámvánɨrɨ ̀ nyazʉ́.
 
-
 ##
 Àyɨ ̀kònɨ ́ zò kàrilè rʉ́ ruá be àlá.
 Lekuru zò vɨ ́nɨ zámvá rʉ́ àlá
 ndrɨ ̀zà.
-
 
 ##
 Ó'dú àlʉ, èrɨ nɨ ́ 'ɨ ́mà áti ́i mà tí yɨ
@@ -71,12 +63,10 @@ ndrɨ ̀zà rʉ́ nɨ.
 “zámvá mánɨ ́ lèlé 'dulérɨ ̀ belénɨ
 'dɨ ̀ 'ɨ ́.” Rɨ o'yó a'dúle a'dúle.
 
-
 ##
 Te èrɨ nɨ ́ zámvá ndê zízʉ́ 'ɨ 'dʉ́zʉ́
 rɨ ̀sɨ ̌, zámvá ndê e'dó ongó àzɨ ́nɨ
 ngó.
-
 
 ##
 E'yó 'dɨ ̀rɨ 'ye 'ɨ ́ 'dɨ ̀lé páalé
@@ -91,7 +81,6 @@ vʉ́.
 òkʉ́rʉ́, èrɨ mánɨ ́ óngó àzɨ ́ àlʉ nɨ
 ngo 'ɨ ́.
 
-
 ##
 Àyɨ ̀kònɨ ́ òsù tʉ̀ èrɨ mà ándríi nɨ ́
 'yozʉ́ èrɨ nɨ ́ kɨ ́nì “e'yó zámvá 'dà
@@ -105,7 +94,6 @@ kʉ. Ànɨ ́ ákʉ ndráa dɨ ́ mɨ ́ amvíi nɨ ́
 dɨ ́ mɨ mɨ ́ átíi vɨ ́lé àkúá 'dólé
 a'dʉ́lé.
 
-
 ##
 Àyɨ ̀kònɨ ́ kà mú e'yó 'dɨ ̀ òlʉ̀ú 'ɨ ́mà
 átíi nɨ ́ 'boó, átíi nì rá kɨ ́nɨ ̀ e'yó
@@ -114,7 +102,6 @@ Nga Àyákáká nɨ omveé 'ɨ ́vʉ́ rá,
 yɨ ́ ìrìtró mú Lèkʉrʉ́ nɨ ejí òkʉ́
 mvá osiípɨ rɨ ̀ vɨ ́lé rɨ ̀sɨ ̀.
 
-
 ##
 Lèkʉ́rʉ́ kà mú ecá àkúá 'boó, èrɨ
 mà átíi pɨ órɨ ́'bà 'bá 'wàrà rʉ́
@@ -122,17 +109,15 @@ súrúá 'dɨ ̀yɨ pie lí ndrí àzɨ ́nɨ òwɨ ̀kɨ ́
 órɨ ́ Lèkʉrʉ́ pɨ ecɨ ́zʉ èrɨ mà àyɨ ́à
 anzɨ àzɨ ́ ázírì 'dɨ ̀yɨ pie.
 
-
 ##
 Élɨ ́ àlʉ mà vútiá ópɨ ́ àfa é'ɨ ́ rʉ́ rɨ ̀
 mà mvíi nga dɨ ́ Lèkʉrʉ́ nɨ jé òkʉ̂
 rʉ́ nɨ ̀. Ejí málɨ ̀ àzɨ ́nɨ àyɨ ̀kò àkú
 'ɨ ́mà átíi nɨ ́rɨ ̀á trétré
 
-
 ##
 * License: [CC-BY]
 * Text: Matthews M Wanga
 * Illustration: Wiehan de Jager
 * Translation: Doris Maandebo
-* Language: Lugbarati (Official)
+* Language: lgg-official

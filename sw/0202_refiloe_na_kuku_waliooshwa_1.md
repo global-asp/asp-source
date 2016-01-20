@@ -32,8 +32,6 @@ alimwita kutoka ndani, “acha hao kuku wako na uje
 kunisaidia na hivi vyungu tafadhali!”
 
 ##
-
-##
 Mamake Refiloe alijivunia nyumba yake na alitaka iwe kamili siku
 ya harusi. Alisafisha, akaosha na kusugua kila kilochokuwamo.
 Alipomaliza, hapakuwa na chembe cha vumbi popote. Kuku
@@ -106,8 +104,6 @@ ya ukuta wa bustani na kuwaweka kuku katika mstari katika paa la
 nyumba ya nyasi.
 
 ##
-
-##
 Siku ya kufuata jua lilichomoza kwa wakati mzuri kwa harusi.
 Refiloe alikuwa wa kwanza kuamka na kwenda kuwaangalia kuku
 wake. Aliona kwamba hawakuwa wamelala juu ya nyasi tena.
@@ -145,8 +141,6 @@ Wale kuku wote waliamua kujiunga na wale wawili wa kwanza.
 Hungemwona Mama Ngwe kwa ajili ya kuku hao wote!
 
 ##
-
-##
 Wageni walicheka kwa mayowe. Wanaume walilazimika kuzishika
 tumbo zao. Wanawake waliviringika katika viti vyao. Vijana
 walijishikilia kwa wenzao. Akina nyanya hawangeweza kupumua
@@ -157,16 +151,12 @@ Ngwe alikirusha kichwa chake nyuma na kucheka hadi mashavu
 yakatingizika. Refiloe hakuamini!
 
 ##
-
-##
 Wageni wote walikubaliana kwamba ilikuwa harusi nzuri zaidi
 ambayo iliwahi kufanyika katika Malealea. “Ah, mna bahati sana!
 Refiloe aliwaambia kuku wake alipokuwa anawaweka kwenye
 chumba chao usiku ule, “Mama anasema kuwa hatawahi
 kuwaweka kwenye chungu chake. “Lakini ona jinsi mlivyo wachafu
 tena,” aliwaambia, “Nadhani nitalazimika kuwaosha tena kesho!”
-
-##
 
 ##
 * License: [CC-BY]

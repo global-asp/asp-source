@@ -73,7 +73,6 @@ shishiwunyaalikhana buubi isho,
 waatimaka ingo isi basaali beewe.
 Weemba kumweenya ari,
 
-##
 “Maayi intsikulilewo kumulyaango, indi khuuwunya buubi!
 Maayi , intsikulilewo kumulyaango, indi khuuwunya buubi!
 Indi khuuwunya buubi naabi!
@@ -90,7 +89,6 @@ kumukali. Aryo waatimaka waatsya
 wa seengewe ni khootsawe.
 Baamuwulila nga eemba,
 
-##
 “Intsikulilewo kumulyaango! Indi khuuwunya buubi!
 Intsikulilewo kumulyaango! Indi khuuwunya buubi!
 Indi khuuwunya buubi naabi!.”

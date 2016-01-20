@@ -61,7 +61,6 @@ wa gagwe wa go nkga, a
 kitimela gae go batswadi ba
 gagwe. O be a opela kosha.
 
-##
 Mma, mpulele monyako kea nkga;
 Mma, mpulele monyako kea nkga, ke nkga kudu.
 Mma o ile a kwa kosa a tswela ko ntle.
@@ -75,7 +74,6 @@ kitimela wa malome le mmane
 wa gagwe ba mo kwele ge a
 opela.
 
-##
 Mpulele monyako kea nkga;
 Mpulele monyako kea nkga;
 ke nkga e le ruri.

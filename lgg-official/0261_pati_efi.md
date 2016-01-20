@@ -1,5 +1,4 @@
 # Patí éfɨ́
-Lugbarati (Official)
 
 ##
 Àkú àzɨ ́nɨ ndrâ àlʉ patí éfɨ ́ be
@@ -12,7 +11,6 @@ sí nɨ mvěpɨ milé nɨ be rɨ ̀ pie àzɨ ́nɨ èrɨ
 mà adrɨ ́zà ndrɨ ̌pɨ ònyɨ ̀ dà mà drìlɨ ́á rɨ ̀
 pie ɨ ̀ndɨ ̀.
 
-
 ##
 Zámvá ndêrɨ ̀ kà mú zǒ àmúrúó rʉ̌
 'bǒ, kàrílè àzɨ ́nɨ àgùpi 'wàrà 'dɨ ̀yɨ
@@ -21,7 +19,6 @@ jezʉ́. Èrɨ mà tipíka egá kɨ ́nɨ ̌ 'bá ngápɨ
 èrɨ jépɨ rɨ ̀ nɨ nga ovʉ 'bá rɨ ́pɨ àkú 'dà
 mà drìá 'dǎ ètú zù patí éfɨ ́ 'dà
 nyakókòrʉ́ rɨ ̀ 'i.
-
 
 ##
 E'yó 'dà ku súrú 'dà mà alɨ ́á 'dǎ
@@ -33,7 +30,6 @@ Ndrɨ ̀ ndrâ sǎrʉ̌., èrɨ àfa be dríá àzɨ ́nɨ
 èrɨ nɨ patí éfé 'dà nyǎ. Rɨ sâ were
 cotí 'du patí éfɨ ́ nyǎ. 'Ba dro èrɨ rá.
 
-
 ##
 'Dà mà vútiá, ágú 'bá ànyàpá tà
 mbápɨ 'dɨ ̀yɨ mà drìlérʉ̌ rɨ ̀ emú nɨ ̀. Èrɨ
@@ -42,7 +38,6 @@ dríá. Èrɨ mà é'yó fɨ zámvá 'dà mà
 ásíá rá. 'Bá kà mú èrɨ nɨ ́ Patí éfɨ ́ 'dà
 fě nyá 'bo, 'du rá nyará. 'Bá pè tinɨ
 rá.
-
 
 ##
 Ágú emúpɨ 'dà mà vútiá rì ndrâ 'bá
@@ -56,7 +51,6 @@ e'dó rʉ mǎ èrɨ vʉ́ mà nya patí éfɨ ́
 ndêrɨ ̀ benɨ ̀. Sâ kà mú cá mudrí 'bǒ,
 abírí ndè èrɨ káyì rá, 'du patí éfɨ ́
 nyǎrá. 'Bá dró vɨ ́nɨ èrɨ rá.
-
 
 ##
 'Dà mà vʉ́tɨá, ópɨ ́ àngʉ̀ 'dà vɨ ́lé rɨ ̀
@@ -76,7 +70,6 @@ A'á ètú zù. Sâ mudrí drɨ ̀nɨ ìrìá lérǔ
 'dà mà hwi 'ye 'bá ní ti nɨ pèzʉ́ rá
 rìsɨ ̀.
 
-
 ##
 O'dú kà mú agaá 'dà mà vʉ́tiá were
 'boó,ópɨ ́ mvî emú. Zámvá 'dà nè èrɨ
@@ -89,7 +82,6 @@ nya patí éfɨ ́ 'bo, díká 'bá pè vɨ ́nɨ ti nɨ
 'bo. Òcòkò àzɨ ́nɨ àwókó zámvá nɨ
 nyápɨ tʉ̀ rɨ ̀ fè wʉ 'i káyì.
 
-
 ##
 Drùsì 'dínɨɨ ́,’ 'bá àzɨ ámvú 'yǎ pɨ nɨ emú. Èrɨ înɨ ́ ndrâ àlíó nɨ àzɨ ́nɨ
 òvʉ̀rʉ́. Te èrɨ ndrâ mvârʉ́. 'Bá nì ndrâ èrɨ sǎrǔ e'yó nzezà tiá tré rìsɨ ̀.
@@ -100,9 +92,6 @@ sâ àrò ca. Sâ kà dɨ ́ mú cá mudrí 'bǒ, a'i dɨ ́ yí mvuzà. Zámvá
 Mʉ́ngʉ̀ zí kɨ ́nɨ ̀ kàté patí éfɨ ́ nyará ba, te èrɨnɨ ́ ngà kírí Mʉ́ngʉ̀ zírɨá,
 sâ ínîní àlʉ ca. ‘Bá ámvú 'yǎpɨ rɨ ̀ nga dɨ ́ obétá zámvá 'dà mà tipíka
 yɨnɨ ́ fě 'bá ásí mbazà be ndênɨ ̀ rɨ ̀ ò'bìzʉ́ rɨ ̀ agǎ rá
-
-
-##
 
 ##
 Èrɨ mà tipíka ngá dǐ yɨ vɨ ́lé zámvá rɨ ̀
@@ -117,7 +106,6 @@ ngǒ drí sazà be. 'Bá kárákàràú emú
 nzìlá tiá ágúpí 'dɨ ̀ pɨ nèzʉ́ èrɨ vɨ ́lé
 òkʉ́rɨ ̀ be.
 
-
 ##
 'Bá emúpɨ 'dɨ ̀yɨ mà èselɨ ́á ìndɨ ̀rɨ ̀ ndrâ
 àtɨ'bo ópɨ ́ mvî vɨ ́lé 'dɨ ̀yɨ. Omvé 'bá
@@ -128,7 +116,6 @@ ezakókòrú, ágúpí 'dà 'du séndè rá
 cotí ko drì mú. Kʉ zámvá 'dà pɨ
 àtɨ'bo ópí mvî vɨ ́lé 'dɨyɨ pie a'dúle.
 
-
 ##
 Àtɨ'bo 'dɨ ̀yɨ òsǔ zámvá 'dɨ ̀ bòngó
 ndrɨ ̀zàrʉ́ 'dìyɨ sɨ ̀. Ngà dɨ ́ èrɨ jí ópí vɨ ́lé
@@ -137,10 +124,13 @@ mvî vʉ́. Sâ ezakókòrʉ, 'Bá omve èrɨ
 mà tipíka yɨ àzínɨ 'bá otʉ́ òmù 'bá ìrì
 'dìyɨ ecɨzʉ́ àjé alɨ ́á.
 
+##
+
+##
 
 ##
 * License: [CC-BY]
 * Text: Shakira Bodio
 * Illustration: Wiehan de Jager
 * Translation: Dorothy Fetaru
-* Language: Lugbarati (Official)
+* Language: lgg-official

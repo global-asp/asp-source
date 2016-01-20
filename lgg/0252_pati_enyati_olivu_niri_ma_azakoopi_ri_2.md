@@ -13,8 +13,6 @@ Olivu vileri le ku!" "Olivu? Enyati enyi ‘deri'i ya?" Sakaru nga zi.
 pati nde ‘dii ma dria.
 
 ##
-
-##
 Zamva azi ndra ci ‘ba eri omve Tiperu. Eri ndra o'a enyati Olivu
 alia. O'du alu mu yia ima adri Angucia be. Tiperu ni yi to omvuaria,
 Angucia ne etoo azi. Nzu vutinia si. Nzu, nzu, nzu – mi ega eco
@@ -28,8 +26,6 @@ avali. Agupi ‘da pivu e usu, vini aju! Tiperu eri eyima o'duko.
 "Angucia," ‘yo yukule si erini agu ‘da ma o'duko eri ‘boria. “'Di agu
 ‘ba rapi ‘dii. Emu ‘di ama tiyi oguu dika enyati eve." Tiperu pi ga
 Angula be e'yere pari ‘da ma aliarisi te, mu akua eyivile enyatia.
-
-##
 
 ##
 Eyi mu ca enyati ageia ‘bo, fudri eyima atapuru be. Eri tiyi ji yi
@@ -55,8 +51,6 @@ Ori nde vini Tiperu ni tu. Ega e'yo azi. Ega pari eyi muzu avizu saa
 azisi Angucia be ri. Pari muke ni. Pari ziza ni.
 
 ##
-
-##
 “Ani pari azi ra!" tre okpo si. “Ani pari Amani woro ovuzu muke ni
 ra"
 Te agu enyatia ‘dii eri nii eri ku. Eyi otre o'dukoo uru si. Eco agu ‘dii
@@ -66,8 +60,6 @@ Tuu! Tuu! Tuu! Tulu! Tulu! Tulu!
 Agu woro tupa. Tiperu tre okpo si, “Ani pari azini amani ecozu ama
 zizuni ra. Emima bi ma vuti."
 Bi Angucia ma dri.
-
-##
 
 ##
 “Emi emu, ama nga woro mu pati azinia. Ama nga ovu ‘dale
@@ -97,8 +89,6 @@ eyima rua nyi. Aci e'do owhe, bi aise, e'do dii. Sawa were vutia,
 angu di ole ru.
 
 ##
-
-##
 Amve ‘dale, agu ‘ba rapi ‘dii emu enyi, enyi.
 Eyi ma azi alu tre okpo si, e'da angu pati ambo ‘da vusi.
 Diza efu pati ‘da vusi. Mile kapi tu ‘dii ene angu engazu pati ‘da
@@ -107,8 +97,6 @@ alia.
 “'Diri adroo ambo ni!" nga tre ori si. Ogua alu ja ti e'do apa. ‘Da
 vutia azini, azini, azini - azini. Agu ‘dii apa woro. Agu Olivu enyatia
 ‘dii pa'i woro.
-
-##
 
 ##
 ‘Da ma vutia Dede ovu cucu.

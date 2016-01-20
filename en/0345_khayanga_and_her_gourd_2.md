@@ -28,7 +28,6 @@ recognised the voice as that of her
 late mother.
 It went like this…
 
-##
 Khayanga, ee, Khayanga!
 Our child the loved one!
 You're not alone, loved one!
@@ -53,7 +52,6 @@ Khayanga held the pieces of the
 broken Gourd in her small hands
 and sang:
 
-##
 Father and Mother,
 See the gourd is broken.
 The gourd you gave me.

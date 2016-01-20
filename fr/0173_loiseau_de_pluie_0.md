@@ -72,8 +72,6 @@ pied de l’arbre. Ensuite, comme elle n’avait pas de piano à pouces,
 elle chanta une vieille chanson qu’elle connaissait depuis toujours.
 
 ##
-
-##
 Dans un grand bruissement, un
 magnifique oiseau bleu vint tout à
 coup se poser sur les branches audessus de la tête de Ketti, et
@@ -101,8 +99,6 @@ qu’ils avaient tort. « Si seulement Grand-mère était encore en vie,
 se dit-elle, elle m’aurait cru ! » Mais la grand-mère de Ketti était
 morte quelques années plus tôt. La seule chose que Ketti
 conservait d’elle était un vieux piano à pouces.
-
-##
 
 ##
 Deux semaines passèrent et il n’y
@@ -138,15 +134,10 @@ Lorsque l’oiseau descendit manger la nourriture que Ketti lui avait
 apportée, le père leva son arc et décocha une flèche mortelle. La
 flèche se planta directement dans le cœur de l’oiseau. L’oiseau
 poussa un cri perçant.
-
-##
 Terrifiée, Ketti se retourna - juste à temps pour voir son père
-s’effondrer, mort subitement. Ketti cria et se retourna vers l’oiseau
-- juste à temps pour voir la flèche retomber de son corps
+s’effondrer, mort subitement. Ketti cria et se retourna vers l’oiseau - juste à temps pour voir la flèche retomber de son corps
 étincelant. Alors, sain et sauf, l’oiseau de pluie disparut dans les
 plus hautes branches de l’arbre.
-
-##
 
 ##
 Ketti courut hors de la forêt,

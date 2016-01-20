@@ -1,6 +1,4 @@
-# Adiko kayia pini
-‘ima zukulu be
-ri
+# Adiko kayia pini ‘ima zukulu be ri
 
 ##
 Kayia ri ndra o'a ima ti'ba be ayiko
@@ -30,7 +28,6 @@ tu ni. Kayia eri onduko ongo ngoopi
 o'duko.
 Ongo nde ndra ‘dini…
 
-##
 Kayia, ee, kayia!
 Ama mva lele turi!
 Ama mva lele turi mi ovuni adule ku!
@@ -57,7 +54,6 @@ aso zukulu ‘da ma e'yo si tu.
 Kayia bi zukulu ma kala andipi ‘dii
 ima dria. E'do ongo ngo:
 
-##
 Ma ati azini ma andri,
 Emi ndre zukulu ndra emini fele
 Mani ‘di ri andi ‘I ‘bo

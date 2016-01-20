@@ -29,7 +29,6 @@ wa ũkiakĩsyo. Kayanga nĩwamanyie
 kana wasya ũsu nĩwa inyaake.
 Wathi ũsu wendaa ta ũũ...
 
-##
 Kayanga, ee, Kayanga!
 Mwanawitu nĩtwakwendete!
 Ndwĩweka mwendwa!
@@ -56,7 +55,6 @@ Kayanga nĩwakwatie ilungu sya
 kĩkuu kĩkuu mokonĩ make manini na
 aina:
 
-##
 Nau na mwaitũ
 Onai kĩkuu nĩkyakw’a
 Kĩkuu kĩla mwanengie.

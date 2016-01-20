@@ -61,6 +61,8 @@ akakataa kula.
 Alikaa siku nzima, ilipofika saa kumi
 na mbili ya jioni aliomba haja
 akakubaliwa.
+
+##
 Aliporudi, alinukia matunda huku
 midomo yake rangi nyekundu!
 Msichana alifarijika mtemi akaagwa
@@ -90,13 +92,13 @@ na mwenye sifa ya kubobea maneno ambayo yaliwafurahisha
 watu. Akafika akiwa na nia madhubuti kushinda.
 Msichana naye alimwandalia matunda mengi akamwomba ale
 aende zake.
+
+##
 Alipoandaliwa akakataa kula. Msichana naye akasubiri akiumwa
 moyoni. Hadi saa sita ya mchana hajala, saa nane hajala, saa kumi
 mkulima aliomba maji.
 Msichana alimwomba Mungu ale na ilipofika saa moja ya jioni yeye
 alikuwa angalisali.
-
-##
 
 ##
 Wazazi wake msichana walikuwa

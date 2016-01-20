@@ -1,6 +1,5 @@
 # Èbìóejí `báyinɨ́
 á`dɨ́kóyiawaá
-Lugbarati (Official)
 
 ##
 Ándrádrìò, ópɨ ́ àngʉ̀ `bùárɨ ̀ vɨ ́léÒ’bànɨ ̀
@@ -8,7 +7,6 @@ Lugbarati (Official)
 sɨ ̀ nɨmàalɨ ́áuru `bùá `dálé. `Bányákúá `
 á`dɨ ́kódɨ ́ ndráaòlʉ̀zàrʉ́ yoànɨ ́ càndɨ ́ bɨ ̀ yi
 Èbìóòndʉ̀árʉtʉ̀ rɨ ̀ nɨzíyimààzàkozʉ́.
-
 
 ##
 Èbìópɨndráadɨ ́ bákáàzɨ ́nɨèzʉ́rʉ́ tuzʉ́
@@ -20,7 +18,6 @@ ecóá`dɨ ́kóyifěmádríráyà?” ziópí
 mɨ ́ ecóníngáyimààjèòfědékʉ, Èbìóá
 la.”
 
-
 ##
 “Á`dɨ ́kóá`dɨ ́kóndéyimààjèsíyà?”
 Èbìózi. “Mɨ ́ ngamánɨ ́ ànyàpáòmbàrʉ́
@@ -31,7 +28,6 @@ la.”
 `báòkɨ ̌ pɨpɨ ́ milé be nɨ” Ò’bànɨ ̀ gu
 `ɨkáì. Egákɨ ́nɨ ̀ `ɨ ́ víléá`dɨ ́kò `dìyivʉ́
 `báàzɨ ́ ecópɨcápɨnɨdɨ ́yo .
-
 
 ##
 Èbìóngadɨ ́ esíè`yerenyákúá
@@ -47,7 +43,6 @@ nyazʉ́. Ò`bítisɨ ̀, esúdèò`dʉ́
 Òmbàèrɨnyápɨkáɨ ̀ rɨ ̀ sɨ ̀, rɨdɨ ́
 `bílékálátiòvɨ ̌ teecónɨ ́ èfʉ̀zʉ́ kʉ.
 
-
 ##
 “Háyɨmɨ ́ ejíákomɨ ́ àzàmáágyímánɨ ́
 lèlétʉ̀ rɨ ̀!” Èbìó `yoèrɨnɨ ́. ‘Ɨ ́ la lʉ́
@@ -60,7 +55,6 @@ lazʉ́ drìniárɨ ̀ be kúrùráèbɨ ̀ dɨ ́ ànɨ ́
 díkáziÈbìómàtiákɨ ́nɨ ̀ ànyàpáàzɨ ́ ìrì
 `dìyingùáyà?
 
-
 ##
 Èbìóngadɨ ́ drìèdǎvɨ ́lényákúá. Egá ‘ɨ
 e’yósɨ ̀ kperengaòndʉ̀áàzɨ ́nɨegá. `Du
@@ -69,7 +63,6 @@ patíèdiriliyinɨ ́a’ázʉ́ síniárɨ ̀ màètɨ ́á.
 Dàyíndémààzíèdiriliá `dàyimàjóróvʉ̀
 màdrìá. Elídɨ ́ á`bʉ́àbí ‘ɨ ́ màdrìakúzʉ́.
 Dàdɨ ́yíndérɨmàjólókò ‘ɨ ́ màdrìá.
-
 
 ##
 E’dódɨ ́ èdiriliyiomvé. “Éè, èdirili `dì!
@@ -80,7 +73,6 @@ awɨ ́zʉ́ à`wɨ ́ rʉ”.
 Èdiriliyinɨ ́ lèzʉ́ ovuzʉ́ ìbirʉ́ kʉrɨ ̀sɨ ̀,
 ngáwórósǎfɨzʉ́ Èbìóvɨ ́lézúkùlúalɨ ́á.
 
-
 ##
 Èbìóndrà
 ‘ɨ ́màèsèrèbìzúkùlúmàtimbgorɨ ̀
@@ -89,7 +81,6 @@ Tuyi be kpere`bùá `dáléyie`dazʉ́ ópɨ ́
 `bùvɨ ́lérɨ ̀ nɨ ́. Ò’bànɨ ̀ zièrɨ, “Àsìzʉ́ rɨ ̀
 tengʉ̀á?” (Sâ `dǎ, ò`bìdɨ ́ gúàvásɨ ̀
 òkurɨ ̀ létɨ ́.
-
 
 ##
 Èbìódàdɨ ́ vɨ ́nɨdrìvɨ ́lényákúádíká. “Egá
@@ -104,7 +95,6 @@ e`dóàgátàgáyimàèseléá .
 “Yo, èrɨndénɨ ̀ kʉ!”
 “Èe, èrɨndénɨ ̀! ”
 
-
 ##
 Óríekócotídrìèfǔráziàgátàyinɨ ́ gárɨ ̀
 e`dóà`dʉmàdrìáyàrì. “Ma
@@ -116,13 +106,11 @@ tʉ̀!” órínga `yó. “Ma èzʉ́! Ma
 óríosenɨ!” “Mɨ ́ ò`bìngàmɨ ́vɨ ́lékàlí
 `dɨ ̀alaámámàkáláámázòò`bìzʉ́!
 
-
 ##
 Èbìóngadí `yé `dàlérádíkáombéórínɨ ́
 cǔcǔbákásìkàlíruáèrɨèjʉ̀zʉ́kpibenɨ ̀.
 Kàdɨ ́ mu órínɨombédé `bo, Èbìójièrɨ
 `bùá `dáléèrɨe`dazʉ́ Ò’bànɨ ̀ nɨ ́.
-
 
 ##
 Ò’bànìngadɨ ́ à’ǐrákínɨ ̀ Èbìó `ye dɨ ́
@@ -139,10 +127,9 @@ yi‘ɨ ́màòkʉ́nɨpinɨ ́ ànyàpáyi pie
 ́kómààzíòlʉ̀zàrʉ́ ovʉnɨ ́
 `bàyimàtàmbasàndúkùá `dɨ ́nɨkʉ.
 
-
 ##
 * License: [CC-BY]
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Alice Ojobiru
-* Language: Lugbarati (Official)
+* Language: lgg-official

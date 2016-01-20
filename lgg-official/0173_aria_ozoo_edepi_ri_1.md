@@ -1,8 +1,4 @@
-# Aria ozoo edepi
-ri
-Joanne Bloch (retold
-folktale)
-Lugbarati (Official)
+# Aria ozoo edepi ri
 
 ##
 Kárí àzɨ ́nɨ rú be Gabon 'ɨ ́ nɨ mà alɨ ́á,
@@ -11,7 +7,6 @@ tiá 'ɨ ̀nyɨ ́á. Jèrè 'dɨ ̀ mà ágâdúá 'dǎ,
 patí àmbô rʉ́ nɨ mà àràkàlá oru
 lɨ ́rɨ ́lɨ ́rɨ ́á 'dàyɨ mà síá 'dǎ, àrɨ ́á ozoó
 ejípɨ rɨ ̀ rɨ a'á nɨ ̀.
-
 
 ##
 Kɨ ̀lé 'bá ényáti 'dà mà alɨ ́á 'dɨ ̀yɨ nɨ ́
@@ -27,7 +22,6 @@ patí ètɨá èlè 'dǎ 'bǒ, yɨ mà àzɨ ́ àlʉ nɨ
 e'dó ongó aví pɨ ̀ánò òpàlé dríágó sɨ ̀
 rɨ ̀ sɨ ̀.
 
-
 ##
 Sâ àzɨ ́nɨ mà vútiá, àrɨ ́á 'dà nɨ èsà vǎ
 'dólé emú àfa nyá àzɨ ́nɨ mvǔ. Kà de
@@ -35,7 +29,6 @@ Sâ àzɨ ́nɨ mà vútiá, àrɨ ́á 'dà nɨ èsà vǎ
 ngo. Èrɨnɨ ́ ngorɨá, èrɨ 'ɨ ́mà òpì ini,
 dǐpɨ lèrèlèrè rɨ ̀ enga oru sâ were
 vútiá, ozoó nɨ e'dó 'di.
-
 
 ##
 'Dɨ ̀ 'ye 'ɨ 'dɨ ̀lé élɨ ́ èzʉ́. Ozoó nɨ ́ 'dí ɨ ̀nyɨ ̀
@@ -48,7 +41,6 @@ ojaá. Gèrì àzɨ ́sɨ ̀, àzí e'dó gá 'bá
 adɨɨ ́ yà. “ozoó nɨ ngá 'dɨ rá tû” rɨ ́ 'yó.
 “Lè 'bá mà kʉ àrɨ ́á dèzà 'da nɨ odózʉ́
 rɨ ̀ jà!”
-
 
 ##
 Te 'bá 'dàyɨ lɨ ́ dè yɨ ̀ nɨ ́ ɨ ̀nzò nɨ. ká mǔ
@@ -63,7 +55,6 @@ Cúrú'dò àzí gà dɨ 'bá drɨ ́á mà drìá
 tré ànɨ ́ ecó dí séndè esú nyaká jezʉ́
 engazʉ́ táwùnì yɨ mà jó èjèléá kʉ.
 
-
 ##
 Ò'dú àlʉ, ètú drɨ ́pɨ àcɨ ́ àcɨ ́ rɨ ̀ mà tálásɨ ̀, zámvá àzɨ ́ òdérʉ̌ rú be Keti 'ɨ
 rɨ ̀ kodrì mú jèrèá 'dálé sùkúlù vútiá. “àngù dɨ ́ 'dò 'dálé ambɨ ́zà” egá
@@ -73,9 +64,6 @@ jizʉ jèrè aléá 'dálé nyakǝ fèzʉ́ àrɨ ́á 'dà nɨ ́ rɨ ̀. Keti 
 sùkúlù nɨ ́ rɨ ̀ mà ti rá enzé alénɨ ́á 'dálé mùkàtɨ ̀ erɨnɨ ́ nyǎ sâ
 Ázɨ ́á sɨ ̌ rɨ ̀ mà jólókó.'bà mùkátɨ ̀ 'dà vǎ patɨ ètɨ ́á. Piano òpà lé drìágó
 sɨ ̀ rɨ ̀ nɨ ́ ovuzʉ yo rɨ ̀ sɨ ̌, ngo óngó àzɨ èrɨ ́ nɨ ́ ndrâònìlé drìò nɨ ngó 'i.
-
-
-##
 
 ##
 Àrɨá ndrìzàrʉ́ wúrá be bùlû rʉ́ ebí
@@ -90,7 +78,6 @@ rɨ ̀ sɨ ̌, ozoó pá 'wàrà 'wàrà e'dó dè dɨ
 o'deé nyákúá 'bo, nyákú ekâ rʉ́ osɨ ́
 pɨ ètú drí osí rɨ ̀ ambɨ ́zʉ.
 
-
 ##
 Àyɨ ̀kò fu Keti nɨ tʉ̀, kpere èrɨ nɨ ́ é'yó 'dà òlʉ̀rɨá 'ɨ ́mà tipɨ ́ka yɨ nɨ ́. “Mɨ ́
 aza 'dɨ ́nɨ kʉ! 'Bá àzɨ 'dòrɨ ̀á e'yó àrɨá 'dà nɨ ́ à'ǐ pɨ nɨ yo” ándrî tre
@@ -104,9 +91,6 @@ ngʉ́lʉ́pɨ nɨ ́, “èrɨ té nga e'yó mánɨ ́ 'yó rɨ ̀ à'ɨ ̀ rá
 dèaga élɨ ́ were 'bo. Àfa èrɨ nɨ ́ kʉ́ Keti nɨ ́ rɨ ̀ lʉ 'ɨ ́mà pɨ ̀ánò òkpólòkó
 òpǎ dríágó sɨ ̀ rɨ ̀ 'ɨ.
 
-
-##
-
 ##
 Sàbátù aga ìrì ozoó àzɨ ́ nɨ ́ 'di kókòrʉ́.
 Òrɨ e'dó drɨá 'wɨ díká àzɨ ́nɨ ànyàpá yɨ
@@ -116,7 +100,6 @@ ka nyákú drìá 'dòá ásíánzú kókòrʉ́.
 “ánganɨ ́ asɨ e'yó 'bá yɨ nɨ ́ 'yó rɨ ̀ sɨ ̀
 kʉ!” Keti egá. “àlè ozoó rá. Mà nga
 mu àrɨ ́á 'da nɨ ́ nyaká fè drùsɨ ̀ díká.”
-
 
 ##
 Ànɨ ́ ò'bɨ ́ti drɨ ̀ò drɨ ̀ drùsɨ ̀ 'dɨ ́nɨ, Keti nɨ ́
@@ -129,7 +112,6 @@ e'yó 'ɨ ́mà zɨ ́ nɨ ́ 'yé 'dɨ ̀yɨ ně 'bǒ, và rá
 kɨ ́nɨ ̀ èrɨ 'dà mu nyaká fè àrɨ ́á 'dà nɨ ́
 díká.
 
-
 ##
 “Mà nga mvà ìnzìtá kókòrʉ́ 'da nɨ ́ embátá fè rá!” átî 'yo òmbà sɨ ̀.
 Èndrò 'ɨ ́ vɨ ́lé gondiá pɨ 'yé pɨe àzɨ ́nɨ bɨ ̀ Keti mà vʉ́ti ndi ndirʉ́ jèrè
@@ -139,9 +121,6 @@ aléá 'dálé. Àrɨ ́á 'dà nɨ ́ té 'yerɨá esí rìá nyaká Keti nɨ �
 nɨ ́ e'dée rɨ ̀á káyɨ ̀. Keti ga lúlú oru rá ojá 'ɨ kúrù-cotí nè 'ye nɨ ́
 e'déerìá àrɨ ́ mà ruá 'bɨ ́ko rʉ̌ gbùnyà rɨ ̀á rɨ ̀sɨ ̀. Àrɨ ́á awɨ ́pɨ nyɨ ̌'bɨ ́lékó
 esúpɨ kʉ yé rɨ ̀ sà dɨ ́ rɨ ́ oru patí mà drì mbɨ ́lɨ ́ rɨ ̀á 'dálé.
-
-
-##
 
 ##
 Keti nɨ ́ èfʉ̀zʉ́ enzʉ́zʉ́ jèrè mà aléá
@@ -155,7 +134,6 @@ mbèlèrʉ́. “'Dɨ ̀ dɨ ́ àfa cɨ ́ mánɨ ásí
 àrɨ ́á ozoó ejípɨ rɨ ̀ nɨ 'bo. Lè má mà èrɨ ́
 nɨ ́ àyɨ ́kó. ”
 
-
 ##
 Dàkíkà kàlɨ ́na mà vʉ́tiá, Keti 'da drì
 vɨ ́lé pat́ àmbó 'dà mà ètɨ ́á 'dálé.
@@ -165,7 +143,6 @@ fù. Èrɨ ́mà átî mà àvʉ̀ la rʉ́ èrɨ ́vʉ́ rɨ ̀sɨ ̀
 àzɨ ́nɨ drɨ yàzà be e'dó óngó avɨ ́
 pɨánò òpǒ dríágó sɨ ̀ rɨ ̀ sɨ ̀. Avɨ ́ kpere
 èrɨ ́ mà dríanzɨ nɨ ́ surɨá.
-
 
 ##
 Àsìzʉ́, e'yó èrɨ nɨ ́ àvá tá ndênɨ ̀ nyakú
@@ -178,7 +155,6 @@ drorɨ ́á pɨ ̀ánò cosǐ, àrɨ ́á aja 'ɨ ́mà òpì.
 Cotí Keti erɨ nòzà engázʉ́ 'ɨ ́mà
 ngʉ́kʉ́á 'dálé.
 
-
 ##
 Dè átî engá nɨ ̀. “Má ovʉ càndɨ ́ sɨ ̀!”
 'yo e'yó 'dɨ ̀ àrɨ ́á àmbó bùlû 'dà nɨ ́
@@ -186,7 +162,6 @@ díká díká. 'Dà mà vʉ́tiá ejʉ̀ dɨ ́ 'ɨ ́mà
 drí 'ɨ ́mà zɨ ́ vʉ́, kó drì mú túàlú àkúá
 'dálé. Àkúá 'dálé, esú ànyàpá àzɨ ́nɨ
 'bá dríá engá díká 'bo.
-
 
 ##
 Íní 'dàsɨ ̀ 'bá ényáti 'dà mà alɨ ́á 'dɨ ̀yɨ
@@ -196,15 +171,13 @@ drí 'ɨ ́mà zɨ ́ vʉ́, kó drì mú túàlú àkúá
 'bá 'dàyɨ àcì otû mʉzʉ́ jèrèá 'dálé
 nyaká fèzʉ àrɨ ́á ozoó ejípɨ rɨ ̀ drí.
 
-
 ##
 * License: [CC-BY-NC]
 * Text: Joanne Bloch (retold folktale)
-* Illustration: Wiehan de Jager and Nalibali
+* Illustration: Wiehan de Jager, Nalibali
 * Translation: Dorothy Fetaru
-* Language: Lugbarati (Official)
+* Language: lgg-official
 
 The text is reproduced with
 permission of Nal’ibali –
 www.nalibali.org
-

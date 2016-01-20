@@ -4,7 +4,7 @@
 Padà wá, olóńgbò!
 Ṣeré pẹ̀lú mi.
 
-#
+##
 Jòkó sínú apẹ̀rẹ̀ rẹ.
 Dúró síbí!
 
@@ -24,9 +24,10 @@ Iyẹn kì í ṣe tìrẹ.
 
 ##
 Padà wá, olóńgbò!
-Kí ni o ní?wá, oló
+Kí ni o ní?
 
-ńgbò!
+##
+Padà wá, olóńgbò!
 Iyẹn kì í ṣe ọ̀rẹ́ rẹ.
 
 ##

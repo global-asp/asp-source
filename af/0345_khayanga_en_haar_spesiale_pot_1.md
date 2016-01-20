@@ -31,7 +31,6 @@ stem herken, dit was haar oorlede
 ma se stem. Die liedjie het so
 gegaan...
 
-##
 Khayanga, ee, Khayanga!
 Ons kind, die geliefde een!
 Jy is nie alleen nie, geliefde een!
@@ -58,7 +57,6 @@ Khayanga het die stukkies van die
 gebreekte pot in haar klein handjies
 vas gehou en gesing:
 
-##
 Mamma en Pappa,
 Kyk die spesiale pot is gebreek
 Die spesiale pot wat julle vir my gegee het.

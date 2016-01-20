@@ -43,14 +43,6 @@ aluria risi kpere kala
 aziria!
 
 ##
-Onyukunyu gu “He
-hee!”
-Gu ‘i kai ra fe eri ma ti
-e`do ‘i asi e`dozu kala
-aluria risi kpere kala
-aziria!
-
-##
 * License: [CC-BY]
 * Text: Dorothy Fetaru
 * Illustration: Joshua Waswa

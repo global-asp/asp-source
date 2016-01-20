@@ -8,7 +8,6 @@ inzala muno.
 Yakhaaba efiokhulia
 kaala khandi iwolere.
 
-##
 Lwangu ilo...
 
 ##

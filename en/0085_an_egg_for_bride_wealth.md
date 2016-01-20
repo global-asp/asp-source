@@ -126,6 +126,7 @@ to my grandmother.
 And grandmother didn't give it to
 me for nothing,
 She gave it to me to get bride
+wealth.”
 
 ##
 Then the bride's family said, “We

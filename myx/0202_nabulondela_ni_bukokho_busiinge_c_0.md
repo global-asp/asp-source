@@ -51,8 +51,6 @@ bwoowo ubwo bube, wiitse unjeete
 khuulolelela tsindeekhelo tsino.”
 
 ##
-
-##
 Maayi wa Nabulondela abe ewulila naabi lwe ntsu yeewe,
 shishakila waakana naabi ibe imiliwu lwe kamayiiya ke bukhwaale.
 Aryo waasiinga, waasimuula, waharakarana, weeya, nga amiliisa
@@ -159,8 +157,6 @@ waaniinila khwitikiiyi lye khu nimiro ye tsinyanyi, waatsya waara
 bukokho, wabwaantsa khu shisuli she bunyaasi.
 
 ##
-
-##
 Khu shifukhu shisheelakho, inyaanga yarura mu mbuka indayi iye
 kamayiiya ke bukhwaale. Nabulondela niye uwanyoowa khuurura
 khuutsya khuubona bukokho bweewe.
@@ -207,8 +203,6 @@ Buryo bukokho buburamile bwaatsya bwetubaasa khu
 bwashaabwe bubiili. Abe s’unyala waabona Mamaayi Ngwe ta.
 
 ##
-
-##
 Bakeni baafwa tsintsekho.
 Basaani batsekha nga basisiikha tsiinda tsaabwe.
 Bakhasi batsekha nga bayen’gaanila mu ndebe tsaabwe.
@@ -223,8 +217,6 @@ inyuma, khukhwoolesa shilefu sheewe shaanikina busa.
 Nabulondela waarama waasamiliile nga eyaanga busa.
 
 ##
-
-##
 Bakyeni boosi baafukiilisana bari ako niko kakaaba kamayiiya
 kakafuura khuusangaasa mu shisiintsa sha Namalea shoosi.
 Nga Nabulondela ara bukokho bweewe mu shipo shabwo bukone,
@@ -233,8 +225,6 @@ Mamaayi Ngwe aloma ari s’alilayo luundi abare inywe mu nuungilo
 iye she angoloobe ta.''
 Waabulomela luundi ari, “Ni mubone isaambo isi musinyile luundi.
 Nambaasa ndi naakha naabasiinga luundi kumukaamba.”
-
-##
 
 ##
 * License: [CC-BY]

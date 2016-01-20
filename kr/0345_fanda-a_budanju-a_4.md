@@ -26,7 +26,6 @@ yeyeno. Fanda kowo yanju
 bawojǝnayedǝa asuyen.
 Ngo awo wuljidǝ:
 
-##
 Fanda, Fanda! feronde bargaa!
 Ni runǝm gǝni, feroni!
 Buda adǝa rone feroni!
@@ -49,7 +48,6 @@ Ti ye karwunju kuttayeno.
 Fanda njango budayedǝa nukkon
 roje aiya badiyen.
 
-##
 Ya-a bawa-a,
 Ruiwo budadǝ namdǝna.
 Buda siwwadǝ.

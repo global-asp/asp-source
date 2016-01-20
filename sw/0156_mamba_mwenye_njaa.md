@@ -9,7 +9,6 @@ njaa.
 Alitafuta chakula pole
 pole tena kimya.
 
-##
 Halafu...
 
 ##

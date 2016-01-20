@@ -30,7 +30,6 @@ hankali. Kayanga ta gano muryar
 ma’aifiyarta.
 Ga yadda maganganun suke:
 
-##
 Kayanga, Kayanga!
 Ɗiyarmu, da muke so!
 Ba ke kaɗai ba ce, ɗiyata!
@@ -56,7 +55,6 @@ Kayanga ta tattara sakainin
 gyanɗamar cikin hannuyanta ta
 fara waƙa:
 
-##
 Babana da inata,
 ku dubi, gyanɗama ta fashe.
 Ggyanɗamar da kuka bani.

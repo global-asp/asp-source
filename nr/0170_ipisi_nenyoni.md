@@ -15,7 +15,6 @@ wayo, yabuza inyoni, “Kgani
 yini into emhlophe le ehlala
 ingaphasi kwentamo yakho?”
 
-##
 Inyoni yaphendula, “Yinyama enonileko enamafutha
 engivame ukuyidla esbhakabhakeni. Sengiyidle khulu nje
 seyihlala isentameni yami."
@@ -82,8 +81,6 @@ Kodwana ipisi yaphendula iphikisana nalokhu ekutjhiwo
 yinyoni yathi:
 Masiba wenyoni bambelelani, ningasuki. Masiba wenyoni
 bambelelani, ningasuki.
-
-##
 
 ##
 Ekugcineni, amasiba khange

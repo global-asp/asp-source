@@ -1,6 +1,4 @@
-# Dede vile A’bua
-ri
-Lugbarati (Official)
+# Dede vile A’bua ri
 
 ##
 Dèdé vɨ ́lé ámvú rɨ ̀ ndrâ ònyɨ ̀rʉ́ tʉ̀ –
@@ -11,7 +9,6 @@ ovʉzʉ́ tré rá ti, ánì ndrâ rá kɨ ́nɨ ̀ ma
 mvá èrɨ ́ nɨ ́ lě tʉ̀ rɨ ̀ 'ɨ.
 Te e’yó àzɨ ́ èrɨ nɨ ́ ocɨ ́ má nɨ ́ àlʉ cɨ ́:
 pàrí èrɨ nɨ ́ à’bʉ́à ‘bàzʉ́ nɨzʉ́ rɨ ̀.
-
 
 ##
 O’dú àlʉ, ánè ógóyɨ ́á àmbónɨ ètúá
@@ -27,7 +24,6 @@ E’yó ‘dɨ ̀ ca má ásíá kʉ. Àzi èrɨ díká,
 Omvi ma kɨ ́nɨ ̀, “yɨ à'bʉ́à bí mânɨ ́
 tálɨ ́rʉ̌ 'dɨ ̀yɨ.”
 
-
 ##
 Má nɨ ́ Dèdé nɨ nèzʉ́ à’bʉ́à àzɨ ́nɨ
 à’bʉ́à bí ‘dàyɨ ò'bàrɨá ógóyíá tálɨ ́rʉ̌
@@ -39,7 +35,6 @@ mɨ ́nɨ ́ edé ‘dɨ ̀yɨ…”
 ‘ye e’yó ‘bánɨ ́ ‘yǒ mɨ ́nɨ ́ rɨ ̀,” 'yo má nɨ ́.
 Ánga nzʉ́ ongú sɨ ̀.
 
-
 ##
 Má nɨ ́ drì èdàzʉ́ ‘bo rɨ ̀ sɨ ̌, má esʉ́
 Dèdé rɨ àmvé, te ógóyɨ ́á pɨ à’bʉ́à bí
@@ -49,7 +44,6 @@ yɨ ngólé, àfa…”
 Omvitá mánɨ ́ esʉ́ rɨ ̀ kɨ ́nɨ ̀, “yɨ pàrí
 mânɨ ́ tálɨ ́ rʉ̌ rɨ ̀ mà alɨ ́á.”
 Omvitá ‘dà fà mánɨ ́ àyɨ ̀kò kʉ!
-
 
 ##
 O’dú ìrì mà vʉ́tiá, Dèdé pè mâ ti jóá
@@ -62,7 +56,6 @@ bàlàngítì oku nɨ sɨ ̀.
 Ázì ti nɨ òlɨ ́ ndrɨ ̀zà èfʉ̌pɨ alénɨá rɨ ̀
 ngùzʉ́.
 
-
 ##
 Mâ ruá yà Dèdé mà ó’dúkó ma
 omvezʉ́ rɨ ̀ sɨ ̀ cɨ ̀rɨ ̀, “Mɨ ‘dí lé à’dʉ́ àfa
@@ -73,7 +66,6 @@ Dèdé zi ma.
 Èrɨ mà zitá 'dà fè ávà kɨ ̀nɨ ̀ ma ngà
 kírí gǔ mánɨ ́ èrɨ vɨ ́lé ógóyɨ ́á tálɨ ́ be rɨ ̀
 esúzʉ́ rɨ ̀ sɨ ̀ gu rɨ ̀ rá.
-
 
 ##
 Drùsɨ ̀ 'dɨ ́nɨ, Dèdé emú mâ ándríi nɨ
@@ -86,7 +78,6 @@ Má nɨ ́ ógóyɨ ́á mà ti òpìzʉ́ ‘bo rɨ ̀ sɨ ̌,
 à’bʉ́à ‘dà alu ndè ngà òku mánɨ ́ nyǎ
 drɨ ̀ò ‘dɨ ̀yɨ drɨ ́á rá.
 
-
 ##
 O'dú 'dà mà vútiá rɨ ̀ sɨ ̀, Dèdé nɨ ́
 ovʉrɨá ámvúá tíbí ini òtɨ ̀rɨá, ánze ma
@@ -98,7 +89,6 @@ Dèdé mà òkélè gazà àmvé 'dálé. ázì
 à’bʉ́à bòngó alɨ ́á mbèlè rá má aga
 èrɨ mà àgeyíá sɨ ̀ trʉa trʉa.
 
-
 ##
 O'dú drùsɨ ̀ 'dɨ ́nɨ rɨ ̀ ndrâ o’dú cû nɨ.
 Dèdé engá ò’bíti drɨ ̀ò. Èrɨ òku sâ
@@ -107,7 +97,6 @@ cûá.
 Mâ ruá awɨ ́nɨ ́ yǎ muzʉ́ èrɨ nèzʉ́ o’dú
 ‘dà sɨ ̀ kʉ yé. Te má ecónɨ ́ vɨ ́nɨ cá
 èrɨ ́vʉ́ kʉ sâ èzʉ́ 'dɨ ́nɨ kʉ.
-
 
 ##
 Òndré ‘dà sɨ ̀, mâ átî pɨ omve kɨ ́ ma
@@ -119,10 +108,9 @@ díká kʉ, kà tró ovʉ àfa Dèdé nɨ ́
 kànɨ ̀kʉ mâ típika yɨ nɨ ́, átà 'bá cɨ ́ rɨ ̀
 nɨ ́.
 
-
 ##
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Catherine Groenewald
 * Translation: Dorothy Fetaru
-* Language: Lugbarati (Official)
+* Language: lgg-official

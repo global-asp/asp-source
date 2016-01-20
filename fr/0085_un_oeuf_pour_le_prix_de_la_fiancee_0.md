@@ -125,8 +125,6 @@ constructeurs.
 Les constructeurs ne me l’ont pas
 donné pour rien. Ils me l’ont donné
 parce qu’ils ont cassé mon bâton.
-
-##
 Le bâton n’était pas à moi lui non plus. Il appartenait aux
 cueilleurs de mûres.
 Ils ne me l’ont pas donné sans raison. Ils me l’ont donné en
@@ -136,13 +134,13 @@ Et elle ne me l’a pas donné sans raison non plus. Elle me l’a donné
 pour que j’aie le prix de la fiancée.»
 
 ##
-La famille de la mariée lui dit alors «
-Il ne nous reste rien pour te payer.
+La famille de la mariée lui dit alors 
+« Il ne nous reste rien pour te payer.
 Mais nous pouvons te donner la
 mariée en échange. »
 Depuis cette histoire, les hommes
-se transmettent le dicton suivant : «
-Tout bienfait sera rendu » !
+se transmettent le dicton suivant : 
+« Tout bienfait sera rendu » !
 
 ##
 * License: [CC-BY]

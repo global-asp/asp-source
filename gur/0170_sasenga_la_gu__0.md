@@ -13,7 +13,6 @@ nyɔa ti a ta'am baŋε a zɔ wa yεla
 “Zugepεεlega wa n yuli fu kunkore
 saŋa woo wa de la beni?”
 
-##
 Guɔ lebese, “A de la kaam nεnseko ti mam ne ta obe yinesaazuo
 sa la. Mam ne pugum obera ku ti dabesa zaε, ku yari taba la n
 kunkore.”

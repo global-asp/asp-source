@@ -49,7 +49,6 @@ mushimuka eshio. Lwali
 lwokhuunderesia.
 Eshimuka shiemba shiri...
 
-##
 Wamachina, eeh, Wamachina!
 Omwana wefu wa khwachama!
 Shioli wenyene taa wachamwa!
@@ -92,7 +91,6 @@ Yaberera muno.
 Yenama kaala natola efipande efio.
 Yafitira mumakhono ne niyemba ari:
 
-##
 Papa nende mama,
 lole eshimuka shiatishe,
 eshimuka shiamwamberesia,

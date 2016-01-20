@@ -170,6 +170,3 @@ omushiere yali natsire.
 * Illustration: Wiehan de Jager
 * Translation: Margaret Amateshe
 * Language: lwg
-
-This story is from the Family
-Literacy Project in South Africa.

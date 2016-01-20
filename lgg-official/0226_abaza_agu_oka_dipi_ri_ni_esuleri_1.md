@@ -1,7 +1,4 @@
-# Àbàzà ágú óká
-dípɨ rɨ̀ nɨ́
-esúlérɨ̀
-Lugbarati (Official)
+# Àbàzà ágú óká dípɨ rɨ̀ nɨ́ esúlérɨ̀
 
 ##
 Ndráa drɨ ̀ò rɨ ̀sɨ ̌, ényáti àzɨ ́ 'bé ruá nɨ
@@ -11,14 +8,12 @@ dizà sɨ ̀ nɨ ándrâ cɨ ́.
 èrɨ ́ omvě ayaá 'ɨ ́, éfɨ ́nɨ kínɨ ̀ ágú aya
 dípɨ óká mà alɨ ́á tʉrɨ ̀ 'ɨ.
 
-
 ##
 'Bá drɨ ́á àngʉ̀ 'dà mà alɨ ́á 'dɨ ̀yɨ nǐ
 Ayaá nɨ tʉ̀. 'Bá 'dɨ ̀yɨ mʉ ò'bíti àlʉ àlʉ
 sɨ ̀ pàrí èrɨ nɨ ́ óká dizʉ́ rɨ ̀á lʉ́ ábgárí
 èrɨ nǐ èrɨ nɨ ́ óká dǐrɨá. E'dá kɨ ̀lé ecó
 àfa cɨ ́ rɨ ̀ edé 'ɨ ́ vɨ ́lé aya rɨ ̀ sɨ ̀ rá rɨ ̀ lé.
-
 
 ##
 Ópɨ ́ àngʉ̀ ndê mà alɨ ́á Kalanaa
@@ -27,13 +22,11 @@ mà drìá rá. Pè àzí 'bá 'ɨ ́ vɨ ́lé 'dɨyɨ mà
 ti muzʉ́ Ayaa nɨ omvezʉ́ ejízʉ́ 'ɨ ́ vɨ ́lé
 àkúá.
 
-
 ##
 Àyìkò fu Ayaa nɨ erɨzʉ́ kɨ ́nɨ ̀ ópɨ ́
 Kalanaa Mariko lè 'ɨ ně rɨ ̀sɨ ̀ tʉ. Ngà
 'yó kɨ ́nɨ ̀, “Mà nga ovʉ àyɨkòsɨ ̀ àzí
 ngazʉ́ ópɨ ́ nɨ.”
-
 
 ##
 Ànɨ ́ Ayaa mu dí ópɨ ́ vɨ ́lé àkúá rá.
@@ -41,7 +34,6 @@ ngazʉ́ ópɨ ́ nɨ.”
 dɨzʉ́ ndrɨ ̀zá rɨ ̀ mà drìá rá,” ópí
 Mariko Kalanaa ngà 'yó. "Álè 'ɨ ́ nga
 mání àzí àzɨ ́ wúrá be ndʉ́ nɨ."
-
 
 ##
 “Álè mɨ ́ mà edé 'bá áda ecópɨ acípɨ
@@ -51,13 +43,11 @@ mání àzí àzɨ ́ wúrá be ndʉ́ nɨ."
 kʉ,” Ayaa egá. Te 'bá àzɨnɨ ecóní gǎ
 ópɨ ́ nɨ ́ èrɨ vɨ ́lé àkúá kʉ.
 
-
 ##
 Íní 'dàsɨ ̀ ó'dú gà Ayaa nɨ 'be kó sɨ ̀. Èrɨ
 nga mu e'yó èwá kákà 'dɨ ̀ 'ye ngónɨ
 ngónɨ? Òrì ndè èrɨ káyɨ ̀ àzɨ ́nɨ ásí nɨ
 òtɨ ̀ tʉ̀.
-
 
 ##
 Cotí Ayaa egá e’yó mbàzà Avi’bo
@@ -67,7 +57,6 @@ kǒ rá rɨ ̀á nɨ. Te Avi’bo nɨ ngʉ̀á yǎ?
 'Bá yɨ nɨ ́ 'yó rɨ ̀ sɨ ̀, mu ndrâ ágbárí
 èrɨnɨ ́ ópɨ ́ nɨ ́ àyɨ ̀kò fèzʉ́ kʉ yé rɨ ̀ sɨ ̀.
 
-
 ##
 Drùsɨ ̀ ’dɨ ́nɨ Ayaa mu nɨ ́ 'ɨ ́nɨ ́ óká di rɨá
 ’dálé kʉyé. Mu kánɨ tǔ uru ’bé drìá
@@ -75,14 +64,12 @@ Drùsɨ ̀ ’dɨ ́nɨ Ayaa mu nɨ ́ 'ɨ ́nɨ ́ óká di rɨá
 Èrɨnɨ ́ murɨá ’dálé nè mbàzà àzɨ ́nɨ
 rɨ ̌zàrʉ́ patí mà ètíá.
 
-
 ##
 Mbàzà 'dà dè Avi'bo 'ɨ. Ayaa kà mú
 èrɨ ně 'bo, kɨ ̀nɨ ̀, “Má ovʉ àyɨ ̀kòsɨ ̀ mɨ
 nè zʉ́. E'yó àzɨ ́ àmbôrʉ́ esú ma nɨ ̀.”
 Ngà dɨ ́ mbàzà Avi'bo nɨ ́ e'yó ndê òlʉ̌
 drɨ ́á. Mbàzà 'dɨ ̀ egá e'yó álí rá kɨ ̀nɨ ̀…
-
 
 ##
 "Ímù ’yó ópɨ ́nɨ ́ kɨ ́nɨ ̀ 'ɨ ́lè míndre pélì
@@ -95,7 +82,6 @@ aya rʉ́ 'dà edézʉ́ òkpôrʉ́ benɨ ̀.”
 nzʉ̌ vɨ ́lé ’dálé drìfuzʉ́ Kalanaa
 Mariko be ópí ndê vɨ ́lé àkúá ògògò.
 
-
 ##
 Ayaa kɨ ̀nɨ ̀, “Kalanaa Mariko, mánɨ ́
 ecózʉ́ e'yó mɨ ́nɨ ́ lě rɨ ̀ ‘yezʉ́, mà nga
@@ -106,7 +92,6 @@ tré álɨ ̀fʉ̀ àlʉ ɨ ̀ndɨ ̀!” Kalanaa Mariko
 nga e’yó ndê à'ǐ rá. Pè ágú àzí'bá yɨ
 mà drìléá rɨ ̀ mà ti e’yó ndê ecézʉ́
 ’bá wóró àngʉ̀ ndê mà aléá ’dɨ ̀yɨ drí.
-
 
 ##
 Àwʉ́ nga engázʉ́ ényáti 'dà mà aléá
@@ -123,7 +108,6 @@ aléá ’dɨ ̀yɨ mà drì'bí àzɨ ́nɨ míndre canɨ ́
 émvʉ́ àzɨ ́nɨ pêlì kárákàrà ’dàyɨ mà
 aléá alʉánɨ kʉ.
 
-
 ##
 Mariko Kalanaa nga dɨ ́ òku e’yó ’dà
 kʉ́ rá. Omve Ayaa nɨ 'ɨ ́ vɨ ́lé àkú ópɨ ́
@@ -133,7 +117,6 @@ aléá 'dɨ ̀á nɨ ̀ rɨ ̀ 'ɨ. "Mɨ ́ ecó mâ àzà kó
 ovʉzʉ àzí'bá má vɨ ́lé 'dɨ ̀yɨ mà drìlé
 drɨ ́á rɨ ̀ rʉ́ rá yǎ?" ayaa cɨ cɨ ̀nyà.
 
-
 ##
 “‘Ɨ ́ kà ecó fě mbàzàó Avi'bo nɨ ́ drì
 èdàzʉ́ rá rɨ ̀á, omvɨ.” Ayaa ngà dɨ ́ ecá
@@ -142,10 +125,9 @@ Avi’bo ecá vɨ ́nɨ ’bá ópɨ ́ Kalanaa
 Mariko nɨ ́ embátá fě pɨ 'dɨ ̀yɨ mà àzɨ ́
 ɨ ̀rʉ́ Àbàzà ágú óká dípɨ rɨ ̀ nɨ ́ esúlérɨ ̀.
 
-
 ##
 * License: [CC-BY]
 * Text: Ugandan folktale
 * Illustration: Wiehan de Jager
 * Translation: Doris Maandebo
-* Language: Lugbarati (Official)
+* Language: lgg-official

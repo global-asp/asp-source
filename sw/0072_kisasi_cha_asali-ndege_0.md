@@ -14,8 +14,6 @@ kutua kwenye mti uliokuwa karibu, tena na mwingine.
 kwamba Gingile alikuwa amemfuata.
 
 ##
-
-##
 Baada ya nusu saa, walifikia mti wa
 mtini. Ngede aliruka kama mwenda
 wazimu kutoka tawi moja hadi
@@ -93,8 +91,6 @@ Ngede alikasirika sana! Hivi sivyo ndivyo alistahill kutendewa!
 Lakin atalipiza kisasi.
 
 ##
-
-##
 Siku moja baada ya majuma machache, Gingile tena alisikia mwito
 wa asali wa Ngede. Aliikumbuka asali tamu, na kwa hamu
 alimfuata ndege kwa mara nyingine.
@@ -106,8 +102,6 @@ akibeba kuni iliyotoa moshi kwenye meno yake.
 Ngede alikaa na kuangalia tu
 
 ##
-
-##
 Gingile alipopanda, alishangaa kwa nini hakusikia sauti ya nyuki.
 “Pengine mzinga umo ndani zaidi katika mti,” alifikiria.
 Alipanda tena juu ya tawi lingine. Lakini badala ya mzinga, alikuwa
@@ -115,8 +109,6 @@ alijikuta amekodolea mcaho uso wa Chui!
 Chui alikuwa na hasira sana kwa sababu usingizi wake ulikuwa
 umekatizwa. Aliiyafanya macho yake kuwa madogo, akaufungua
 mdomo wake na kuonyesha meno yake makubwa makali.
-
-##
 
 ##
 Kabla ya Chui kumvamia Gingile, alishuka haraka chini.

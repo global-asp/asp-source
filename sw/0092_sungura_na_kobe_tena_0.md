@@ -7,8 +7,6 @@ wanyama aliyeweza kuongea juu ya jambo tofauti ila
 ile Mbio Kuu na wapinzani wake wawili.
 
 ##
-
-##
 Tunajua vyema kwamba sungura alishindwa kwa ajili
 ya kuwa mvivu na mwenye kujiamini zaidi.
 Tunajua kwamba kobe alishinda kwa ajili ya mwendo

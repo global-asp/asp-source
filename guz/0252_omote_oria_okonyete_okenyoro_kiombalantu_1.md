@@ -17,8 +17,6 @@ Gaki totebie igoro yomote oria bwororo,” Taiyo akamwebereria.
 agateba kagochaka omogano.
 
 ##
-
-##
 Omosubati oyomo narengeoo orenge korokwa Thaimi omenyete
 ekenyoro kia’ombalantu. Rituko erimo akagenda namomura
 omwabo, Angula kobucha amache. Ekero riria Thaimi arenge
@@ -40,8 +38,6 @@ arenge koigwa buna barenge kogamba.
 “Angula,” akamonya, magega yokoigwa ake igo igoro yabo.
 “Abamura baria nabaibi. Bachire koiba
 chiombe chiato nagosamba
-
-##
 
 ##
 Kobagochia goika nka sobo, bakaumerana na isemoke. Nigo
@@ -77,8 +73,6 @@ ase ere na Angula bagachiesire na kwebisa.
 Ase agaya. Ase atamanyire nonde.
 
 ##
-
-##
 “Nimbwate ase!”Agakuura. Nimanyete ase torabe nomorembe!”
 Gotatiga banyakenyoro tibachieti komotegerea. Bakabeka eriogi
 rinyinge. Naki arenge gokora baka abanto bekenyoro bamoigwe?
@@ -91,8 +85,6 @@ Abanyakenyoro bagaterera.
 Thaimi akarangeria naende, “Nimbwate ase yokwebisa.
 imbwatie!.”
 Akabwata Angula okoboko.
-
-##
 
 ##
 “Inchwo togende twensi baka ase omote!” momura omwabo
@@ -129,8 +121,6 @@ chigaokia obonyansi nomoreero mokeigo ogoka.
 Ng’ora ng’oora omorero omorabu bweriberera ogoka.
 
 ##
-
-##
 Isiko abaibi baria bakanyagosuka ang’e nekenyoro.
 Oyomo obo agakura nakoraga omote oria. Omorero orenge gwoka
 ase omote oria. N’amaiso amotogoro arenge kororekana korwa ase
@@ -140,8 +130,6 @@ N’erioki rikonya kweringania gochia ase rire igoro.
 nobwoba. Ritang’ani kabisa omoibi oyomo agaonchoka agatama.
 Koruoo oyonde – naende oyonde. Omoerio bonsi bagatama.
 Abanto b’ekenyoro keria Ki’Ombalantu bagakonywa igo.
-
-##
 
 ##
 Magokoro agakira.

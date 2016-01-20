@@ -1,4 +1,4 @@
-# Tortoise and rabbits' JOURNEY to the bats' party
+# Tortoise and rabbits' journey to the bats' party
 
 ##
 The journey started at 8:00 am. On the way to

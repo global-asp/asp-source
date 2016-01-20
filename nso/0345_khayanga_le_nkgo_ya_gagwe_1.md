@@ -35,7 +35,6 @@ lentšu leo a le kwago, ke la mohu
 mmagwe.
 Košana e be ere;
 
-##
 Khayanga, ee, Khayanga!
 Ngwana wa rena a morategi!
 Ga wa lahlega morategi!
@@ -62,7 +61,6 @@ Khayanga o ile a rwala dikgapetlana
 tšeo tša nkgo ka matsogwaneng
 gomme a thoma go opela:
 
-##
 Mme le Tate,
 Lea bona nkgo e thubegile.
 Nkgo yeo le mphilego.

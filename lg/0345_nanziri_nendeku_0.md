@@ -32,7 +32,6 @@ ng'awulirira ddala eddoboozi nga
 liringa erya nnyina eyafa.
 Akayimba kaali kagamba bwe kati:
 
-##
 Nanziri oh Nanziri!
 Omwana waffe omwagalwa!
 Toli wekka, omwagalwa!
@@ -60,7 +59,6 @@ Nanziri yalonda obubajjo bw'endeku
 ye n'abukwata mu ngato era
 n'atandika okuyimba:
 
-##
 Taata ne Maama,
 Mulabe Endeku yange ayatise!
 Endeku mmwe gyee mwampa!

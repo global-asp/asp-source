@@ -41,7 +41,6 @@ barenge abataka.
 Akabeka egekabu abwete nse na
 nagochaka korera, kagoteba:
 
-##
 Tata gaki, ing’ai gwachiete?
 Mama gaki, ing’ai gwachiete?
 Mogantiga inche bweka.
@@ -102,7 +101,6 @@ Khayanga held the pieces of the
 broken Gourd in her small hands
 and sang:
 
-##
 Father and Mother,
 See the gourd is broken.
 The gourd you gave me.

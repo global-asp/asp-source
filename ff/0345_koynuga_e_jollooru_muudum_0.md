@@ -32,7 +32,6 @@ Koynuga faamitii nder maggol
 sawto daande inniiɗum maayɗo.
 Sawtooji ɗin no mbi'a nii:
 
-##
 Koynuga, Koynuga!
 An ɓiyiimin mo min njiɗi!
 A wonaa an tan, ɓiyam day!
@@ -59,7 +58,6 @@ Koynuga naati no yima, imo jogii
 laalaaɗe jollooru ɗen nder njuukoy
 makko pamaroy:
 
-##
 Baaba e inna,
 Ndaaree jollooru ndun fusii.
 Jollooru ndu kokkarno-ɗom kam.

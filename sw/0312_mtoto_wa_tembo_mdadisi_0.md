@@ -84,8 +84,6 @@ mamba hula chakula
 gani jioni?”
 
 ##
-
-##
 “Inama kidogo na
 nitakwambia mamba
 hula chakula gani,”

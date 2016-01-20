@@ -15,8 +15,6 @@ katika kijiji cha Ombalantu!"
 “Basi keti usikilize," nyanya alisema huku akianza kuhadithia.
 
 ##
-
-##
 Katika kijiji cha Ombalantu paliishi msichana aliyeitwa Thaimi. Siku
 moja, yeye na ndugu yake aliyeitwa Angula, walienda kuchota
 maji. Thaimi alipokuwa akijaza chungu chake Angula aliona
@@ -37,8 +35,6 @@ wezi wa mifugo. Wamekuja kuiba ng’ombe wetu na kuchoma
 nyumba zetu. Njoo haraka. Lazima tukimbie nyumbani
 3 waliondoka polepole kutoka
 tukawatahadharishe wanakijiji.” Basi
-
-##
 
 ##
 Walipokaribia kijijini walikutana na mjomba wao. Alikuwa akienda
@@ -74,8 +70,6 @@ Mahali salama.
 Mahali pa siri.
 
 ##
-
-##
 “Ninajua mahali!” Akasema kwa sauti. “Ninajua mahali ambapo
 sote tunaweza kujificha.”
 Lakini wanakijiji hawakumsikiliza. Walikuwa wakipiga kelele sana.
@@ -86,8 +80,6 @@ Wanakijiji wote walitulia.
 Thaimi akawaambia kwa sauti, “Ninajua mahali pa kujificha.
 Nifuateni.”
 Alimshika Angula mkono wakondoka.
-
-##
 
 ##
 “Njoo, tutawapeleka wanakijiji kwenye mti wetu. Sote tutakuwa
@@ -120,8 +112,6 @@ Akachukua mawe mawili akayachua, moja juu ya jingine kwa
 harakaharaka.
 Baada ya muda mfupi cheche za moto zikashika kwenye nyasi.
 Kisha moto mkubwa ukawaka wakaanza kuota.
-
-##
 
 ##
 Nje, wavamizi walizidi kukaribia.

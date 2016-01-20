@@ -1,5 +1,4 @@
 # Ebìó Òvʉ́ó rʉ rɨ̀
-Lugbarati (Official)
 
 ##
 Pale àzɨ ́ ndráa àlʉ, ànɨ ̀kánɨ ́ka àzɨ ́
@@ -8,7 +7,6 @@ ndráa cɨ ́ rú nɨ Èbìó 'ɨ. Èbìó nɨ ndráa
 Èrɨ o'dú drɨ ́á sɨ ̀ mu òmú rʉ́ 'ɨ ́mà
 àgyipɨ ́ yɨ vʉ́ lèzʉ́ nyaká yɨnɨ ́ a'dɨ ́
 aluzà 'dɨ ̀yɨ nyazʉ́.
-
 
 ##
 O'dú àlʉ èrɨ nɨ ́ agarɨá Ètóó vɨ ́lé àkʉ́
@@ -19,7 +17,6 @@ ngà dé kʉ” Ètóó 'yo. “ Mɨ ́ ecó dró
 má drɨ àfajó òjǐ sɨ ̀ sâ 'dɨ ̀ mà alɨ ́á rá ”
 Ètóó 'yo.
 Má o'á càndɨ ́sɨ ̀, àzí àzɨ ́ mâ drìá cɨ ́.
-
 
 ##
 “Kà a'dɨ ́ 'bo mà dɨ ́ nga mɨ omve
@@ -33,7 +30,6 @@ báká ndérɨ ̀ rá mà nga emúu cotí.”
 Ànɨ, Èbìó ombé dɨ báká emvʉ́ ruá rá
 kò dɨ ́ drì mú.
 
-
 ##
 Sâ were vútiá nè Óyóá pɨ òkʉ́nɨ be
 kaíkó a'dɨ ́ rɨ ̀á émvʉ́ àmbó nɨ mà alɨ ́á
@@ -45,7 +41,6 @@ kozʉ́ kʉ rʉ́.
 “Te ìfè má mà ombé báká ‘dɨ ̀ mà ti
 àlʉ rɨ ̀ mâ páá tinɨ àzɨ ́ rɨ ̀ èmɨ vɨ ́lé
 émvʉ́ ruá”
-
 
 ##
 Mu drìle kpere èrɨ nɨ ́ mǎkʉ̀ mà àjí
@@ -61,7 +56,6 @@ mà ti àlʉ rɨ ̀ mâ páá àzɨ ́rɨ ̀ mɨ ́ vɨlé
 émvʉ́ mà ruá. Mákʉ̀ kà dɨ ́ a'dɨ ́ 'bo,
 'ɨ ́se dɨ ́ báká ndê mà nga emú rá. ”
 
-
 ##
 Èbìó nɨ ̀ mu ecá sɨ ̀ yí tiá 'dólé 'dɨ ̀ dè
 ombé 'ɨ ́ mà Pá àrò 'dɨ ́yɨ drɨ ́á emvʉ́
@@ -70,7 +64,6 @@ nyaká aluzà be ndʉ́ ndʉ́ mà ruá 'bo.
 rɨ ̀ serɨá.
 “Ètóó vɨ ́lé nyaká a'dɨ ́ dɨ ́ 'bo!” Èbìó
 'yo, èrɨ nɨ ́ drorɨá 'ɨ ́mà ti ombesɨ ̀.
-
 
 ##
 Etʉmʉ̀ vɨ ́nɨ báká ìrìzʉ́ rɨ nɨ ́ 'ɨ serɨá
@@ -84,7 +77,6 @@ pá yɨnɨ ́ yɨ mà alé aserɨá ndɨlaka
 ndɨlaka
 Te 'Bá àzɨ ́ èrɨ mà tiá e'yó erɨɨ ́pɨ àlʉ nɨ
 yo.
-
 
 ##
 Àsìrɨálêrʉ́, báká 'dàyɨ ecónɨ ́ dɨ èrɨ sé
@@ -110,4 +102,4 @@ nyá o'đú 'dàsɨ ̀ àlʉ nɨ kʉ yé.
 * Text: Ghanaian folktale
 * Illustration: Wiehan de Jager
 * Translation: Dorothy Fetaru
-* Language: Lugbarati (Official)
+* Language: lgg-official

@@ -20,7 +20,6 @@ Nimekuwa ninaila tangu muda
 mrefu hadi sasa imenibandika
 shingoni.”
 
-##
 Aliposikia juu ya nyama fisi alitokwa na udenda katika tamaa yake
 ya kula nyama.
 Fisi alitamani sana kula nyama hiyo. Lakini ataipataje ikiwa juu
@@ -69,8 +68,6 @@ Aliimba, manyoya ya kunguru jinyonyoe . Manyoya ya kunguru
 jinyonyoe.
 Katika kuitikia, fisi aliimba kinyume, manyoya ya kunguru shikane
 yasijinyonyoe. Manyoya ya kunguru shikane yasijinyonyoe.
-
-##
 
 ##
 Hatimaye manyoya yakamwachilia
