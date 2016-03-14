@@ -1,28 +1,28 @@
-# Búkù àngù mile n?́ r?̀
+# Búkù àngù mile nɨ́ rɨ̀
 
 ##
-Àng?̀ à’w?́r?.
+Àngʉ̀ à’wɨ́rʉ.
 
 ##
-Ètú dr?̀ dr?.
+Ètú drɨ̀ drɨ.
 
 ##
-Òl?́ n? lìli.
+Òlɨ́ nɨ lìli.
 
 ##
-Àng?̀ miléírítir?́.
+Àngʉ̀ miléírítirʉ́.
 
 ##
-Àng?̀ amb?́-amb?́.
+Àngʉ̀ ambɨ́-ambɨ́.
 
 ##
-Ozoó n? ‘d?̀ d?.
+Ozoó nɨ ‘dɨ̀ dɨ.
 
 ##
-Òv? c?́.
+Òvɨ cɨ́.
 
 ##
-Ánè gér?́ n?.
+Ánè gérɨ́ nɨ.
 
 ##
 * License: [CC-BY-NC]

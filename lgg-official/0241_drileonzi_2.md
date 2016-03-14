@@ -1,36 +1,29 @@
-# Drìléònz?́
+# Drìléònzɨ́
 
 ##
-Ánèlórìàmbór?́ n?àng?̀
-el?́r?ánz?̀ládrìá.
+Ánèlórìàmbórʉ́ nɨàngʉ̀ elʉ́rɨánzɨ̀ládrìá.
 
 ##
-Mòtòkâwereámàsídìsìr?́ n?r?
-?́ v?́lér?̀s?̀ àng?̀ etúorú.
+Mòtòkâwereámàsídìsìrʉ́ nɨrɨ ɨ́ vɨ́lérɨ̀sɨ̀ àngʉ̀ etúorú.
 
 ##
-Dèrévàlórìv?́lér?̀ r?o`yó
-S?́m?̀ s?̀.
+Dèrévàlórìvɨ́lérɨ̀ rɨo`yó
+Sɨ́mʉ̀ sɨ̀.
 
 ##
-`Bàn?́ ásíàng?̀nèz?́
-nz?̀ládrìák?.
+`Bànɨ́ ásíàngʉ̀nèzʉ́ nzɨ̀ládrìákʉ.
 
 ##
-Drìléònz?́ àz?́n?àmbór?́ n?nga
-‘? `yérá.
+Drìléònzɨ́ àzɨ́nɨàmbórʉ́ nɨnga ‘ɨ `yérá.
 
 ##
-Àmbíúlènz?̀
-àz?́n?pòlísìyiemúàzàkomafèz?́.
+Àmbíúlènzɨ̀ àzɨ́nɨpòlísìyiemúàzàkomafèzʉ́.
 
 ##
-Lórìmùtùkár?̀ ose`bá
-‘dìyiemúìrì. Se lórì `? ezáp?r?̀
-pi mòtòkár?̀ wereár?̀ be rá.
+Lórìmùtùkárɨ̀ ose`bá ‘dìyiemúìrì. Se lórì `ɨ ezápɨrɨ̀ pi mòtòkárɨ̀ wereárɨ̀ be rá.
 
 ##
-Mádrìeza ‘? rá.
+Mádrìeza ‘ɨ rá.
 
 ##
 * License: [CC-BY-NC]

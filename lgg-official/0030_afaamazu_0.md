@@ -1,24 +1,19 @@
-# Àfaamáz?́
+# Àfaamázʉ́
 
 ##
-Mâ ásí n? e`yó kárákàrà yi
-amáa.
+Mâ ásí nɨ e`yó kárákàrà yi amáa.
 
 ##
-Mâ díi kà àma n?́ ‘o`d?́kó òl?̀
-òndrés?̀ ày?̀kò n? ma fu t?̀.
+Mâ díi kà àma nɨ́ ‘o`dʉ́kó òlʉ̀ òndrésɨ̀ àyɨ̀kò nɨ ma fu tʉ̀.
 
 ##
-Àkà av?́ mâ ágíyi be ma e`dá
-mán?́ azazàr?́ àyìkó drí.
+Àkà avɨ́ mâ ágíyi be ma e`dá mánɨ́ azazàrʉ́ àyìkó drí.
 
 ##
-Mâ átíi kà `yo `?́ v?́ séndè yo,
-ma ma et?m?̀ ònz?́.
+Mâ átíi kà `yo `ɨ́ vʉ́ séndè yo, ma ma etʉmʉ̀ ònzɨ́.
 
 ##
-Mâ andríi kà ma ò’dè ma
-et?m?̀ k?́n?̀ ‘bá lè ma rá.
+Mâ andríi kà ma ò’dè ma etʉmʉ̀ kɨ́nɨ̀ ‘bá lè ma rá.
 
 ##
 * License: [CC-BY-NC]

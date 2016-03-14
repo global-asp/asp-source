@@ -1,4 +1,4 @@
-# Nyaká a’d?́zà
+# Nyaká a’dɨ́zà
 
 ##
 Ma mákù kpǒ.
@@ -7,23 +7,22 @@ Ma mákù kpǒ.
 Ma kábèjì rě.
 
 ##
-Ma káròt?́ fá.
+Ma káròtɨ́ fá.
 
 ##
-Ma ka?́kó ojǐ.
+Ma kaɨ́kó ojǐ.
 
 ##
 Ma úlújó olǐ.
 
 ##
-Ma s?̀k?̀mà wík?̀ olíi.
+Ma sʉ̀kʉ̀mà wíkɨ̀ olíi.
 
 ##
-Má àndrǐ n? mbásàlà olǐ.
+Má àndrǐ nɨ mbásàlà olǐ.
 
 ##
-Mbásàlà olízà n? fèe mâ
-míndre n? rà ra.
+Mbásàlà olízà nɨ fèe mâ míndre nɨ rà ra.
 
 ##
 * License: [CC-BY-NC]

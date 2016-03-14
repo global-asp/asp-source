@@ -1,29 +1,25 @@
-# Kaíkó engáp? engár?̀
+# Kaíkó engápɨ engárɨ̀
 
 ##
-Ólá n? zò òkò.
+Ólá nɨ zò òkò.
 
 ##
-Èr? zo álí nyákú al?́á.
+Èrɨ zo álí nyákú alɨ́á.
 
 ##
-Vútin?á ágájó n? r?̀ n? zò. Èr?
-zo uru ètú v?́ 'dale r?.
+Vútinɨá ágájó nɨ rɨ̀ nɨ zò. Èrɨ zo uru ètú vʉ́ 'dale rʉ.
 
 ##
-Bín? òkò 'dìyi e'dó èf?̀.
+Bínɨ òkò 'dìyi e'dó èfʉ̀.
 
 ##
-Kaíkó mà patí n? d?́ zò èz?́.
+Kaíkó mà patí nɨ dɨ́ zò èzʉ́.
 
 ##
-'Dà mà vútiá f?̀ n?r?̀ n? e'dó
-èf?̀. F?̀ ndén? '? oja kaíkó éf?́
-r?́.
+'Dà mà vútiá fʉ̀ nɨrɨ̀ nɨ e'dó èfʉ̀. Fʉ̀ ndénɨ 'ɨ oja kaíkó éfɨ́ rʉ́.
 
 ##
-Kaíkó mà aléá éf?́ yi
-kárákàrà.
+Kaíkó mà aléá éfɨ́ yi kárákàrà.
 
 ##
 * License: [CC-BY-NC]

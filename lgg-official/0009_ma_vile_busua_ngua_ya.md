@@ -1,29 +1,28 @@
-# Má v?́lé búsùá ng?̀á yǎ?
+# Má vɨ́lé búsùá ngùá yǎ?
 
 ##
-Má v?́lé búsùá ngùá yǎ?
+Má vɨ́lé búsùá ngùá yǎ?
 
 ##
-Èr? gbóló èt?́á yǎ?
+Èrɨ gbóló ètɨ́á yǎ?
 
 ##
-Èr? kábàdì mà drìá yǎ?
+Èrɨ kábàdì mà drìá yǎ?
 
 ##
-Èr? kómé sofa r?́ r?̀ mà èt?́á
-yǎ?
+Èrɨ kómé sofa rʉ́ rɨ̀ mà ètɨ́á yǎ?
 
 ##
-Èr? gbóló mà àgeyíá yǎ?
+Èrɨ gbóló mà àgeyíá yǎ?
 
 ##
-Èr? ógóy?́á mà al?́á yǎ?
+Èrɨ ógóyɨ́á mà alɨ́á yǎ?
 
 ##
-Èr? jóá r?̀s?̀ àmvé yǎ?
+Èrɨ jóá rɨ̀sɨ̀ àmvé yǎ?
 
 ##
-Èr? 'dò '?.
+Èrɨ 'dò 'ɨ.
 
 ##
 * License: [CC-BY-NC]

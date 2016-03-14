@@ -1,30 +1,30 @@
-# Nyaká Ò’bíti s?̀r?̀
+# Nyaká Ò’bíti sɨ̀rɨ̀
 
 ##
-Átá lè é‘dí n?.
+Átá lè é‘dí nɨ.
 
 ##
-Álè àkáráf?́ n?.
+Álè àkáráfɨ́ nɨ.
 
 ##
-Átá lè káwà mv?zà n?.
+Átá lè káwà mvʉzà nɨ.
 
 ##
-Álè lésú n?.
+Álè lésú nɨ.
 
 ##
-Átá lè zábíbù n?.
+Átá lè zábíbù nɨ.
 
 ##
-Álè ndímà n?.
+Álè ndímà nɨ.
 
 ##
-Átá lè m?̀kát?̀ n?́.
-Álè m?̀kát?̀ ‘bán?́ ozó ozó r?̀
-'?.
+Átá lè mʉ̀kátɨ̀ nɨ́.
+
+Álè mʉ̀kátɨ̀ ‘bánɨ́ ozó ozó rɨ̀ 'ɨ.
 
 ##
-Àlè ìrìtró kékì ámb?́ 'd?̀y?.
+Àlè ìrìtró kékì ámbʉ́ 'dɨ̀yɨ.
 
 ##
 * License: [CC-BY-NC]

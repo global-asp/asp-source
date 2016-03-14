@@ -1,67 +1,56 @@
-# Ròbí y? mà 'b?́ko yo à'd? e'yós?̀à r?̀
+# Ròbí yɨ mà 'bɨ́ko yo à'dɨ e'yósɨ̀à rɨ̀
 
 ##
-O'dú àl? Ètóó r? ací yí àra mà
-tiás?̀.
+O'dú àlʉ Ètóó rɨ ací yí àra mà tiásɨ̀.
 
 ##
-Ròbí n? dè v?́n? 'dǎ c?́, acír?á
-è'yere èr?́bí àrǒp? pkàc?̀ 'd?̀y?
-oc?́r?á.
+Ròbí nɨ dè vɨ́nɨ 'dǎ cɨ́, acírɨá è'yere èrɨ́bí àrǒpɨ pkàcɨ̀ 'dɨ̀yɨ ocɨ́rɨá.
 
 ##
-Ròbí aw?́n?́ Ètóó n? 'dǎ c?́
-yàr?̀ ně k? àn?́ drìléònz?́ s?̀ 'bà
-'?́mà pá Ètóó mà pá drìá.
-Ètóó tre r?? díká e'dó tré ròbí
-mà drìá k?́n?̀ “M? '?́ Ròbí!
-M?́ ecó n?́ ně k?́n?̀ '?́'bà m??
-pá mâ pá drìá r?̀ k??́?”
+Ròbí awɨ́nɨ́ Ètóó nɨ 'dǎ cɨ́ yàrɨ̀ ně kʉ ànɨ́ drìléònzɨ́ sɨ̀ 'bà 'ɨ́mà pá Ètóó mà pá drìá.
+
+Ètóó tre rɨɨ díká e'dó tré ròbí mà drìá kɨ́nɨ̀ “Mɨ 'ɨ́ Ròbí! 
+
+Mɨ́ ecó nɨ́ ně kɨ́nɨ̀ 'ɨ́'bà mɨ̂ pá mâ pá drìá rɨ̀ kʉʉ́?”
 
 ##
-Ròbí a'?́ tr?̀tá Ètóó v?́ k?́n?̀,
-“má ov? cànd?́s?̀, mâ ágyí.
-Ánè n?́ té m? k? yé fô.
-K?́r?́k?̀r?̀s?̀ '?́ tr?̀ má rá.”
-Te Ètóó gà e'yó 'dà er?kós?̀.
-Otré Ròbí mà drìá k?́n?̀ “m?́
-'ye e'yó 'dà àkàs?̀! O'dú àl?
-m? nga nèrá. M?̀ nga e'yó
-m?́n?́ 'yé 'd?̀ mà pángá esúu rá
-”
+Ròbí a'ɨ́ trʉ̀tá Ètóó vʉ́ kɨ́nɨ̀, “má ovʉ càndɨ́sɨ̀, mâ ágyí. Ánè nɨ́ té mɨ kʉ yé fô. Kɨ́rɨ́kɨ̀rɨ̀sɨ̀ 'ɨ́ trʉ̀ má rá.”
+
+Te Ètóó gà e'yó 'dà erɨkósɨ̀. Otré Ròbí mà drìá kɨ́nɨ̀ “mɨ́ 'ye e'yó 'dà àkàsɨ̀! O'dú àlʉ mɨ nga nèrá. Mɨ̀ nga e'yó mɨ́nɨ́ 'yé 'dɨ̀ mà pángá esúu rá.”
 
 ##
-Ètóó ko drì mú Àc?́ v?́ 'yo èr? n?́ k?́n?̀ “'?́mú m?́ evé Ròbí n? sâ èr?n?́ èf?̀z?́
-yíá r?̀s?̀ àmvé èríbí nyar?á r?̀s?̀ rá.
+Ètóó ko drì mú Àcɨ́ vʉ́ 'yo èrɨ nɨ́ kɨ́nɨ̀ “'ɨ́mú mɨ́ evé Ròbí nɨ sâ èrɨnɨ́ èfʉ̀zʉ́ yíá rɨ̀sɨ̀ àmvé èríbí nyarɨá rɨ̀sɨ̀ rá.
+
 'Bà ndráa pá ma pá drìá!”
-Àc?́ omv? k?́n?̀, “E'yó àz?́n? yo, mâ ágyí Etóó. Mà nga 'ye kò'bò kò'bò m?́n?́
+
+Àcɨ́ omvɨ kɨ́nɨ̀, “E'yó àzɨ́nɨ yo, mâ ágyí Etóó. Mà nga 'ye kò'bò kò'bò mɨ́nɨ́ 'yolé rɨ̀lé.”
 
 ##
-Drozi
-‘diniRobiriiribinyayiaratiarisi
-re cotilu “wuuu!”
-Dróz?́ 'd?́n?, Ròbí n?́ ìríbí
-nyar?́á yí àra v?́ r?̀s?̀ rè 'dán?́,
-“wáalele”
-Àc?́ ko ti lèkù lèkù rá evé
-Ròbí mà 'b?́ko y? tékètékè.
+Drozi ‘diniRobiriiribinyayiaratiarisi re cotilu “wuuu!”
+
+Drózɨ́ 'dɨ́nɨ, Ròbí nɨ́ ìríbí nyarɨ́á yí àra vʉ́ rɨ̀sɨ̀ rè 'dánɨ́, “wáalele”
+
+Àcɨ́ ko ti lèkù lèkù rá evé Ròbí mà 'bɨ́ko yɨ tékètékè.
 
 ##
-Ròb? e'dó óngú àw?́ be nz?z?́
-yíá 'dálé.
-De esú àc?́ ve èr? mà 'b?́ko dé
-tékètékè 'bo.
-Ròbí ow?́ s?r? s?r? k?́n?̀, mâ
-'b?́ko ve àc?́ s?̀ tè yò!
-M?́ evé mâ 'b?́ko tékètékè!
-Mâ 'b?́ko d?́ yo yò
-Mâ 'b?́ko àlátárá ndr?̀zà r?̀ '?
-'dóo!
+Ròbɨ e'dó óngú àwʉ́ be nzʉzʉ́ yíá 'dálé.
+
+De esú àcɨ́ ve èrɨ mà 'bɨ́ko dé tékètékè 'bo.
+
+Ròbí owʉ́ sɨrɨ sɨrɨ kɨ́nɨ̀, mâ 'bɨ́ko ve àcɨ́ sɨ̀ tè yò!
+
+Mɨ́ evé mâ 'bɨ́ko tékètékè!
+
+Mâ 'bɨ́ko dɨ́ yo yò
+
+Mâ 'bɨ́ko àlátárá ndrɨ̀zà rɨ̀ 'ɨ 'dóo!
 
 ##
 E’yo ‘disiRobiefuniyi vu risiamve ‘dapikuoriacidririsi.
+
 Ayikofu di ndraEtoonikayiRobiniveleacisirisi, kini, “Esu ma dri ‘bo!”
-Ày?̀kò fu d?́ Ètóó n? káy?̀ Ròbín?́ velér?̀s?̀, k?́n?̀, “ Má òfè mâ àr?́óti 'bo.”
+
+Àyɨ̀kò fu dɨ́ Ètóó nɨ káyɨ̀ Ròbínɨ́ velérɨ̀sɨ̀, kɨ́nɨ̀, “ Má òfè mâ àrɨ́óti 'bo.”
 
 ##
 * License: [CC-BY]
