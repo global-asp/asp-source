@@ -1,5 +1,4 @@
-# ágúpí òkò rɨ̀ pɨ
-òkʉ́ òkò rɨ̀ be
+# Ágúpí òkò rɨ̀ pɨ òkʉ́ òkò rɨ̀ be
 
 ##
 Ndráa drɨ ̀ò nyákú nɨ ́ ngà ovʉzʉ́ ó’dɨ ́ rɨ ̀ sɨ ̀, ‘bé

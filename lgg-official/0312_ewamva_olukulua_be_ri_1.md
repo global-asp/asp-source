@@ -1,7 +1,4 @@
-# Èwámvá
-òlúkùlúá be rɨ̀
-Judith Baker and Lorato
-Trok
+# Èwámvá òlúkùlúá be rɨ̀
 
 ##
 'Bá drɨ ́á nì èwá yɨ mà

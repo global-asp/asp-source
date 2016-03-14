@@ -1,4 +1,4 @@
-# A’Ú PI YÚKÚ BE
+# A’ú pi yúkú be
 
 ##
 Ándrá a drɨ ̀ò rɨ ̀ sɨ ̌, a’ú pi á ndrâ aâ

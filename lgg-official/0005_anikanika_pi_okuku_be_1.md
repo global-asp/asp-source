@@ -1,5 +1,4 @@
-# Ànɨ́kánɨ̀kà pɨ
-Òkù kù be
+# Ànɨ́kánɨ̀kà pɨ Òkù kù be
 
 ##
 O’dúàlʉ́, ànɨ ́kánɨ ́kà mu àyʉ́ èji ́ ɨ ́ vílé

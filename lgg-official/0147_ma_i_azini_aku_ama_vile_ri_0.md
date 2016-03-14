@@ -1,7 +1,4 @@
-# Má 'ɨ́ àzɨ́nɨ Àkú
-àma vɨ́lé rɨ̀
-Waako Joshua and
-Cornelius Gulere
+# Má 'ɨ́ àzɨ́nɨ Àkú àma vɨ́lé rɨ̀
 
 ##
 Àma má vɨ ́le Éyíó rɨ ̀ be

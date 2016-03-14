@@ -1,5 +1,4 @@
-# Èbìóejí `báyinɨ́
-á`dɨ́kóyiawaá
+# Èbìóejí `báyinɨ́ á`dɨ́kóyiawaá
 
 ##
 Ándrádrìò, ópɨ ́ àngʉ̀ `bùárɨ ̀ vɨ ́léÒ’bànɨ ̀

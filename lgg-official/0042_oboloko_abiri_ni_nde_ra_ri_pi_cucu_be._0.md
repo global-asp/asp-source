@@ -1,4 +1,4 @@
-# Òbólókó àbírí nɨ́ ndě rá rɨ̀ pɨ cǔcǔ be.
+# Òbólókó àbírí nɨ́ ndě rá rɨ̀ pɨ cǔcǔ be
 
 ##
 Ó'dú àzɨ ́nɨ ándráa àlʉ, àbírí ndè

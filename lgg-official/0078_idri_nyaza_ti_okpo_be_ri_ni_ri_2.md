@@ -1,5 +1,4 @@
-# Ídri nyǎzà tí
-òkpó be rɨ nɨ rɨ
+# Ídri nyǎzà tí òkpó be rɨ nɨ rɨ
 
 ##
 ‘Dɨ ̀ ti ́ ɨ.
