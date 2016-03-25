@@ -1,17 +1,11 @@
 # Dancing
 
 ##
-I dance
-happy,
-I dance
-I dance
-lonely,
-I dance
+I dance when I am happy,
+I dance when I am sad,
+I dance when I am lonely,
+I dance when I am mad.
 
-when I am
-when I am sad,
-when I am
-when I am mad.
 
 ##
 My teacher says,
