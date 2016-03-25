@@ -1,7 +1,4 @@
-# Mbolera bulano
-– Obusangafu
-nende
-Eshibeera!
+# Mbolera bulano – Obusangafu nende Eshibeera!
 
 ##
 Omwana aliranga

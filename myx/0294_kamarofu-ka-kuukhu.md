@@ -120,7 +120,7 @@ Ne ni naba nga isoota khuutsya
 imulyaango, naawulila kuukhu
 akhololela ibulafu. Naanyalisa busa
 khuubisa kamarofu mu shitweeya
-shase, naakeenda naamubirakho
+shase, naakeenda naamubirakho.
 
 ##
 Shifukhu ndi shisheelakho shaba

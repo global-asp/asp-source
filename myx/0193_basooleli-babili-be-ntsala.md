@@ -25,9 +25,9 @@ tsibili.
 ##
 Wantsala alya tsikeeki
 tsenga?
-?
+
 Ne Wanda alya tsenga?
-?
+
 Balekhela kuukhu
 tsenga?
 
