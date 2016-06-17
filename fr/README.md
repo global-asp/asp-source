@@ -56,7 +56,7 @@ Story ID | Title | License
 0184 | [Mulongo et les hyènes](http://my.africanstorybook.org/stories/mulongo-et-les-hy%C3%A8nes) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0185 | [Comment la nuit vint au village d’Opioc](http://my.africanstorybook.org/stories/comment-la-nuit-vint-au-village-d%E2%80%99opioc) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0188 | [Ma mère a fait des plantations](http://my.africanstorybook.org/stories/ma-m%C3%A8re-fait-des-plantations-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0210 | [Olivia Mahe](http://my.africanstorybook.org/stories/olivia-mahe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0210 | [Tingi et les vaches](http://my.africanstorybook.org/stories/tingi-et-les-vaches-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0213 | [Coq et Lièvre](http://my.africanstorybook.org/stories/coq-et-li%C3%A8vre) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0220 | [Keeper et son orphelinat spécial](http://www.africanstorybook.org/stories/keeper-et-son-orphelinat-sp%C3%A9cial) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0232 | [M. Paresseux est fatigué](http://my.africanstorybook.org/stories/m-paresseux-est-fatigu%C3%A9) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
