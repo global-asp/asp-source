@@ -2,7 +2,7 @@
 
 Story ID | Title | License
 -------- | ----- | -------
-0001 | [A very tall man](http://my.africanstorybook.org/stories/very-tall-man-1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0001 | [A very tall man](http://my.africanstorybook.org/stories/very-tall-man) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0002 | [Look at the animals](http://my.africanstorybook.org/stories/look-animals) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0003 | [School clothes](http://my.africanstorybook.org/stories/school-clothes) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0004 | [Goat, Dog and Cow](http://my.africanstorybook.org/stories/goat-dog-and-cow) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

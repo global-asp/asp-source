@@ -1,4 +1,4 @@
-# Nakitto at school.
+# Nakitto at school
 
 ##
 Last Monday,Nakitto
@@ -36,4 +36,4 @@ mother at home.
 * License: [CC-BY]
 * Text: Annet Ssebaggala
 * Illustration: Genevieve Terblanche, Wiehan de Jager, Vusi Malindi, Karlien de Villiers
-* Language: en, Luganda
+* Language: en

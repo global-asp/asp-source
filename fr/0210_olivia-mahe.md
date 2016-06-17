@@ -1,4 +1,4 @@
-# Olivia Mahe
+# Tingi et les vaches
 
 ##
 Tingi vivait avec sa
@@ -55,5 +55,5 @@ bruit.
 * License: [CC-BY]
 * Text: Ingrid Schechter
 * Illustration: Ingrid Schechter
-* Translation: Tingi et les vaches, Translators without Borders
+* Translation: Olivia Mahe, Translators without Borders
 * Language: fr
