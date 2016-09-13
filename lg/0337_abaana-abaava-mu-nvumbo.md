@@ -20,7 +20,6 @@ Baakolanga emirimu
 gyabwe mu budde
 obw'ekiro.
 
-##
 Kubanga baali baakolebwa mu nvumbo.
 
 ##
