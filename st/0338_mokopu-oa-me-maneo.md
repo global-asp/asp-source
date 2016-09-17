@@ -123,4 +123,4 @@ Baea ho 'M'e Maneo. Bare,
 * License: [CC-BY]
 * Text: Marion Drew
 * Illustration: Marion Drew
-* Language: st (Lesotho)
+* Language: st
