@@ -77,7 +77,6 @@ Story ID | Title | License
 0324 | [Ndi muhaana](http://my.africanstorybook.org/stories/ndi-muhaana-0) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0328 | [Omusaala ogwaŋonia ehyalo hy’ebugaado](http://my.africanstorybook.org/stories/omusaala-ogwaŋonia-ehyalo-hy’ebugaado) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0329 | [Anansi omunafu](http://my.africanstorybook.org/stories/anansi-omunafu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0336 | [nenda](http://my.africanstorybook.org/stories/nenda) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0337 | [Abaana bomu bulimbo](http://my.africanstorybook.org/stories/abaana-bomu-bulimbo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0339 | [Engaito epyaha](http://my.africanstorybook.org/stories/engaito-epyaha) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0340 | [Ohweyobusa Ohusangaasa](http://my.africanstorybook.org/stories/ohweyobusa-ohusangaasa) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
