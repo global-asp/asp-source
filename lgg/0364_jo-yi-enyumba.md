@@ -58,4 +58,4 @@ yiino!
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Kathy Arbuckle
 * Adaptation: Candiru Eunice
-* Language: lgg, Lunyole
+* Language: lgg
