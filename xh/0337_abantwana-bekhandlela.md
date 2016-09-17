@@ -19,7 +19,6 @@ Kwakufuneka benze
 wonke umsebenzi wabo
 ebusuku.
 
-##
 Kuba babenziwe ngekhandlela!
 
 ##

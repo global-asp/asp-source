@@ -21,7 +21,6 @@ Hulle moes al hulle
 werk deur die nag
 voltooi.
 
-##
 Want hulle was gemaak van was!
 
 ##

@@ -61,7 +61,7 @@ realised her dream of becoming a
 teacher.
 All this made Graça very happy.
 There was only one thing that still
-made her sad…
+made her sad...
 
 ##
 Back at home people were still not

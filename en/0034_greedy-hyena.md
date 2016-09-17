@@ -37,7 +37,6 @@ with only one door
 which she used to get
 inside.
 
-##
 Then mother said to Atabo, “When I come to
 feed you I will sing a song for you to open
 the door.”
@@ -54,7 +53,6 @@ So whenever mother came she sang the
 song, the door opened and she gave Atabo
 food.
 
-##
 But Hyena was hiding
 and watching and
 listening when mother

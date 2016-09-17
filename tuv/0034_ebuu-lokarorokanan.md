@@ -37,7 +37,6 @@ kipeak ekidor epei bon,
 lo itoruni ng’esi elomuni
 tooma.
 
-##
 Tolimok ng’esi Alio tama, “Na abunio ayong,
 aeokini ayong dio tang’aaria iyong ekidor.”
 Eos ng’esi lo:
@@ -51,7 +50,6 @@ nipe nyiyeni iyong.”
 Kong’ina, nacha ebunio itokeng toeok,
 tang’aar ekidor dio naki ng’esi Alio akimuj.
 
-##
 Nakaneni, adukeene
 ebuu esemeene, nabo
 apupeene ata-ka-Alio

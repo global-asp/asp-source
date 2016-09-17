@@ -55,28 +55,28 @@ letter to mum.
 
 ##
 I tore a paper from my exercise
-book and began to write…
+book and began to write...
 
 ##
 “Mummy, mummy, dad said
 that you have gone to bring
-another baby…
+another baby...
 
 ##
-…Please hurry up and return
-home…
+...Please hurry up and return
+home...
 
 ##
-…I want you to bring a baby
+...I want you to bring a baby
 girl, so I can play with her when
-she grows up…
+she grows up...
 
 ##
-…You can bring two so one can
-be mine…
+...You can bring two so one can
+be mine...
 
 ##
-…I am waiting for you here
+...I am waiting for you here
 outside our house.”
 
 ##

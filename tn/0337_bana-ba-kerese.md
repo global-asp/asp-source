@@ -21,7 +21,6 @@ Ba ne ba letlelelwa fela
 go dira ditiro tsa bona
 bosigo.
 
-##
 Ka gonne ba ne ba bopilwe ka kerese
 
 ##

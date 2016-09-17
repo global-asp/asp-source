@@ -19,7 +19,7 @@ coming in a hurry.”
 
 ##
 A lady walks past. She is a very smart lady. Aren't her shoes
-beautiful? They go “click, click, click…click, click, click…”
+beautiful? They go “click, click, click...click, click, click...”
 when she walks.
 
 ##

@@ -88,7 +88,7 @@ The old man knew just what to do.
 “Morning, Mrs Makabela!” he called,
 and smiled his biggest, brightest
 smile.
-But Mrs Makabela… did not smile
+But Mrs Makabela... did not smile
 back.
 
 ##
@@ -98,7 +98,7 @@ strong, and so bright, that it was very hard to keep inside.
 It didn't work right away,
 but bit by tiny bit,
 it began to creep out until,
-at last…!
+at last...!
 
 ##
 A great, big smile lit up Mrs
@@ -131,7 +131,7 @@ run out of smiles.
 
 ##
 But as they stepped out into the
-street…
+street...
 WHAT A SIGHT!
 Everyone in town was there!
 Everyone!
@@ -141,14 +141,14 @@ And they were ALL smiling!
 The smiles bounced around and
 beamed at Sizwe. They warmed
 him, and tickled him, and crept up,
-up, up from his toes… to the TOP of
+up, up from his toes... to the TOP of
 his head. He was so full of
 happiness that the smile burst out,
 brilliant and beaming bright.
 And something changed. The dark,
 gloomy, rainy afternoon didn't seem
 so dark anymore.
-Could it be…? YES!
+Could it be...? YES!
 The clouds parted, and the warm
 sun shone down on them, with the
 biggest, brightest, most brilliant

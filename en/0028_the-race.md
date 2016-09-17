@@ -48,7 +48,7 @@ Snails were lined up on
 the racing track so that
 each time the rabbit
 passed, a snail would
-shout, ‘I am a snail…'
+shout, ‘I am a snail...'
 During the race, the
 rabbit called out,
 “Snail! Snail!”

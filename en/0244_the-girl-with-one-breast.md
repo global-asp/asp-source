@@ -41,7 +41,7 @@ Libeeletwela?”
 
 ##
 When the man heard that, he
-ran home as fast as a bullet …
+ran home as fast as a bullet ...
 Only to find his wife had just
 died.
 He was so grief stricken

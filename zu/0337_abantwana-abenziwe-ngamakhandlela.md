@@ -22,7 +22,6 @@ Kwakumele benze
 yonke imisebenzi yabo
 ebusuku.
 
-##
 Ngoba babenziwe ngamakhandlela!
 
 ##

@@ -26,7 +26,7 @@ The Gourd sang a beautiful and
 soothing song. Khayanga
 recognised the voice as that of her
 late mother.
-It went like this…
+It went like this...
 
 Khayanga, ee, Khayanga!
 Our child the loved one!
@@ -56,7 +56,7 @@ Father and Mother,
 See the gourd is broken.
 The gourd you gave me.
 What do I do, Mother and Father?
-Be kind and show me a sign…
+Be kind and show me a sign...
 That you are still with me.
 
 ##

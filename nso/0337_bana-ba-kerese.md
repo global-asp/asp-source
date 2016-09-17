@@ -21,7 +21,6 @@ Ba be ba swanetšwe ke
 go dira mešomo ya
 bona bošego fela.
 
-##
 Ka gobane ba be ba bopilwe ka kerese!
 
 ##

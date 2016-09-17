@@ -57,7 +57,7 @@ This slime smelled very bad.
 The smelly Tasneem put on her
 smelly makgabe and ran home to
 her parents.
-She sang …
+She sang ...
 
 Mother, open the door for me, I am smelling;
 Mother, open the door for me, I am smelling,
@@ -72,7 +72,7 @@ Go away, you are smelling very bad.
 Tasneem was very upset.
 She ran off to the house of her aunt
 and uncle.
-They heard her singing …
+They heard her singing ...
 
 Open the door for me, I am smelling;
 Open the door for me, I am smelling,

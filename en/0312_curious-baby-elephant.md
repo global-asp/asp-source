@@ -83,7 +83,7 @@ for dinner?”
 tell you,” said the
 stone. “Lower, lower...”
 So Baby Elephant bent
-down lower, until…
+down lower, until...
 
 ##
 “Snap!” Her nose was
@@ -104,7 +104,7 @@ go.
 Baby Elephant's nose
 stretched, and
 stretched, and
-stretched, until…
+stretched, until...
 “Duuffff!” she fell on
 her back.
 

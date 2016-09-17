@@ -20,7 +20,6 @@ fire.
 They had to do all their
 work during the night.
 
-##
 Because they were made of wax!
 
 ##

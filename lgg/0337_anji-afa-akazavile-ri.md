@@ -22,7 +22,6 @@ nga inisi. A'dusiku ‘ba
 ede eyi afa akaapi acisi
 akaaka ri si.
 
-##
 Ka gonne ba ne ba bopilwe ka kerese!
 
 ##

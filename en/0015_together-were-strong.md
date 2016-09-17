@@ -138,7 +138,7 @@ official arrived and called the top
 two students to the stage. “Well
 done to Albertina for full marks,” he
 said, “but you are too old. The
-scholarship goes to…”
+scholarship goes to...”
 
 Albertina tried not to cry. “That's unfair,” shouted Betty, hopping
 with fury. “That wasn't in the rules!” How would Albertina go to

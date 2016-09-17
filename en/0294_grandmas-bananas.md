@@ -33,7 +33,7 @@ leaves and the big straw basket.
 But Grandma sent me off to my
 mother on an errand.
 “Grandma, please, let me watch as
-you prepare…”
+you prepare...”
 “Don't be stubborn, child, do as you
 are told,” she insisted. I took off
 running.
@@ -44,7 +44,7 @@ sitting outside but with neither the
 basket nor the bananas.
 “Grandma, where is the basket,
 where are all the bananas, and
-where…”
+where...”
 But the only answer I got was,
 “They are in my magic place.”
 It was so disappointing!

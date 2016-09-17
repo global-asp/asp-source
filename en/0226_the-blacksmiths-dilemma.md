@@ -72,7 +72,7 @@ Ratshipi.
 “I have a big problem.”
 He told Old Rapule the whole story.
 Old Rapule thought carefully, and
-then he said…
+then he said...
 
 ##
 “Tell the chief that you will need a

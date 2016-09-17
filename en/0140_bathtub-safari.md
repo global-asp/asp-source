@@ -39,10 +39,10 @@ Tooot!
 There's a RUMBLE!
 It's going up
 UP
-UP…
+UP...
 
 ##
-And…
+And...
 
 ##
 SPLASH!
@@ -51,11 +51,11 @@ SPLASH!
 There's a SPLOSH.
 Something bubbles.
 
-It's time to…
+It's time to...
 
 ##
 AAAAAAH.....
-But something's lurking in the background….
+But something's lurking in the background....
 
 ##
 ROAR!

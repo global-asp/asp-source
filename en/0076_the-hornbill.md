@@ -14,10 +14,10 @@ catapult, it shouted
 The hornbill flew into
 the air.
 But I ran after it
-through the grass…
+through the grass...
 
 ##
-…until it perched on a
+...until it perched on a
 dead tree.
 Then I shot it again.
 This time it fell to the

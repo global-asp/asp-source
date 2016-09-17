@@ -108,7 +108,7 @@ carried them in a thick bag slung
 over his shoulder.
 When he came to the cave, he
 found the door open and his sister
-gone…but ashes pointing the way
+gone...but ashes pointing the way
 into the woods.
 He followed the ash along the path
 until he saw a fire in the distance.

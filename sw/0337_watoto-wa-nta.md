@@ -20,7 +20,6 @@ kwenda karibu na moto.
 Walifanya kazi zao zote
 usiku.
 
-##
 Hii ni kwa sababu walikuwa wameumbwa
 kwa nta.
 

@@ -1,53 +1,37 @@
 # Niwulila bulayi
 
 ##
-Nikhoya nga
-ndikhusuna kumukosi....
+Nikhoya nga ndikhusuna kumukosi....
 
 ##
-.....senyene
+.....senyene.
 
 ##
-Nikhoya ngandikhusuna
-kumukosi atwela nu
-musaale wase.
+Nikhoya ngandikhusuna kumukosi atwela nu musaale wase.
 
 ##
-Nikhoya khusoma
-tsingano tsitsikhoyesa
+Nikhoya khusoma tsingano tsitsikhoyesa.
 
 ##
-Nikhoya khukenda
-mukyewa ni basaale
-basye.
+Nikhoya khukenda mukyewa ni basaale basye.
 
 ##
-Nikhoya khusingila
-Maayi bibindu
-byekhulilakho
+Nikhoya khusingila Maayi bibindu byekhulilakho.
 
 ##
-Nikhoya khurona
-tsinyukuta
-tsimboofutsyesi inyalisa
-khusoma khangu.
+Nikhoya khurona tsinyukuta tsimboofutsyesi inyalisa khusoma khangu.
 
 ##
-Nikhoya khulya bibyano
-byabulisambo.
+Nikhoya khulya bibyano byabulisambo.
 
 ##
-Nikhoya khukona
-khubutunde bubalayi.
+Nikhoya khukona khubutunde bubalayi.
 
 ##
-Nikhoya khu rkeresa
-maayi nga anganikhila
-tsingano tsitsikhoyesa.
+Nikhoya khu rkeresa maayi nga anganikhila tsingano tsitsikhoyesa.
 
 ##
-Nikhoya khukhola
-bibindu ibi byoosi.
+Nikhoya khukhola bibindu ibi byoosi.
 
 ##
 * License: [CC-BY]

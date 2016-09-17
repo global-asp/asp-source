@@ -46,7 +46,6 @@ sameesay deerkii, oo ay
 usameesay hal albaab
 oo ay kasoo gali jirtay.
 
-##
 Kadib hooyadii waxeey ku tiri Atabo,
 “Markaan kuu imaado in aan cunto kuu
 keeno, waan kuu heesi si aad iridka iga
@@ -65,7 +64,6 @@ uqaadi jirtay heestan oo waa uu ka furi jiray
 albaabka, kadibna Atabo aye cuntada siin
 jirtay.
 
-##
 Lakin waraabe ayaa
 udhuuman jiray oo
 dhageesan jiray
@@ -84,8 +82,6 @@ waraabihii waxaad
 wabiga kasoo laqdaa
 taqsi si aad uheesto
 heestan si fican.
-
-##
 Waraabihii wuxuu soo laqay taqsi waxuuna
 isku dayay inuu heeso heestii, lakin
 albaabkii lagama furin.

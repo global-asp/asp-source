@@ -19,7 +19,7 @@ and it broke.
 
 ##
 The boy cried,
-“Ei…Ei…Ei! You have caused trouble
+“Ei...Ei...Ei! You have caused trouble
 for me!
 The egg was not mine.
 It belonged to my grandmother.
@@ -42,7 +42,7 @@ broke into pieces.
 
 ##
 The boy cried,
-“Hee…Hee…Hee! You have caused
+“Hee...Hee...Hee! You have caused
 trouble for me! The stick was not
 mine, it belonged to the berry
 gatherers.
@@ -69,7 +69,7 @@ The herdsman gave it to the cow
 and the cow ate it all up.
 
 ##
-The boy cried, “E…E…E! You have
+The boy cried, “E...E...E! You have
 caused trouble for me! The grass
 was not mine. It belonged to the
 builders.
@@ -104,7 +104,7 @@ And they slaughtered it and ate it
 all.
 
 ##
-The boy cried, “Ei…Ei…Ei! You have
+The boy cried, “Ei...Ei...Ei! You have
 caused trouble for me! The cow was
 not mine. It belonged to the
 herdsman.

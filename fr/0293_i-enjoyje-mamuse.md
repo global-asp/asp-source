@@ -5,7 +5,7 @@ J'aime sauter à la
 corde...
 
 ##
-…toute seule.
+...toute seule.
 
 ##
 J'aime aussi sauter à la

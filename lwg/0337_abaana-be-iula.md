@@ -21,7 +21,6 @@ muliro tawe.
 Bakholanga mirimo
 chiabu chiosi mushiro.
 
-##
 Okhubera bali nibalongwa okhurula khu iula!
 
 ##

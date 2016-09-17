@@ -36,11 +36,11 @@ some water.”
 
 ##
 Little Ant went to look
-for the river…
+for the river...
 
 ##
 across dry grass and
-over dry branches…
+over dry branches...
 
 ##
 ...until he heard the

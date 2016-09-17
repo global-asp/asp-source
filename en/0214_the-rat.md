@@ -42,7 +42,7 @@ set a trap with sugar.
 The rats came in to eat the
 goodies in the house. They came
 laughing,
-“Chu…chu…chi…chi…che…che!”
+“Chu...chu...chi...chi...che...che!”
 
 ##
 When they reached the

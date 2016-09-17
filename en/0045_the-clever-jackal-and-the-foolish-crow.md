@@ -8,7 +8,7 @@ above the trees. Crow had a huge
 piece of cheese in his mouth.
 
 ##
-“Hmmm…that cheese looks
+“Hmmm...that cheese looks
 delicious! I must find a way to get
 it,” thought the jackal.
 “Oh, I have a plan!” said Jackal to

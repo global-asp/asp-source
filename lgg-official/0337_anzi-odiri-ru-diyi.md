@@ -19,7 +19,6 @@ à cɨ ́ mà àgéɨ ́á ènyɨ ́á kʉ.
 Ànɨ ́ yɨ ndrâ à zɨ ́ yɨ vɨ ́lé
 ‘dɨ ̀yɨ ngá ‘íní sɨ ̀.
 
-##
 À’dɨsìkʉ ‘bá édé èyɨ ò di ̀ri ̀ akápɨ akáaká rɨ ̀ sɨ!
 
 ##

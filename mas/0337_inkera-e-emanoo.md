@@ -18,7 +18,6 @@ enkímá.
 Náa kewarié éás esíaai
 enyê.
 
-##
 Amû te emanoó eitobirúno nínche.
 
 ##

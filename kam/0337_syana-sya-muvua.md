@@ -20,7 +20,6 @@ na mwaki.
 Maĩlĩte kũthũkũma wĩa
 woo w’onthe ũtukũ.
 
-##
 Nũndũ mĩĩ yoo yaseovetw’e na mũvũa!
 
 ##

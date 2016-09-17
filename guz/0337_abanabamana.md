@@ -22,7 +22,6 @@ Nigo baganeirie gokora
 chigasi chiabo botuko
 rioka.
 
-##
 Ekiagera nigo barosirie namana!
 
 ##

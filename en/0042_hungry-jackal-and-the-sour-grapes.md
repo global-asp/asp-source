@@ -14,7 +14,7 @@ high branch.
 
 ##
 "Those look really delicious," he
-thought to himself.? He took a
+thought to himself. He took a
 few steps back so that he could
 make his highest jump.
 

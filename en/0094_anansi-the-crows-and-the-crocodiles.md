@@ -68,14 +68,14 @@ for the rest of my life,” he said to
 himself, “I'll just have to jump into
 the air like the crows”.
 So he took a deep breath, jumped,
-and…PLOP!
+and...PLOP!
 He fell into the river right among
 the crocodiles.
 
 ##
 “What do we have here?” said a
 gruff crocodile voice. “A tasty
-morsel to eat, nyum…”
+morsel to eat, nyum...”
 “Oh please don't,” said Anansi. And
 he began to cry. “I'm one of you,
 don't you know? I got lost in the

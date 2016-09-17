@@ -90,7 +90,7 @@ ride, my dear friend.
 Goodbye, now you can
 go home!" But the
 crocodile said, "But you
-promised…."
+promised...."
 
 ##
 The monkey laughed

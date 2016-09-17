@@ -2,7 +2,7 @@
 
 ##
 Hello, I'm Ntombi. I'm a little girl
-like other little girls, except…
+like other little girls, except...
 I have a crocodile in my body.
 You can't see him, but I know he is
 there. His name is Horrible InVader.

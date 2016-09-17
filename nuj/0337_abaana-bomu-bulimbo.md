@@ -26,7 +26,6 @@ emirimo mu wiire
 mwoka aye nga mu
 muusi bbe.
 
-##
 Hino hyali hityo olwohuba abaana bano
 baali bababbota mu bulimbo!
 

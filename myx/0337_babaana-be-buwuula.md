@@ -26,7 +26,6 @@ khuukholatsaka
 kimilimo kyaabwe mu
 shilo mwonyene.
 
-##
 Lwekhuuba baabuumbibwa khukhwaama
 mu buwuula!
 
