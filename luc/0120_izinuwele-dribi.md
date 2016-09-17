@@ -49,4 +49,4 @@ rá .
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Bronwen Heath
 * Translation: Delu Barnabas
-* Language: Aringati
+* Language: luc

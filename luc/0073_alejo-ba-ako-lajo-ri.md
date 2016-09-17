@@ -56,4 +56,4 @@ mvụ ŋá trũ dri ̣̃ gá ni ̃ yã ?
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Gay Galsworthy
 * Translation: Barnabas Delu
-* Language: Aringati
+* Language: luc

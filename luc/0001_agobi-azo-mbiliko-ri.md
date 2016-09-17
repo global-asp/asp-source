@@ -64,4 +64,4 @@ A'bé í vile líco ra mú
 * Text: Cornelius Gulere
 * Illustration: Catherine Groenewald
 * Translation: Driliga Yasin, Adnan Anguyo
-* Language: Aringati
+* Language: luc

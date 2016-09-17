@@ -50,4 +50,4 @@ ã ndrẽ dri.̣́
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Cathy Feek
 * Translation: Barnabas Delu
-* Language: Aringati
+* Language: luc

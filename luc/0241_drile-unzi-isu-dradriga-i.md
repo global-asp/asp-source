@@ -47,4 +47,4 @@ Áma á si ̣́ mvu trẹ̃ yi.̣́
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Cathy Feek
 * Translation: Delu Barnabas
-* Language: Aringati
+* Language: luc

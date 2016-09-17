@@ -37,4 +37,4 @@ Dẹ̃ dẹ́ ni ́ ké ki ̃ ace ki ́ si?̣́
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Bronwen Heath
 * Translation: Barnabas Delu
-* Language: Aringati
+* Language: luc

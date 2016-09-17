@@ -156,4 +156,4 @@ ndrụ̃ jó ri ̃ si ̃ ri ̃ á ni.
 * Text: Southern African Folktale
 * Illustration: Jemma Kahn
 * Translation: Barnabas Delu
-* Language: Aringati
+* Language: luc

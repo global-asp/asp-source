@@ -39,4 +39,4 @@ Wó gé zi ̃mã ꞌdi ̃ ki ́ ú ꞌdi ́.
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Mlungisi Dlamini
 * Translation: Barnabas Delu
-* Language: Aringati
+* Language: luc

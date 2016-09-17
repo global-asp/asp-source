@@ -63,4 +63,4 @@ Ụ́nụ̂ ti ̣ si ̃ trã .
 * Text: Dorothy Fetaru
 * Illustration: Joshua Waswa
 * Translation: Driciru Lucy, Drã ni ́ Ãló kó ré Hampton Be
-* Language: Aringati
+* Language: luc

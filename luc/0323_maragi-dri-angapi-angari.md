@@ -43,4 +43,4 @@ ka i ́fi ́ ru.
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Mlungisi Dlamini
 * Translation: Aga Khan Foundation
-* Language: Aringati
+* Language: luc

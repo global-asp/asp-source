@@ -53,4 +53,4 @@ adru pi ́ri ́ si ̣́ yã ?
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Sandra McDougall
 * Translation: Delu Barnabas
-* Language: Aringati
+* Language: luc

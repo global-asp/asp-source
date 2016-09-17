@@ -41,4 +41,4 @@ ú dri ̃ ki ́ ũ rẽ ri ̃ gá .
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Kathy Arbuckle
 * Translation: Delu Barnabas
-* Language: Aringati
+* Language: luc

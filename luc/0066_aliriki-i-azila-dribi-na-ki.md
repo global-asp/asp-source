@@ -142,4 +142,4 @@ dó rá ú ndre dó si ̃ i ̃ꞌdi idi
 * Text: Tessa Welch
 * Illustration: Wiehan de Jager
 * Translation: Barnabas Delu
-* Language: Aringati
+* Language: luc

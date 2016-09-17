@@ -48,4 +48,4 @@ Iꞌdi
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Bronwen Heath
 * Translation: Barnabas Delu
-* Language: Aringati
+* Language: luc

@@ -46,4 +46,4 @@ ki ́ lã rá .
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Kathy Arbuckle
 * Translation: Barnabas Delu
-* Language: Aringati
+* Language: luc

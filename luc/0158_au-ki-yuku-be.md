@@ -113,4 +113,4 @@ Yúkú 'bá indri ácá jó únókú gá
 * Illustration: Wiehan de Jager
 * Translation: Edektia Valente, Ociti Caleb, Aga Khan
 Foundation
-* Language: Aringati
+* Language: luc
