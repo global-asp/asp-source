@@ -11,7 +11,7 @@ Story ID | Title | License
 0067 | [Aꞌdíŋá](http://my.africanstorybook.org/stories/aꞌdíŋá) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0068 | [Kí sị́ yã?](http://my.africanstorybook.org/stories/kí-sị́-yã) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0073 | [Ãlẽjó ꞌbã ãko lãjó rĩ](http://my.africanstorybook.org/stories/ãlẽjó-ꞌbã-ãko-lãjó-rĩ) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
-0120 | [Ĩzĩnũwélẽ Drị̃ꞌbị́](http://my.africanstorybook.org/stories/ĩzĩnũwélẽ-drị̃ꞌbị́) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
+0120 | [Ĩzĩnũwélẽ Drị̃ꞌbị́](http://my.africanstorybook.org/stories/ĩzĩnũwélẽ-drị̃ꞌbị́) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0129 | [Álụ́ma ꞌbã ádrị́pị ĩmbíráŋá ũvú rĩ ](http://my.africanstorybook.org/stories/álụ́ma-ꞌbã-ádrị́pị-ĩmbíráŋá-ũvú-rĩ) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0158 | [Áũ kí Yúkú be](http://my.africanstorybook.org/stories/áũ-kí-yúkú-be-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0193 | [Ãbị́rị́ ndẽ anzị ị̃rị̃ kí rá](http://my.africanstorybook.org/stories/ãbị́rị́-ndẽ-anzị-ị̃rị̃-kí-rá) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)

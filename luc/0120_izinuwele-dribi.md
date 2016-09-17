@@ -1,4 +1,4 @@
-# ̃ ĩnũ wé lẽ ?Drĩꞌ̣ bị́ Iz
+# ̃ ĩnũ wé lẽ Drĩꞌ̣ bị́ Iz
 
 ##
 Tụ́ li ̣̃ ꞌbã driꞌbi
