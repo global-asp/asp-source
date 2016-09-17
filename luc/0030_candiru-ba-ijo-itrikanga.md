@@ -1,8 +1,4 @@
-# Cã ndíru ꞌbã íj̣ ọ́
-ĩtrĩkã ŋá
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
+# Cã ndíru ꞌbã íj̣ ọ́ ĩtrĩkã ŋá
 
 ##
 Áma á si ̣́ la ijó
@@ -36,9 +32,7 @@ yã mbi ̣̂ si ̃.
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Kathy Arbuckle
 * Translation: Barnabas Delu
 * Language: Aringati
-

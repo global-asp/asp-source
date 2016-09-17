@@ -1,7 +1,4 @@
 # Kí sị́ yã ?
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
 
 ##
 ̃
@@ -53,9 +50,7 @@ adru pi ́ri ́ si ̣́ yã ?
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Sandra McDougall
 * Translation: Delu Barnabas
 * Language: Aringati
-

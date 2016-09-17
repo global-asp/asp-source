@@ -1,8 +1,4 @@
-# ̃ ĩnũ wé lẽ ?Drĩꞌ̣ bị́
-Iz
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
+# ̃ ĩnũ wé lẽ ?Drĩꞌ̣ bị́ Iz
 
 ##
 Tụ́ li ̣̃ ꞌbã driꞌbi
@@ -49,12 +45,8 @@ rá .
 
 
 ##
-̃ ĩnũ wé lẽ ?Drĩꞌ̣ bị́
-Iz
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Bronwen Heath
 * Translation: Delu Barnabas
 * Language: Aringati
-

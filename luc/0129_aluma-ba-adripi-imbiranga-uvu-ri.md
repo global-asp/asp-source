@@ -1,9 +1,4 @@
-# Álụ́ ma ꞌbã á dríp
-̣ ị
-ĩmbírá ŋá ũ vú rĩ
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
+# Álụ́ ma ꞌbã á dríp ̣ ị ĩmbírá ŋá ũ vú rĩ
 
 ##
 Ma angá ụ̃ ꞌbụ́ ti ̣ ã ci ́
@@ -45,12 +40,8 @@ gá ?
 
 
 ##
-Álụ́ ma ꞌbã á dríp
-̣ ị ĩmbírá ŋá ũ vú rĩ
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Mlungisi Dlamini
 * Translation: Delu Barnabas
 * Language: Aringati
-

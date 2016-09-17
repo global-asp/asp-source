@@ -111,6 +111,6 @@ Yúkú 'bá indri ácá jó únókú gá
 * License: [CC-BY]
 * Text: Ann Nduku
 * Illustration: Wiehan de Jager
-* Translation: Edektia Valente, Ociti Caleb and Aga Khan
+* Translation: Edektia Valente, Ociti Caleb, Aga Khan
 Foundation
 * Language: Aringati

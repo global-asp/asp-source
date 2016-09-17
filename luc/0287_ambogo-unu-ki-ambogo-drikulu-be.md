@@ -1,7 +1,4 @@
-# Ãmbó gó Ụ́ nụ́ Kí
-Ãmbó gó Drĩk
-̣ ụ̃ lụ̃
-Be
+# Ãmbó gó Ụ́ nụ́ Kí Ãmbó gó Drĩk ̣ ụ̃ lụ̃ Be
 
 ##
 ꞌDi ̃ ã mbó gó Ụ́nụ́ ꞌi.
@@ -62,11 +59,8 @@ Ụ́nụ̂ ti ̣ si ̃ trã .
 
 
 ##
-Ãmbó gó Ụ́ nụ́ Kí Ãmbó gó Drĩk
-̣ ụ̃ lụ̃ Be
 * License: [CC-BY]
 * Text: Dorothy Fetaru
 * Illustration: Joshua Waswa
-* Translation: Driciru Lucy and Drã ni ́ Ãló kó ré Hampton
-Be
+* Translation: Driciru Lucy, Drã ni ́ Ãló kó ré Hampton Be
 * Language: Aringati

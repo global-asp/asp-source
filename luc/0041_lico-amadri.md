@@ -1,8 +1,4 @@
-# Líc
-̣ ọ́ ã madrị̂
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
+# Líc ̣ ọ́ ã madrị̂
 
 ##
 Má á dripi
@@ -46,12 +42,8 @@ ki ́ lã rá .
 
 
 ##
-Líc
-̣ ọ́ ã madrị̂
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Kathy Arbuckle
 * Translation: Barnabas Delu
 * Language: Aringati
-

@@ -1,8 +1,4 @@
-# Mã rá gĩ drí
-á ngá pí á ngá rĩ
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
+# Mã rá gĩ drí á ngá pí á ngá rĩ
 
 ##
 ́ ki ́ lazo dridri
@@ -44,9 +40,7 @@ ka i ́fi ́ ru.
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Mlungisi Dlamini
 * Translation: Aga Khan Foundation
 * Language: Aringati
-

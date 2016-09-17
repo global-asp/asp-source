@@ -1,7 +1,4 @@
 # Aꞌdíŋá
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
 
 ##
 Ma má kũ ki ́ upi ́.
@@ -41,9 +38,7 @@ ú dri ̃ ki ́ ũ rẽ ri ̃ gá .
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Kathy Arbuckle
 * Translation: Delu Barnabas
 * Language: Aringati
-

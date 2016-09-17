@@ -1,5 +1,4 @@
-# Ágóbí ázó
-mbílíkó rĩ
+# Ágóbí ázó mbílíkó rĩ
 
 ##
 I'dí 'bã drí ãcó rĩ ãndrá
@@ -64,5 +63,5 @@ A'bé í vile líco ra mú
 * License: [CC-BY]
 * Text: Cornelius Gulere
 * Illustration: Catherine Groenewald
-* Translation: Driliga Yasin and Adnan Anguyo
+* Translation: Driliga Yasin, Adnan Anguyo
 * Language: Aringati

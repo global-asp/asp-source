@@ -1,8 +1,4 @@
-# Ãlẽ jó ꞌbã ã ko
-lã jó rĩ
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
+# Ãlẽ jó ꞌbã ã ko lã jó rĩ
 
 ##
 ̃
@@ -57,9 +53,7 @@ mvụ ŋá trũ dri ̣̃ gá ni ̃ yã ?
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Gay Galsworthy
 * Translation: Barnabas Delu
 * Language: Aringati
-

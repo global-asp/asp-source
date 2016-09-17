@@ -1,8 +1,4 @@
-# Ãbíṛ ị́ ndẽ anzị ĩṛ ị̃
-kí rá
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
+# Ãbíṛ ị́ ndẽ anzị ĩṛ ị̃ kí rá
 
 ##
 Acema ki ́ Ãdrá yi ̃gá be
@@ -38,9 +34,7 @@ Dẹ̃ dẹ́ ni ́ ké ki ̃ ace ki ́ si?̣́
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Bronwen Heath
 * Translation: Barnabas Delu
 * Language: Aringati
-

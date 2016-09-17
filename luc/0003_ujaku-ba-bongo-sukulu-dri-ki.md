@@ -1,8 +1,4 @@
-# Ujaku ꞌbã bõ ngó
-sụ̃ kụ́ lụ̃ drị̂ kî
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
+# Ujaku ꞌbã bõ ngó sụ̃ kụ́ lụ̃ drị̂ kî
 
 ##
 Bõ ngó ꞌdi ̃ ã zo-ã zo.
@@ -40,9 +36,7 @@ Wó gé zi ̃mã ꞌdi ̃ ki ́ ú ꞌdi ́.
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Mlungisi Dlamini
 * Translation: Barnabas Delu
 * Language: Aringati
-

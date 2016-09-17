@@ -1,8 +1,4 @@
-# Ãyĩkõ rú ꞌbã
-wá rá gã kî
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
+# Ãyĩkõ rú ꞌbã wá rá gã kî
 
 ##
 Sã bá tũ á jệ ri ̃ si ̃ má i ̣sụ́
@@ -51,9 +47,7 @@ ã ndrẽ dri.̣́
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Cathy Feek
 * Translation: Barnabas Delu
 * Language: Aringati
-

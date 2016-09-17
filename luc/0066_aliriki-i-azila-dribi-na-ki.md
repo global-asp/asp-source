@@ -1,5 +1,4 @@
-# Ãlíríkí ꞌi ã zíla
-drĩꞌ̣ bị́ na kî
+# Ãlíríkí ꞌi ã zíla drĩꞌ̣ bị́ na kî
 
 ##
 Ándrá i ́du ri ̃ si ̃, izonzi na mụ ki ́ ijijá

@@ -1,8 +1,4 @@
-# Mâ bú rã ŋâ
-íngõ lé ?
-Clare Verbeek, Thembani
-Dladla and Zanele
-Buthelezi
+# Mâ bú rã ŋâ íngõ lé ?
 
 ##
 Mâ bú rã ŋâ i ́ngõ lé ?
@@ -49,9 +45,7 @@ Iꞌdi
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele
-Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Bronwen Heath
 * Translation: Barnabas Delu
 * Language: Aringati
-
