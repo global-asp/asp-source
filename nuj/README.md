@@ -71,6 +71,7 @@ Story ID | Title | License
 0303 | [Namwima](http://my.africanstorybook.org/stories/namwima) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0304 | [HIYUBI OW’OGURYERYE](http://my.africanstorybook.org/stories/hiyubi-ow’oguryerye) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0309 | [EHITONO N'EHIBALA](http://my.africanstorybook.org/stories/ehitono-nehibala) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
+0314 | [Wahibbwe ni Wadwaya](http://my.africanstorybook.org/stories/wahibbwe-ni-wadwaya) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0316 | [ABEEBI B’EMIYEMBE](http://my.africanstorybook.org/stories/abeebi-b’emiyembe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0318 | [Too small](http://my.africanstorybook.org/stories/too-small-0) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0322 | [Ehy'egulo hu lw'omukaaga olwaliho ebbugumu](http://my.africanstorybook.org/stories/ehyegulo-hu-lwomukaaga-olwaliho-ebbugumu-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

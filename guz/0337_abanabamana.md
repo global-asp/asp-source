@@ -1,4 +1,4 @@
-# Abana?ba’mana
+# Abanaba’mana
 
 ##
 Abwo kare efamili

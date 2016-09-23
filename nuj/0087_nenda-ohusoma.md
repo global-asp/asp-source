@@ -1,47 +1,30 @@
 # Nenda ohusoma
 
 ##
-I like to read.
-
 Nenda ohusoma.
 
 ##
-Who can I read to?
-
-somereho njani?
+Somereho njani?
 
 ##
-My sister is asleep.
-
-muganda yange ali
+Muganda yange ali
 hunghenyuha
 
 ##
-Who can I read to?
-
-somereho njani?
+Somereho njani?
 
 ##
-My mother and
-grandmother are busy.
-
-maama wange ni nguhu
+Maama wange ni nguhu
 bari bize.
 
 ##
-Who can I read to?
+Somereho njani?
 
 ##
-My father and
-grandfather are busy.
-
 Bbaaba wange ni
 sehulu bali bize.
 
 ##
-Who can I read to?
-I can read to myself!
-
 Nasomere njani?
 Nesomere samwene!
 
@@ -51,5 +34,3 @@ Nesomere samwene!
 * Illustration: Wiehan de Jager
 * Translation: Rose Alungho
 * Language: nuj
-
-Translated by Rose Alungho

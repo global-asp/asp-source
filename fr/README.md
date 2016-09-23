@@ -67,6 +67,7 @@ Story ID | Title | License
 0252 | [L’arbre qui sauva le village d’Ombalantu](http://my.africanstorybook.org/stories/l%E2%80%99arbre-qui-sauva-le-village-d%E2%80%99ombalantu-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0260 | [Le garçon que personne n’aimait](http://my.africanstorybook.org/stories/le-gar%C3%A7on-que-personne-n%E2%80%99aimait) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0261 | [Les fruits](http://my.africanstorybook.org/stories/les-fruits) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0262 | [Magozwe](http://my.africanstorybook.org/stories/magozwe-2) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0265 | [Raconte-moi… maintenant ! Heureux et triste](http://my.africanstorybook.org/stories/raconte-moi%E2%80%A6-maintenant-heureux-et-triste) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0272 | [Les baguettes du lion](http://my.africanstorybook.org/stories/les-baguettes-du-lion) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0273 | [Le sourire de Sizwe](http://my.africanstorybook.org/stories/le-sourire-de-sizwe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

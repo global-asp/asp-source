@@ -41,7 +41,7 @@ Ra tshelana ka metsi.
 Go se kae ke fa re tletse metsi.
 
 ##
-?“A re thumeng, Mme a ka se
+“A re thumeng, Mme a ka se
 itse,” Mpho a rialo.
 Re ile ra thuma ra ba ra lebala
 ka nako.

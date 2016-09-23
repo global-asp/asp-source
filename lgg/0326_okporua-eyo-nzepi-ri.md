@@ -38,12 +38,7 @@ Oku nde omvi kini, “Eri ma ru
 Okporua eyo nzepi ri.”
 
 ##
-Zamva di edo di ongo ngo
-dinile:?ma ru ovuni okporua eyo
-nzepi ri ku?ma ru kaamungei I?Ee!
-Ma andri ma ni lele ri?Ee! Ma ati ma
-ni lele ri ?Ee! Ma zukulu ma ni ayu
-lesu mvuzu ri.
+Zamva di edo di ongo ngo dinile:ma ru ovuni okporua eyo nzepi ri kuma ru kaamungei IEe! Ma andri ma ni lele riEe! Ma ati ma ni lele ri Ee! Ma zukulu ma ni ayu lesu mvuzu ri.
 
 ##
 Agupi di ka mu e'yo zamva dini ngo

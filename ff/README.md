@@ -4,7 +4,7 @@ Story ID | Title | License
 -------- | ----- | -------
 0001 | [Gorko mawnuɗo sanne](http://my.africanstorybook.org/stories/gorko-mawnuɗo-sanne) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0019 | [Arannde am juuraade luumo](http://my.africanstorybook.org/stories/arannde-am-juuraade-luumo-1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0059 | [Daago nyeenyungo  ngo Rakiya](http://my.africanstorybook.org/stories/daago-nyeenyungo-ngo-rakiya-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0059 | [Daago nyeenyungo ngo Rakiya](http://my.africanstorybook.org/stories/daago-nyeenyungo-ngo-rakiya-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0078 | [Haayndeeji ɗi nagge](http://my.africanstorybook.org/stories/haayndeeji-ɗi-nagge-0) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0118 | [Safiya e guuturuuwa](http://my.africanstorybook.org/stories/safiya-e-guuturuuwa) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0123 | [En njaha!](http://my.africanstorybook.org/stories/en-njaha) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)

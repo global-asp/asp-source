@@ -1,36 +1,29 @@
 # Abaseere babiri abayala
 
 ##
-Benya ni Tabo
-nj'abaseere ababiri
-abayala.
+Benya ni Tabo nj'abaseere ababiri abayala.
 
 ##
-Nguhwa yaabwe ali
-hunyiiya keeki.
+Nguhwa yaabwe ali hunyiiya keeki.
+
 Ali hujita hu saani.
 
 ##
-Benya abuguuye keeki
-ndala. ??
-Tabo niye abuguuye
-keeki ebiri.
+Benya abuguuye keeki ndala.
+
+Tabo niye abuguuye keeki ebiri.
 
 ##
-Benya abuguuye keeki
-ene.
-Tabo niye abuguuye
-keeki ebiri.
+Benya abuguuye keeki ene.
+
+Tabo niye abuguuye keeki ebiri.
 
 ##
-Benya galya keeki
-jinga?
-?
+Benya galya keeki jinga?
+
 Tabo galya keeki jinga?
-?
-Nguhwa yaabwe
-bamuleheraŋo Keeki
-jinga?
+
+Nguhwa yaabwe bamuleheraŋo Keeki jinga?
 
 ##
 * License: [CC-BY-NC]

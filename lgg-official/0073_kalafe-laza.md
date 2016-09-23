@@ -1,32 +1,28 @@
 # Kàlàfé Làzà
 
 ##
-Èwá àl? mu yí mvú.
+Èwá àlʉ mu yí mvú.
 
 ##
 Òndéré ìrì mú yí mvú.
 
 ##
-Òdrú na àr?́á s? be. Y? dríá
-mu yí mvur?á.
+Kàlàfé Làzà Òdrú na àrɨ́á sʉ be. Yɨ dríá mu yí mvurɨá.
 
 ##
-Yéré tòwí àz?́n? èzò áz?́á y?̀
-m? yí mvùr?́á.
+Yéré tòwí àzɨ́nɨ èzò ázɨ́á yɨ̀ mʉ yí mvùrɨ́á.
 
 ##
-Odrúkudrú ázírì àz?́n? è’b?́
-àrò y? yí ál?́á.
+Odrúkudrú ázírì àzɨ́nɨ è’bɨ́ àrò yɨ yí álɨ́á.
 
 ##
-B?́ré óròm?̀ y?̀ mu yí mvur?á.
+Bʉ́ré óròmɨ̀ yɨ̀ mu yí mvurɨá.
 
 ##
-Kàmì àl? amú yí mvur?á.
+Kàmì àlʉ amú yí mvurɨá.
 
 ##
-À`d? mà ásí mba muz?́ yí
-mvuzà be drìlé rá n?̀ yà?
+À`dɨ mà ásí mba muzʉ́ yí mvuzà be drìlé rá nɨ̀ yà?
 
 ##
 * License: [CC-BY-NC]

@@ -1,51 +1,40 @@
 # Raconte-moi… maintenant ! Heureux et triste
 
 ##
-Pourquoi le bébé
-pleure-t-il ?
+Pourquoi le bébé pleure-t-il ?
 
 ##
 Je pense qu’elle a faim.
 
 ##
-Pourquoi le garçon est-il
-triste ?
+Pourquoi le garçon est-il triste ?
 
 ##
-Je pense que son père
-lui manque.
+Je pense que son père lui manque.
 
 ##
-Pourquoi la fille est-elle
-heureuse ?
+Pourquoi la fille est-elle heureuse ?
 
 ##
-Elle a une nouvelle
-robe.
+Elle a une nouvelle robe.
 
 ##
-Pourquoi le vieil homme
-rit-il ?
+Pourquoi le vieil homme rit-il ?
 
 ##
-Il a lu une bonne
-blague.
+Il a lu une bonne blague.
 
 ##
-Pourquoi la dame
-sourit-elle ?
+Pourquoi la dame sourit-elle ?
 
 ##
-Ses enfants lisent
-tranquillement.
+Ses enfants lisent tranquillement.
 
 ##
-Que ressent cette dame
-?
+Que ressent cette dame ?
 
 ##
-Je pense qu’elle est
-timide.
+Je pense qu’elle est timide.
 
 ##
 * License: [CC-BY]

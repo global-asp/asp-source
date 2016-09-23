@@ -32,6 +32,7 @@ Story ID | Title | License
 0242 | [UNdlovu namaSele](http://my.africanstorybook.org/stories/undlovu-namasele) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0250 | [Danger of abandoning a mother](http://my.africanstorybook.org/stories/danger-abandoning-mother-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0251 | [uNonkungu nembulu](http://my.africanstorybook.org/stories/unonkungu-nembulu-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0262 | [UMagozwe](http://my.africanstorybook.org/stories/umagozwe) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0265 | [Ndixelele... ngoku! Wonwabile kwaye uqumbile](http://my.africanstorybook.org/stories/ndixelele-ngoku-wonwabile-kwaye-uqumbile) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0266 | [Ubhanti no Bhabli](http://my.africanstorybook.org/stories/ubhanti-no-bhabli) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0277 | [Abahlobo](http://my.africanstorybook.org/stories/abahlobo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

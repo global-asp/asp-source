@@ -1,8 +1,7 @@
 # Ninapenda kusoma
 
 ##
-Mimi ninapenda
-kusoma.
+Mimi ninapenda kusoma.
 
 ##
 Nitamsomea nani?
@@ -20,14 +19,11 @@ Mama na bibi wanapika.
 Nani nitamsomea?
 
 ##
-Baba na mjomba
-wanarekebisha gari.
+Baba na mjomba wanarekebisha gari.
 
 ##
 Nitamsomea nani?
-Naweza kutulia
-nakukifurahia kitabu
-mimi mwenyewe!
+Naweza kutulia nakukifurahia kitabu mimi mwenyewe!
 
 ##
 * License: [CC-BY]

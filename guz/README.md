@@ -17,7 +17,7 @@ Story ID | Title | License
 0294 | [Amatoke A’baba](http://my.africanstorybook.org/stories/amatoke-a’baba) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0322 | [Omokubio oyomo Orenge gosamba mono](http://my.africanstorybook.org/stories/omokubio-oyomo-orenge-gosamba-mono) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0326 | [Omoguko Ogokwana](http://my.africanstorybook.org/stories/omoguko-ogokwana) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0337 | [Abana?ba’mana](http://my.africanstorybook.org/stories/abana%0Bba%E2%80%99mana) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0337 | [Abanaba’mana](http://my.africanstorybook.org/stories/abana%0Bba%E2%80%99mana) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0339 | [Ebikoroto Ebiyia](http://my.africanstorybook.org/stories/ebikoroto-ebiyia) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0340 | [Okoba Okoyia Okuya](http://my.africanstorybook.org/stories/okoba-okoyia-okuya-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0345 | [Omogano O’Khayanga Nekerandi kiaye](http://my.africanstorybook.org/stories/omogano-o’khayanga-nekerandi-kiaye) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
