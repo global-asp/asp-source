@@ -28,7 +28,7 @@ Story ID | Title | License
 0024 | [The Sick Hyena](http://my.africanstorybook.org/stories/sick-hyena) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0025 | [Stealing](http://my.africanstorybook.org/stories/stealing) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0026 | [Imagine](http://my.africanstorybook.org/stories/imagine-0) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
-0027 | [Rain drop](http://my.africanstorybook.org/stories/rain-drop) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0027 | [Decision](http://my.africanstorybook.org/stories/decision) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0028 | [The Race](http://my.africanstorybook.org/stories/race) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0029 | [Sniffles the crocodile and Punch the butterfly](http://my.africanstorybook.org/stories/sniffles-crocodile-and-punch-butterfly) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0030 | [Feelings](http://my.africanstorybook.org/stories/feelings) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)

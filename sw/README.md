@@ -13,6 +13,7 @@ Story ID | Title | License
 0016 | [Rafiki yangu Coco](http://my.africanstorybook.org/stories/rafiki-yangu-coco) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0018 | [Kwa nini Yayeri ni mashuhuri?](http://my.africanstorybook.org/stories/kwa-nini-yayeri-ni-mashuhuri) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0019 | [My first day at the market](http://my.africanstorybook.org/stories/my-first-day-market) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0027 | [Uamuzi](http://my.africanstorybook.org/stories/uamuzi) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0029 | [Sniffles Mamba na Punch Kipepeo](http://my.africanstorybook.org/stories/sniffles-mamba-na-punch-kipepeo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0031 | [Kisirusiru, mjinga](http://my.africanstorybook.org/stories/kisirusiru-mjinga) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0037 | [Mfalme wa Ndege](http://my.africanstorybook.org/stories/mfalme-wa-ndege) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
