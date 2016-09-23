@@ -41,6 +41,7 @@ Story ID | Title | License
 0262 | [Magozwe](http://my.africanstorybook.org/stories/magozwe-5) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0264 | [Makwalo](http://my.africanstorybook.org/stories/makwalo) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0281 | [Tshoswane o thusa Leeba](http://my.africanstorybook.org/stories/tshoswane-o-thusa-leeba) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0288 | [Montshiwa o abelana ka maoto](http://my.africanstorybook.org/stories/montshiwa-o-abelana-ka-maoto) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0293 | [Ke a rata](http://my.africanstorybook.org/stories/ke-rata) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0297 | [Mosadi wa setlhare](http://my.africanstorybook.org/stories/mosadi-wa-setlhare) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0303 | [Dineo](http://my.africanstorybook.org/stories/dineo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

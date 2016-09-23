@@ -82,7 +82,3 @@ bamanya okhukhola.
 * Illustration: Wiehan de Jager
 * Translation: Catherine Were
 * Language: lwg
-
-See another version of this story at
-www.historyforkids.org/learn/Africa/
-literature/anansi.htm

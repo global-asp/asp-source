@@ -46,6 +46,7 @@ Story ID | Title | License
 0262 | [UMagozwe](http://my.africanstorybook.org/stories/umagozwe-0) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0265 | [Ukujabula nokuphatheka kabi](http://my.africanstorybook.org/stories/ukujabula-nokuphatheka-kabi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0281 | [Wamphephisa kanjani uTsheketshe uJuba](http://my.africanstorybook.org/stories/wamphephisa-kanjani-utsheketshe-ujuba) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0288 | [UMaguru uphisana ngemilenze](http://my.africanstorybook.org/stories/umaguru-uphisana-ngemilenze) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0289 | [uAnansi neNqe](http://my.africanstorybook.org/stories/uanansi-nenqe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0297 | [Unkosikazi oyisihlahla](http://my.africanstorybook.org/stories/unkosikazi-oyisihlahla) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0299 | [UFudu uthola indlu yakhe](http://my.africanstorybook.org/stories/ufudu-uthola-indlu-yakhe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

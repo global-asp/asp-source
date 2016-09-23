@@ -29,7 +29,6 @@ Story ID | Title | License
 0237 | [Nonike ou](http://my.africanstorybook.org/stories/nonike-ou) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0241 | [Mbanga](http://my.africanstorybook.org/stories/mbanga) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0244 | [Mwĩĩtu ῦla Waĩna Nondo ĩmwe](http://my.africanstorybook.org/stories/mwĩĩtu-ῦla-waĩna-nondo-ĩmwe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0251 | [Nokũngũ na Yalyũka](http://my.africanstorybook.org/stories/nokũngũ-na-yalyũka-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0251 | [Nokũngũ na Yalyũka](http://my.africanstorybook.org/stories/nokũngũ-na-yalyũka) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0264 | [Valua](http://my.africanstorybook.org/stories/valua) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0265 | [Ndavye... oyu! Utanu na Kimako](http://my.africanstorybook.org/stories/ndavye...-oyu-utanu-na-kimako) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

@@ -289,7 +289,7 @@ Story ID | Title | License
 0285 | [Serious accident](http://my.africanstorybook.org/stories/serious-accident) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0286 | [Swimming](http://my.africanstorybook.org/stories/swimming) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0287 | [Mr Fly and Mr Big Head](http://my.africanstorybook.org/stories/mr-fly-and-mr-big-head) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0288 | [Angel the lucky girl](http://my.africanstorybook.org/stories/angel-lucky-girl) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0288 | [Maguru gives out legs](http://my.africanstorybook.org/stories/maguru-gives-out-legs) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0289 | [Anansi and Vulture](http://my.africanstorybook.org/stories/anansi-and-vulture) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0290 | [The hours and minutes in Ismail's day](http://my.africanstorybook.org/stories/hours-and-minutes-%0B-ismail%E2%80%99s-day-1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0291 | [What Vusi's sister said](http://my.africanstorybook.org/stories/what-vusis-sister-said) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

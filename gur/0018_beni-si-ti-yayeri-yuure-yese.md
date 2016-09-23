@@ -95,7 +95,3 @@ dεna nεrekakε?"
 * Illustration: Vusi Malindi
 * Translation: Samuel Awinkene Atintono
 * Language: gur
-
-Michael Oguttu pa'asε la Uganda
-tiŋa gɔŋɔ kaalegɔ tigere weŋɔ la
-puan: http://ugcla.org

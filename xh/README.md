@@ -39,6 +39,7 @@ Story ID | Title | License
 0280 | [Kutheni Isele Lilibi?](http://my.africanstorybook.org/stories/kutheni-isele-lilibi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0281 | [Indlela imbovane eyalihlangula ngayo ihobe](http://my.africanstorybook.org/stories/indlela-imbovane-eyalihlangula-ngayo-ihobe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0285 | [Ingozi Embi](http://my.africanstorybook.org/stories/ingozi-embi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0288 | [UMaguru uphisa ngemilenze](http://my.africanstorybook.org/stories/umaguru-uphisa-ngemilenze) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0297 | [Inkosikazi eyenziwe ngomthi](http://my.africanstorybook.org/stories/inkosikazi-eyenziwe-ngomthi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0311 | [Ukudanisa](http://my.africanstorybook.org/stories/ukudanisa) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0313 | [Umbala Omdaka](http://my.africanstorybook.org/stories/umbala-omdaka-0) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)

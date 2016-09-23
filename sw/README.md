@@ -90,6 +90,7 @@ Story ID | Title | License
 0280 | [Sababu Chura kuwa na Sura Mbaya](http://my.africanstorybook.org/stories/sababu-chura-kuwa-na-sura-mbaya) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0281 | [Jinsi Siafu alimwokoa Njiwa](http://my.africanstorybook.org/stories/jinsi-siafu-alimwokoa-njiwa) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0285 | [Ajali mbaya](http://my.africanstorybook.org/stories/ajali-mbaya) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0288 | [Maguru apeana miguu](http://my.africanstorybook.org/stories/maguru-apeana-miguu) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0289 | [Anansi na Tai](http://my.africanstorybook.org/stories/anansi-na-tai) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0293 | [Ninafurahia](http://my.africanstorybook.org/stories/i-enjoyninafurahia) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0297 | [Mke Mti](http://my.africanstorybook.org/stories/mke-mti) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

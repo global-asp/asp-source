@@ -49,7 +49,3 @@ o sì gbé ní igbó
 * Illustration: Catherine Groenewald
 * Translation: Taiwo Ẹhinẹni
 * Language: yo
-
-A gbé Ìtàn yìí jáde nípasẹ̀ àwọn ọmọ
-ẹgbẹ́ ilé-ìkàwé fún agbègbè tí
-Uganda: http://ugcla.org.

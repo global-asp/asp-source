@@ -5,7 +5,6 @@ Story ID | Title | License
 0003 | [Tsingubo tsiomwisomero](http://my.africanstorybook.org/stories/tsingubo-tsiomwisomero) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0004 | [Imbusi, Imbwa nende Ing’ombe](http://my.africanstorybook.org/stories/imbusi-imbwa-nende-ing’ombe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0005 | [Anansi ne Likhutu](http://my.africanstorybook.org/stories/anansi-ne-likhutu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0006 | [Anansi nende Obuchesi](http://my.africanstorybook.org/stories/anansi-nende-obuchesi-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0006 | [Anansi nende Obuchesi](http://my.africanstorybook.org/stories/anansi-nende-obuchesi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0016 | [Omwitsa wanje Kulukulu](http://my.africanstorybook.org/stories/omwitsa-wanje-kulukulu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0030 | [Obuulili](http://my.africanstorybook.org/stories/obuulili) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
