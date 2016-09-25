@@ -43,6 +43,7 @@ ISO code | Language Name
 [kdj](https://github.com/global-asp/asp-source/tree/master/kdj) | Ngakarimojong
 [keo](https://github.com/global-asp/asp-source/tree/master/keo) | Kakwa
 [ki](https://github.com/global-asp/asp-source/tree/master/ki) | Gikuyu
+[kln](https://github.com/global-asp/asp-source/tree/master/kln) | Kalenjin
 [kpz](https://github.com/global-asp/asp-source/tree/master/kpz) | Sabinyi
 [kr](https://github.com/global-asp/asp-source/tree/master/kr) | Kanuri
 [laj](https://github.com/global-asp/asp-source/tree/master/laj) | Leblango
