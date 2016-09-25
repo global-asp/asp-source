@@ -13,7 +13,7 @@ Story ID | Title | License
 0068 | [Ameka?](http://my.africanstorybook.org/stories/ameka) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0073 | [Tubala Bazira](http://my.africanstorybook.org/stories/tubala-bazira) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0085 | [Igi lya mwandu](http://my.africanstorybook.org/stories/igi-lya-mwandu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0100 | [Jaaka omuvubi ](http://my.africanstorybook.org/stories/jaaka-omuvubi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0100 | [Jaaka omuvubi](http://my.africanstorybook.org/stories/jaaka-omuvubi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0112 | [Omubiri Gwange](http://my.africanstorybook.org/stories/omubiri-gwange-0) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0120 | [Nviiri](http://my.africanstorybook.org/stories/nviiri) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0129 | [Lwaki nkola zenka?](http://my.africanstorybook.org/stories/lwaki-nkola-zenka) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)

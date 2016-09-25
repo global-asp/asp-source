@@ -182,7 +182,3 @@ ta.
 * Illustration: Wiehan de Jager
 * Translation: Milton Eridad Shissa
 * Language: myx
-
-Read another version of this story
-at www.historyforkids.org/learn/
-Africa/literature/anansi.htm

@@ -245,7 +245,3 @@ intaka eyayibazisela imvula.
 * Illustration: Wiehan de Jager, Nalibali
 * Translation: Nal'ibali
 * Language: xh
-
-The text is reproduced with
-permission of Nal'ibali –
-www.nalibali.org

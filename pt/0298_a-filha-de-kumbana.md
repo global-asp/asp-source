@@ -82,5 +82,5 @@ novamente.
 * License: [CC-BY]
 * Text: Ingrid Schechter
 * Illustration: Razaque Lázaro Quive
-* Translation: Barbara Torres and Graça Rafael Dzucule
+* Translation: Barbara Torres, Graça Rafael Dzucule
 * Language: pt

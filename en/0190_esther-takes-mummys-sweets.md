@@ -15,7 +15,7 @@ know.
 ##
 Mummy sees the sweets are few
 but keeps quiet. Esther's friends
-come home while shouting: 
+come home while shouting:
 "Esther give us more sweets". That is
 when Mummy knows that Esther
 takes her sweets.

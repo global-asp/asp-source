@@ -144,7 +144,3 @@ zami.
 * Illustration: Louwrisa Blaauw
 * Translation: Mahlangu K.M, Ubisi T
 * Language: nr
-
-Ukuthola ilwazi elinengi ge Book
-Dash cala Iwebsiti elandelako
-:www.bookdash.org

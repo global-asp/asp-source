@@ -104,7 +104,7 @@ shi.
 
 ##
 * License: [CC-BY]
-* Text: Judith Baker and Lorato Trok
+* Text: Judith Baker, Lorato Trok
 * Illustration: Wiehan de Jager
 * Adaptation: Plan Niger - Projet NECS - Usaid, avec la contribution du Comité ASL
 * Language: ha

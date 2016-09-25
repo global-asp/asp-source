@@ -205,6 +205,3 @@ forêt pour nourrir l’oiseau de pluie.
 * Illustration: Wiehan de Jager, Nalibali
 * Translation: Nathalie Hecker, Translators without Borders
 * Language: fr
-
-Le texte est reproduit avec la
-permission de Nal’ibali www.nalibali.org

@@ -171,7 +171,3 @@ chisanduku chiemete.
 * Illustration: Wiehan de Jager
 * Translation: Dennis Ogaro Ondieki
 * Language: guz
-
-Read another version of this story
-at www.historyforkids.org/learn/
-Africa/literature/anansi.htm

@@ -37,7 +37,7 @@ o que elas dirão.
 
 ##
 * License: [CC-BY]
-* Text: Mary Nabire and Tessa Welch
+* Text: Mary Nabire, Tessa Welch
 * Illustration: Catherine Groenewald
 * Translation: Catarina Ribas
 * Language: pt

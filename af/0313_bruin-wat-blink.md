@@ -10,8 +10,7 @@ Geverfte, bruin leeu
 Sagte, bruin brood
 
 ##
-Smaaklike, bruin
-koekies
+Smaaklike, bruin koekies
 
 ##
 Ou bruin stewels
@@ -38,5 +37,5 @@ Wat is dit? A skoon gesig in die spiel.
 * License: [CC-BY-NC]
 * Text: Reviva Schermbrucker
 * Illustration: Sue Kramer
-* Translation: Patience and Hayley, Catherine
+* Translation: Patience, Hayley, Catherine
 * Language: af

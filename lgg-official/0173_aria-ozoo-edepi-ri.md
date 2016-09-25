@@ -177,7 +177,3 @@ nyaká fèzʉ àrɨ ́á ozoó ejípɨ rɨ ̀ drí.
 * Illustration: Wiehan de Jager, Nalibali
 * Translation: Dorothy Fetaru
 * Language: lgg-official
-
-The text is reproduced with
-permission of Nal’ibali –
-www.nalibali.org

@@ -91,5 +91,5 @@ macaco esperto!
 * License: [CC-BY]
 * Text: Mozambican folktale
 * Illustration: Amir Bachir António Necas
-* Adaptation: Catarina Ribas
+* Translation: Catarina Ribas
 * Language: pt

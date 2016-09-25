@@ -77,12 +77,5 @@ sua esperteza!
 * License: [CC-BY]
 * Text: Mozambican folktale
 * Illustration: Amir Bachir António Necas
-* Adaptation: Jorge Eusébio Eusébio
+* Translation: Jorge Eusébio Eusébio
 * Language: pt
-
-This story was written down in 2013
-by students at Universidade
-Pedagógica, Mozambique, from
-their memory of what was told at
-home, and edited by their English
-teacher, Ingrid Schechter.

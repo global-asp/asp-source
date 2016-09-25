@@ -120,5 +120,3 @@ birds.
 * Text: South African Folktale
 * Illustration: Wiehan de Jager
 * Language: en
-
-Adapted from a story in 'South African Folk-Tales', by James A. Honey, 1910.

@@ -113,5 +113,6 @@ nunca mais foi visitar o Leão.
 ##
 * License: [CC-BY]
 * Text: Francisco Escondido
-* Illustration: Claudio Molina and Hélder de Paz Alexandre
+* Illustration: Claudio Molina, Hélder de Paz Alexandre
+* Translation: Francisco Escondido
 * Language: pt

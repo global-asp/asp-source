@@ -163,5 +163,3 @@ only half an hour ago.'
 * Text: Joanne Bloch (retold folktale)
 * Illustration: Rebecca Riley, Nalibali
 * Language: en
-
-The text is reproduced with permission of Nal'ibali – www.nalibali.org

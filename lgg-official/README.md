@@ -17,7 +17,7 @@ Story ID | Title | License
 0067 | [Nyaká a’dɨ́zà](http://my.africanstorybook.org/stories/nyaká-a’dɨ́zà) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0073 | [Kàlàfé Làzà](http://my.africanstorybook.org/stories/kàlàfé-làzà-0) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0076 | [Àràkílíkò](http://my.africanstorybook.org/stories/àràkílíkò-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0078 | [Ídri  nyǎzà tí òkpó be rɨ nɨ rɨ](http://my.africanstorybook.org/stories/ídri-nyǎzà-tí-òkpó-be-rɨ-nɨ-rɨ) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
+0078 | [Ídri nyǎzà tí òkpó be rɨ nɨ rɨ](http://my.africanstorybook.org/stories/ídri-nyǎzà-tí-òkpó-be-rɨ-nɨ-rɨ) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0094 | [Èbǐo pǐ, gǎagǎa pɨe àzɨnɨ éyío pɨe](http://my.africanstorybook.org/stories/èbǐo-pǐ-gǎagǎ-pɨe-àzɨnɨ-éyío-pɨe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0107 | [Òbólókó pɨ ètú be](http://my.africanstorybook.org/stories/òbólókó-pɨ-ètú-be) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0111 | [Ròbí yɨ mà 'bɨ́ko yo à'dɨ e'yósɨ̀à rɨ̀](http://my.africanstorybook.org/stories/ròbí-yɨ-mà-bɨ́ko-yo-àdɨ-eyósɨ̀à-rɨ̀) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

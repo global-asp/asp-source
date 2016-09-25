@@ -1,4 +1,4 @@
-# HIYUBI OW’OGURYERYE
+# Hiyubi ow’oguryerye
 
 ##
 Hale ho mu hitehere hye
@@ -96,6 +96,3 @@ nanakuŋaye.
 * Illustration: Alex Zablon
 * Translation: Mubbalya Charles
 * Language: nuj
-
-TRANSLATED BY BUBAALI PRIMARY
-SCHOOL IN BUTALEJA DISTRICT

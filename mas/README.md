@@ -9,7 +9,7 @@ Story ID | Title | License
 0016 | [Olchoré láí ojî Coco](http://my.africanstorybook.org/stories/olchoré-láí-ojî-coco) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0030 | [Aníng](http://my.africanstorybook.org/stories/aníng) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0031 | [Olmódáí ojî Kisirusiru](http://my.africanstorybook.org/stories/olmódáí-ojî-kisirusiru) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0037 | [Olkínkí le oó Imotónyi ](http://my.africanstorybook.org/stories/olkínkí-le-oó-imotónyi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0037 | [Olkínkí le oó Imotónyi](http://my.africanstorybook.org/stories/olkínkí-le-oó-imotónyi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0039 | [Olée le dukúya](http://my.africanstorybook.org/stories/olée-le-dukúya) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0059 | [Esôs é Akai](http://my.africanstorybook.org/stories/esôs-é-akai) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0066 | [Nozibele ó ilpápít okúni](http://my.africanstorybook.org/stories/nozibele-ó-ilpápít-okúni) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

@@ -13,7 +13,7 @@ owino market, taxi park, play ground,
 petrol station, mukwano arcade.
 
 ##
-A drive in kampala, 
+A drive in kampala,
 what do you see?
 very tall buildings, very many cars of different
 types.

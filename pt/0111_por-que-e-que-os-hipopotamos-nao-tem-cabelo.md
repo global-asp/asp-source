@@ -63,7 +63,7 @@ O Coelho ficou muito feliz quando a Hipopótama foi queimada pelo fogo, dizendo:
 
 ##
 * License: [CC-BY]
-* Text: Basilio Gimo and David Ker
+* Text: Basilio Gimo, David Ker
 * Illustration: Carol Liddiment
 * Translation: Little Zebra Books
 * Language: pt

@@ -1,31 +1,28 @@
-# BONA ESOLO
+# Bona esolo
 
 ##
-Bona Esolo
+Bona esolo.
 
 ##
-Eŋombe yimoola yiiti
-‘’moo’’
+Eŋombe yimoola yiiti "moo."
 
 ##
-Embusi yimeela
-yiiti,mee,mee
+Embusi yimeela yiiti, "mee, mee."
 
 ##
-Embalasi yirira yiiti
-‘’Neyi
+Embalasi yirira yiiti, "neyi."
 
 ##
-omulimi aloma ati shhh
+Embiji elira yiiti, "bo, bo."
 
 ##
+Engoho eholyoha yiiti, "kokolyoko."
 
 ##
-Embwa yisama yiiti
-‘’bbwe’’
+Embwa yisama yiiti, "bbwe."
 
 ##
-omulimi aloma ati shhh
+Omulimi aloma ati, "shhh."
 
 ##
 * License: [CC-BY-NC]

@@ -26,7 +26,7 @@ Ṣ é ó wà ní'ta gbangba?
 
 ##
 * License: [CC-BY-NC]
-* Text: Clare Verbeek, Thembani Dladla and Zanele Buthelezi
+* Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Bronwen Heath
 * Translation: Morayo Akinkugbe
 * Language: yo

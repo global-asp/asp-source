@@ -1,20 +1,16 @@
-# ABEEBI B’EMIYEMBE
+# Abeebi b’emiyembe
 
 ##
-Ebiseera ebyaahale, yaaliyo
-otuseere tune.
+Ebiseera ebyaahale, yaaliyo otuseere tune.
 
 ##
-Twasomeranga hu Kaguja primary
-school.
+Twasomeranga hu Kaguja primary school.
 
 ##
-Otuseere twatinanga hu somero nitutaliyeho maŋolu
-gosi .
+Otuseere twatinanga hu somero nitutaliyeho maŋolu gosi.
 
 ##
-Tweŋongereranga mu hibiina
-olw’enjala.
+Tweŋongereranga mu hibiina olw’enjala.
 
 ##
 Lula tweyibire mu somero ohuheja eby’ohulya .
@@ -23,10 +19,7 @@ Lula tweyibire mu somero ohuheja eby’ohulya .
 Nitwasomohire hula twagwirihirira oguyembe oguleremayeho emiyembe emirabire.
 
 ##
-Otuseere twadulumire twoola hu
-musaala twanoga
-emiyembe,twamwenyera era
-twatagiha ohujirya.
+Otuseere twadulumire twoola hu musaala twanoga emiyembe, twamwenyera era twatagiha ohujirya.
 
 ##
 Omanyire ehi tuseere tuno twebirira?
@@ -35,22 +28,16 @@ Omanyire ehi tuseere tuno twebirira?
 Tuba ko tulya omweene miyembe nga aŋwayo naŋaala... huŋaala.
 
 ##
-Otuseere twali
-situmubona.Nigahabuha,twafulumuha
-twatiina twehweeha.
+Otuseere twali situmubona. Nigahabuha, twafulumuha twatiina twehweeha.
 
 ##
-Hiisi halala sihehirisanga hahye huholola,huloma oba
-huhayaana.
+Hiisi halala sihehirisanga hahye huholola, huloma oba huhayaana.
 
 ##
-Omweene miyembe gawene atyo
-nga ahubba endulu ejaleeta abaapi
-n’abaleeŋi.
+Omweene miyembe gawene atyo nga ahubba endulu ejaleeta abaapi n’abaleeŋi.
 
 ##
-Otuseere tuno batuŋambire era baatuŋira hu somero Balanga abasaaye b’otwibi
-,abasomesa ko n’abegi bahyawe ohuhumbaana.. Ehyaali ŋala hyaali hirulu.
+Otuseere tuno batuŋambire era baatuŋira hu somero Balanga abasaaye b’otwibi, abasomesa ko n’abegi bahyawe ohuhumbaana. Ehyaali ŋala hyaali hirulu.
 
 ##
 * License: [CC-BY]

@@ -9,7 +9,7 @@ Ròbí nɨ dè vɨ́nɨ 'dǎ cɨ́, acírɨá è'yere èrɨ́bí àrǒpɨ pkàc�
 ##
 Ròbí awɨ́nɨ́ Ètóó nɨ 'dǎ cɨ́ yàrɨ̀ ně kʉ ànɨ́ drìléònzɨ́ sɨ̀ 'bà 'ɨ́mà pá Ètóó mà pá drìá.
 
-Ètóó tre rɨɨ díká e'dó tré ròbí mà drìá kɨ́nɨ̀ “Mɨ 'ɨ́ Ròbí! 
+Ètóó tre rɨɨ díká e'dó tré ròbí mà drìá kɨ́nɨ̀ “Mɨ 'ɨ́ Ròbí!
 
 Mɨ́ ecó nɨ́ ně kɨ́nɨ̀ 'ɨ́'bà mɨ̂ pá mâ pá drìá rɨ̀ kʉʉ́?”
 

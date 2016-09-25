@@ -97,7 +97,6 @@ e o macaco são
 inimigos!
 
 ##
-O Macaco que Comeu a sua Própria Cauda
 * License: [CC-BY]
 * Text: Mozambican folktale
 * Illustration: Horácio José Cossa

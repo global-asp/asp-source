@@ -134,12 +134,12 @@ Et elle ne me l’a pas donné sans raison non plus. Elle me l’a donné
 pour que j’aie le prix de la fiancée.»
 
 ##
-La famille de la mariée lui dit alors 
+La famille de la mariée lui dit alors
 « Il ne nous reste rien pour te payer.
 Mais nous pouvons te donner la
 mariée en échange. »
 Depuis cette histoire, les hommes
-se transmettent le dicton suivant : 
+se transmettent le dicton suivant :
 « Tout bienfait sera rendu » !
 
 ##
