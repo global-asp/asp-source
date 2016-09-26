@@ -4,51 +4,40 @@
 This is Ndalo.
 
 ##
-Ndalo likes to read
-books.
+Ndalo likes to read books.
 
 ##
 This is Pendo.
 
 ##
-Pendo likes to eat
-carrots.
+Pendo likes to eat carrots.
 
 ##
-Ndalo grazes Pendo
-after school.
+Ndalo grazes Pendo after school.
 
 ##
-He gives fresh water to
-Pendo.
+He gives fresh water to Pendo.
 
 ##
-Father gives grain to
-Pendo.
+Father gives grain to Pendo.
 
 ##
-He milks Pendo every
-day.
+He milks Pendo every day.
 
 ##
-Pendo gives a lot of
-milk.
+Pendo gives a lot of milk.
 
 ##
-Father sells Pendo's
-milk.
+Father sells Pendo's milk.
 
 ##
-Father also gives fresh
-milk to Ndalo.
+Ndalo drinks fresh milk every day.
 
 ##
-Ndalo says, "Thank you
-Pendo!"
+He says, "Thank you Pendo!"
 
 ##
 * License: [CC-BY]
 * Text: Ruth Odondi
 * Illustration: Rob Owen
-* Adaptation: Ruth Odondi
 * Language: en

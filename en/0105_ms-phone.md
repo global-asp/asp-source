@@ -44,5 +44,4 @@ That is Ms Phone and her five cellphones.
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Marion Drew
-* Translation: Ursula Nafula
 * Language: en

@@ -1,50 +1,40 @@
 # Aite nabe Pendo
 
 ##
-Erai itwan en Ndalo
+Erai itwan en Ndalo.
 
 ##
-Emina Ndalo akisomare
-ng’abukio.
+Emina Ndalo akisomare ng’abukio.
 
 ##
 Pendo aite naga.
 
 ##
-Emina Pendo adaka
-ng’akarotio.
+Emina Pendo adaka ng’akarotio.
 
 ##
-Iyokiyene Ndalo Pendo,
-na ebong’unio alosukul.
+Iyokiyene Ndalo Pendo, na ebong’unio alosukul.
 
 ##
-Itamaseeneo Pendo
-ng’akipi naajokak.
+Itamaseeneo Pendo ng’akipi naajokak.
 
 ##
-Isumujeene apa Pendo
-ng’ibeku.
+Isumujeene apa Pendo ng’ibeku.
 
 ##
-Elepeene ng’esi Pendo
-ng’irwa daang.
+Elepeene ng’esi Pendo ng’irwa daang.
 
 ##
-Elepuuniyo Pendo
-ng’akile nakaalak.
+Elepuuniyo Pendo ng’akile nakaalak.
 
 ##
-Egielanari apa ng’akile
-na Pendo.
+Egielanari apa ng’akile na Pendo.
 
 ##
-Emaseene Ndalo
-ng’akile ng’irwa daang.
+Emaseene Ndalo ng’akile ng’irwa daang.
 
 ##
-Elimuni ng’esi tama,”
-Ejok noi Pendo!”
+Elimuni ng’esi tama, "Ejok noi Pendo!”
 
 ##
 * License: [CC-BY]
@@ -52,6 +42,3 @@ Ejok noi Pendo!”
 * Illustration: Rob Owen
 * Translation: Lolupe teachers
 * Language: tuv
-
-Erai aite ibarasit ni eminae.Imina
-iyong aite a?

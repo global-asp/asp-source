@@ -2,6 +2,7 @@
 
 Story ID | Title | License
 -------- | ----- | -------
+0051 | [የዲያብሎስ ነጠላ](http://my.africanstorybook.org/stories/%E1%8B%A8%E1%8B%B2%E1%8B%AB%E1%89%A5%E1%88%8E%E1%88%B5-%E1%8A%90%E1%8C%A0%E1%88%8B) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0068 | [ስንት](http://my.africanstorybook.org/stories/ስንት) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0088 | [ታዳጊው አበራ](http://my.africanstorybook.org/stories/ታዳጊው-አበራ) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0121 | [ገንፎ](http://my.africanstorybook.org/stories/%E1%8C%88%E1%8A%95%E1%8D%8E) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

@@ -40,7 +40,7 @@ Story ID | Title | License
 0215 | [Difitlholo](http://my.africanstorybook.org/stories/difitlholo) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0220 | [Motlhokomedi le serapa sa gagwe se se kgethegileng](http://my.africanstorybook.org/stories/motlhokomedi-le-serapa-sa-gagwe-se-se-kgethegileng) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0231 | [Buka ya maemo a bosa](http://my.africanstorybook.org/stories/buka-ya-maemo-bosa) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
-0237 | [Ke kgona go dira se](http://my.africanstorybook.org/stories/ke-kgona-go-dira-se) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
+0237 | [Dikotara tsa ga Rre Mkhize](http://my.africanstorybook.org/stories/dikotara-tsa-ga-rre-mkhize) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0241 | [Kotsi](http://my.africanstorybook.org/stories/kotsi-0) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0247 | [Motshelanosi](http://my.africanstorybook.org/stories/motshelanosi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0262 | [Magozwe](http://my.africanstorybook.org/stories/magozwe-5) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)

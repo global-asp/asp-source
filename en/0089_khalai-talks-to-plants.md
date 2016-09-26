@@ -64,5 +64,4 @@ orange for me!”
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Jesse Pietersen
-* Translation: Ursula Nafula
 * Language: en

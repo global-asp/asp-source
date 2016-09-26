@@ -84,7 +84,3 @@ bal uit die doelhok te hou.
 * Illustration: Benard Agasi
 * Translation: Annerijke Claassen
 * Language: af
-
-This text was written and illustrated
-by a student teacher at Arua PTC,
-Uganda.

@@ -19,6 +19,7 @@ Story ID | Title | License
 0247 | [Beyihlala yodwa](http://my.africanstorybook.org/stories/beyihlala-yodwa) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0257 | [Imibala yemushi wenkhosatane](http://my.africanstorybook.org/stories/imibala-yemushi-wenkhosatane) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0261 | [Sitselo](http://my.africanstorybook.org/stories/sitselo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0296 | [Themba umtsengisi wabhanana](http://my.africanstorybook.org/stories/themba-umtsengisi-wabhanana) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0303 | [Namukhaywa](http://my.africanstorybook.org/stories/namukhaywa-10) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0322 | [Ngelusuku lwekushisa kakhulu kwelilanga ngengcibelo ntsambama](http://my.africanstorybook.org/stories/ngelusuku-lwekushisa-kakhulu-kwelilanga-ngengcibelo-ntsambama) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0332 | [Libhubesi nengulube yesiganga](http://my.africanstorybook.org/stories/libhubesi-nengulube-yesiganga) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

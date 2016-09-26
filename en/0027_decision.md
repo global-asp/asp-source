@@ -56,5 +56,4 @@ From that day we worked together to solve our problems.
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Vusi Malindi
-* Translation: Ursula Nafula
 * Language: en

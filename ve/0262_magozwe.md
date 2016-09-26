@@ -25,7 +25,7 @@ Zwifanyiso zwo amba nganea ya muthannga o hulaho a vha mufhufhuisa mabufho.
 Magozwe o vha na dzangalelo la u fhufhisa mabufho. Tshinwe tshifhinga, o di humbula sa muthanga ane a vha kha nganea.
 
 ##
-Ho vha hu tshi khou rothala Magozwe o vha o ima tshitaratani a tshi khou humbela. Munna o ya khae. “Ndaa, ndi nne Thomas. Ndi shuma tsini na fhano, fhethu hune wanga wana zwiliwa, ha amba munna. 
+Ho vha hu tshi khou rothala Magozwe o vha o ima tshitaratani a tshi khou humbela. Munna o ya khae. “Ndaa, ndi nne Thomas. Ndi shuma tsini na fhano, fhethu hune wanga wana zwiliwa, ha amba munna.
 
 Vha sumba nndu ya ṱaḓa i re na thanga ya lutombo, “Ndi a kholwa u do ya fhala u wana zwiliwa?” a vhudzisa .Magozwe a sedza munna, na nndu.” Thamusi,” a ralo, a mbo di tuwa.
 
@@ -46,7 +46,7 @@ Magozwe o vha o dzula kha guvha a tshi khou sedza bugu yawe ya zwifhanyiso musi 
 ##
 Musi vha tshi tangana, Magozwe a thoma u amba nga nganea yawe kha Thomas. Yo vha mafhungo a malume wawe na uri mulandu wawe o shavha.
 
-Thomas ha ngo amba nga maanda, fhedzi a si vhudze Magozwe uri a ite mini, a dzula a tshi khou thetshelesa zwavhudi. Tshinwe tshifhinga vha ḓo amba vha tshi khou ḽa nḓunai ine ya vha na thanga ya lutombo. 
+Thomas ha ngo amba nga maanda, fhedzi a si vhudze Magozwe uri a ite mini, a dzula a tshi khou thetshelesa zwavhudi. Tshinwe tshifhinga vha ḓo amba vha tshi khou ḽa nḓunai ine ya vha na thanga ya lutombo.
 
 ##
 Tshifhinga tshe Magozwe a vha ena minwaha ya fumi. Thomas o mufha bugu ntswa ya nganae. Yo vha i tshi khou amba nga muthannga wa mahayani wea hula a vha mutambi wa bola.

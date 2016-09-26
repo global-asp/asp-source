@@ -11,6 +11,7 @@ Story ID | Title | License
 0135 | [O Macaco que Comeu a sua Própria Cauda](http://my.africanstorybook.org/stories/o-macaco-que-comeu-sua-própria-cauda) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0189 | [As cores do arco-íris](http://my.africanstorybook.org/stories/cores-do-arco-%C3%ADris) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0210 | [Tingi e os Bois](http://my.africanstorybook.org/stories/tingi-e-os-bois) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0216 | [O dia que o Sol foi embora](http://my.africanstorybook.org/stories/o-dia-que-o-sol-foi-embora) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0217 | [A minha professora](http://my.africanstorybook.org/stories/minha-professora) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0224 | [A Dança do Cabrito](http://my.africanstorybook.org/stories/dança-do-cabrito) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0233 | [O Coelho Vai a Festa](http://my.africanstorybook.org/stories/o-coelho-vai-festa) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
@@ -21,4 +22,5 @@ Story ID | Title | License
 0298 | [A Filha de Kumbana](http://my.africanstorybook.org/stories/filha-de-kumbana) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0311 | [Dançando](http://my.africanstorybook.org/stories/dançando) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0347 | [O Macaco e o Crocodilo](http://my.africanstorybook.org/stories/o-macaco-e-o-crocodilo) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0349 | [Mod, a Sapa](http://my.africanstorybook.org/stories/mod-sapa) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0361 | [O Homem e o Leão](http://my.africanstorybook.org/stories/o-homem-e-o-leão) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)

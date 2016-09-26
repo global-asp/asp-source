@@ -30,7 +30,7 @@ Mme Téléphone aime que les gens soient heureux. Elle n'aime pas qu'on se batte
 Elle laisse les enfants regarder la télévision dans son magasin.
 
 ##
-Elle rend visite aux malades et aux personnes âgées, chez eux.	
+Elle rend visite aux malades et aux personnes âgées, chez eux.
 
 ##
 Quand elle passe, on entend : « Mme Téléphone ! Mme Téléphone ! »

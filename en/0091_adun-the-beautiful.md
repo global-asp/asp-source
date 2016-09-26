@@ -93,9 +93,4 @@ And Adun ran away.
 * License: [CC-BY]
 * Text: Taiwo Ẹhinẹni
 * Illustration: Wiehan de Jager
-* Translation: Taiwo Ẹhinẹni
 * Language: en
-
-This story is based on a childhood
-folktale among the Yorùbá people of
-Nigeria.

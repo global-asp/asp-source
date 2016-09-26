@@ -6,5 +6,6 @@ Story ID | Title | License
 0078 | [Ibikorwa by&#039;inka idasanzwe](http://my.africanstorybook.org/stories/ibikorwa-byinka-idasanzwe) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
 0105 | [Nyiramaterefone](http://my.africanstorybook.org/stories/nyiramaterefone) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0154 | [Inkende n&#039;umugore w&#039;umuhigi](http://my.africanstorybook.org/stories/inkende-numugore-wumuhigi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0216 | [Umunsi Izuba ryigendeye](http://my.africanstorybook.org/stories/umunsi-izuba-ryigendeye) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0288 | [Maguru atanga amaguru](http://my.africanstorybook.org/stories/maguru-atanga-amaguru) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0332 | [Intare n&#039;isatura](http://my.africanstorybook.org/stories/intare-nisatura) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

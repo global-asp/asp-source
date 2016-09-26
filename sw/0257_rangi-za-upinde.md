@@ -1,31 +1,25 @@
 # Rangi za upinde
 
 ##
-Upinde una
-rangi saba.
+Upinde una rangi saba.
 
 ##
-Rangi ya kwanza ni
-nyekundu.
+Rangi ya kwanza ni nyekundu.
 
 ##
-Kewyu amevalia shati
-la rangi nyekundu.
+Kweyu amevalia shati la rangi nyekundu.
 
 ##
-Rangi ya pili ni ya
-chungwa.
+Rangi ya pili ni ya chungwa.
 
 ##
 Hili ni chungwa.
 
 ##
-Rangi ya tatu ni
-manjano.
+Rangi ya tatu ni manjano.
 
 ##
-Yai pingu lina rangi ya
-manjano.
+Yai pingu lina rangi ya manjano.
 
 ##
 Rangi ya nne ni kijani.
@@ -34,8 +28,7 @@ Rangi ya nne ni kijani.
 Miwa ni rangi ya kijani.
 
 ##
-Rangi ya tano ni
-samawati.
+Rangi ya tano ni samawati.
 
 ##
 Mbingu ni samawati.
@@ -44,28 +37,22 @@ Mbingu ni samawati.
 Rangi ya sita ni nili.
 
 ##
-Matunda haya ni ya
-rangi ya nili.
+Matunda haya ni ya rangi ya nili.
 
 ##
-Rangi ya saba ni
-zambarau.
+Rangi ya saba ni zambarau.
 
 ##
-Nguo yangu ni ya
-kizambarau.
-Ni rangi niipendayo
-zaidi!
+Nguo yangu ni ya kizambarau.
+
+Ni rangi niipendayo zaidi!
 
 ##
-Je, unazijua rangi saba
-za upinde?
+Je, unazijua rangi saba za upinde?
 
 ##
 * License: [CC-BY]
 * Text: Caren Echesa
 * Illustration: Jesse Breytenbach
+* Translation: Caren Echesa
 * Language: sw
-This story was written by a teacher
-at Munanga Primary School in
-western Kenya.

@@ -34,5 +34,4 @@ Everyone is happy with the new pussy cat.
 * License: [CC-BY]
 * Text: Ritah Katetemera
 * Illustration: Marleen Visser
-* Translation: Ritah Katetemera
 * Language: en

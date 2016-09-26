@@ -51,5 +51,4 @@ bicycle again.
 * License: [CC-BY]
 * Text: Munanga ASP teachers
 * Illustration: Wiehan de Jager
-* Translation: Munanga ASP teachers
 * Language: en

@@ -75,7 +75,7 @@ A kitten is stuck in a tree!
 
 How many cats?
 
-9 
+9
 
 Nine cats.
 

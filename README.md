@@ -32,10 +32,14 @@ ISO code | Language Name
 [bxk](https://github.com/global-asp/asp-source/tree/master/bxk) | Lubukusu
 [cce](https://github.com/global-asp/asp-source/tree/master/cce) | Cicopi
 [de](https://github.com/global-asp/asp-source/tree/master/de) | German
+[dag](https://github.com/global-asp/asp-source/tree/master/dag) | Dagbani/Dagbanli
+[dga](https://github.com/global-asp/asp-source/tree/master/dga) | Dagaare
 [dje](https://github.com/global-asp/asp-source/tree/master/dje) | Zarma
+[ee](https://github.com/global-asp/asp-source/tree/master/ee) | Ewe
 [en](https://github.com/global-asp/asp-source/tree/master/en) | English
 [ff](https://github.com/global-asp/asp-source/tree/master/ff) | Fulfulde
 [fr](https://github.com/global-asp/asp-source/tree/master/fr) | French
+[gjn](https://github.com/global-asp/asp-source/tree/master/gjn) | Gonja
 [gur](https://github.com/global-asp/asp-source/tree/master/gur) | Gurene
 [guz](https://github.com/global-asp/asp-source/tree/master/guz) | Ekegusii
 [ha](https://github.com/global-asp/asp-source/tree/master/ha) | Hausa

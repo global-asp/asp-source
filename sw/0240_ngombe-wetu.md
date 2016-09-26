@@ -1,57 +1,46 @@
-# Ng’ombe wetu
+# Ng’ombe wetu Pendo
 
 ##
 Jina langu ni Ndalo.
 
 ##
-Baba yangu amemfuga
-ng’ombe mmoja
-anayeitwa Pendo.
+Baba yangu humfuga ng’ombe aitwaye Pendo.
 
 ##
-Pendo anapenda kula
-nyasi siku nzima.
+Pendo hupenda kula nyasi siku nzima.
 
 ##
-Wakati mwingine
-tunampa nafaka.
+Wakati mwingine baba humpa Pendo nafaka.
 
 ##
-Pendo pia hunywa maji
-mengi.
+Pendo pia hunywa maji mengi.
 
 ##
-Mimi ninampenda
-Pendo.
+Mimi ninampenda Pendo.
 
 ##
-Tunamtunza Pendo na
-anatusaidia.
+Baba humkama Pendo.
+
+Sisi humtunza Pendo naye hutusaidia.
 
 ##
-Yeye hutupa maziwa
-mengi.
+Pendo hutupa maziwa mengi.
 
 ##
-Anatupa maziwa mengi.
+Mimi hunywa maziwa mengi.
 
 ##
-Baba yangu huuza
-baadhi ya maziwa na
-kuninunulia vitabu vya
-hadithi.
+Baba yangu huuza maziwa na hutumia pesa hizo kuninunulia vitabu vya hadithi.
 
 ##
-Mimi ninapenda
-kusoma hadithi.
+Mimi hupenda kusoma hadithi.
 
 ##
-Je, umefahamu kwa nini
-ninampenda ng’ombe
-wetu Pendo?
+Je, umefahamu kwa nini ninampenda ng&rsquo;ombe wetu Pendo?
 
 ##
 * License: [CC-BY]
 * Text: Ruth Odondi
 * Illustration: Rob Owen
+* Translation: Ruth Odondi
 * Language: sw

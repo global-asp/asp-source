@@ -16,7 +16,7 @@ Etsɔ dzonu amadede vovovowo de eƒe ɖa me.
 Eƒe dzonuawoe nye gbemutɔ, ɣitɔ, dzĩtɔ kple aŋgbaɖiɖitɔ.
 
 ##
-Dada, meɖe kuku aƒo ɖa ɖe ta nam abe nye nufiala tɔ enea? 
+Dada, meɖe kuku aƒo ɖa ɖe ta nam abe nye nufiala tɔ enea?
 
 ##
 Ne metsi wu esia la nye hã made dzonuwo nye ɖa me.

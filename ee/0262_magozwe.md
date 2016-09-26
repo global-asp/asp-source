@@ -1,4 +1,4 @@
-# Magozwe 
+# Magozwe
 
 ##
 Le Nirobi ƒe du gã me, afi siɖetsɔleme na agbenɔnɔ mesɔ kple ale si wὸle le kɔƒewo me o lae ŋutsuvi kpɔdometsilawo de ha ɖo. Wonɔa agbe ɖe ale si ŋu ke ɖe woe la nu.
@@ -86,7 +86,7 @@ Magozwe dze suku gɔme gake menɔ bɔbɔe nɛ o. Dɔ geɖe dze ŋgɔ nɛ wὸdze
 ##
 Magozwe nɔ anyi ɖe aƒea me henɔ ŋutinyagbalẽ si wὸtsɔ tso suku la xlẽm.
 
-Thomas va nɔ anyi ɖe egbɔ. 
+Thomas va nɔ anyi ɖe egbɔ.
 
 Thomas biae be, "Nu ka ŋutie ŋutinya la tso?" Magozwe ɖe eŋu nɛ be, "Eƒo nu tso ŋutsuvi aɖe si va zu nufiala la ŋuti."
 

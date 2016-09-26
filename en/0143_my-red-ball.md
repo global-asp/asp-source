@@ -55,5 +55,5 @@ It is gone!
 * License: [CC-BY]
 * Text: Marion Drew
 * Illustration: Marion Drew
-* Translation: Khothatso Ranoosi ?and Marion Drew
+* Translation: Khothatso Ranoosi, Marion Drew
 * Language: en
