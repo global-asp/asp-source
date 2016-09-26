@@ -46,7 +46,7 @@ Alisubiri na kutazama.
 Moja baada ya nyingine, mizimu ilipatwa na usingizi.
 
 ##
-Mizimu yote ilipolala, Nangila alipiga mbizi ziwani. Aliipata miti-shamba na kuiweka mkobani.
+Mizimu yote ilipolala, Nangila alipiga mbizi ziwani. Aliipata miti-shamba na kuiweka mkobani.
 
 Alipoogelea kurudi ufuoni, mawimbi makubwa yalimzunguka.
 
@@ -66,7 +66,7 @@ Kwani ninyi ndio viongozi.
 ##
 Sauti ya Nangila ilikuwa tamu sana hata mizimu ikamtaka aimbe zaidi.
 
-Kuimba kwake kulipoifanya ilale tena, Nangila alikimbia haraka akafika kijijini.
+Kuimba kwake kulipoifanya ilale tena, Nangila alikimbia haraka akafika kijijini.
 
 ##
 Baada ya kutibu donda la babake, babake aliweza kusimama tena.

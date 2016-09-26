@@ -28,7 +28,7 @@ Kwathi kuhlwa, uNkanyezi wayefika endaweni enemibala namaphethini ayengakaze aku
 
 Watshela abantu abadala bakule ndawo ngohambo lwakhe ukuthi wayehlose ukubuyisa ugqozi lokugubha umkhosi wentwasahlobo kubantu bakubo.
 
-Umama walesi sizwe wapha uNkanyezi isipho. Wathi kuye, "Sikunika lopende ngothando olukhulu, nokuyiwona ozobuyisa umbala endaweni yakini esigqwalile engasenambala."
+Umama walesi sizwe wapha uNkanyezi isipho. Wathi kuye, "Sikunika lopende ngothando olukhulu, nokuyiwona ozobuyisa umbala endaweni yakini esigqwalile engasenambala."
 
 UNkanyezi wabonga kakhulu kubantu abadala wase efaka upende esikhwameni sakhe. Ekuseni ngakusasa waqhubeka nohambo lwakhe. Wayejabule kakhulu ngesipho sakhe sombala.
 

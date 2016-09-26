@@ -8,7 +8,7 @@ O mmone fela!
 ##
 O na le megala-ya letheka e metlhano.
 
-Fela fa a tsoga, o tlhomaganya megala ya gagwe  mo tafoleng. 
+Fela fa a tsoga, o tlhomaganya megala ya gagwe mo tafoleng.
 
 ##
 E e serolwana ke ya go bua le ba lelapa.

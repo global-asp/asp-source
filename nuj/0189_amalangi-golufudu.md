@@ -43,7 +43,7 @@ Ebibala biino mubbakuli bya bbululu omwinihi.
 Erangi eryomusanvu lya pappo.
 
 ##
-Ehiteteyi hyange hya pappo. 
+Ehiteteyi hyange hya pappo.
 
 Pappo gy'erangi eyisinga ohwenda.
 

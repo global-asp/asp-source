@@ -68,7 +68,7 @@ Ke tlile ka ntlha ya gore banna ba tshaba go tla.
 
 Rre o tlhoka motswi o gore a alafe ntho ya gagwe.
 
-Ke ka moo ke leng fa,mo lefatsheng le ba bantsi ba tshabang go fitlha, ka gonne lo babusi.
+Ke ka moo ke leng fa,mo lefatsheng le ba bantsi ba tshabang go fitlha, ka gonne lo babusi.
 
 ##
 Lentswe la ga Nangila le ne le le molotsana thata mo ebileng mewa e ile ya mo kopa gore a ba opelele gangwe le gape.

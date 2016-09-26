@@ -9,7 +9,7 @@ Upepo huo ulikuwa mkali.
 Uliibandua tiara yangu kutoka mkononi.
 
 ##
-Niliifuata tiara yangu, lakini upepo huo mkali ulinisukuma mbali nayo.
+Niliifuata tiara yangu, lakini upepo huo mkali ulinisukuma mbali nayo.
 
 ##
 Upepo uligeuka na kuwa dhoruba.
@@ -19,10 +19,10 @@ Dhoruba hiyo iliienua tiara yangu juu zaidi.
 ##
 Dhoruba hiyo ya kutisha ilinimeza mzima mzima!
 
-Sikuweza kuona chochote wala kugusa chochote.
+Sikuweza kuona chochote wala kugusa chochote.
 
 ##
-Niliikumbuka tiara yangu nzuri.
+Niliikumbuka tiara yangu nzuri.
 
 Ilikuwa wapi?
 
@@ -42,7 +42,7 @@ Nilipotulia, nilitazama mahali nilipokuwa.
 Nilijiuliza, "Upepo ule mkali umeanda wapi?"
 
 ##
-Sikuiona tiara yangu nzuri popote.
+Sikuiona tiara yangu nzuri popote.
 
 Sikuusikia tena upepo ukivuma.
 

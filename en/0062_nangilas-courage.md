@@ -29,7 +29,7 @@ This herb would heal her father's wound.
 But the lake was filled with dangerous spirits.
 
 ##
-Some men tried to get the herb but returned without it.  
+Some men tried to get the herb but returned without it. 
 
 Some men did not return from the lake at all. 
 

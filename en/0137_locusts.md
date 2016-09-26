@@ -6,7 +6,7 @@ One day we saw a strange black cloud move in from far away.
 It was a swarm of locusts, headed for our village.
 
 ##
-The locusts attacked farms and ate the crops.  
+The locusts attacked farms and ate the crops.
 
 ##
 We tried to chase the locusts away. 
@@ -16,7 +16,7 @@ But they would not go.
 ##
 We made noises and screamed, “Wuwi, wuwi!” 
 
-But the locusts would not go.  
+But the locusts would not go.
 
 ##
 We hit tins and metal pots. 

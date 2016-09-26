@@ -217,7 +217,7 @@ Story ID | Title | License
 0213 | [Rooster and Hare](http://my.africanstorybook.org/stories/rooster-and-hare) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0214 | [The rat](http://my.africanstorybook.org/stories/rat) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0215 | [Breakfast](http://my.africanstorybook.org/stories/breakfast) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
-0216 | [Pendo our cow](http://my.africanstorybook.org/stories/pendo-our-cow) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0216 | [Day the sun went away](http://my.africanstorybook.org/stories/day-sun-went-away-2) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0217 | [My teacher](http://my.africanstorybook.org/stories/my-teacher) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0218 | [Grandmother and the Smelly Girl](http://my.africanstorybook.org/stories/grandmother-and-smelly-girl) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0219 | [Rain for Nomvula](http://my.africanstorybook.org/stories/rain-nomvula) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

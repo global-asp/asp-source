@@ -19,7 +19,7 @@ Uchuru bwi tayari.
 Baba wawe aramwikira iria na wendo.
 
 ##
-"Baba, uchuru buu ibukwenda sukari," Kinoti aramwira. 
+"Baba, uchuru buu ibukwenda sukari," Kinoti aramwira.
 
 ##
 "Uchuru bwa mami ibu buthongi nkuruki ya baba," arachiera.

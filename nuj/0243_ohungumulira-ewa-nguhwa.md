@@ -6,7 +6,7 @@ Muhwana ni Mulongo ba menya mu hibuga ni saawe. Baali besunga ohuŋumula.
 Si huba ti abaana abamasemero baali baja mu huŋumula aye olw’ohuba baali baja huhyalira nguhwa waawe .
 
 ##
-Muhwana ni Mulongo baali basangafu o’lwohuba baali baja  ohyalira nguha waawe.
+Muhwana ni Mulongo baali basangafu o’lwohuba baali baja ohyalira nguha waawe.
 
 Ehiire ko buhye batiine, bategeha emigugu jaawe eji baali ni baja hutiina ni najo.
 

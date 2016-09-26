@@ -11,6 +11,7 @@ Story ID | Title | License
 0135 | [O Macaco que Comeu a sua Própria Cauda](http://my.africanstorybook.org/stories/o-macaco-que-comeu-sua-própria-cauda) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0189 | [As cores do arco-íris](http://my.africanstorybook.org/stories/cores-do-arco-%C3%ADris) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0210 | [Tingi e os Bois](http://my.africanstorybook.org/stories/tingi-e-os-bois) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0217 | [A minha professora](http://my.africanstorybook.org/stories/minha-professora) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0224 | [A Dança do Cabrito](http://my.africanstorybook.org/stories/dança-do-cabrito) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0233 | [O Coelho Vai a Festa](http://my.africanstorybook.org/stories/o-coelho-vai-festa) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0242 | [O Elefante e as Rãs](http://my.africanstorybook.org/stories/o-elefante-e-rãs) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)

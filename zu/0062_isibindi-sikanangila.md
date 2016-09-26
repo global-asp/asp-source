@@ -77,7 +77,7 @@ Kini ngoba ningababusi.
 ##
 Izwi likaNangila lalimnandi kangangoba izipoki zamcela aziculele ephindaphinda.
 
-Ukucula kwakhe kwenza ukuba izipoki ziphinde zizumeke. 
+Ukucula kwakhe kwenza ukuba izipoki ziphinde zizumeke.
 
 Wasuka lapho wavulela ngejubane waze wafika edolobhaneni lakhe.
 

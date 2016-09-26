@@ -36,7 +36,7 @@ Nkanyezi a tshimbila ḓuvha ḽoṱhe vhukati ha ḓaka ḽo pinzanaho ḽa mir
 A ṱavhanya a livha hune ngoma ya khou lila hone a tshi vho pfa muya wa u tshina u tshi da milenzheni yawe yo netaho.
 
 ##
-Nkanyezi a diwana o swika shangoni ḽa Bhubezi. Vhathu vho vha vho dzula mullion vha tshi khou vhuya a pfa nyambo dza vhuḓi nga u ralo. A vhudza vhahulwane vha henefho nga lwendo lwawe lwa u ṱoḓa u vhuisa muya wa u pembela kha vhathu vha hawe. Vho mbo mu ramba uri a awele a edele navho honovho vhusiku.
+Nkanyezi a diwana o swika shangoni ḽa Bhubezi. Vhathu vho vha vho dzula mullion vha tshi khou vhuya a pfa nyambo dza vhuḓi nga u ralo. A vhudza vhahulwane vha henefho nga lwendo lwawe lwa u ṱoḓa u vhuisa muya wa u pembela kha vhathu vha hawe. Vho mbo mu ramba uri a awele a edele navho honovho vhusiku.
 
 ##
 Nga matsheloni khosi ya vhidza Nkanyezi “Ṅwanaga” Ya ralo. Ngoma yo khetheaho khei, i bveledzaho luimbo luswa tshifhinga tshothe ni tshi i lidza.”

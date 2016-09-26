@@ -36,7 +36,7 @@ My father walked from house to house asking people to attend a village meeting.
 People gathered under a big tree and listened.
 
 ##
-My father stood up and said, “We need to work together to solve our problems.”
+My father stood up and said, “We need to work together to solve our problems.”
 
 ##
 Eight-year-old Juma, sitting on a tree trunk shouted, “I can help with cleaning up.”

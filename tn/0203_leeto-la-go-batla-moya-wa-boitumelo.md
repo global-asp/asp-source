@@ -13,7 +13,7 @@ Moso mongwe o o neng o thutafatse, Naledi o ne a utlwa bagolo bangwe ba babedi b
 ##
 Naledi o ne a tshwenyegile.“Letsatsi le tla phatsima jang gape ntle le gore re le opelele, re le tsose mo borokong jwa mariga?” a ipotsa.
 
-Naledi  o ne a akanya  nako e telele.“Ke tshwanetse go batla se se re latlhegetseng” a tsaya tshwetso.“Ke tshwanetse ke tsamae ke ye go batla dilo tse di tla tsosoIosang moya wa go keteka mo motseng wa me.”
+Naledi o ne a akanya nako e telele.“Ke tshwanetse go batla se se re latlhegetseng” a tsaya tshwetso.“Ke tshwanetse ke tsamae ke ye go batla dilo tse di tla tsosoIosang moya wa go keteka mo motseng wa me.”
 
 ##
 Bagolo ba motse ba ne ba fa Naledi masego a leeto. Ba ne ba mo fa kgetsana go tsenya dilo tse a ka di fitlhelelang.
@@ -26,7 +26,7 @@ Naledi o ne a tsamaya letsatsi lotlhe. A palama thabana, a fologela kwa tlase mo
 ##
 Fa bosigo bo atamela, Naledi o ne a goroga kwa motseng wa mebala-bala, le meaparo e mentle e o neng a simolola go e bona. O ne a bolelela bagolo ba motse ka ga leeto la gagwe la go tlisa moya wa go keteka mo bathong ba gagwe.
 
-Mme wa morafe o, o ne a fa Naledi mpho. A mo raya a re, "Ka lerato,  re go fa setshwantsho se gore o tle o busetse gape mebala mo motseng wa gago o o bodutu."
+Mme wa morafe o, o ne a fa Naledi mpho. A mo raya a re, "Ka lerato, re go fa setshwantsho se gore o tle o busetse gape mebala mo motseng wa gago o o bodutu."
 
 Naledi o ne a leboga bagolo ba motse mme a tsenya setshwantsho mo kgetsing ya gagwe.
 
@@ -38,7 +38,7 @@ Naledi o ne a tsamaya letsatsi lotlhe, mo gare ga sekgwa sa ditlhare tse dikgolo
 Erile go fifala, mme a sa kgone go bona, o ne a utlwa medumo ya meropa. O ne a itlhaganelela kwa meropa e lelang gona, a utlwa moya wa mmino mo maotong a gagwe a a lapileng.
 
 ##
-Naledi o ne a iphitlhela a le kwa motseng wa Bataung. Batho ba ne ba eme go ralala molelo, ba letsa meropa mme ba opela. O ne a simolola go utlwa  mmino o o monate jalo.
+Naledi o ne a iphitlhela a le kwa motseng wa Bataung. Batho ba ne ba eme go ralala molelo, ba letsa meropa mme ba opela. O ne a simolola go utlwa mmino o o monate jalo.
 
 O ne a bolelela bagolo ka leeto la gagwe la go tlisa moya wa go keteka kwa motseng wa gagwe. Bataung ba ne ba mo laletsa go ikhutsa le go robala bosigo joo.
 
@@ -50,12 +50,12 @@ Naledi o ne a leboga bagolo ba motse mme a tsenya moropa mo kgetsing ya gagwe. O
 ##
 Ka letsatsi la boraro la leeto la gagwe, fa a feta lebala la dikgomo tse di nonneng, nko ya gagwe ya simolola go tlhotlhona.
 
-Monkgo o o monate wa dijo wa utlwala, mme molomo wa gagwe wa rokotsa mathe. O ne a sala monkgo o morago, mme fa a goroga kwa motseng o,  a fitlhela batho ba eme mo thoko ga dipitsa tse di tletseng dinama tse di rokotsang.
+Monkgo o o monate wa dijo wa utlwala, mme molomo wa gagwe wa rokotsa mathe. O ne a sala monkgo o morago, mme fa a goroga kwa motseng o, a fitlhela batho ba eme mo thoko ga dipitsa tse di tletseng dinama tse di rokotsang.
 
 Morafe o, o ne o tumile ka meletlo ya bona, mme Naledi o ne a simolola go ja dijo tse di monate tsa mefuta-futa. Fa a fetsa go ja, a bolelela bagolo ka ga leeto la gagwe la go busetsa moya wa go keteka kwa motseng wa gagwe.
 
 ##
-Ka letsatsi le le latelang, setlhopa sa baapei se ne sa mo fa sephiri sa metswako ya dinoko. “Morwadi,” ba rialo, “Ka dinoko tse, re go tshepisa gore mala a tla itumela! Re go fa mpho ya bokgoni jwa go apaya dijo tse di monate."
+Ka letsatsi le le latelang, setlhopa sa baapei se ne sa mo fa sephiri sa metswako ya dinoko. “Morwadi,” ba rialo, “Ka dinoko tse, re go tshepisa gore mala a tla itumela! Re go fa mpho ya bokgoni jwa go apaya dijo tse di monate."
 
 Naledii o ne a leboga bagolo mme a tsenya dinoko tsa gagwe mo kgetsing.
 
