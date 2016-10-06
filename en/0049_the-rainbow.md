@@ -16,8 +16,7 @@ You see blue.
 You see red.
 
 ##
-The colours are so
-beautiful.
+The colours are so beautiful.
 
 ##
 * License: [CC-BY]

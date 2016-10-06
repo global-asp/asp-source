@@ -9,19 +9,19 @@ She has five cellphones.
 When she wakes up, she arranges her cellphones on the table.
 
 ##
-The yellow one is for communicatingwith family.
+The yellow one is for communicating with family.
 
 ##
-The white one is for communicating withpeople at work.
+The white one is for communicating with people at work.
 
 ##
-The red one is for communicating withthose who owe her something.
+The red one is for communicating with those who owe her something.
 
 ##
-The pink one is for communicating withher best friends.
+The pink one is for communicating with her best friends.
 
 ##
-The purple one is for communicatingwith people who need her help.
+The purple one is for communicating with people who need her help.
 
 ##
 Ms Phone likes people to be happy. She does not like fighting.
