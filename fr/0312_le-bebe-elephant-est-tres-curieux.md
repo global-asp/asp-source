@@ -143,5 +143,5 @@ c'est très utile.
 * License: [CC-BY]
 * Text: Judith Baker, Lorato Trok
 * Illustration: Wiehan de Jager
-* Translation: Isabelle Duston et Véronique Biddau
+* Translation: Isabelle Duston, Véronique Biddau
 * Language: fr

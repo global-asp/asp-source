@@ -147,5 +147,5 @@ sauvé la vie.
 * License: [CC-BY]
 * Text: Kholeka Mabeta, Judith Baker
 * Illustration: Wiehan de Jager
-* Translation: Isabelle Duston et Véronique Biddau
+* Translation: Isabelle Duston, Véronique Biddau
 * Language: fr

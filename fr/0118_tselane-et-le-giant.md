@@ -187,5 +187,5 @@ dans le nouveau village!
 * License: [CC-BY]
 * Text: Lorato Trok
 * Illustration: Catherine Groenewald
-* Translation: Isabelle Duston et Véronique Biddau
+* Translation: Isabelle Duston, Véronique Biddau
 * Language: fr

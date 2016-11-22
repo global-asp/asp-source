@@ -125,5 +125,5 @@ bonheur à sa famille.
 * License: [CC-BY]
 * Text: Matthews M Wanga
 * Illustration: Wiehan de Jager
-* Translation: Isabelle Duston et Véronique Biddau
+* Translation: Isabelle Duston, Véronique Biddau
 * Language: fr

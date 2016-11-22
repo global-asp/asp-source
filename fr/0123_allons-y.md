@@ -44,5 +44,5 @@ Avec ma main…
 * License: [CC-BY]
 * Text: Carole Bloch
 * Illustration: Thembinkosi Kohli
-* Translation: Isabelle Duston et Véronique Biddau
+* Translation: Isabelle Duston, Véronique Biddau
 * Language: fr

@@ -89,9 +89,5 @@ millepattes sont ennemis.
 * License: [CC-BY]
 * Text: Winny Asara
 * Illustration: Winny Asara
-* Translation: Isabelle Duston et Véronique Biddau
+* Translation: Isabelle Duston, Véronique Biddau
 * Language: fr
-
-Cet histoire a été écrite par un
-élève enseignant de Arua PTC en
-Uganda.

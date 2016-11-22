@@ -39,5 +39,5 @@ Fin.
 * License: [CC-BY-NC]
 * Text: Danielle Bruckert
 * Illustration: Danielle Bruckert
-* Translation: Isabelle Duston et Véronique Biddau
+* Translation: Isabelle Duston, Véronique Biddau
 * Language: fr

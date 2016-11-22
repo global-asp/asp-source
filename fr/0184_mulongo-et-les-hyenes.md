@@ -156,5 +156,5 @@ plus jamais seul dans la forêt
 * License: [CC-BY]
 * Text: Sarah Nangobi
 * Illustration: Wiehan de Jager
-* Translation: Isabelle Duston et Véronique Biddau
+* Translation: Isabelle Duston, Véronique Biddau
 * Language: fr

@@ -41,5 +41,5 @@ maman à la maison.
 * License: [CC-BY]
 * Text: Annet Ssebaggala
 * Illustration: Genevieve Terblanche, Wiehan de Jager, Vusi Malindi, Karlien de Villiers
-* Translation: Isabelle Duston et Véronique Biddau
+* Translation: Isabelle Duston, Véronique Biddau
 * Language: fr

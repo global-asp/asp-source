@@ -54,9 +54,5 @@ bonheur.
 * License: [CC-BY]
 * Text: Waako Joshua, Cornelius Gulere
 * Illustration: Wiehan de Jager
-* Translation: Isabelle Duston et Véronique Biddau
+* Translation: Isabelle Duston, Véronique Biddau
 * Language: fr
-
-Cette histoire a été créée par les
-membres de 'The Ugandan
-Community Libraries Association'.
