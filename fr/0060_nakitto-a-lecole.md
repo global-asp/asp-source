@@ -2,7 +2,7 @@
 
 ##
 Lundi dernier, Nakitto a
-commencé l’école.
+commencé l'école.
 
 ##
 Elle est arrivée dans
@@ -18,7 +18,7 @@ images.
 ##
 Les élèves sont sortis
 pour apprendre
-d’autres leçons.
+d'autres leçons.
 
 ##
 Ils ont appris le son des

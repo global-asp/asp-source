@@ -19,7 +19,7 @@ trouva plus sa poupée.
 Elle la chercha partout,
 mais ne trouva Selah
 nulle part.
-Norah s’inquiéta.
+Norah s'inquiéta.
 
 ##
 Norah ne savait pas
@@ -32,7 +32,7 @@ faire sécher.
 ##
 « Je ne trouve plus ma
 poupée », pleura Norah.
-« Ne t’inquiète pas »,
+« Ne t'inquiète pas »,
 lui dit sa maman.
 
 ##

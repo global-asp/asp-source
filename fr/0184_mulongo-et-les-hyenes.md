@@ -14,15 +14,15 @@ Sur son chemin, elle rencontra
 ses amis. Ils allaient dans la
 forêt pour ramasser du bois.
 Mulongo voulait aller avec eux.
-"S'il vous plaît, attendez-moi
-sous l'arbre de muvule!" ditelle, "je dois aller chercher de
-l'eau pour ma mère."
+« S'il vous plaît, attendez-moi
+sous l'arbre de muvule ! » ditelle, « je dois aller chercher de
+l'eau pour ma mère. »
 Mais ses amis ne voulaient pas
-l’attendre
+l'attendre
 
 ##
-"Très bien, je vous rattraperai
-dans la forêt!" dit Mulongo. Elle
+« Très bien, je vous rattraperai
+dans la forêt ! » dit Mulongo. Elle
 courut chercher de l'eau et
 l'amena à sa mère.
 Puis elle se rendit dans la forêt
@@ -35,7 +35,7 @@ De l'autre côté du cours d'eau,
 il y avait de nombreux petits
 chemins qui partaient dans
 toutes les directions.
-"Par où sont-ils passés?" se
+« Par où sont-ils passés ? » se
 demanda-t-elle.
 
 ##
@@ -51,19 +51,19 @@ reposer, et elle s'endormit.
 Lorsque Mulongo se réveilla, il
 faisait noir. Dans l'obscurité,
 des yeux jaunes brillaient. Elle
-était entourée par des hyènes!
+était entourée par des hyènes !
 Elle était trop terrifiée pour
 crier.
-Elle a essaya de s’échapper,
+Elle a essaya de s'échapper,
 mais les hyènes affamées
 l'encerclèrent.
 
 ##
-"Ne bouge pas," dit la voix
+« Ne bouge pas, » dit la voix
 bourrue de la plus grande
 hyène.
-"Si tu cours, nous allons te
-manger!" "S'il vous plaît laissezmoi rentrer chez moi!" implora
+« Si tu cours, nous allons te
+manger ! » « S'il vous plaît laissezmoi rentrer chez moi ! » implora
 Mulongo.
 
 ##
@@ -79,30 +79,30 @@ s'endormir.
 ##
 Dans l'obscurité, elle a entendu
 les hyènes parler entre elles.
-"Comment va le feu?" demanda
-une hyène. "Est ce que l'eau
-boue?"
-"Tout est prêt," lui répondit-on.
-"Dois-je l'amener?" "Oui, oui!"
+« Comment va le feu ? » demanda
+une hyène. « Est ce que l'eau
+boue ? »
+« Tout est prêt, » lui répondit-on.
+« Dois-je l'amener ? » « Oui, oui ! »
 grognèrent les autres hyènes.
-"Nous avons faim!"
+« Nous avons faim ! »
 Elles étaient prêtes à sortir
 Mulongo de la hutte.
 
 ##
 Mais la grande hyène
-s'exprima, "Hyènes, attendez.
+s'exprima, « Hyènes, attendez.
 N'oubliez pas la règle du village.
 Aucune hyène ne peut manger
 seule. Nous devons inviter toute
 la famille pour partager notre
-repas." "Je vais appeler mes
-beaux-parents", déclara son
+repas. » « Je vais appeler mes
+beaux-parents », déclara son
 épouse.
-"Je vais aller chercher mes
-cousins", déclara la petite
-hyène. "Et je vais rester ici avec
-notre nourriture", déclara la
+« Je vais aller chercher mes
+cousins », déclara la petite
+hyène. « Et je vais rester ici avec
+notre nourriture », déclara la
 grande hyène.
 
 ##
@@ -115,14 +115,14 @@ la grande hyène commença à
 somnoler devant la chaleur du
 feu. Bientôt, elle se mit à
 ronfler. C'était la chance de
-Mulongo! Mais comment allaitelle passer près de la hyène?
+Mulongo ! Mais comment allaitelle passer près de la hyène ?
 Elle était si grande qu'elle
 bloquait toute la porte.
 
 ##
 Il n'y avait qu'une seule
 possibilité. Elle sauta très haut,
-atterrit de l’autre côté de la
+atterrit de l'autre côté de la
 hyène, et courut aussi vite que
 ses jambes le lui permettaient.
 
@@ -137,15 +137,15 @@ trop tard.
 ##
 Quand elle arriva à son village,
 un des villageois la reconnut et
-cria, "Mulongo, Mulongo est de
-retour, Mulongo est de retour"
+cria, « Mulongo, Mulongo est de
+retour, Mulongo est de retour. »
 Son père et sa mère
 accoururent à sa rencontre. Ils
 la serrèrent dans leurs bras,
 tout en remerciant Dieu d'avoir
-sauvé leur enfant, "Mulongo,
+sauvé leur enfant, « Mulongo,
 Mulongo, nous avons pensé que
-tu étais morte!"
+tu étais morte ! »
 
 ##
 Depuis ce jour, Mulongo et les

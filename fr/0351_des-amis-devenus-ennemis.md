@@ -5,13 +5,13 @@ Il était une fois deux amis,
 Hyène et Lièvre.
 Hyène était un fermier
 travaillant. Il se levait tôt
-chaque matin et s’en allait
+chaque matin et s'en allait
 travailler dans ses champs.
 
 ##
 Lièvre se réveillait quand le
 soleil était déjà bien haut dans
-le ciel. Il s’étirait et bâillait. Puis,
+le ciel. Il s'étirait et bâillait. Puis,
 il allait chercher sa nourriture.
 
 ##
@@ -35,7 +35,7 @@ Hyène se lamenta sur le vol de
 ses récoltes. Lièvre répondit : «
 Peut être les voisins ont ils volé
 ton maïs. Ils souffrent de la
-famine parce qu’ils sont
+famine parce qu'ils sont
 paresseux ».
 
 ##
@@ -53,23 +53,23 @@ englué dans la colle.
 Au cours de la nuit, Lièvre se
 dirigea vers le champ de Hyène
 pour voler à nouveau du maïs.
-Avant d’y entrer, il regarda
-autour de lui pour s’assurer
-qu’il n’y avait pas de danger.
+Avant d'y entrer, il regarda
+autour de lui pour s'assurer
+qu'il n'y avait pas de danger.
 
 ##
 Lièvre ne vit pas la gomme que
 Hyène avait mise tout autour
 du champ. Lièvre se retrouva
 prisonnier de la gomme. Il se
-mit alors à crier à l’aide.
+mit alors à crier à l'aide.
 
 ##
 Hyène entendit les cris et
 courut attraper le voleur.
 Il ne pouvait en croire ses yeux.
-C’était Lièvre, son ami, pris
-dans la gomme!
+C'était Lièvre, son ami, pris
+dans la gomme !
 
 ##
 Depuis ce moment, Hyène et Lièvre se séparèrent, chacun

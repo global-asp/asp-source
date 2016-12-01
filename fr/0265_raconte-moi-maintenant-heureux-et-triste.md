@@ -1,10 +1,10 @@
-# Raconte-moi… maintenant ! Heureux et triste
+# Raconte-moi... maintenant ! Heureux et triste
 
 ##
 Pourquoi le bébé pleure-t-il ?
 
 ##
-Je pense qu’elle a faim.
+Je pense qu'elle a faim.
 
 ##
 Pourquoi le garçon est-il triste ?
@@ -34,7 +34,7 @@ Ses enfants lisent tranquillement.
 Que ressent cette dame ?
 
 ##
-Je pense qu’elle est timide.
+Je pense qu'elle est timide.
 
 ##
 * License: [CC-BY]

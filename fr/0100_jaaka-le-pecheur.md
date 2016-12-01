@@ -25,16 +25,16 @@ ses prises au marché
 central au Jinja.
 
 ##
-Jaaka, qu’est-il arrivé?
-Que se passe-t-il? Il est
+Jaaka, qu'est-il arrivé ?
+Que se passe-t-il ? Il est
 tellement triste.
 
 ##
-« Aujourd’hui, la
+« Aujourd'hui, la
 situation est mauvaise.
-Le vent du Nil m’a
+Le vent du Nil m'a
 empêché de pêcher. De
-plus, une perche s’est
+plus, une perche s'est
 éloignée dans la rivière
 avec mon hameçon. »
 
@@ -42,12 +42,12 @@ avec mon hameçon. »
 « Mais je garde espoir
 que demain sera une
 meilleure journée car
-j’ai acheté un nouvel
+j'ai acheté un nouvel
 hameçon. »
 
 ##
 * License: [CC-BY]
-* Text: Tom Sabwa, Children’s Development Center at Masese
+* Text: Tom Sabwa, Children's Development Center at Masese
 * Illustration: Zablon Alex Nguku
 * Translation: Johanne Jean-maître, Translators without Borders
 * Language: fr

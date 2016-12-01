@@ -20,9 +20,8 @@ Bientôt elle arriva tout en haut.
 ##
 Kéké regarda le sol en bas.
 Elle allait très haut.
-"Oh oh," appela-t-elle.
-"Regardez comme je vais haut
-!"
+« Oh oh, » appela-t-elle.
+« Regardez comme je vais haut ! »
 
 ##
 Elle est contente d'aller si haut.
@@ -36,17 +35,17 @@ Après quelque temps, Kéké
 voulu descendre.
 La balançoire ne voulait pas
 s'arrêter.
-"Oh, oh, oh," appela-t-elle.
-"Je ne sais pas comment arrêter
-cette balançoire !"
+« Oh, oh, oh, » appela-t-elle.
+« Je ne sais pas comment arrêter
+cette balançoire ! »
 
 ##
 La balançoire continuait et continuait.
 En haut et en bas, en haut et en bas.
 Kéké avait très peur.
-"Où cette balançoire va-t-elle m'emmener ?
+« Où cette balançoire va-t-elle m'emmener ?
 Je vais peut être aller sur la lune.
-Il faut que je descende !!" cria-t-elle.
+Il faut que je descende !! » cria-t-elle.
 
 ##
 Kéké lâcha la balançoire.
@@ -54,23 +53,23 @@ Elle tomba, et encore, et
 encore, et encore.
 
 ##
-"Oh, oh, oh," crièrent les autres
+« Oh, oh, oh, » crièrent les autres
 enfants.
 Kéké tomba sur le sol.
 Elle se fit mal à la tête.
-"Ouille, ouille, ouille," cria-t-elle.
+« Ouille, ouille, ouille, » cria-t-elle.
 Les autres enfants étaient très
 inquiets.
 
 ##
 Kéké ne savait pas quoi faire.
-"Ouille, ouille, ouille," cria-t-elle
+« Ouille, ouille, ouille, » cria-t-elle
 à nouveau.
 Les enfants appelèrent la
 maîtresse.
-"Ma Mpho. Venez s'il vous plaît
-!" ont-ils appelé.
-"Kéké est tombée de la
+« Ma Mpho. Venez s'il vous plaît
+! » ont-ils appelé.
+« Kéké est tombée de la
 balançoire. Elle s'est fait mal à
 la tête.
 
@@ -83,20 +82,20 @@ terre.
 ##
 Ma Mpho donna un baiser à
 Kéké sur le front.
-Kéké sourit, "Ça va mieux
-maintenant."
-"Je ne vais plus retourner sur
-cette balançoire toute seule,"
+Kéké sourit, « Ça va mieux
+maintenant. »
+« Je ne vais plus retourner sur
+cette balançoire toute seule, »
 dit-elle.
-"Je ne veux plus aller sur la
-lune."
+« Je ne veux plus aller sur la
+lune. »
 
 ##
-"La prochaine fois, j'irai sur ta
-balançoire avec toi, Kéké," dit
+« La prochaine fois, j'irai sur ta
+balançoire avec toi, Kéké, » dit
 Ma Mpho.
-"Nous irons sur la lune
-ensemble !"
+« Nous irons sur la lune
+ensemble ! »
 
 ##
 * License: [CC-BY]

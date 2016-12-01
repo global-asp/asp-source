@@ -4,11 +4,11 @@
 Voici ma maîtresse.
 Son nom est maîtresse
 Akinyi.
-Elle m’aime beaucoup.
+Elle m'aime beaucoup.
 
 ##
 Maîtresse Akinyi nous
-apprend l’alphabet et
+apprend l'alphabet et
 les voyelles.
 Je peux dire les lettres
 a, e, i, o, u.
@@ -29,13 +29,13 @@ berceuse.
 ##
 Voici ce que dit la berceuse :
 Tes yeux offrent un sommeil doré
-Les sourires t’attendent quand tu te lèves
+Les sourires t'attendent quand tu te lèves
 Dormez bien mes chéris, ne pleurez pas
 Et je vous chanterai une jolie berceuse.
 
 ##
 Maîtresse Akinyi connait beaucoup
-d’histoires.
+d'histoires.
 Elle nous raconte une histoire différente
 chaque jour de la semaine.
 
@@ -59,7 +59,7 @@ transport.
 ##
 Le jeudi elle nous
 raconte des histoires
-sur l’agriculture.
+sur l'agriculture.
 
 ##
 Et le vendredi maîtresse

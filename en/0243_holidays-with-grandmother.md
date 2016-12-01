@@ -86,7 +86,7 @@ they were falling asleep!
 ##
 The next day, the children's
 father drove back to the city
-leaving them with NyarKanyada.
+leaving them with Nyar-Kanyada.
 
 ##
 Odongo and Apiyo helped their
@@ -148,7 +148,7 @@ journey.
 When their father came to fetch
 them, they did not want to
 leave.
-The children begged NyarKanyada to go with them to the
+The children begged Nyar-Kanyada to go with them to the
 city.
 She smiled and said, “I am too
 old for the city. I will be waiting

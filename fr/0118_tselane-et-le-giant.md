@@ -25,28 +25,28 @@ laisser seule.
 ##
 La mère de Tselane lui dit qu'elle
 apporterait à manger tous les jours.
-"Je chanterai une chanson et tu
-sauras que c’est moi. N’ouvre pas la
+« Je chanterai une chanson et tu
+sauras que c'est moi. N'ouvre pas la
 porte à qui que ce soit d'autre, mon
-enfant", déclara la mère de Tselane.
+enfant », déclara la mère de Tselane.
 
 ##
-Tselane mon enfant!
-Tselane mon enfant!
-Sors et viens manger ton gruau!
-Sors et viens manger ton gruau!
-Tselane ngwanaka!
-Tselane ngwanaka!
+Tselane mon enfant !
+Tselane mon enfant !
+Sors et viens manger ton gruau !
+Sors et viens manger ton gruau !
+Tselane ngwanaka !
+Tselane ngwanaka !
 Tla o tseye bogobe o je.
-Tla o tseye bogobe o je!
+Tla o tseye bogobe o je !
 
 ##
 Le lendemain matin, la mère de
 Tselane vint à la maison pour
 apporter à Tselane sa nourriture.
 Elle commença à chanter:
-Tselane mon enfant!
-Sors et viens manger ton gruau!
+Tselane mon enfant !
+Sors et viens manger ton gruau !
 Tselane ouvrit la porte et manga la
 nourriture délicieuse de sa mère.
 
@@ -57,18 +57,18 @@ Tselane rentra dans sa maison et
 prépara son lit.
 Mais un géant se cachait derrière
 les buissons, pour regarder et
-écouter Tselane et sa mère!
+écouter Tselane et sa mère !
 
 ##
 Lorsque Tselane éteint sa lumière,
 elle entendit une voix profonde, qui
 chantait la chanson de sa mère
 devant la porte:
-Tselane mon enfant!
-Sors et viens manger ton gruau!
-"Allez-vous en! Vous n'êtes pas ma
-mère! », déclara Tselane. "Vous êtes
-un géant!" Le géant s’éloigna déçu
+Tselane mon enfant !
+Sors et viens manger ton gruau !
+« Allez-vous en ! Vous n'êtes pas ma
+mère ! », déclara Tselane. « Vous êtes
+un géant ! » Le géant s'éloigna déçu
 et disparut dans les grottes.
 
 ##
@@ -79,19 +79,19 @@ Chaque matin et chaque soir, le
 géant venait lui aussi. Mais à
 chaque fois Tselane le renvoyait.
 Elle reconnaissait sa voix profonde
-lorsqu’il essayait de chanter la
+lorsqu'il essayait de chanter la
 chanson de sa mère.
 
 ##
-Un jour, le géant eut une idée: "Je
+Un jour, le géant eut une idée: « Je
 pourrais changer ma voix pour
 ressembler à celle de la mère de
-Tselane!"
+Tselane ! »
 Il fit un grand feu et jeta une pierre
 ronde et lisse dans le feu.
 Quand la pierre fut très chaude et
-rouge, il la sortit du feu et l'avala!
-"glou glou glou!" La pierre chaude
+rouge, il la sortit du feu et l'avala !
+« glou glou glou ! » La pierre chaude
 passa au travers la gorge du géant.
 
 ##
@@ -99,22 +99,22 @@ Le géant commença à chanter pour
 voir si sa voix avait changé.
 Il sauta de joie quand il entendit sa
 voix sonner aussi doux que celle de
-la mère de Tselane!
+la mère de Tselane !
 
 ##
 Le lendemain matin, le géant se rendit très tôt à la maison de
 Tselane. Quand il arriva à la porte de la maison, il commença à
 chanter:
-Tselane mon enfant!
-Sors et viens manger ton gruau!
-Tselane ngwanaka!
+Tselane mon enfant !
+Sors et viens manger ton gruau !
+Tselane ngwanaka !
 Tla o tseye bogobe o je.
 
 ##
 Tselane était heureuse d'entendre la
 voix douce de sa mère.
 Elle ouvrit la porte, et là ce tenait le
-géant!
+géant !
 Elle essaya de fermer la porte, mais
 le géant fut trop rapide.
 Il saisit Tselane et la jeta dans un
@@ -123,10 +123,10 @@ sac.
 ##
 Le géant se dirigea vers sa grotte,
 en chantant joyeusement.
-"Si seulement j’avais de la bière
+« Si seulement j'avais de la bière
 traditionnelle, cela accompagnerait
 si bien mon dîner ce soir. Quelle
-belle journée!" Se dit-il.
+belle journée ! » Se dit-il.
 
 ##
 Un peu plus tard dans la matinée, la
@@ -151,17 +151,17 @@ frappa à la porte du géant.
 Le géant sentit l'odeur délicieuse de
 la bière traditionnelle et ouvrit la
 porte rapidement.
-"Bonsoir, géant!" Dit la mère de
+« Bonsoir, géant ! » Dit la mère de
 Tselane.
-"J’étais de passage et je vous ai
+« J'étais de passage et je vous ai
 entendu chanter magnifiquement.
 Je vais dans un autre village pour la
-fête d'anniversaire d'un enfant ".
+fête d'anniversaire d'un enfant ».
 
 ##
-Le géant n’allait pas laisser passer l'occasion de
-boire de la bière traditionnelle!
-Il invita la mère de Tselane dans sa grotte. "Laissezmoi vous verser de la bière avant que je reprenne la
+Le géant n'allait pas laisser passer l'occasion de
+boire de la bière traditionnelle !
+Il invita la mère de Tselane dans sa grotte. « Laissezmoi vous verser de la bière avant que je reprenne la
 route», déclara la mère de Tselane.
 Le géant était très heureux et but la bière d'un trait.
 
@@ -170,18 +170,18 @@ La mère de Tselane lui en donna de
 plus en plus - et encore plus jusqu'à ce que la calebasse soit
 vide.
 A présent, le géant était tellement
-ivre qu'il s’endormit sur le sol.
+ivre qu'il s'endormit sur le sol.
 
 ##
 Quand la mère de Tselane entendit
 les ronflements bruyants du géant,
-elle ouvrit le sac et Tselane s’en
+elle ouvrit le sac et Tselane s'en
 échappa.
 Tselane et sa mère coururent à la
 maison aussi vite que possible.
 A partir de ce moment là, Tselane
 vécut très heureuse avec sa mère
-dans le nouveau village!
+dans le nouveau village !
 
 ##
 * License: [CC-BY]

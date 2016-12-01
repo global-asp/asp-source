@@ -48,21 +48,21 @@ le millepatte.
 Alors que la poule rentrait à la
 maison, elle rencontra la maman
 millepatte. La maman millepatte
-demanda, "as-tu vu mon enfant?"
+demanda, « as-tu vu mon enfant ? »
 La poule ne répondit pas.
 La maman millepatte était inquiète.
 
 ##
 Puis la maman millepatte entendit
-une petite voix. "Aide-moi maman!"
+une petite voix. « Aide-moi maman ! »
 Criait la voix. La maman millepatte
 regarda autour et écouta
 attentivement. La voix venait de
 l'intérieur de la poule
 
 ##
-La maman millepatte s'écria "Utilise
-tes pouvoirs spéciaux mon enfant!"
+La maman millepatte s'écria « Utilise
+tes pouvoirs spéciaux mon enfant ! »
 Les millepattes peuvent faire une
 mauvaise odeur et donner un
 mauvais goût. La poule commença
@@ -72,7 +72,7 @@ mauvais goût. La poule commença
 La poule fit un rot. Puis elle déglutit
 et cracha. Puis elle éternua et
 toussa. Et toussa. Le millepatte
-était dégoûtant!
+était dégoûtant !
 
 ##
 La poule toussa jusqu'à ce qu'elle

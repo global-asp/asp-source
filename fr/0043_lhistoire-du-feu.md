@@ -1,4 +1,4 @@
-# L’histoire du feu
+# L'histoire du feu
 
 ##
 Laisse-moi te raconter
@@ -18,7 +18,7 @@ sommes de bons amis.
 Je cuis ta nourriture.
 
 ##
-J’éclaire tes nuits.
+J'éclaire tes nuits.
 
 ##
 Je sais faire de
@@ -30,8 +30,8 @@ famille.
 
 ##
 Mais prends garde si tu
-m’invites chez toi.
-Je n’aime pas qu’on me
+m'invites chez toi.
+Je n'aime pas qu'on me
 laisse seul.
 
 ##

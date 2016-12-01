@@ -8,7 +8,7 @@ fruits.
 ##
 Nous lui demandons : «
 Pouvons-nous manger
-des fruits? »
+des fruits ? »
 Maman répond : « Nous
 les mangerons ce soir. »
 
@@ -19,7 +19,7 @@ Il goûte tous les fruits.
 Il en mange beaucoup.
 
 ##
-« Regarde ce qu’a fait
+« Regarde ce qu'a fait
 Rahim ! », crie mon
 petit frère.
 Et moi, je dis : « Rahim
@@ -52,18 +52,18 @@ Rahim ne se sent pas
 bien.
 
 ##
-Il gémit: « J’ai mal au
-ventre! »
+Il gémit: « J'ai mal au
+ventre ! »
 
 ##
 Maman savait que cela
 arriverait.
 Ce sont les fruits qui
-punissent Rahim!
+punissent Rahim !
 
 ##
 Plus tard, Rahim vient
-s’excuser et promet : «
+s'excuser et promet : «
 Je ne serai plus jamais
 aussi glouton. »
 Et nous, nous le

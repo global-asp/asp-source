@@ -1,18 +1,18 @@
 # Le grand bus bleu
 
 ##
-Il n’y avait qu’un bus
-dans le village d’Ebei.
+Il n'y avait qu'un bus
+dans le village d'Ebei.
 Il était grand et bleu.
 Il faisait beaucoup de
 bruit.
 
 ##
 Un jour, la maman
-d’Ebei lui dit: « Demain
+d'Ebei lui dit: « Demain
 nous irons en ville
 acheter ton uniforme
-pour l’école. »
+pour l'école. »
 
 ##
 Ebei était très excité.
@@ -28,16 +28,16 @@ réveiller.
 
 ##
 Ebei et sa maman
-marchèrent jusqu’ à
-l’arrêt de bus.
+marchèrent jusqu' à
+l'arrêt de bus.
 Ils attendirent le grand
 bus bleu.
 Mais le bus ne venait
 pas.
 
 ##
-D’autres gens
-arrivèrent à l’arrêt de
+D'autres gens
+arrivèrent à l'arrêt de
 bus.Ils se plaignaient
 parce que le bus était
 en retard.
@@ -68,11 +68,11 @@ Tout à coup, ils
 entendirent un bruit.
 Ils virent un nuage de
 poussière.
-Le bus arrivait!
+Le bus arrivait !
 
 ##
-Mais le bus n’était pas
-bleu. Il n’était pas
+Mais le bus n'était pas
+bleu. Il n'était pas
 grand non plus.
 Le bus était rouge et
 petit.
@@ -82,10 +82,10 @@ le bus.
 Ils hésitaient à monter.
 
 ##
-“ Montez, Montez!”, cria
+« Montez, Montez ! », cria
 le chauffeur.
 « Nous avons beaucoup
-de retard aujourd’hui, »
+de retard aujourd'hui, »
 dit-il.
 
 ##
@@ -97,12 +97,12 @@ bus rouge.
 
 ##
 Ebei regarda par la
-fenêtre. Il vit d’autres
-gens encore à l’arrêt
-d’autobus.
+fenêtre. Il vit d'autres
+gens encore à l'arrêt
+d'autobus.
 
 ##
-D’autres courraient
+D'autres courraient
 pour prendre le bus.
 Mais il était trop tard.
 Le bus était plein.
@@ -110,8 +110,8 @@ Le bus rouge se mit en
 route vers la ville.
 
 ##
-“ Où est le grand bus bleu?”
-demanda la maman d’Ebei. « Il est
+« Où est le grand bus bleu ? »
+demanda la maman d'Ebei. « Il est
 tombé en panne, » répondit le
 chauffeur. Nous sommes en train
 de le réparer. Il viendra demain, »

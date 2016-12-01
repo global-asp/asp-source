@@ -5,7 +5,7 @@ Sa houe était trop
 courte.
 
 ##
-Sa porte d’entrée était
+Sa porte d'entrée était
 trop basse.
 
 ##
@@ -35,7 +35,7 @@ Il acheta une bicyclette
 très haute.
 
 ##
-Il s’assit sur une chaise
+Il s'assit sur une chaise
 très haute et mangea
 avec une très grande
 fourchette.

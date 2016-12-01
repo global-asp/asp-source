@@ -6,17 +6,17 @@ le monde était de mauvaise
 humeur. Tout le monde sauf Sizwe,
 qui se réveillait tout les matins avec
 un grand sourire.
-"Salut ! Sizwe ! Ce sourire est
-magique !" dit Gogo, sa grandmère. "Est-il pour moi ?"
+« Salut ! Sizwe ! Ce sourire est
+magique ! » dit Gogo, sa grand-mère. « Est-il pour moi ? »
 Sizwe se frappa la main sur la
 bouche.
-"Mais c'est MON sourire, Gogo,"
+« Mais c'est MON sourire, Gogo, »
 chuchota-t-il.
 
 ##
-Sa mère sourit. "Sizwe ! Un sourire,
+Sa mère sourit. « Sizwe ! Un sourire,
 c'est quelque chose que tu peux
-donner sans le perdre. Regarde !"
+donner sans le perdre. Regarde ! »
 Elle le souleva jusqu'au miroir. Il y
 avait là son sourire, tout aussi large
 qu'avant.
@@ -49,7 +49,7 @@ cousin préféré.
 Zanale était si heureuse que le
 sourire rebondit et rayonna sur le
 facteur.
-"Merci, Monsieur le Facteur !" ditelle.
+« Merci, Monsieur le Facteur ! » ditelle.
 
 ##
 Le sourire de Zanele était la chose
@@ -73,23 +73,23 @@ retourna et rentra à la maison en
 courant avec le précieux sourire de
 chaleur.
 Un vieil homme courbé ouvrit la
-porte. "Oh, non ! Tu ne peux pas
-rentrer. Tu es tout mouillé !" dit-il au
+porte. « Oh, non ! Tu ne peux pas
+rentrer. Tu es tout mouillé ! » dit-il au
 chien. Mais tout de suite, le sourire
 rayonna sur le vieil homme.
 
 ##
-Le vieil homme se tint un peu plus droit. "Ookay,"
-dit-il, "Qu'est-ce que ça peut faire s'il pleut ? Allons
-nous promener, mon ami !" Et les voilà partis, en
+Le vieil homme se tint un peu plus droit. « Ookay, »
+dit-il, « Qu'est-ce que ça peut faire s'il pleut ? Allons
+nous promener, mon ami ! » Et les voilà partis, en
 sautant dans les flaques.
 Il y avait Mme Makabela, la policière, debout au
 passage piéton. Elle avait l'air d'avoir froid, d'être
 mouillée et misérable. Le vieil savait ce qu'il fallait
 faire.
-"Bonjour, Mme Makabela !" cria-t-il et il lui fit le plus
+« Bonjour, Mme Makabela ! » cria-t-il et il lui fit le plus
 grand et le plus brillant des sourires.
-Mais Mme Makabela… ne lui rendit pas son sourire.
+Mais Mme Makabela... ne lui rendit pas son sourire.
 
 ##
 Être debout sous la pluie pendant des jours peut vous rendre
@@ -98,7 +98,7 @@ Mais un sourire, c'est quelque chose de magique et, à ce jour, le
 sourire était si fort, et si brillant, qu'il était difficile de le garder au
 fond de soi.
 Il n'a pas fonctionné tout de suite, mais petit à petit, il finit par
-grimper jusqu'à ce que… enfin…!
+grimper jusqu'à ce que... enfin... !
 
 ##
 Un grand et large sourire illumina le
@@ -116,7 +116,7 @@ tatas, à leurs frères et sœurs. Ils
 souriaient au chauffeur de bus et à
 l'épicier, à Mme Makau, qui alors
 sourit à son mari, qui sourit au
-maire…
+maire...
 Les sourires bondissaient et
 roulaient, rayonnaient et
 illuminaient jusqu'à ce que TOUT LE
@@ -127,14 +127,14 @@ fort sous la pluie.
 Dans la bibliothèque, tout était
 calme ; il n'y avait que le bruit de la
 pluie.
-"Il est temps de partir," dit la mère
+« Il est temps de partir, » dit la mère
 de Sizwe en fermant son livre.
-"Oh, maman !" dit Sizwe qui avait
+« Oh, maman ! » dit Sizwe qui avait
 épuisé ses sourires.
 
 ##
 Mais quand ils se retrouvèrent dans
-la rue…
+la rue...
 QUEL SPECTACLE !
 Toute la ville était là !
 Tout le monde !
@@ -148,7 +148,7 @@ de la tête. Il était fou de joie que le sourire éclate,
 qu'il soit brillant et illumine tout avec force.
 Et quelque chose changea. L'après-midi sombre,
 triste et pluvieuse ne semblait plus aussi sombre.
-Est-ce que le… ? OUI !
+Est-ce que le... ? OUI !
 Les nuages partirent et le soleil chaud brilla audessus d'eux, avec le plus grand, le plus brillant et le
 plus éclatant de tous les sourires.
 

@@ -47,5 +47,5 @@ Devine quelle casquette je porte aujourd'hui !
 * License: [CC-BY]
 * Text: Noni
 * Illustration: Angie & Upesh
-* Translation: Sébastien Rolland (freisk!), Translators without Borders
+* Translation: Sébastien Rolland, Translators without Borders
 * Language: fr

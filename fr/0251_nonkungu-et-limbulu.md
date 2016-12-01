@@ -27,10 +27,10 @@ De l'autre côté, elle rencontra une
 jeune fille en haillons.
 
 ##
-"Où vas-tu?" demanda la jeune fille.
-"Je vais rendre visite à mon oncle
-Mtonyama" dit Nonkungu.
-"Eh bien, Mtonyama est aussi mon
+« Où vas-tu ? » demanda la jeune fille.
+« Je vais rendre visite à mon oncle
+Mtonyama » dit Nonkungu.
+« Eh bien, Mtonyama est aussi mon
 oncle et je vais aussi lui rendre
 visite,' dit la jeune fille.
 Alors elles se mirent en chemin
@@ -38,9 +38,9 @@ ensemble.
 
 ##
 Avant d'aller très loin, la jeune fille
-dit : "Ta jupe est tellement belle et
+dit : « Ta jupe est tellement belle et
 tes perles sont si jolies. S'il te plaît,
-laisse-moi les essayer."
+laisse-moi les essayer. »
 Nonkungu enleva sa jupe et ses
 perles et les donna à la jeune fille.
 
@@ -58,32 +58,32 @@ queue.
 
 ##
 Elles marchèrent ensemble.
-"S'il te plaît, rends-moi ma jupe et
-mes perles," demanda Nonkungu.
-Mais l'Imbulu répondit : "Laisse-moi
+« S'il te plaît, rends-moi ma jupe et
+mes perles, » demanda Nonkungu.
+Mais l'Imbulu répondit : « Laisse-moi
 les porter jusqu'à ce qu'on arrive à
-cet arbre." Elle montra un arbre sur
+cet arbre. » Elle montra un arbre sur
 la colline.
 
 ##
 Quand elles eurent atteint l'arbre,
-Nonkungu dit à l'Imbulu : "S'il te
+Nonkungu dit à l'Imbulu : « S'il te
 plaît, rends moi ma jupe et mes
-perles."
-"Laisse-moi juste les porter jusqu'à
+perles. »
+« Laisse-moi juste les porter jusqu'à
 ce que nous arrivions au prochain
-ruisseau," dit l'Imbulu.
+ruisseau, » dit l'Imbulu.
 Nonkungu avait peur et donc
 accepta.
 
 ##
 Elles arrivèrent enfin au ruisseau.
 À nouveau Nonkungu demanda à
-l'Imbulu : "S'il te plaît, rends moi ma
-jupe et mes perles."
-"Laisse-moi les porter jusqu'à ce
+l'Imbulu : « S'il te plaît, rends moi ma
+jupe et mes perles. »
+« Laisse-moi les porter jusqu'à ce
 qu'on arrive à cette hutte où sont
-assises les femmes," dit l'Imbulu.
+assises les femmes, » dit l'Imbulu.
 Alors elles continuèrent à marcher.
 
 ##
@@ -91,9 +91,9 @@ Quand elles atteignirent la hutte,
 l'Imbulu poussa Nonkungu derrière
 et appela les femmes assises à côté
 de la hutte.
-"Regardez cette fille en haillons.
+« Regardez cette fille en haillons.
 Elle m'a suivi toute la journée.
-J'aimerais qu'elle s'en aille," dit
+J'aimerais qu'elle s'en aille, » dit
 l'Imbulu.
 Nonkungu était si honteuse et avait
 si peur qu'elle courut se cacher
@@ -102,9 +102,9 @@ dans le kraal.
 ##
 Alors, l'Imbulu entra dans la hutte
 de l'Oncle Mtonyama. Elle dit
-doucement : "Je suis ta nièce,
+doucement : « Je suis ta nièce,
 Nonkungu. Mes parents m'ont
-envoyée vivre avec toi."
+envoyée vivre avec toi. »
 Mtonnyama accueillit la jeune fille.
 Lui et sa famille furent très gentils à
 l'égard de l'Imbulu.
@@ -117,13 +117,13 @@ share the dog's food.
 Pendant la journée, Nonkungu allait
 dans les champs, elle se cachait
 dans les maïs et chantait :
-"Oh pauvre de moi, pauvre de moi.
+« Oh pauvre de moi, pauvre de moi.
 Mon père et ma mère m'avaient
 envoyée chez mon oncle
 Mtonyama. Et en chemin, j'ai croisé
 un Imbulu et elle m'a pris ma jupe
 et mes perles.
-Oh pauvre de moi, pauvre de moi."
+Oh pauvre de moi, pauvre de moi. »
 
 ##
 Un jour, un des frères de Mtonyama

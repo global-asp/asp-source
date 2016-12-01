@@ -24,7 +24,7 @@ cachèrent.
 ##
 Ils restèrent cachés
 dans des buissons
-jusqu’au soir.
+jusqu'au soir.
 
 ##
 Puis les soldats
@@ -41,7 +41,7 @@ sur Tingi, mais celui-ci
 ne réagit pas.
 
 ##
-Quand il n’y eut plus de
+Quand il n'y eut plus de
 danger, Tingi et sa
 grand-mère se
 relevèrent.

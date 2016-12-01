@@ -1,13 +1,13 @@
 # Mes amis
 
 ##
-Je m’appelle Simo.
+Je m'appelle Simo.
 
 ##
-J’ai quatre amis.
+J'ai quatre amis.
 
 ##
-Ils s’appellent Zizo,
+Ils s'appellent Zizo,
 Lele, Sisa et Ayanda.
 
 ##
@@ -27,8 +27,8 @@ Mon amie Ayanda aime
 lire.
 
 ##
-Et moi? J’aime tout ce
-qu’ils aiment faire.
+Et moi ? J'aime tout ce
+qu'ils aiment faire.
 
 ##
 Je joue au football avec
@@ -42,7 +42,7 @@ Je joue à cache-cache
 avec Sisa.
 
 ##
-Viens, mon ami, qu’estce que tu aimes faire?
+Viens, mon ami, qu'estce que tu aimes faire ?
 
 ##
 Viens jouer au football

@@ -5,7 +5,7 @@ Voilà une vache.
 La vache est sympa.
 
 ##
-Durant la journée, c’est
+Durant la journée, c'est
 une vache ordinaire.
 
 ##
@@ -16,7 +16,7 @@ Elle tape dans un
 ballon.
 
 ##
-Mais la nuit c’est une
+Mais la nuit c'est une
 super vache.
 
 ##
@@ -30,7 +30,7 @@ criminels.
 Et si tu fermes les yeux bien fort, et que tu fais un vœux...
 
 ##
-La vache pourrait aussi te rendre visite!
+La vache pourrait aussi te rendre visite !
 
 ##
 Fin.

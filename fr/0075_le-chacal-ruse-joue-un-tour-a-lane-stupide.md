@@ -4,7 +4,7 @@
 Il était une fois, Chacal rusé qui
 s'était levé tôt le matin. Il avait très
 faim. Son estomac grognait
-fortement. GRRRrrrrr! Il se leva en
+fortement. GRRRrrrrr ! Il se leva en
 sautant et partit chercher à manger.
 
 ##
@@ -17,37 +17,37 @@ laquelle il pouvait penser, c'était à
 son estomac qui criait famine.
 
 ##
-"Aaauuu !" cria Chacal rusé très
+« Aaauuu ! » cria Chacal rusé très
 fort. Il tomba dans un puits juste en
 face de lui. Il avait tellement faim
 qu'il ne l'avait même pas vu.
 
 ##
-"Bigre !" pensa-t-il. "Il faut que je
+« Bigre ! » pensa-t-il. « Il faut que je
 sorte de ce puits. Je vais mourir de
-faim."
+faim. »
 
 ##
-Chacal rusé hurla et cria : "À l'aide !
-Il y a quelqu'un !" Âne était en train
+Chacal rusé hurla et cria : « À l'aide !
+Il y a quelqu'un ! » Âne était en train
 de paître à quelques mètres du
 puits. Il entendit les cris désespérés
 de Chacal rusé. Il se précipita.
 
 ##
-"Qu'est-ce qui se passe ?" Âne était
+« Qu'est-ce qui se passe ? » Âne était
 très inquiet.
-"L'eau de ce puits est fraîche et
+« L'eau de ce puits est fraîche et
 douce. J'en ai assez de nager seul.
 J'ai besoin de quelqu'un pour
 m'aider à nager. S'il te plaît, viens
-te joindre à moi ?"
+te joindre à moi ? »
 
 ##
-"Il fait très chaud," dit-Âne.
-"Seulement, je ne sais pas nager."
-"Saute ! Je vais t'aider à sortir du
-puits," promit Chacal rusé.
+« Il fait très chaud, » dit-Âne.
+« Seulement, je ne sais pas nager. »
+« Saute ! Je vais t'aider à sortir du
+puits, » promit Chacal rusé.
 
 ##
 Âne sauta dans le puits. L'eau était
@@ -57,7 +57,7 @@ Chacal rusé lui sauta sur le dos,
 puis sortit du puits. Chacal rusé ria
 et se sauva. Âne était pris au piège
 du puits. Il commença à hurler et à
-crier : "À l'aide ! Il y a quelqu'un !"
+crier : « À l'aide ! Il y a quelqu'un ! »
 
 ##
 * License: [CC-BY]

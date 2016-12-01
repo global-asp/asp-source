@@ -16,7 +16,7 @@ sa part.
 
 ##
 Le chien paya un peu
-plus, parce qu’il n’avait
+plus, parce qu'il n'avait
 pas la somme exacte.
 
 ##
@@ -34,28 +34,28 @@ rendre la monnaie au
 chien.
 
 ##
-C’est pourquoi, encore
-aujourd’hui à l’arrivée
-d’une voiture, le chien
+C'est pourquoi, encore
+aujourd'hui à l'arrivée
+d'une voiture, le chien
 court trouver le
-chauffeur à l’intérieur
-pour qu’il lui rende sa
+chauffeur à l'intérieur
+pour qu'il lui rende sa
 monnaie.
 
 ##
 La chèvre se sauve au
-bruit d’une voiture. Elle
-a peur d’être arrêtée
+bruit d'une voiture. Elle
+a peur d'être arrêtée
 pour ne pas avoir payé.
 
 ##
 La vache quant à elle,
 reste indifférente à
-l’approche d’une
+l'approche d'une
 voiture. Elle prend son
 temps pour traverser la
-route parce qu’elle sait
-qu’elle a payé son dû.
+route parce qu'elle sait
+qu'elle a payé son dû.
 
 ##
 * License: [CC-BY]

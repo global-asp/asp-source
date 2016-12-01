@@ -28,7 +28,7 @@ Ils se mirent à pleurer.
 Ils versèrent beaucoup de larmes.
 
 ##
-Le monde entier se recouvrit d’eau.
+Le monde entier se recouvrit d'eau.
 
 ##
 Pendant ce temps, de l'autre côté du ciel, Soleil s'apprêtait à quitter sa sœur.

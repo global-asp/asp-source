@@ -5,12 +5,12 @@ Voici Azizi. Azizi est ma
 poupée.
 
 ##
-J’aime beaucoup Azizi
-parce qu’elle sourit tout
+J'aime beaucoup Azizi
+parce qu'elle sourit tout
 le temps.
 
 ##
-Après m’être levée, je
+Après m'être levée, je
 me lave le visage.
 Puis je cherche Azizi.
 
@@ -26,7 +26,7 @@ aussi à manger à Azizi.
 
 ##
 Lorsque je mange des
-bonbons, j’en donne
+bonbons, j'en donne
 aussi un à Azizi.
 
 ##
@@ -41,7 +41,7 @@ jardin et y cueille des
 fleurs.
 
 ##
-J’en donne une à Azizi.
+J'en donne une à Azizi.
 Mais elle ne dit jamais
 « merci ».
 
@@ -51,9 +51,9 @@ ma maman ne me
 donne mon bain.
 
 ##
-J’habille Azizi de
+J'habille Azizi de
 vêtements rouges,
-parce que j’adore le
+parce que j'adore le
 rouge.
 
 ##

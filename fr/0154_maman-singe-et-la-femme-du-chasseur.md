@@ -4,22 +4,22 @@
 Dans la forêt de Miwa, vivait
 une mère singe qui était
 toujours triste.
-Chaque fois qu’elle avait eu un
-petit, il n’avait pas survécu.
+Chaque fois qu'elle avait eu un
+petit, il n'avait pas survécu.
 
 ##
 La douleur de perdre ses bébés
 faisait sauter Maman Singe de
 haut en bas.
-Elle sautait d’une branche à
-l’autre, et criait : « Kwi ! Kwi !
+Elle sautait d'une branche à
+l'autre, et criait : « Kwi ! Kwi !
 Kwi ! »
 
 ##
 Maman Singe était toujours
 triste.
 Elle était encore plus triste
-quand elle voyait d’autres
+quand elle voyait d'autres
 parents singes avec leurs
 bébés.
 
@@ -33,7 +33,7 @@ Les jours passaient, et Maman
 Singe pleurait de plus en plus.
 
 ##
-C’est alors qu’elle donna
+C'est alors qu'elle donna
 naissance à un petit.
 Elle décida de déposer le bébé
 sur le sentier pour que les
@@ -51,8 +51,8 @@ bord du sentier.
 
 ##
 Le chasseur porta le petit singe
-jusqu’à chez lui.
-Dès qu’il fut arrivé, ses trois
+jusqu'à chez lui.
+Dès qu'il fut arrivé, ses trois
 garçons commencèrent à jouer
 avec le petit animal.
 
@@ -62,8 +62,8 @@ Les trois garçons chantaient :
 « Lance-le en bas !
 « Lance le moi !
 « Lance-le-lui ! »
-Et le petit singe passait d’un
-enfant à l’autre.
+Et le petit singe passait d'un
+enfant à l'autre.
 
 ##
 Tandis que les trois garçons

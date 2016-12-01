@@ -6,7 +6,7 @@ Le vent rugit.
 Il rugit en passant devant chez nous.
 
 ##
-C’est un vent violent.
+C'est un vent violent.
 
 Il m'arrache le cerf-volant de la main.
 
@@ -46,7 +46,7 @@ Où est passé le vent ?
 ##
 Je ne vois mon cerf-volant nulle part.
 
-Je n’entends plus le vent.
+Je n'entends plus le vent.
 
 ##
 Peut-être que demain je retrouverai mon cerfvolant.

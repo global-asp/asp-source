@@ -10,7 +10,7 @@ Il cherchait de quoi
 manger, doucement et
 sans faire de bruit.
 
-Et soudain …
+Et soudain ...
 
 ##
 TCHAK !!!
@@ -22,7 +22,7 @@ calmée, et il est
 content.
 
 ##
-Jusqu’à ce qu’il ait faim
+Jusqu'à ce qu'il ait faim
 de nouveau.
 
 ##

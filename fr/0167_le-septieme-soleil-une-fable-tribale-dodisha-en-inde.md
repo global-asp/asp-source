@@ -19,7 +19,7 @@ Le septième astre se cacha derrière
 une colline.
 
 ##
-Maintenant qu’il n’y avait plus
+Maintenant qu'il n'y avait plus
 aucun soleil, la terre était plongée
 dans le noir.
 Les biches ne voyaient plus les
@@ -31,51 +31,51 @@ partout.
 ##
 Pour trouver une solution, les
 animaux décidèrent de se réunir.
-Un lapin dit que l’un des sept soleils
+Un lapin dit que l'un des sept soleils
 était toujours vivant et se cachait
 derrière une colline.
 Mais qui serait le meilleur pour
 appeler le soleil ?
 
 ##
-"C’est moi qui appellerai le soleil",
+« C'est moi qui appellerai le soleil »,
 dit le lion, qui était le roi de la forêt.
-"Soleil, Soleil, je t’en prie, ne nous
-quitte pas. Reviens briller sur nous",
+« Soleil, Soleil, je t'en prie, ne nous
+quitte pas. Reviens briller sur nous »,
 rugit-il.
-Mais le soleil ne l’entendit pas.
+Mais le soleil ne l'entendit pas.
 
 ##
-Puis, ce fut le tour de l’éléphant.
+Puis, ce fut le tour de l'éléphant.
 Il leva sa trompe et trompéta :
-"Soleil, Soleil, reviens, je t’en prie",
-mais le soleil ne l’entendit pas.
+« Soleil, Soleil, reviens, je t'en prie »,
+mais le soleil ne l'entendit pas.
 
 ##
 Le superbe paon dansa et implora :
-"Soleil, Soleil, reviens s’il te plaît."
+« Soleil, Soleil, reviens s'il te plaît. »
 Mais le soleil refusait de revenir.
-L’un après l’autre, tous les animaux
+L'un après l'autre, tous les animaux
 supplièrent le soleil, mais il
-n’entendit aucun d’entre eux.
+n'entendit aucun d'entre eux.
 Finalement, un coq proposa de
-l’appeler. Tout le monde éclata de
+l'appeler. Tout le monde éclata de
 rire. Mais le lion était un chef juste.
-Il dit : "Le coq doit avoir le droit
-d’essayer."
+Il dit : « Le coq doit avoir le droit
+d'essayer. »
 
 ##
-Le coq s’avança et chanta
-doucement : "Cocorico."
+Le coq s'avança et chanta
+doucement : « Cocorico. »
 A la surprise générale, le soleil jeta
 un œil timide de derrière la colline.
 
 ##
-Le coq chanta à nouveau, avec un peu plus d’audace
-cette fois : "CocoriCOO..."
+Le coq chanta à nouveau, avec un peu plus d'audace
+cette fois : « CocoriCOO... »
 Le soleil monta un peu plus haut. Le coq chanta pour
 la troisième fois. Et cette fois, sa voix était forte et
-affirmée : "COCORICO !!!"
+affirmée : « COCORICO !!! »
 Alors le soleil monta haut dans le ciel et brilla bien
 fort, inondant le monde de lumière.
 Les animaux étaient ravis et les humains se
@@ -84,7 +84,7 @@ sentaient soulagés.
 ##
 Les animaux demandèrent aux
 humains de ne pas tuer le soleil, et
-ils se mirent d’accord.
+ils se mirent d'accord.
 Depuis ce jour, quand le coq chante
 le matin, le soleil se lève et brille
 dans le ciel.

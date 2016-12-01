@@ -2,30 +2,30 @@
 
 ##
 Un éléphant va boire
-l’eau.
+l'eau.
 
 ##
 Deux girafes vont boire
-l’eau.
+l'eau.
 
 ##
 Trois bœufs et quatre
 oiseaux vont boire
-l’eau.
+l'eau.
 
 ##
 Cinq impalas et six
 cochons sauvages vont
-boire l’eau.
+boire l'eau.
 
 ##
 Sept zèbres courent
-vers l’eau.
+vers l'eau.
 
 ##
 Huit grenouilles et neuf
 poissons nagent dans
-l’eau.
+l'eau.
 
 ##
 Un lion rugit.
@@ -34,7 +34,7 @@ Qui a peur du lion ?
 
 ##
 Un éléphant boit de
-l’eau avec le lion.
+l'eau avec le lion.
 
 ##
 * License: [CC-BY]

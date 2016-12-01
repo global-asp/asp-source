@@ -5,35 +5,35 @@ Il y a longtemps, dans le village
 de Elunyiko, vivait un homme
 du nom de Ndong'a avec sa
 femme Namukhaywa. Ils ont eu
-6 enfants. C’était toutes des
+6 enfants. C'était toutes des
 filles
 
 ##
 Quand Namukhaywa fut
 enceinte de son septième
-enfant, Ndong'a l'avertit, "Si tu
+enfant, Ndong'a l'avertit, « Si tu
 donnes naissance à une autre
 fille, tu devras t'enfuir. Mais si
 tu donnes naissance à un petit
-garçon, j’organiserai une
-grande fête pour toi! "
+garçon, j'organiserai une
+grande fête pour toi ! »
 
 ##
 Quand arriva le moment de la
 naissance, Namukhaywa alla
 voir la sage-femme. Est-ce que
 cela serait un garçon ou une
-fille?
+fille ?
 
 ##
-Elle eut un garçon et une fille des jumeaux! Elle appela le
+Elle eut un garçon et une fille des jumeaux ! Elle appela le
 garçon Mukhwana, et la fille
 Mulongo. Lorsqu'elle regardait
 Mukhwana, elle était très
 heureuse. Mais alors qu'elle
 regardait Mulongo, elle se
-sentait triste. Elle pensait, qu’il
-y avait qu’une seule chose à
+sentait triste. Elle pensait, qu'il
+y avait qu'une seule chose à
 faire.
 
 ##
@@ -58,13 +58,13 @@ magnifique jeune femme.
 Un jour, alors qu'il gardait le
 bétail de son père, Mukhwana
 vit une très belle fille.
-"C'est la fille que je veux
-épouser," se dit-il.
+« C'est la fille que je veux
+épouser, » se dit-il.
 
 ##
 Quand il la demanda en
 marriage, elle se mit à chanter:
-“Mukhwana wefwe, Mukhwana.
+« Mukhwana wefwe, Mukhwana.
 So yakhupa omunwa,
 Mukhwana. Nebebula
 omukhana, Mukhwana.
@@ -73,21 +73,21 @@ Mukhwana. Nebebula omusiani,
 Mukhwana. Barera mungo
 muno, Mukhwana. Iyeyi yakwa,
 Mukhwana. Iyindi yakwa,
-Mukhwana.”
+Mukhwana. »
 
 ##
 Ceci se passa encore et encore.
 Mukhwana ne savait pas quoi
 faire. Alors il se rendit auprès
-de sa mère, Namukhaywa. "J'ai
-trouvé une belle jeune fille," ditil. "Et je veux l'épouser. Mais
+de sa mère, Namukhaywa. « J'ai
+trouvé une belle jeune fille, » dit-il. « Et je veux l'épouser. Mais
 chaque fois que je lui demande,
 elle me chante la même
-chanson".
+chanson ».
 
 ##
 À sa grande surprise,
-Namukhaywa lui dit, "Ce que
+Namukhaywa lui dit, « Ce que
 chante la jeune fille chante est
 vrai. C'est ta sœur.
 Vous étaient nés jumeaux. ton
@@ -99,7 +99,7 @@ maison.
 ##
 Lorsque Mukhwana raconta
 l'histoire à son propre père,
-celui-ci se rendit compte qu’il
+celui-ci se rendit compte qu'il
 avait eu tort. Il appela
 Namukhaywa et ensemble ils se
 rendirent auprès de la sagefemme pour aller chercher

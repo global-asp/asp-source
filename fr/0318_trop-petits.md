@@ -87,5 +87,5 @@ moi ! »
 * License: [CC-BY-NC]
 * Text: Media Matters
 * Illustration: Sandy Lightly
-* Translation: Sébastien Rolland (freisk!), Translators without Borders
+* Translation: Sébastien Rolland, Translators without Borders
 * Language: fr

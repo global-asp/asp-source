@@ -19,17 +19,17 @@ Les chèvres bêlent.
 Les vaches meuglent.
 
 ##
-Les lions rugissent…
+Les lions rugissent...
 
 ##
-…et les escargots ne
+...et les escargots ne
 font aucun bruit.
 
 ##
-Les bébés babillent…
+Les bébés babillent...
 
 ##
-…et les enfants parlent.
+...et les enfants parlent.
 
 ##
 

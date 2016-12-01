@@ -1,22 +1,22 @@
 # Pendo notre vache
 
 ##
-Voici c’est Ndalo.
+Voici c'est Ndalo.
 
 ##
 Ndalo aime lire toutes sortes de livres.
 
 ##
-Lui, c’est Pendo.
+Lui, c'est Pendo.
 
 ##
 Pendo aime manger des carottes.
 
 ##
-Ndalo paît Pendo après l’école.
+Ndalo paît Pendo après l'école.
 
 ##
-Il lui donne de l’eau fraîche.
+Il lui donne de l'eau fraîche.
 
 ##
 Papa donne du grain à Pendo.
@@ -34,7 +34,7 @@ Papa vend le lait de Pendo.
 Ndalo boit du bon lait frais tous les jours.
 
 ##
-Il dit: “Merci Pendo!”
+Il dit: « Merci Pendo ! »
 
 ##
 * License: [CC-BY]

@@ -6,21 +6,21 @@ amis, Tortue et Serpent.
 
 ##
 Un jour Tortue dit à
-Serpent : "Allons
-nager."
-"D'accord, mais je ne
-sais pas nager,"
+Serpent : « Allons
+nager. »
+« D'accord, mais je ne
+sais pas nager, »
 répondit Serpent.
-"Je vais t'apprendre,"
+« Je vais t'apprendre, »
 assura Tortue
 
 ##
 Ils partirent pour la
-piscine. "Qui entrera le
-premier dans l'eau ?"
+piscine. « Qui entrera le
+premier dans l'eau ? »
 demanda Tortue.
-"Toi, et je te
-regarderai," dit Serpent.
+« Toi, et je te
+regarderai, » dit Serpent.
 
 ##
 Tortue entra dans la piscine. Serpent l'observait depuis les

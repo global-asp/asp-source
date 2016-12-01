@@ -17,9 +17,9 @@ Selemeng a un gros chat.
 Ce chat mange de tout.
 
 ##
-Selemeng grimpe à l’arbre.
+Selemeng grimpe à l'arbre.
 Elle reste coincée avec le chat numéro trois.
-La mère de Selemeng doit l’aider à descendre.
+La mère de Selemeng doit l'aider à descendre.
 
 ##
 Selemeng a deux chats paresseux.
@@ -30,13 +30,13 @@ Selemeng a trois chats affairés.
 Ils attrapent des rats dans la cuisine pendant la nuit.
 
 ##
-Selemeng a un chien. Il s’appelle Lirafi.
-Lirafi n’a pas d’amis. Il est triste.
+Selemeng a un chien. Il s'appelle Lirafi.
+Lirafi n'a pas d'amis. Il est triste.
 
 ##
-Les chats de Selemeng n’aiment pas Lirafi.
+Les chats de Selemeng n'aiment pas Lirafi.
 Ils le chassent de la maison.
-Lirafi s’enfuit.
+Lirafi s'enfuit.
 
 ##
 Selemeng trouve Lirafi et le ramène à la maison.

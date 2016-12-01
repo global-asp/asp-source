@@ -10,8 +10,8 @@ cornes. Personne d'autre.
 
 ##
 Quand le cochon entendit parler
-de la fête, il se dit : "Je n'ai pas
-de cornes. Que vais-je faire ?"
+de la fête, il se dit : « Je n'ai pas
+de cornes. Que vais-je faire ? »
 
 ##
 Le lendemain, il eut une idée. Je
@@ -31,14 +31,14 @@ Quand la fête commença à
 chauffer, la cire commença à
 fondre et les cornes tombèrent.
 Les animaux à cornes furent
-offusqués : "Qui est cet animal
+offusqués : « Qui est cet animal
 sans corne ? Pourquoi est-il
-venu ici ?" demandèrent-ils.
+venu ici ? » demandèrent-ils.
 
 ##
 Le roi des animaux commanda :
-"Attrapez ce cochon et jetez-le
-à terre."
+« Attrapez ce cochon et jetez-le
+à terre. »
 Ils attrapèrent le cochon et le
 jetèrent à terre.
 

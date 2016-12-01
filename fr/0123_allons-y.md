@@ -1,44 +1,44 @@
-# Allons-y!
+# Allons-y !
 
 ##
-Avec mon nez…
+Avec mon nez...
 
 ##
-…je sens des
+...je sens des
 chaussettes sales.
 
 ##
-… je sens de jolies
+... je sens de jolies
 fleurs.
 
 ##
-Avec mes yeux…
+Avec mes yeux...
 
 ##
-… je vois un ballon
-s’envoler, au loin dans
+... je vois un ballon
+s'envoler, au loin dans
 le vent
 
 ##
-… je vois un chat tout
+... je vois un chat tout
 content.
 
 ##
-Avec ma bouche…
+Avec ma bouche...
 
 ##
-… je goûte l’eau salée
+... je goûte l'eau salée
 de la mer.
 
 ##
-… je goûte le jus sucré
-d’une orange.
+... je goûte le jus sucré
+d'une orange.
 
 ##
-Avec ma main…
+Avec ma main...
 
 ##
-… je prends ta main.
+... je prends ta main.
 
 ##
 * License: [CC-BY]

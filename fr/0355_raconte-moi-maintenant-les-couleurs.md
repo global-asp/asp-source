@@ -1,12 +1,12 @@
-# Raconte-moi… Maintenant ! Les couleurs
+# Raconte-moi... Maintenant ! Les couleurs
 
 ##
 Pourquoi le ciel est-il
 bleu ?
 
 ##
-Il n’est pas toujours
-bleu. N’est-ce pas ?
+Il n'est pas toujours
+bleu. N'est-ce pas ?
 
 ##
 Pourquoi les feuilles
@@ -14,7 +14,7 @@ sont-elles vertes ?
 
 ##
 Elles ne sont pas
-toujours vertes. N’estce pas ?
+toujours vertes. N'estce pas ?
 
 ##
 Pourquoi les bananes

@@ -39,14 +39,14 @@ Nous nous demandons :
 
 ##
 Elle prend un bain
-d’eau froide.
+d'eau froide.
 Nous nous demandons :
 « Pourquoi Yayeri estelle grande ? »
 
 ##
 Elle enfile son uniforme
 orange pour aller à
-l’école.
+l'école.
 Nous nous demandons :
 « Pourquoi Yayeri estelle grande ? »
 
@@ -55,11 +55,11 @@ Elle met ses chaussures
 noires.
 Nous nous demandons:
 « Pourquoi est-Yayeri
-grand?
+grand ?
 
 ##
-Elle arrive à l’heure à
-l’école de Mbala.
+Elle arrive à l'heure à
+l'école de Mbala.
 Nous nous demandons :
 « Pourquoi Yayeri estelle grande ? »
 
@@ -71,7 +71,7 @@ Nous nous demandons :
 
 ##
 Elle chante et danse
-l’otamenhaibuga, et
+l'otamenhaibuga, et
 joue au football.
 Nous nous demandons :
 « Pourquoi Yayeri estelle grande ? »

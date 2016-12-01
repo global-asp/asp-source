@@ -21,40 +21,40 @@ chaque animal.
 ##
 Il était curieux à propos
 de la girafe.
-"Pourquoi as tu un long
-cou?" demandait-il.
+« Pourquoi as tu un long
+cou ? » demandait-il.
 
 ##
 Il était curieux à propos
 du rhinocéros.
-"Pourquoi ta corne estelle si pointue?"
+« Pourquoi ta corne estelle si pointue ? »
 
 ##
 Il était curieux au sujet
 de l'hippopotame.
-"Pourquoi as tu des
-yeux rouges? "
+« Pourquoi as tu des
+yeux rouges ? »
 demandait-t-il.
 
 ##
 Et il était curieux au
 sujet du crocodile.
-"Que mange le
+« Que mange le
 crocodile manger pour
-le diner?"
+le diner ? »
 
 ##
-"Ne pose jamais ce
-genre de question! " lui
+« Ne pose jamais ce
+genre de question ! » lui
 dit sa mère.
 Elle s'éloigna en
 fronçant les sourcils.
 
 ##
 Mais le corbeau très
-malin poursuivit: "Suismoi à la rivière. Là, tu
+malin poursuivit: « Suismoi à la rivière. Là, tu
 verras ce que mange le
-crocodile pour le diner".
+crocodile pour le diner ».
 
 ##
 Le bébé éléphant suivit
@@ -67,32 +67,32 @@ Il se fraya un passage
 au travers les roseaux
 et se tint sur la rive. Il
 regarda dans l'eau. Où
-était le Crocodile?
+était le Crocodile ?
 
 ##
-"Bonjour", déclara une
+« Bonjour », déclara une
 pierre près de la rive de
 la rivière.
-"Bonjour", dit le bébé
-éléphant. "Peut-être
+« Bonjour », dit le bébé
+éléphant. « Peut-être
 pourriez vous me dire,
 ce que le crocodile
-mange pour le diner?"
+mange pour le diner ? »
 
 ##
-"Penche-toi et je vais te
-le dire", déclara la
-pierre. "plus bas, plus
-bas ..." Le bébé
+« Penche-toi et je vais te
+le dire », déclara la
+pierre. « plus bas, plus
+bas ... » Le bébé
 éléphant se pencha très
 bas, jusqu'à ce que ...
 
 ##
-"Snap!" Son nez fut pris
+« Snap ! » Son nez fut pris
 dans les mâchoires du
 crocodile.
-"Crocodile, que manges
-tu pour le diner!"
+« Crocodile, que manges
+tu pour le diner ! »
 croassa le corbeau.
 
 ##
@@ -108,7 +108,7 @@ Le nez du bébé
 éléphant s'étira, s'étira,
 et s'étira, jusqu'à ce
 que...
-"Duuffff!" Il tomba sur
+« Duuffff ! » Il tomba sur
 le dos.
 
 ##
@@ -120,7 +120,7 @@ disparut sous l'eau.
 Le bébé éléphant
 regarda son nez.
 Il ne pouvait pas en voir
-le bout!
+le bout !
 
 ##
 Il était si long, qu'il

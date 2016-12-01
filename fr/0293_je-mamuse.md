@@ -31,7 +31,7 @@ J'aime dormir dans un grand lit.
 J'aime écouter maman, quand elle me raconte des histoires.
 
 ##
-Ah! J'aime faire tout cela.
+Ah ! J'aime faire tout cela.
 
 ##
 * License: [CC-BY]

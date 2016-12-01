@@ -1,7 +1,7 @@
 # Lekishon et les vaches
 
 ##
-C’est l’histoire de
+C'est l'histoire de
 Lekishon.
 Lekishon appelle son
 chien.
@@ -18,7 +18,7 @@ ont soif et faim.
 
 ##
 Ils partent à la
-recherche d’eau.
+recherche d'eau.
 
 ##
 Lekishon perd la trace
@@ -35,7 +35,7 @@ maison avec son chien.
 
 ##
 Les vaches ont retrouvé
-le chemin de la maison!
+le chemin de la maison !
 Lekishon et son chien
 sont très contents.
 
