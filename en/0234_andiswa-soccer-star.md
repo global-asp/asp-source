@@ -27,5 +27,5 @@ The crowd went wild with joy. Since that day, girls were also allowed to play so
 ##
 * License: [CC-BY-NC]
 * Text: Eden Daniels
-* Illustration: Eden Daniels, Lisa Treffry-Goatley (ed.)
+* Illustration: Eden Daniels
 * Language: en

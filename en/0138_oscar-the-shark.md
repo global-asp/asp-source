@@ -48,5 +48,4 @@ with fish!
 * License: [CC-BY-NC]
 * Text: Ethan Alberts
 * Illustration: Ethan Alberts
-* Editing: Lisa Treffry-Goatley
 * Language: en

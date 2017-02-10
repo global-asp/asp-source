@@ -84,5 +84,4 @@ dancing ape.
 * License: [CC-BY-NC]
 * Text: Sean Whitehead
 * Illustration: Sean Whitehead
-* Editing: Lisa Treffry-Goatley
 * Language: en
