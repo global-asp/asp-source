@@ -58,7 +58,7 @@ une petite voix. « Aide-moi maman ! »
 Criait la voix. La maman millepatte
 regarda autour et écouta
 attentivement. La voix venait de
-l'intérieur de la poule
+l'intérieur de la poule.
 
 ##
 La maman millepatte s'écria « Utilise

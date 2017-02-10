@@ -19,7 +19,7 @@ I squeezed in next to a window. The person sitting next to me was holding tightl
 I looked outside the bus and realised that I was leaving my village, the place where I had grown up. I was going to the big city.
 
 ##
-The loading was completed and all passengers were seated. Hawkers still pushed their way into the bus to sell their goods to the passengers. Each one was shouting the names of what was available for sale. The words sounded funny to me.
+The loading was completed and all passengers were seated. Hawkers still pushed their way into the bus to sell their goods to the passengers. Everyone was shouting the names of what was available for sale. The words sounded funny to me.
 
 ##
 A few passengers bought drinks, others bought small snacks and began to chew. Those who did not have any money, like me, just watched.

@@ -39,7 +39,7 @@ read under your shade."
 
 ##
 Khalai talks to the
-hedge round her school.
+hedge around her school.
 “Please grow strong
 and stop bad people
 from coming in."
