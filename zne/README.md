@@ -2,4 +2,4 @@
 
 Story ID | Title | License
 -------- | ----- | -------
-0112 | [Kptore](http://my.africanstorybook.org/stories/kptore) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
+0112 | [Kptore](http://my.africanstorybook.org/stories/kptore) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)

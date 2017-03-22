@@ -2,7 +2,7 @@
 
 Story ID | Title | License
 -------- | ----- | -------
-0009 | [Liphi likati lami](http://my.africanstorybook.org/stories/liphi-likati-lami) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
+0009 | [Liphi likati lami](http://my.africanstorybook.org/stories/liphi-likati-lami) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0039 | [Indvodza yekucala nemfati wekucala](http://my.africanstorybook.org/stories/indvodza-yekucala-nemfati-wekucala) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0042 | [Jakalazi lolambile nemagilebisi lamunyu](http://my.africanstorybook.org/stories/jakalazi-lolambile-nemagilebisi-lamunyu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0048 | [Nogwaja ngaphasi kwesihlahla](http://my.africanstorybook.org/stories/nogwaja-ngaphasi-kwesihlahla) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

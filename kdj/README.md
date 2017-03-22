@@ -2,4 +2,4 @@
 
 Story ID | Title | License
 -------- | ----- | -------
-0241 | [Anang’a a ng’amotokae](http://my.africanstorybook.org/stories/anang’-ng’amotokae-0) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
+0241 | [Anang’a a ng’amotokae](http://my.africanstorybook.org/stories/anang’-ng’amotokae-0) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)

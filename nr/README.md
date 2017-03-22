@@ -2,7 +2,7 @@
 
 Story ID | Title | License
 -------- | ----- | -------
-0009 | [Ukuphi ukatsu wami?](http://my.africanstorybook.org/stories/ukuphi-ukatsu-wami) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
+0009 | [Ukuphi ukatsu wami?](http://my.africanstorybook.org/stories/ukuphi-ukatsu-wami) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0018 | [Kubayini uYayeri alungile?](http://my.africanstorybook.org/stories/kubayini-uyayeri-alungile) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0036 | [Kosazana Helen](http://my.africanstorybook.org/stories/kosazana-helen) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0050 | [Unamazinyo amangakhi?](http://my.africanstorybook.org/stories/unamazinyo-amangakhi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
@@ -27,6 +27,6 @@ Story ID | Title | License
 0291 | [Yini okutjhiwo ngudadwabo likaVusi?](http://my.africanstorybook.org/stories/yini-okutjhiwo-ngudadwabo-likavusi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0296 | [Abangani abakhulu ababili](http://my.africanstorybook.org/stories/abangani-abakhulu-ababili) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0299 | [UFudu uthola indlu yakhe](http://my.africanstorybook.org/stories/ufudu-uthola-indlu-yakhe-1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0318 | [Zincani khulu](http://my.africanstorybook.org/stories/zincani-khulu) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
+0318 | [Zincani khulu](http://my.africanstorybook.org/stories/zincani-khulu) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0342 | [Isijeziso sakaThemba](http://my.africanstorybook.org/stories/isijeziso-sakathemba) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0355 | [Ngitjela nje ... imibala](http://my.africanstorybook.org/stories/ngitjela-nje-...-imibala) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

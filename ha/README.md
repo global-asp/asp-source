@@ -5,7 +5,7 @@ Story ID | Title | License
 0001 | [Wani mutum mai ƙirma](http://my.africanstorybook.org/stories/wani-mutum-mai-ƙirma) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0059 | [Tabarmar ta masumman ta Akai](http://my.africanstorybook.org/stories/tabarmar-ta-masumman-ta-akai) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0060 | [Nakitto a makaranta](http://my.africanstorybook.org/stories/nakitto-makaranta) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
-0078 | [Labarin wata saniya](http://my.africanstorybook.org/stories/labarin-wata-saniya-3) | [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/)
+0078 | [Labarin wata saniya](http://my.africanstorybook.org/stories/labarin-wata-saniya-3) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0118 | [Tselane da ƙato](http://my.africanstorybook.org/stories/tselane-da-ƙato) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0123 | [Mu je !](http://my.africanstorybook.org/stories/mu-je) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0141 | [Kaza da shanshani](http://my.africanstorybook.org/stories/kaza-da-shanshani-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
