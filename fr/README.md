@@ -4,7 +4,7 @@ Story ID | Title | License
 -------- | ----- | -------
 0001 | [Un homme très grand](http://my.africanstorybook.org/stories/un-homme-tr%C3%A8s-grand) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0005 | [Anansi et Tortue](http://my.africanstorybook.org/stories/anansi-et-tortue) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0011 | [Nsangabisibe et Mudduawulira](http://my.africanstorybook.org/stories/nsangabisibe-et-mudduawulira) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0011 | [Père et fils](http://my.africanstorybook.org/stories/p%C3%A8re-et-fils) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0014 | [La fille du nom de Norah](http://my.africanstorybook.org/stories/la-fille-du-nom-de-norah) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0018 | [Pourquoi Yayeri est-elle grande ?](http://my.africanstorybook.org/stories/pourquoi-yayeri-est-elle-grande) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0019 | [Ma première visite du marché](http://my.africanstorybook.org/stories/ma-premi%C3%A8re-visite-du-march%C3%A9) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

@@ -2,9 +2,9 @@
 
 ##
 Once up on a time, a man had two
-goats , he used to keep them in a
+goats, he used to keep them in a
 goats house and shut the door
-every evening .
+every evening.
 In the morning he opened them
 and took them to graze.
 He used to tether them where
@@ -35,9 +35,9 @@ found the vines eaten, he
 quarreled and quarreled, he
 planned to be checking on his
 vines at night.
-In the middle of the night , he
+In the middle of the night, he
 came out with a spear, he tip toed
-towards the goats , aimed and
+towards the goats, aimed and
 threw the spear.
 
 ##
@@ -56,5 +56,3 @@ incident.
 * Text: Bukheye Mulongo Christopher, Alungho Rose
 * Illustration: Rob Owen
 * Language: en
-
-this story was written by a teacher and a librarian

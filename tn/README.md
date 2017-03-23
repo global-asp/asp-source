@@ -7,6 +7,7 @@ Story ID | Title | License
 0004 | [Podi, Ntšwa le Kgomo](http://my.africanstorybook.org/stories/podi-ntšwa-le-kgomo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0005 | [Anansi le Khudu](http://my.africanstorybook.org/stories/anansi-le-khudu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0009 | [Katse ya me e kae?](http://my.africanstorybook.org/stories/katse-ya-me-e-kae) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+0011 | [Rre le morwa wa gagwe](http://my.africanstorybook.org/stories/rre-le-morwa-wa-gagwe) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0030 | [Maikutlo](http://my.africanstorybook.org/stories/maikutlo) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0035 | [Phefo](http://my.africanstorybook.org/stories/phefo) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0041 | [Lelapa la me](http://my.africanstorybook.org/stories/lelapa-la-me) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)

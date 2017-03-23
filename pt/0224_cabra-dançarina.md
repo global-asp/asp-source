@@ -34,5 +34,5 @@ E a cabra continuou a dançar, porque agora estava livre do lobo!
 * License: [CC-BY]
 * Text: Folktale
 * Illustration: José Nhambo
-* Translation: Translators without Borders, Isabel Ferreira
+* Translation: Translators Without Borders, Isabel Ferreira
 * Language: pt

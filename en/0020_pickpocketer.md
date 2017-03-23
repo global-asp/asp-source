@@ -19,7 +19,7 @@ Passengers were very angry when they see
 what is happening.they called the train Gaurd.
 
 ##
-The train guard came.Mmamontsho touched
+The train guard came. Mmamontsho touched
 Matome's arm to release his hand from been
 trapped inside her handbag.
 
@@ -31,5 +31,3 @@ Matome was locked in jail for pickpocketing.
 * Text: Kate Nkwane
 * Illustration: Wiehan de Jager, Catherine Groenewald
 * Language: en
-
-Pickpockenting is a criminal case and it is unacceptable.

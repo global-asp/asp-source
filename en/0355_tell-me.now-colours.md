@@ -4,40 +4,34 @@
 Why is the sky blue?
 
 ##
-It is not always blue. Is
-it?
+It is not always blue. Is it?
 
 ##
 Why are leaves green?
 
 ##
-They are not always
-green. Are they?
+They are not always green. Are they?
 
 ##
-Why are bananas
-yellow?
+Why are bananas yellow?
 
 ##
-Ripe bananas are
-yellow.
-Unripe bananas are
-green.
+Ripe bananas are yellow.
+
+Unripe bananas are green.
 
 ##
-Why are umbrellas
-black?
+Why are umbrellas black?
 
 ##
-Not all umbrellas are
-black.
+Not all umbrellas are black.
 
 ##
 Why is blood red?
 
 ##
-There is iron in the
-blood.
+There is iron in the blood.
+
 That makes it red.
 
 ##
