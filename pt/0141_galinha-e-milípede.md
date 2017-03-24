@@ -8,7 +8,7 @@ Um dia, eles decidiram jogar futebol para ver quem era o melhor jogador.
 ##
 Eles foram para o campo de futebol e comearam seu jogo.
 
-Galinha foi rápido, mas Milípede era mais rápido .
+Galinha foi rápido, mas Milípede era mais rápido.
 
 Galinha chutou longe, mas Milípede chutou ainda mais longe.
 
@@ -31,7 +31,7 @@ Milípede cabeceou a bola e marcou.
 Milípede marcou cinco golos.
 
 ##
-Galinha estava furioso que ela perdeu .Ela foi muito mau perdedora.
+Galinha estava furioso que ela perdeu. Ela foi muito mau perdedora.
 
 Milípede começou a rir porque seu amigo estava fazendo tanto barulho.
 
@@ -46,7 +46,7 @@ Mãe Milípede perguntou-lhe, "Você viu o meu filho?" A galinha não respondeu-
 Mãe Milípede estava preocupado.
 
 ##
-Depois a Mãe Milípede ouviu uma voz pequena. "Ajuda-me mãe!" chourou a voz .
+Depois a Mãe Milípede ouviu uma voz pequena. "Ajuda-me mãe!" chourou a voz.
 
 Mãe Milípede olhou deroda e ouviu atentamente. A voz veio de dentro da galinha.
 
@@ -56,11 +56,11 @@ Mãe Milípede gritou: "Usa o seu poder especial meu filho!"
 Milípedes podem fazer um mau cheiro e um gosto terrível. Galinha começou a se sentir doente.
 
 ##
-Galinha arrotou . Depois, ela engoliu e cuspiu .
+Galinha arrotou. Depois, ela engoliu e cuspiu.
 
-Depois ela espirrou e tossiu. E tossiu .
+Depois ela espirrou e tossiu. E tossiu.
 
-O Milípede era nojento !
+O Milípede era nojento!
 
 ##
 Galinha tossiu até que ela tossiu fora o Milípede do seu estômago.
@@ -68,7 +68,7 @@ Galinha tossiu até que ela tossiu fora o Milípede do seu estômago.
 Mãe Milípede e seu filho arrastaram – se pelo uma arvore a cima para se esconderem.
 
 ##
-A partir desse momento, galinhas e milípedes eram inimigos .
+A partir desse momento, galinhas e milípedes eram inimigos.
 
 ##
 * License: [CC-BY]
