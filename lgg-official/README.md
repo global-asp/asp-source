@@ -48,5 +48,5 @@ Story ID | Title | License
 0323 | [Kaíkó engápɨ engárɨ̀](http://my.africanstorybook.org/stories/kaíkó-engápɨ-engárɨ̀) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0326 | [Òkpóróá e'yó nzépɨ ɨ̀ndɨ̀ rɨ̀](http://my.africanstorybook.org/stories/òkpóróá-eyó-nzépɨ-ɨ̀ndɨ̀-rɨ̀) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0329 | [Ebìó Òvʉ́ó rʉ rɨ̀](http://my.africanstorybook.org/stories/ebìó-òvʉ́ó-rʉ-rɨ̀) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0337 | [Anzɨ Òdirì rʉ́ dɨ̀yɨ](http://my.africanstorybook.org/stories/anzɨ-òdirì-rʉ́-dɨ̀yɨ) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0337 | [Anzɨ Òdirì rʉ́ dɨ̀yɨ](http://my.africanstorybook.org/stories/anzɨ-òdirì-rʉ́-dɨ̀yɨ) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0356 | [Má vɨ́lé pati pòyé avɨ́zʉ́ rɨ̀ ngòá yǎ?](http://my.africanstorybook.org/stories/má-vɨ́lé-pati-pòyé-avɨ́zʉ́-rɨ̀-ngòá-yǎ) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

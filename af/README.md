@@ -2,7 +2,7 @@
 
 Story ID | Title | License
 -------- | ----- | -------
-0001 | ['n Baie Lang Man](http://my.africanstorybook.org/stories/n-baie-lang-man-5) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0001 | ['n Baie Lang Man](http://my.africanstorybook.org/stories/n-baie-lang-man) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0009 | [Waar is my kat?](http://my.africanstorybook.org/stories/waar-my-kat-0) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0013 | [Brief aan ma](http://my.africanstorybook.org/stories/brief-aan-ma) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0018 | [Hoekom is Yayeri so goed?](http://my.africanstorybook.org/stories/hoekom-yayeri-so-goed) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
