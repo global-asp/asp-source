@@ -95,7 +95,7 @@ en vitesse. C'était la banane la plus
 douce que je n'avais jamais goûtée.
 
 ##
-Le lendemain, alors grand-mère
+Le lendemain, alors que grand-mère
 était dans le jardin en train de
 ramasser des légumes, je me suis
 glissée dans sa chambre pour

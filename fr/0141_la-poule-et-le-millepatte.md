@@ -82,7 +82,7 @@ et son enfant rampèrent jusqu'à un
 arbre pour se cacher.
 
 ##
-Depuis ce temps, les poules et des
+Depuis ce temps, les poules et les
 millepattes sont ennemis.
 
 ##

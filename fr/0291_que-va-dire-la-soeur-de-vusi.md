@@ -16,7 +16,7 @@ s'empara de l'œuf de Vusi et le
 lança sur un arbre. L'œuf se cassa.
 
 ##
-« Qu'as-tu fait ? » Cria Vusi. « Cet œuf
+« Qu'as-tu fait ? » cria Vusi. « Cet œuf
 était pour un gâteau, le gâteau du
 mariage de ma sœur. Que va dire
 ma sœur s'il n'y a pas de gâteau
@@ -40,7 +40,7 @@ solide pour la construction, et il
 s'est rompu.
 
 ##
-« Qu'avez-vous fait ? » S'écria Vusi.
+« Qu'avez-vous fait ? » s'écria Vusi.
 « Ce bâton était un cadeau pour ma
 sœur. Les cueilleurs de fruits m'ont
 donné le bâton parce qu'ils ont
@@ -69,7 +69,7 @@ Mais le foin était si bon que la
 vache a tout mangé !
 
 ##
-« Qu'as-tu fait ? » S'écria Vusi.
+« Qu'as-tu fait ? » s'écria Vusi.
 « Ce foin était un cadeau pour ma
 sœur. Les constructeurs m'ont
 donné du foin, car ils ont cassé le
@@ -98,7 +98,7 @@ sa sœur. Les invités mangeaient
 déjà.
 
 ##
-« Que dois-je faire ? » S'écria Vusi.
+« Que dois-je faire ? » s'écria Vusi.
 « La vache qui s'est enfuie était un
 cadeau, en échange du foin, que les
 constructeurs m'ont donné. Les
