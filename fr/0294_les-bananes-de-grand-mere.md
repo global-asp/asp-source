@@ -2,7 +2,7 @@
 
 ##
 Le jardin de grand-mère était
-merveilleux - plein de sorgho, de
+merveilleux – plein de sorgho, de
 millet et de manioc. Mais le meilleur
 de tout, c'était les bananes.
 Bien que grand-mère avait
