@@ -120,7 +120,7 @@ into trouble again.
 
 ##
 On another day, the children
-went to the market place with
+went to the marketplace with
 Nyar-Kanyada.
 She had a stall selling
 vegetables, sugar and soap.
