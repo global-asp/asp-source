@@ -35,7 +35,7 @@ Magozwe rêvait qu'il était pilote. Quelques fois, il imaginait qu'il était le
 ##
 Il faisait froid. Magozwe se tenait dans la rue mendiant, quand soudain un homme s'approcha de lui et dit : « Bonjour, je m'appelle Thomas. Je travaille tout près d'ici, dans un endroit où tu pourras manger », dit-il.
 
-Il lui montra au loin jaune au toit bleu. « J'espère que tu viendras manger», lui dit-il.
+Il lui montra au loin une maison jaune au toit bleu. « J'espère que tu viendras manger», lui dit-il.
 
 Magozwe regarda l'homme, puis la maison, et lui répondit : « Peut-être », puis il s'en alla.
 
