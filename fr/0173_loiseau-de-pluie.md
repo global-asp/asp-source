@@ -134,8 +134,8 @@ Lorsque l'oiseau descendit manger la nourriture que Ketti lui avait
 apportée, le père leva son arc et décocha une flèche mortelle. La
 flèche se planta directement dans le cœur de l'oiseau. L'oiseau
 poussa un cri perçant.
-Terrifiée, Ketti se retourna - juste à temps pour voir son père
-s'effondrer, mort subitement. Ketti cria et se retourna vers l'oiseau - juste à temps pour voir la flèche retomber de son corps
+Terrifiée, Ketti se retourna – juste à temps pour voir son père
+s'effondrer, mort subitement. Ketti cria et se retourna vers l'oiseau – juste à temps pour voir la flèche retomber de son corps
 étincelant. Alors, sain et sauf, l'oiseau de pluie disparut dans les
 plus hautes branches de l'arbre.
 
