@@ -167,7 +167,7 @@ Le géant était très heureux et but la bière d'un trait.
 
 ##
 La mère de Tselane lui en donna de
-plus en plus - et encore plus jusqu'à ce que la calebasse soit
+plus en plus – et encore plus jusqu'à ce que la calebasse soit
 vide.
 A présent, le géant était tellement
 ivre qu'il s'endormit sur le sol.
