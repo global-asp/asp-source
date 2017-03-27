@@ -1,4 +1,4 @@
-# Slaperige Mnr.Luiheid
+# Slaperige Mnr. Luiheid
 
 ##
 Eendag het Mnr. Luiheid
@@ -23,7 +23,7 @@ En jy? Dink jy nie dit is
 'n goeie idee nie?
 
 ##
-Nee Mnr.Luiheid! Die
+Nee Mnr. Luiheid! Die
 kameelperd eet daar.
 Hy mag dalk dink jy is
 middagete en aan jou
@@ -37,7 +37,7 @@ En jy? Dink jy nie dit is
 'n goeie idee nie?
 
 ##
-Nee Mnr.Luiheid! Daar
+Nee Mnr. Luiheid! Daar
 is 'n byekorf in daardie
 tak.
 Jy sal nooit geslaap kry
@@ -52,7 +52,7 @@ En jy? Dink jy nie dit is
 'n goeie idee nie?
 
 ##
-Nee Mnr.Luiheid! Dit is
+Nee Mnr. Luiheid! Dit is
 'n slang op daardie tak.
 Dit is nie 'n tak nie!
 Arme ou slang. Jy het
@@ -66,7 +66,7 @@ En jy? Dink jy nie dit is
 'n goeie idee nie?
 
 ##
-Nee Mnr.Luiheid! Daar
+Nee Mnr. Luiheid! Daar
 is 'n voȅl op daardie
 tak!
 Jy sal nooit geslaap kry
@@ -75,7 +75,7 @@ jou ore nie!
 
 ##
 Probeer nog net een tak
-Mnr.Luiheid! Het almal
+Mnr. Luiheid! Het almal
 gesê.
 En daardie laaste tak,
 was net die regte een
@@ -84,7 +84,7 @@ vir hom om op te slaap.
 ##
 Die voȅl, die slang, die
 kameelperd en elke by
-was bly om Mnr.Luiheid
+was bly om Mnr. Luiheid
 in hulle boom te kry.
 
 ##
@@ -93,5 +93,3 @@ in hulle boom te kry.
 * Illustration: Graham Paterson
 * Translation: Mckayla Faith Potgieter
 * Language: af
-
-Geen
