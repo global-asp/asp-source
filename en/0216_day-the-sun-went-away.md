@@ -1,4 +1,4 @@
-# Day the sun went away
+# The day the sun went away
 
 ##
 Mother Sun decided to visit her sister, the moon.
