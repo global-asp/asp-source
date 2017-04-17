@@ -1,4 +1,4 @@
-# Day I left home for the city
+# The day I left home for the city
 
 ##
 The small bus stop in my village was busy with people and overloaded buses. On the ground were even more things to load. Touts were shouting the names where their buses were going.
