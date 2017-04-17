@@ -1,4 +1,4 @@
-# Day we saw the rainbow
+# The day we saw the rainbow
 
 ##
 My name is Kobole.
