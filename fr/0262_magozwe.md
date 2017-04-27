@@ -53,7 +53,7 @@ Magozwe s'asseyait sur le trottoir et regardait les images de son livre quand so
 
 « Comment s'appelle ce garçon », demanda Thomas.
 
-Magozwe répondit calmement : « Je ne sais pas, je ne sais pas lire »
+Magozwe répondit calmement : « Je ne sais pas, je ne sais pas lire. »
 
 ##
 Quand ils se rencontraient, Magozwe commençait à raconter son histoire à Thomas. L'histoire de son oncle et la raison pour laquelle il s'était enfuit.
@@ -68,7 +68,7 @@ Autour du dixième anniversaire de Magozwe, Thomas lui offrit un nouveau livre. 
 Thomas lut cette histoire à Magozwe maintes et maintes fois, jusqu'au jour où il lui dit : « Je pense qu'il est temps que tu ailles à l'école apprendre à lire. Qu'en penses-tu ? » Thomas lui expliqua qu'il connaissait un endroit où les enfants pouvaient rester et aller à l'école.
 
 ##
-Magozwe pensa à ce nouvel endroit et à l'idée d'aller à l'école. Et si son oncle avait raison, s'il était vraiment trop stupide pour apprendre quoi que ce soit ?»
+Magozwe pensa à ce nouvel endroit et à l'idée d'aller à l'école. Et si son oncle avait raison, s'il était vraiment trop stupide pour apprendre quoi que ce soit ? »
 
 Et si on le battait dans ce nouvel endroit ? Il avait peur. « Peut-être serait-il plus judicieux de rester vivre dans la rue », pensait-il.
 
@@ -90,7 +90,7 @@ Magozwe était assis à l'entrée de la maison au toit vert, et lisait un livre 
 
 Il lui demanda : « De quoi parle l'histoire ? »
 
-Magozwe répondit : « C'est l'histoire d'un petit garçon qui voulait devenir professeur ».
+Magozwe répondit : « C'est l'histoire d'un petit garçon qui voulait devenir professeur. »
 
 «Comment s'appelle le garçon », lui demanda Thomas.
 
