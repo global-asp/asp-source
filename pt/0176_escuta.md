@@ -31,7 +31,7 @@ Os bebés palreiam…
 … e as crianças falam.
 
 ##
-* License:
+* License: [CC-BY-NC]
 * Text: Carole Bloch
 * Illustration: Jean Fullalove
 * Translation: Translators without Borders, Isabel Ferreira

@@ -25,7 +25,7 @@ Estará fora de casa?
 Está aqui!
 
 ##
-* License:
+* License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Bronwen Heath
 * Translation: Translators without Borders, Rossana Lima
