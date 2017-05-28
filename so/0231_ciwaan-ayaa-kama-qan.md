@@ -1,4 +1,4 @@
-# Ciwaan Ayaa Kama Qan
+# Ciwaan ayaa kama qan
 
 ##
 Enjeg.
