@@ -1,7 +1,7 @@
 # Grandma's bananas
 
 ##
-Grandma's garden was wonderful full of sorghum, millet, and cassava.
+Grandma's garden was wonderful, full of sorghum, millet, and cassava.
 
 But best of all were the bananas.
 
