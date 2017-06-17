@@ -149,7 +149,7 @@ strict."
 Simbegwire's father left the house
 and went in the direction of the
 stream. He continued to his sister's
-village to find out if she has seen
+village to find out if she had seen
 Simbegwire.
 
 ##
