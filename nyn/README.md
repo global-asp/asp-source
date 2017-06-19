@@ -2,4 +2,4 @@
 
 Story ID | Title | License
 -------- | ----- | -------
-0100 | [Jaaka omuvubi](http://my.africanstorybook.org/stories/jaaka-omuvubi-1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0100 | [Jaaka omuvubi](http://africanstorybook.org/stories/jaaka-omuvubi-1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

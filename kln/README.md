@@ -2,4 +2,4 @@
 
 Story ID | Title | License
 -------- | ----- | -------
-0121 | [Musar](http://my.africanstorybook.org/stories/musar) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0121 | [Musar](http://africanstorybook.org/stories/musar) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

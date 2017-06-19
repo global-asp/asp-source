@@ -2,6 +2,6 @@
 
 Story ID | Title | License
 -------- | ----- | -------
-0312 | [Atïn Lyëc A Yïl](http://my.africanstorybook.org/stories/atïn-lyëc-yïl) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0323 | [Oraŋŋa tye a Yabërë](http://my.africanstorybook.org/stories/oraŋŋ-tye-yabërë) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
-0339 | [Warö A Nyen](http://my.africanstorybook.org/stories/warö-nyen) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+0312 | [Atïn Lyëc A Yïl](http://africanstorybook.org/stories/atïn-lyëc-yïl) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0323 | [Oraŋŋa tye a Yabërë](http://africanstorybook.org/stories/oraŋŋ-tye-yabërë) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+0339 | [Warö A Nyen](http://africanstorybook.org/stories/warö-nyen) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)

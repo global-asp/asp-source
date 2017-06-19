@@ -2,4 +2,4 @@
 
 Story ID | Title | License
 -------- | ----- | -------
-0111 | [The lembe muketho rau yuk wiye ope](http://my.africanstorybook.org/stories/lembe-muketho-rau-yuk-wiye-ope) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0111 | [The lembe muketho rau yuk wiye ope](http://africanstorybook.org/stories/lembe-muketho-rau-yuk-wiye-ope) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

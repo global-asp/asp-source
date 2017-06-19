@@ -2,4 +2,4 @@
 
 Story ID | Title | License
 -------- | ----- | -------
-0132 | [Nkhumba Ikanizidwa Kuphwando Chifukwa Chopanda Nyanga](http://my.africanstorybook.org/stories/nkhumba-ikanizidwa-kuphwando-chifukwa-chopanda-nyanga) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0132 | [Nkhumba Ikanizidwa Kuphwando Chifukwa Chopanda Nyanga](http://africanstorybook.org/stories/nkhumba-ikanizidwa-kuphwando-chifukwa-chopanda-nyanga) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

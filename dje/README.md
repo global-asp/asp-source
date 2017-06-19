@@ -2,5 +2,5 @@
 
 Story ID | Title | License
 -------- | ----- | -------
-0123 | [Iri ma koy](http://my.africanstorybook.org/stories/iri-ma-koy-0) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
-0166 | [Wandiya kaŋ te arzaka](http://my.africanstorybook.org/stories/wandiya-kaŋ-te-arzaka) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0123 | [Iri ma koy](http://africanstorybook.org/stories/iri-ma-koy-0) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+0166 | [Wandiya kaŋ te arzaka](http://africanstorybook.org/stories/wandiya-kaŋ-te-arzaka) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
