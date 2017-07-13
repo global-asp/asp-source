@@ -88,8 +88,7 @@ Ngede was furious! This was no way to treat him! But he would get
 his revenge.
 
 ##
-One day several weeks later Gingile again heard the honey call of
-the Ngede. He remembered the delicious honey, and eagerly
+One day several weeks later Gingile again heard the honey call of Ngede. He remembered the delicious honey, and eagerly
 followed the bird once again.
 After leading Gingile along the edge of the forest, Ngede stopped
 to rest in a great umbrella thorn. "Ahh," thought Gingile.
