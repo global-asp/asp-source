@@ -49,7 +49,7 @@ pushed the smoking end of the stick
 into the hollow.
 The bees came rushing out, angry
 and mean. They flew away because
-they didn't like the smoke – but not
+they did not like the smoke – but not
 before they had given Gingile some
 painful stings!
 
