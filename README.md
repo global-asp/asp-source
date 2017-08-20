@@ -73,6 +73,7 @@ ISO code | Language Name
 [om](https://github.com/global-asp/asp-source/tree/master/om) | Afan Oromo
 [pt](https://github.com/global-asp/asp-source/tree/master/pt) | Portuguese
 [rw](https://github.com/global-asp/asp-source/tree/master/rw) | Kinyarwanda
+[saq](https://github.com/global-asp/asp-source/tree/master/saq) | Samburu
 [so](https://github.com/global-asp/asp-source/tree/master/so) | Somali
 [ss](https://github.com/global-asp/asp-source/tree/master/ss) | siSwati
 [st](https://github.com/global-asp/asp-source/tree/master/st) | Sesotho
