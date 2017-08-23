@@ -19,5 +19,5 @@ Eiranari ayong kaminae nakanuwakinia ayong itokang.
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Kathy Arbuckle
-* Translation: Alfred Esinyen and Simon Ipoo
+* Translation: Alfred Esinyen, Simon Ipoo
 * Language: tuv

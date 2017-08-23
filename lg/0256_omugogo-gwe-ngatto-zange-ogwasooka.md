@@ -97,14 +97,8 @@ engatto zange empya nga ndi
 nazo mu buliri.
 
 ##
-Omugogo gwe ngatto zange
-ogwasooka
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Rob Owen
 * Translation: Annet Sebaggala
 * Language: lg
-
-You can recall and share with your
-friends about your self when you
-received your first pair of shoe.

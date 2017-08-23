@@ -1,4 +1,4 @@
-# Nonkungu pi Androo be Alan Kenyon and Viv Kenyon
+# Nonkungu pi Androo be
 
 ##
 O'du alu, culu azi alioru

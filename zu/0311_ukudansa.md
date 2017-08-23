@@ -1,4 +1,4 @@
-# Ukudansa Mary Nabire and Tessa Welch
+# Ukudansa
 
 ##
 Kwakunentombazana

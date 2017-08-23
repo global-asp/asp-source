@@ -27,6 +27,6 @@ Nikyo habwaki enseretegenda hara namaizi habwokutina kuhyera mumurro. Wakame eka
 ##
 * License: [CC-BY]
 * Text: Basilio Gimo, David Ker
-* Illustration: Little Zebra Books and Carol Liddiment
+* Illustration: Little Zebra Books, Carol Liddiment
 * Translation: Kangume Rhodah
 * Language: ttj

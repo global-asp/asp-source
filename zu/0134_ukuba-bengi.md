@@ -50,13 +50,7 @@ Ukuba bengimiyane bengizolala ngaphansi.
 
 ##
 * License: [CC-BY]
-* Text: Seruwooza Shafic, Mutaawe Frank, Namuddu
-Patricia, Mwibonere Bwiza Sara, Namugambe Mariam,
-Ritah Katetemera, Milly Kasule, John Emongot, Annet
-Ssebaggala and Fatma Baraka
-* Illustration: Jano Strydom, Cathy Feek, Laura Libertore,
-Marleen Visser, Rob Owen, Natalie Propa, Karen Lilje,
-Benjamin Mitchley, Wiehan de Jager, Alice Toich and
-Rebecca Riley
+* Text: Seruwooza Shafic, Mutaawe Frank, Namuddu Patricia, Mwibonere Bwiza Sara, Namugambe Mariam, Ritah Katetemera, Milly Kasule, John Emongot, Annet Ssebaggala, Fatma Baraka
+* Illustration: Jano Strydom, Cathy Feek, Laura Libertore, Marleen Visser, Rob Owen, Natalie Propa, Karen Lilje, Benjamin Mitchley, Wiehan de Jager, Alice Toich, Rebecca Riley
 * Translation: Zama Kunene
 * Language: zu

@@ -1,4 +1,4 @@
-# uNonkungu Kanye nembulu Alan Kenyon and Viv Kenyon
+# uNonkungu Kanye nembulu
 
 ##
 Kwasuka sukela, kwakunendoda

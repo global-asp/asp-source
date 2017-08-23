@@ -1,4 +1,4 @@
-# UVayu omoya Madhuri Pai and Rohini Nilekani
+# UVayu omoya
 
 ##
 Rhoqo xa ndigqiba

@@ -49,8 +49,6 @@ onkwekule.
 ##
 * License: [CC-BY]
 * Text: Annet Ssebaggala
-* Illustration: Angie & Upesh, Mlungisi Dlamini, Eden
-Daniels, Wiehan de Jager, Sue Kramer and Catherine
-Groenewald
+* Illustration: Angie & Upesh, Mlungisi Dlamini, Eden Daniels, Wiehan de Jager, Sue Kramer, Catherine Groenewald
 * Translation: Annet Ssebaggala
 * Language: lg

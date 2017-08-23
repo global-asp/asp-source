@@ -92,7 +92,3 @@ isi kore mapalani.
 * Illustration: Benard Agasi
 * Translation: Acherlager Lesedi Milanzi
 * Language: ve
-
-This text was written and illustrated
-by a student teacher at Arua PTC,
-Uganda.

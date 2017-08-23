@@ -15,7 +15,6 @@ Busu
 ##
 * License: [CC-BY]
 * Text: Oku Modesto
-* Illustration: Rob Owen, Marleen Visser, Katrien Coetzer,
-Wiehan de Jager, Karen Lilje and Catherine Groenewald
+* Illustration: Rob Owen, Marleen Visser, Katrien Coetzer, Wiehan de Jager, Karen Lilje, Catherine Groenewald
 * Translation: Candiru Eunice
 * Language: lgg

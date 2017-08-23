@@ -1,4 +1,4 @@
-# Tlowana marata go itse Judith Baker and Lorato Trok
+# Tlowana marata go itse
 
 ##
 Mongwe le mongwe o a itse gore

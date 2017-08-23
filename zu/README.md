@@ -42,7 +42,6 @@ Story ID | Title | License
 0166 | [Intombazanyana eyaba isicebi](http://africanstorybook.org/stories/intombazanyana-eyaba-isicebi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0173 | [Inyoni enisa imvula](http://africanstorybook.org/stories/inyoni-enisa-imvula) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0177 | [Inja encane](http://africanstorybook.org/stories/inja-encane) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0188 | [Umama watshala](http://africanstorybook.org/stories/umama-watshala-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0196 | [Izimfene ezaziya le na le](http://africanstorybook.org/stories/izimfene-ezaziya-le-na-le) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0201 | [Umntwana ongajwayelekile](http://africanstorybook.org/reader.php?id=20006&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0202 | [UThandeka kanye nezinkukhu ezigeziwe](http://africanstorybook.org/stories/uthandeka-kanye-nezinkukhu-ezigeziwe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

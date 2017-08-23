@@ -1,4 +1,4 @@
-# Tshoswane o thusa Leeba Kholeka Mabeta and Judith Baker
+# Tshoswane o thusa Leeba
 
 ##
 E ne e le letsatsi le le

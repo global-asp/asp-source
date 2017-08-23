@@ -1,57 +1,28 @@
 # Hungry jackal and the sour grapes
 
 ##
-kwasuka sukela kwakukhona u
-jakalasi owayelambile. waye
-hamba ehlathini efunana
-nokudla.
+Kwasuka sukela kwakukhona u jakalasi owayelambile. Waye hamba ehlathini efunana nokudla.
 
 ##
-wase uhlangana nesihlahla
-esasiphethe imvini ehlaza. wase
-uyazibona lezo mvini
-ezazilengeleya esihlahleni.
+Wase uhlangana nesihlahla esasiphethe imvini ehlaza. Wase uyazibona lezo mvini ezazilengeleya esihlahleni.
 
 ##
-"zibukeka zimnandi,"
-wakhuluma yedwa.? wase
-ubuyela emuva kancane , ukuze
-akwazi ukuzifikelela .
+"zibukeka zimnandi," wakhuluma yedwa. Wase ubuyela emuva kancane, ukuze akwazi ukuzifikelela.
 
 ##
-izimvini zazi phezulu. ujakalasi
-wase uyawa wawela phezu
-komhlane wakhe
-engazitholanga izimvini.
+Izimvini zazi phezulu. Ujakalasi wase uyawa wawela phezu komhlane wakhe engazitholanga izimvini.
 
 ##
-ujakalasi wase uyasukuma
-ubuyela emuva kunalapha
-wayeme khna. kulesi sikathi
-waye hlose ukugcumela
-phezulu. cishe wafika phezulu
-kepha wase uyawangamandla
-mashaya phansi.
+Ujakalasi wase uyasukuma ubuyela emuva kunalapha wayeme khna. Kulesi sikathi waye hlose ukugcumela phezulu. Cishe wafika phezulu kepha wase uyawangamandla mashaya phansi.
 
 ##
-wazama wazama , kodwa
-wayengafikeleli kulezo zimvini.
-waqhubeka ehluleka ,
-umgogodla wakhe wase
-ubuhlungu kakhulu.
+Wazama wazama, kodwa wayengafikeleli kulezo zimvini. Waqhubeka ehluleka, umgogodla wakhe wase ubuhlungu kakhulu.
 
 ##
-ekugcineni, wase ulahla
-ithawela futhi wahamba.
+Ekugcineni, wase ulahla ithawela futhi wahamba.
 
 ##
-u jakalasi wayenga jabulanga
-neze. wema, wabuka emuva
-kulezo mvini waqhabanga, "lezo
-mvini ezingavuthwanga
-ezihlaza."wakhala wase
-uyahamba .futhi waye lambe
-ukudlula .
+U jakalasi wayenga jabulanga neze. Wema,  wabuka emuva kulezo mvini waqhabanga, "lezo mvini ezingavuthwanga ezihlaza. "Wakhala wase uyahamba. Futhi waye lambe ukudlula.
 
 ##
 * License: [CC-BY]
@@ -59,5 +30,3 @@ ukudlula .
 * Illustration: Benjamin Mitchley
 * Translation: Fikile Vilakazi
 * Language: zu
-
-African storybook initiative

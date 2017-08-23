@@ -33,6 +33,6 @@ Kewokit ayong imotoka niichi.
 ##
 * License: [CC-BY]
 * Text: Nina Orange
-* Illustration: Angie & Upesh, Wiehan de Jager and Marion Drew
+* Illustration: Angie & Upesh, Wiehan de Jager, Marion Drew
 * Translation: Lolupe teachers
 * Language: tuv

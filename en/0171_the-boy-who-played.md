@@ -1,4 +1,4 @@
-# The boy who played.
+# The boy who played
 
 ##
 Aunt Merane gave some money to

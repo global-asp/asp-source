@@ -1,4 +1,4 @@
-# Ukudanisa Mary Nabire and Tessa Welch
+# Ukudanisa
 
 ##
 Ndidanisa xa

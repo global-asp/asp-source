@@ -1,11 +1,6 @@
 # Omugogo gw'engato jange endaayi
 
 ##
-I had never worn shoes before.
-When I saw children wearing
-nice shoes, I would look at them
-with longing.
-
 Naali si nambalangaho ngayito
 nayire.
 Ninawonanga abaana
@@ -36,15 +31,11 @@ Gandoma pambe ogusero
 ogubba ogohuguliramo ebiitu.
 
 ##
-.
 Mu katale mwalimo abasaye
 bangi n’abaana bawe ni bagula
 engoye epyaha n'emere.
 
 ##
-We went straight to where there
-were many different types of
-shoes.
 Hwaŋabirira hwatiina aŋabali ni
 batunda engayito enjenjawulo
 n’enjawulo.
@@ -87,9 +78,7 @@ tired.
 I decided to get back into bed.
 
 ##
-Nibuhyeye maama gasisimusa
-,Gawuusa ati’’hyina hino
-ehimbona?’’
+Nibuhyeye maama gasisimusa, Gawuusa ati "hyina hino ehimbona?"
 
 ##
 Naali penyuhire ne engato ni jiri
@@ -101,5 +90,3 @@ mu magulu hu wuliri
 * Illustration: Rob Owen
 * Translation: Nabune beatres, Hamba Dinah
 * Language: nuj
-
-ENGAATO HWAMBALA MU MAGULU

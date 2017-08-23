@@ -1,4 +1,4 @@
-# Nna le ba lelapa la me Waako Joshua and Cornelius Gulere
+# Nna le ba lelapa la me
 
 ##
 Nna le kgogodumo ya

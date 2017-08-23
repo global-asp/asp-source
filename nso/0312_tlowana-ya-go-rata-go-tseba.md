@@ -1,4 +1,4 @@
-# Tlowana ya go rata go tseba Judith Baker and Lorato Trok
+# Tlowana ya go rata go tseba
 
 ##
 Batho ka moka be ba

@@ -1,4 +1,4 @@
-# Abahlobo Zimbili Dlamini and Hlengiwe Zondi
+# Abahlobo
 
 ##
 Igama lam nguSimilo.

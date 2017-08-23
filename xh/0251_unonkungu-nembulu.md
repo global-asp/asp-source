@@ -1,4 +1,4 @@
-# uNonkungu nembulu Alan Kenyon and Viv Kenyon
+# uNonkungu nembulu
 
 ##
 Kudala kwakukho indoda

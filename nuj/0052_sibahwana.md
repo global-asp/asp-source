@@ -1,172 +1,58 @@
 # Sibahwana
 
 ##
-Sibahwana gaali muhaana muŋoono ate ow’ehisa.
-Olufunyuma lwa nyina ohufa, Sibahwana gaali
-munakuŋafu nyo. Coka geega ohumenya ni
-semwana. Hiisi mugamba banywanga caayi era
-baaloma hu bibanahahole hu lunaku olulondaho. Era
-hiisi hyegulo ganyiyanga emere eyehyegulo era nga
-goosa esaani. Semwana gamuyedangaho ohuhola
-ebibuuso ebi gaŋwanga ni nabyo hu somero.
+Sibahwana gaali muhaana muŋoono ate ow'ehisa. Olufanyuma lwa nyina ohufa,  Sibahwana gaali munakuŋafu nyo. Cooka geega ohumenya ni semwana. Hiisi mugamba banywanga caayi era baaloma hu bibanahahole hu lunaku olulondaho. Era hiisi hy'egulo ganyiyanga emere ey'ehyegulo era nga goosa esaani. Semwana gamuyedangaho ohuhola ebibuuso ebi gaŋwanga ni nabyo hu somero.
 
 ##
-Lulala, semwana gagaluha ŋango
-mu ngeri atali ya bulijo. Ni goola
-ng'alanga, “Sibahwana, Sibahwana,
-oliŋeena?”
-Sibahwana gadulumirira semwana
-nahayana ati, “Bbabba, bbabba...”
-Ni gamwolaho nga gemeerera ni
-bimutangalihire! Semwana gaali
-n'omuhasi ahiiri omuŋere ate
-omuŋoono n'amuŋambire mu
-muhono .
+Lulala,  semwana gagaluha ŋango mu ngeri atali ya bulijo. Ni goola ng'alanga,  "Sibahwana,  Sibahwana,  oliŋeena?" Sibahwana gadulumirira semwana nahayana ati,  "Bbaabba,  bbaabba" Ni gamwolaho nga gemeerera ni bimutangalihire! Semwana gaali n'omuhasi ahiiri omuŋere ate omuŋoono n'amuŋambire hu muhono.
 
 ##
-Omuhasi galoma, “puliye bingi
-ebihuŋambaho.” Naye sigaŋamba
-humuhono gwa sibahwana. Nga era
-amurengerera ohuŋwa ŋamugulu
-paka ŋaasi natamwenyaho bbe.
-Bbabba wuwe garoma hu engeri eyi
-badaatu baja huba musanyu,
-nibamenyire ŋalala, era sigafania
-hiitu hyosi.
+Omuhasi galoma,  "Puliye bingi ebihuŋambaho." Naye sigaŋamba hu muhono gwa Sibahwana. Nga era amurengerera ohuŋwa ŋamugulu paka ŋaasi natamwenyaho bbe. Bbaabba wuwe galoma hu engeri eyi badaatu baja huba musanyu,  nibamenyire ŋalala,  era sigafania hiitu hyosi.
 
 ##
-Obulamu wa Sibahwana wa chuha nali ni maama
-omunyaha. Ŋali ŋaŋuma chayi womumugamba.
-Maama wuwe omunyaha gamuŋanga emirimo
-jomunyumba nyingi era ti sibahwana gademba nga
-nyo nataŋanga huhoola emirimo jabasomesa
-ejibamuŋa ohuholera engo.
-Gatinanga ohuŋenyuha yeŋene. Ehya mugumya nga
-ho hyali bulangiti ya maama wuwe eyi gamulehela
-ko nafuye. Bbabba wuwe sigali namanyire ti ŋaliŋo
-ehitaburaŋi.
+Obulamu wa Sibahwana wacuuha naali ni maama omunyaha. Ŋali ŋaŋuma caayi womumugamba. Maama wuwe omunyaha gamuŋanga emirimo ej'omu nyumba mingi era ti Sibahwana gademba nga nyo nataŋanga huhoola emirimo j'abasomesa eji bamuŋanga ohuholera engo. Gatiinanga ohuŋenyuha yeŋene. Ehya mugumyangaho hyalinga bbulangiti ya maama wuwe eyi gamulehela ko nafuye. Bbaabba wuwe sigaali namanyire ti ŋaliŋo ehita bulaŋi.
 
 ##
-Nga, lulala, bbabba wa sibahwana
-alanga ti ajahuŋwaho ŋango
-ohuhena ahateŋama. Musanyu
-semwana galoma, “maama wuwo
-omunyaha aja huhulabirira”.
-Sibahwana ganakuwala, naye
-bbabba wuwe sigamanya.
+Nga,  lulala,  bbaabba wa Sibahwana alanga ti ajahuŋwaho ŋango ohuhena ahateŋama. Musanyu semwana galoma,  "Maama wuwo omunyaha aja huhulabirira." Sibahwana ganakuwala,  aye bbaabba wuwe sigamanya.
 
 ##
-Bbabba wuwe naŋumaŋo, ebiitu byari biibi eri
-sibahwana. Nigahaholile emirimo pola pola, maama
-wuwe gahaŋambire esimbo ŋamuhuba. Huhyegulo
-nyina ya sibahwana ono galya nga chakana hiisi
-emere, nalehera sibahwana bukukumuhira. Hiisi mu
-wiire sibahwana galiranga najahuŋenyuha, ni
-geŋunamira hu bulangiti ya maama wuwe agafa.
+Bbaabba wuwe naŋumaŋo,  ebiitu byali biibi eri Sibahwana. Ni gahaholire emirimo pola pola,  maama wuwe gahaŋambire esimbo gamuhubba. Hu hyegulo nyina ya Sibahwana ono galya nga cakana hiisi emere,  nalehera Sibahwana bukukumuhira. Hiisi mu wiire Sibahwana galiranga najahuŋenyuha,  ni geŋunamira mu bbulangiti ya maama wuwe agafa.
 
 ##
-Nga omugamba lulala, sibahwana
-galwa ho ohusisimuha muburiri.
-Omusika wa Maama wuwe
-gahayuha, “Muhaana ewe
-omunafu!” naŋalula sibahwana
-ohuŋwa muburiri, era ahabulangiti
-hahe ahalaŋi haŋagama
-humusumali, nga hahanuhamo
-ŋabiri.
+Nga  lulala,  mu mugamba Sibahwana galwa ho ohusisimuha mu buliri. Omusika wa Maama wuwe gahayuha,  "Muhaana ewe omunafu!" naŋalula sibahwana ohuŋwa mu buliri,  era aha bbulangiti hahe ahalaŋi haŋagama humusumali,  nga hahanuhamo ŋabiri.
 
 ##
-Yino njeyari esimbo esembayo.
-Sibahwana gasalaŋo huduluma
-ŋango. Gaŋamba obutundu
-w’ebulangiti eyali eya maama
-wuwe, aboŋaho emere, nga aleha
-enyumba, nalonderesa olugudo olu
-bbabba wuwe gali natiniye.
+Yino njeyali esimbo esembayo. Sibahwana gasalaŋo huduluma ŋango. Gaŋamba obutundu w'ebbulangiti eyali eya maama wuwe,  aboŋaho emere,  nga aleha enyumba,  nalonderesa olugudo olu bbaabba wuwe gali natiniyeho.
 
 ##
-When it came to evening, she climbed a very tall
-tree near a stream and made a bed for herself there.
-Ehyegulo nihyolire, ganiina omusaala omuleŋi nyo
-ogwali ohuupi n’esobele nga gebbotera obuliri.
-Nigali najahuŋenyuha, gemba maama, maama,
-maama wandeha ese wandeha ese nandugaluhe.
-“Bbabba sihifayo oba nohunyenda bbe, wandeha
-ese, maama wuuja ŋaali? Wandeha ŋose.”
+Ehyegulo nihyolire,  ganiina omusaala omuleŋi nyo ogwali ohuupi n'esobele nga gebbotera obuliri. Nigali najahuŋenyuha,  gemba,  "Maama,  maama,  maama wandeha ese wandeha ese nandugaluhe. "Bbaabba sahifayo oba nohunyenda bbe,  wandeha ese,  maama wuuja ŋaali? Wandehaŋo ese.
 
 ##
-Nibusheye mumugamba gasisimuha nga gemba
-nundi. Abahasi ni baaja ohwoosa engoye husobele,
-baŋulira obujanjasi obulaŋi nitulira hu musala
-omuleŋi. Balobosa ti hwali hweŋuba hw’ebihola, nga
-beyongera nemirimo jawe. Naye omuhasi mulala
-garimwelarihiriri.
+Nibusheye mu mugamba gasisimuha nga gemba nundi. Abahasi ni baaja ohwoosa engoye husobele,  baŋulira obujanjasi obulaŋi nibutulira hu musala omuleŋi. Balobosa ti hwali hweŋuba hw'ebihola,  nga beyongera nemirimo jawe. Naye omuhasi mulala gali mwelarihiriri.
 
 ##
-“Mangu, niina omusaala omwise
-ŋasi,” omuhasi galoma omuseele.
-Omuhasi nigaweene omuhana
-natengesya ebutundu w’ebulangiti
-yanyina, ga mugwa muhifuba nga
-lila, “Sibahwana, omwana wa mbojo
-yange!”
+"Mangu,  niina omusaala omwise ŋasi," omuhasi galoma omuseele. Omuhasi nigaweene omuhana natengesya ebutundu w'ebulangiti yanyina,  ga mugwa muhifuba nalila,  "Sibahwana,  omwana wa mbojo yange!"
 
 ##
-Gaŋira Sibahwana munyumba
-ewuwe, gamuŋa emele embarire,
-nga amuwiha ŋalala n’ebitundu
-by’ebulangiti ya maama wuwe.
-Owire owo, Sibahwana galira natiina
-ohuŋenyuha. Naye gali masiiga
-gohumununula. Gamanya ti
-masengewe gali wohumulabirila.
+Gaŋira Sibahwana munyumba ewuwe,  gamuŋa emele embalire,  nga amuwiha ŋalala n'ebitundu by'ebulangiti ya maama wuwe. Owire owo,  Sibahwana galira natiina ohuŋenyuha. Naye gali masiiga gohumununula. Gamanya ti masengewe gali wohumulabirila.
 
 ##
-Naye bbabba wuwe nigaboye eŋo nga natabona
-muhana wuwe, gaaja muhutegera. Gategera engeri
-yi muhasi wuwe omunyaha ganakuwasa omuhana
-wuwe omuŋoono.
-Gahebulira obunakuwafu w’omuhana owa tasobola
-humanya ahasera aho nga era genenya omwene.
-Galeha omuhasi wuwe omunyaha munyumba, nga
-atiina ewa mbojo ohumubuusa oba nga aweene ho
-omuhana wuwe.
+Naye bbaabba wuwe nigagoboye ego nga natabona muhana wuwe,  gaaja muhutegera. Gategera engeri yi muhasi wuwe omunyaha ganakuwasa omuhana wuwe omuŋoono. Gahebulira obunakuwafu w'omuhana owa tasobola humanya ahasera aho nga era genenya omwene. Galeha omuhasi wuwe omunyaha munyumba,  nga atiina ewa mbojo ohumubuusa oba nga aweene ho omuhana wuwe.
 
 ##
-Sibahwana agali nalihugudula
-nabaganda babe mulunya gabona
-bbabba wuwe nigajira eyibali.
-Natabuhire, gaduluma nga
-gehweha.
+Sibahwana agali nalihugudula nabaganda babe mulunya gabona bbabba wuwe nigajira eyibali. Ngatabuhire,  gaduluma nga gehweha.
 
 ##
-Naye bbabba wuwe galanga nga
-aloma, “Sibahwana, ofunire maama
-wuwo omulaŋi.
-Ahwenda ate ahumanyire.
-Kwesimisa ate kwenda nyo.”
+Naye bbaabba wuwe galanga nga aloma,  "Sibahwana,  ofunire maama wuwo omulaŋi. Ahwenda ate ahumanyire. Kwesimisa ate kwenda nyo."
 
 ##
-Sibahwana geyongera ohumenya ni masengewe.
-Ganyumira ohuhola emirimo jaŋango na baganda
-babe.
+Sibahwana geyongera ohumenya ni masengewe. Ganyumira ohuhola emirimo jaŋango na baganda babe.
 
 ##
-Bbabba wuwe gamushaliranga hisi ludalo. Era
-oludalo lulala, gaaja ni maama wa sibahwana
-owundi, agola eri sibahwana, gamugwa muhifuba
-eno nalila, genenya olwohumuwoneresa.
+Bbabba wuwe gamushaliranga hisi ludalo. Era oludalo lulala,  gaaja ni maama wa Sibahwana owundi,  nigola eri Sibahwana,  gamugwa muhifuba eno nalila,  genenya olwohumuwoneresa.
 
 ##
-Ganirisa Sibahwana na baganda
-babe aba masengewe eŋo, nga
-baba nembaga ey’amani. Oh engeri
-eyi bagudula eno n’ohujeha.
-...Sibahwana, Bbabba wuwe,
-maama wuwe owundi, abaganda
-babe hulwa masengewe, ni
-masengewe omulaŋi. Nga balya.....
-Ngaliŋo ebyohulya bingi!
+Ganirisa Sibahwana na baganda babe aba masengewe ego,  nga baba nembbaga ey'amani. Oh engeri eyi bagudula eno n'ohujeha. Sibahwana,  Bbaabba wuwe,  maama wuwe owundi,  abaganda babe hulwa masengewe,  ni masengewe omulaŋi. Nga balya. Ngaliŋo ebyohulya bingi!
 
 ##
 * License: [CC-BY]

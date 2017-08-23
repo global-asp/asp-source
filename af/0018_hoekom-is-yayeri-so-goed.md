@@ -94,7 +94,3 @@ goed?”
 * Illustration: Vusi Malindi
 * Translation: Ané van Straaten
 * Language: af
-
-Ané van Straaten, student at the
-University of Pretoria and studying
-E.C.D Foundation Phase

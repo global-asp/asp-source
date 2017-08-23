@@ -1,4 +1,4 @@
-# Mokibo Mary Nabire and Tessa Welch
+# Mokibo
 
 ##
 Ke a bina fa

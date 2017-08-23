@@ -1,4 +1,4 @@
-# Isikolo sasehlathini Madhav Chavan and Meera Tendolkar
+# Isikolo sasehlathini
 
 ##
 Kwakukho ihlathi elimnyama.

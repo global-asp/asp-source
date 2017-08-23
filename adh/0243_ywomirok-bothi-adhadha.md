@@ -64,5 +64,5 @@ Munyo Odongo gi Apiyo jo dok i sikulu jo lyesa ri wadi gin kwoŋ kwo ma calo. N
 * License: [CC-BY]
 * Text: Violet Otieno
 * Illustration: Catherine Groenewald
-* Translation: Owino Ogot and Athieno Gertrude
+* Translation: Owino Ogot, Athieno Gertrude
 * Language: adh

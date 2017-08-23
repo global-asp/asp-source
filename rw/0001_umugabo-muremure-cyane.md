@@ -37,5 +37,5 @@ Yavuye mu nzu ye ajya kwiturira mu ishyamba rinini.Yahabaye imyaka myinshi.
 * License: [CC-BY]
 * Text: Cornelius Gulere
 * Illustration: Catherine Groenewald
-* Translation: Jean Paul Harelimana and Paul
+* Translation: Jean Paul Harelimana, Paul
 * Language: rw

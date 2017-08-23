@@ -4,10 +4,7 @@
 E be e le ka kgwedi ya
 Manthole, e le Mokibelo e bile
 letšatši le fiša ka kudu.
-“Bontle and Mpho and Lerato,
-go out and play!” Mme said to
-us. “I don't want you under my
-feet.”
+
 “Bontle, Mpho le Lerato,
 sepelang le ye go raloka!Gwa
 realo Mma go rena.” Ga ke le

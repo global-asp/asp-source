@@ -1,4 +1,4 @@
-# Sekolo sa Sethokgweng Madhav Chavan and Meera Tendolkar
+# Sekolo sa Sethokgweng
 
 ##
 Kgale kgale go be go na le

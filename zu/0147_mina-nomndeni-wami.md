@@ -1,4 +1,4 @@
-# Mina nomndeni wami Waako Joshua and Cornelius Gulere
+# Mina nomndeni wami
 
 ##
 Mina nedayinasoli lami

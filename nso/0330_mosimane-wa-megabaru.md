@@ -23,9 +23,6 @@ ba mo amoga dinonyane tsela.
 ##
 * License: [CC-BY]
 * Text: Tukei A Cathy
-* Illustration: Marleen Visser, Wiehan de Jager, Eden
-Daniels and Bronwen Heath
+* Illustration: Marleen Visser, Wiehan de Jager, Eden Daniels, Bronwen Heath
 * Translation: Lucilla Ramashala
 * Language: nso
-
-It is bad to cheat others
