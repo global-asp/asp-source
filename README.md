@@ -24,7 +24,8 @@ Below is a key to the languages covered by this repository and their ISO 639-1/3
 
 ISO code | Language Name
 -------- | -------------
-[adh](https://github.com/global-asp/asp-source/tree/master/af) | Dhopadhola
+[ach](https://github.com/global-asp/asp-source/tree/master/ach) | Acholi
+[adh](https://github.com/global-asp/asp-source/tree/master/adh) | Dhopadhola
 [af](https://github.com/global-asp/asp-source/tree/master/af) | Afrikaans
 [alz](https://github.com/global-asp/asp-source/tree/master/alz) | Alur
 [am](https://github.com/global-asp/asp-source/tree/master/am) | Amharic
