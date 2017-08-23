@@ -2,7 +2,9 @@
 
 Story ID | Title | License
 -------- | ----- | -------
+0001 | [Etunganan Lo Awojan Noi](http://africanstorybook.org/reader.php?id=20668&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0002 | [Ongolia Ityiang Lu](http://africanstorybook.org/stories/ongolia-ityiang-lu) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+0006 | [Anansi Keda Acoa](http://africanstorybook.org/reader.php?id=20963&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0030 | [Epupi Ekon Etau Biai?](http://africanstorybook.org/stories/epupi-ekon-etau-biai) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0041 | [Ekale koosi](http://africanstorybook.org/stories/ekale-koosi) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0053 | [Enngo naa](http://africanstorybook.org/stories/enngo-naa) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)

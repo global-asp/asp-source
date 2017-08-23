@@ -1,0 +1,38 @@
+# Nyo Isubi Iyong?
+
+##
+Aeo ayong.
+
+##
+Iwawae ng'esi akan.
+
+##
+Edesi ayong ng'akan.
+
+##
+Itorwarit ng'esi ng'akan keng.
+
+##
+Enyara ng'esi.
+
+##
+Ekii ayong.
+
+##
+Epupi ng'esi.
+
+##
+Aporit ayong.
+
+##
+Eremarit ayong.
+
+##
+Kewokit ayong imotoka niichi.
+
+##
+* License: [CC-BY]
+* Text: Nina Orange
+* Illustration: Angie & Upesh, Wiehan de Jager and Marion Drew
+* Translation: Lolupe teachers
+* Language: tuv

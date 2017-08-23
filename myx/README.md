@@ -20,6 +20,7 @@ Story ID | Title | License
 0072 | [Intsilihaasa iy’omwoolesi we bubuukhi](http://africanstorybook.org/stories/intsilihaasa-iy’omwoolesi-we-bubuukhi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0076 | [Liŋaasa (ŋaa, ŋaa)](http://africanstorybook.org/stories/liŋaasa-ŋaa-ŋaa) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0084 | [Mukhwana ni Namono](http://africanstorybook.org/stories/mukhwana-ni-namono) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0087 | [Ssengana Khu Soma](http://africanstorybook.org/reader.php?id=20661&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0094 | [Wanaasi, bakikhoolo ni tsikweena](http://africanstorybook.org/stories/wanaasi-bakikhoolo-ni-tsikweena) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0111 | [Lwasiina tsifubu tsitamba bubwoya](http://africanstorybook.org/stories/lwasiina-tsifubu-tsitamba-bubwoya) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0120 | [Litsuune](http://africanstorybook.org/stories/litsuune) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)

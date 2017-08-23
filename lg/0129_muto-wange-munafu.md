@@ -22,7 +22,6 @@ Njoza ebintu.
 ##
 Lwanki nkola nnyo...
 
-##
 ...nga muto wange ye
 azannya buzannyi?
 

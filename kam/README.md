@@ -3,6 +3,7 @@
 Story ID | Title | License
 -------- | ----- | -------
 0003 | [Ngua sya sukulu](http://africanstorybook.org/stories/ngua-sya-sukulu) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+0004 | [Mbui, Ngiti na Ng'ombe](http://africanstorybook.org/reader.php?id=9686&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0005 | [Anansi na Nguu](http://africanstorybook.org/stories/anansi-na-nguu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0006 | [Ananzi na ũĩ](http://africanstorybook.org/stories/ananzi-na-ũĩ) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0016 | [Munyanya wa wakwa Coco](http://africanstorybook.org/stories/munyanya-wa-wakwa-coco) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

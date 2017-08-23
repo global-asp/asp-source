@@ -3,6 +3,7 @@
 Story ID | Title | License
 -------- | ----- | -------
 0001 | [Omusajja Omuwanvu ennyo](http://africanstorybook.org/stories/omusajja-omuwanvu-ennyo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0004 | [Wambuzi, Wambwa ne Wante](http://africanstorybook.org/reader.php?id=7787&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
 0005 | [Anansi ne Wanfudu](http://africanstorybook.org/stories/anansi-ne-wanfudu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0007 | [Okunoonya amazzi](http://africanstorybook.org/stories/okunoonya-amazzi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0009 | [Kkapa yange eri wa?](http://africanstorybook.org/stories/kkapa-yange-eri-wa) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)

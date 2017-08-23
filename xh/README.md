@@ -2,7 +2,10 @@
 
 Story ID | Title | License
 -------- | ----- | -------
+0001 | [Indoda Ende Kakhulu](http://africanstorybook.org/reader.php?id=19288&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0002 | [Izilwanyana zasekhaya](http://africanstorybook.org/stories/izilwanyana-zasekhaya) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+0008 | [Wenza Ntoni?](http://africanstorybook.org/reader.php?id=14931&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0008 | [Wenza Ntoni?](http://africanstorybook.org/reader.php?id=15035&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0009 | [Iphi ikati yam?](http://africanstorybook.org/stories/iphi-ikati-yam) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0029 | [UJoja ingwenya noNogolide ibhabhathane](http://africanstorybook.org/stories/ujoja-ingwenya-nonogolide-ibhabhathane) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0035 | [Umoya](http://africanstorybook.org/stories/umoya-0) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
@@ -10,8 +13,11 @@ Story ID | Title | License
 0042 | [Udyakalashe neediliya ezimuncu](http://africanstorybook.org/stories/udyakalashe-neediliya-ezimuncu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0045 | [UDyakalashe omaqhetseba nentajazana](http://africanstorybook.org/stories/udyakalashe-omaqhetseba-nentajazana) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0062 | [UNangila igorhakazi](http://africanstorybook.org/stories/unangila-igorhakazi) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0066 | [Unozibele Namanwele Amathathu](http://africanstorybook.org/reader.php?id=6711&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0075 | [UDyakalashe usomaqhingana uqhatha uDonki](http://africanstorybook.org/stories/udyakalashe-usomaqhingana-uqhatha-udonki) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0078 | [Amaphulo enkomo yodumo](http://africanstorybook.org/stories/amaphulo-enkomo-yodumo) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+0087 | [Ndiyathanda Ukufunda](http://africanstorybook.org/reader.php?id=14933&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0089 | [Upalesa Uthanda Izityalo](http://africanstorybook.org/reader.php?id=14122&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0092 | [NguMvundla noFudo (Kwakhona!)](http://africanstorybook.org/stories/ngumvundla-nofudo-kwakhona) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0100 | [UJaaka Umlobi](http://africanstorybook.org/stories/ujaaka-umlobi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0101 | [Umdlalo wokuphekaphekana](http://africanstorybook.org/stories/umdlalo-wokuphekaphekana) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
@@ -29,6 +35,7 @@ Story ID | Title | License
 0179 | [Umbala Obomvu](http://africanstorybook.org/stories/umbala-obomvu) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0180 | [UVayu omoya](http://africanstorybook.org/stories/uvayu-omoya) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0197 | [UNja no Xam](http://africanstorybook.org/stories/unja-no-xam) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0201 | [Umbhongolo, Usana Olusisimanga](http://africanstorybook.org/reader.php?id=20818&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0203 | [Ukukhangela umoya weNtwasahlobo](http://africanstorybook.org/stories/ukukhangela-umoya-wentwasahlobo) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0210 | [UTingi kunye Nenkomo](http://africanstorybook.org/stories/utingi-kunye-nenkomo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0220 | [UMgcini nekhaya leenkedama](http://africanstorybook.org/stories/umgcini-nekhaya-leenkedama) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
@@ -36,6 +43,7 @@ Story ID | Title | License
 0233 | [Umvundla Uya Ethekweni](http://africanstorybook.org/stories/umvundla-uya-ethekweni) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0240 | [UPendo inkomo yethu](http://africanstorybook.org/stories/upendo-inkomo-yethu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0242 | [UNdlovu namaSele](http://africanstorybook.org/stories/undlovu-namasele) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0243 | [Ulilitha Noluniko Batyelela Umakhulu Wabo](http://africanstorybook.org/reader.php?id=17528&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0250 | [Danger of abandoning a mother](http://africanstorybook.org/stories/danger-abandoning-mother-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0251 | [uNonkungu nembulu](http://africanstorybook.org/stories/unonkungu-nembulu-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0262 | [UMagozwe](http://africanstorybook.org/stories/umagozwe) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)

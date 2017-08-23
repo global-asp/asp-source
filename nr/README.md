@@ -2,11 +2,14 @@
 
 Story ID | Title | License
 -------- | ----- | -------
+0001 | [Uthimba Uyaphulukisa!](http://africanstorybook.org/reader.php?id=20824&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0004 | [Imbuzi, Inja Nekomo](http://africanstorybook.org/reader.php?id=7670&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0009 | [Ukuphi ukatsu wami?](http://africanstorybook.org/stories/ukuphi-ukatsu-wami) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0018 | [Kubayini uYayeri alungile?](http://africanstorybook.org/stories/kubayini-uyayeri-alungile) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0036 | [Kosazana Helen](http://africanstorybook.org/stories/kosazana-helen) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0050 | [Unamazinyo amangakhi?](http://africanstorybook.org/stories/unamazinyo-amangakhi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0075 | [Ipungutjha engumahlakaniphana itererha udumbana osithingithingi](http://africanstorybook.org/stories/ipungutjha-engumahlakaniphana-itererha-udumbana-osithingithingi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0087 | [Ngithanda Ukufunda](http://africanstorybook.org/reader.php?id=13812&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0102 | [UFikile okhulumela futhi](http://africanstorybook.org/stories/ufikile-okhulumela-futhi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0103 | [Ukuvuma ngeqiniso: Indatjana kaMiriam](http://africanstorybook.org/stories/ukuvuma-ngeqiniso-indatjana-kamiriam) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0122 | [Ngithanda ukufunda](http://africanstorybook.org/stories/ngithanda-ukufunda) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

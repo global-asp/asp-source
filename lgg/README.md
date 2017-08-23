@@ -25,6 +25,7 @@ Story ID | Title | License
 0120 | [Dri&#039;bi](http://africanstorybook.org/stories/dribi) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0127 | [Avitaa ndu ndu diyi](http://africanstorybook.org/stories/avitaa-ndu-ndu-diyi) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0129 | [Ma adri gaa ovuo ru ri](http://africanstorybook.org/stories/ma-adri-gaa-ovuo-ru-ri) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+0141 | [Au Pi Ii Elirigabe](http://africanstorybook.org/reader.php?id=9032&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0158 | [A’U PI YUKU BE](http://africanstorybook.org/stories/a’u-pi-yuku-be) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0164 | [Etoo pie Ewa be](http://africanstorybook.org/stories/etoo-pie-ewa-be) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0169 | [Ebio eji `ba yi ni a`diko yi awa](http://africanstorybook.org/stories/ebio-eji-ba-yi-ni-adiko-yi-awa) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

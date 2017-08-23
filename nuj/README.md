@@ -7,6 +7,7 @@ Story ID | Title | License
 0003 | [Engoye j’esomero](http://africanstorybook.org/stories/engoye-j’esomero) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0004 | [Embusi, Embwa n’Eῃombe](http://africanstorybook.org/stories/embusi-embwa-n’eῃombe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0005 | [Haŋambi n’Ehudu](http://africanstorybook.org/stories/haŋambi-n’ehudu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0008 | [Ohola hiina?](http://africanstorybook.org/reader.php?id=21099&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0009 | [Ekapa yange yiri ŋeena?](http://africanstorybook.org/stories/ekapa-yange-yiri-ŋeena) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0030 | [Weŋulira otye?](http://africanstorybook.org/stories/weŋulira-otye) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0031 | [Muŋubebe](http://africanstorybook.org/stories/muŋubebe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

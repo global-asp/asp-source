@@ -24,8 +24,7 @@ Náísuj intokitín.
 ##
 Káínyoo peê aás esíaai nabá injí ópeny?
 
-##
-amû egíra olálashe lái
+... amû egíra olálashe lái
 aigurán.
 
 ##

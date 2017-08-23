@@ -23,7 +23,6 @@ Nĩnthambasya mĩio.
 Why do I work so haNĩthũkũmaa mũno
 wanou nĩkĩ. . .
 
-##
 ...na mwanayia ethiwa
 akwetye kuthaũka.
 

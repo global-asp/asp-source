@@ -3,4 +3,5 @@
 Story ID | Title | License
 -------- | ----- | -------
 0003 | [Abïïk øt-göör](http://africanstorybook.org/stories/abïïk-øt-göör) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+0112 | [Dëëra](http://africanstorybook.org/reader.php?id=17261&d=0&a=1) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0126 | [Pøøl](http://africanstorybook.org/stories/pøøl) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
