@@ -9,7 +9,7 @@ It was a cold and wet morning in the forest. Mod the little toad was tired of s
 At that time, toads still had smooth wet skin like frogs. Without water, their skins would become too dry. 
 
 ##
-But Mod the toad was curious.  “I must find out, I must go beyond the forest,” she said.
+But Mod the toad was curious. “I must find out, I must go beyond the forest,” she said.
 
 Mod hopped out of the water. Hop, hop, she went, away from the river. She had fun jumping over the rocks, across grass, and past trenches.
 
@@ -20,10 +20,10 @@ She heard the sound of an airplane. Mod looked up into the sky. “What is up th
 Mod carried on her way. She met a chameleon for the first time. He was next to a large puddle of water. “Hello, I am on my way to dry land for adventure. What can you tell me?” she asked.“Nothing much stranger. It rains here too. Lots of rain and lots of flies,” replied the chameleon.
 
 ##
-As Chameleon was talking, his body changed colour.   Mod got a fright. She quickly said goodbye to Chameleon and hopped into a nearby bush.
+As Chameleon was talking, his body changed colour. Mod got a fright. She quickly said goodbye to Chameleon and hopped into a nearby bush.
 
 ##
-But she was unlucky. Hyena was busy burning bushes in preparation for planting season.  
+But she was unlucky. Hyena was busy burning bushes in preparation for planting season. 
 
 ##
 Mod did not want to turn around for fear of meeting the chameleon again. She stayed in the bush, only her round eyes could be seen. They were big with fear. Mod was surrounded by fire!

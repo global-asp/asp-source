@@ -28,5 +28,5 @@ Toboliae lokaatokang.
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
 * Illustration: Mlungisi Dlamini
-* Translation: Alfred Esinyen and Simon Ipoo
+* Translation: Alfred Esinyen, Simon Ipoo
 * Language: tuv

@@ -1,28 +1,28 @@
-# Nkunda  Gusoma
+# Nkunda Gusoma
 
 ##
 Nkunda gusoma.
 
 ##
-Nasomera  nde?
+Nasomera nde?
 
 ##
-Mushiki  wange arasinziriye.
+Mushiki wange arasinziriye.
 
 ##
-Nasomera  nde?
+Nasomera nde?
 
 ##
-Mama  na Nyogokuru  barahuze.
+Mama na Nyogokuru barahuze.
 
 ##
-Nasomera  nde?
+Nasomera nde?
 
 ##
-Papa  na  Sogokuru  barahuze.
+Papa na Sogokuru barahuze.
 
 ##
-Nasomera  nde? Nakwisomera.
+Nasomera nde? Nakwisomera.
 
 ##
 * License: [CC-BY]

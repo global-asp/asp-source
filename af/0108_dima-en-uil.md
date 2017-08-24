@@ -8,7 +8,7 @@ Uil het die son, water en vuur besit.
 Dima het niks hiervan besit nie en het saam met sy familie in duisternis gewoon.
 
 ##
-Dima het probeer om tuin te maak,  maar die groente wou nie groei nie omdat hulle geen sonlig gekry het nie.
+Dima het probeer om tuin te maak, maar die groente wou nie groei nie omdat hulle geen sonlig gekry het nie.
 
 Dit was nie net Dima wat gesukkel het nie, almal het swaargekry omdat daar nie sonlig was nie.
 
@@ -110,7 +110,7 @@ Die meeste van die stories speel af in Suidelike Afrika en die Kalahari waar daa
 
 Die "klapspeletjie" word steeds deur die !xun, die Nharo, en Kalahari San gespeel. Die storie stel Dima voor as 'n kulturele held en legende. Hy bereik dit met die woorde, “Van nou af sal mense vuur kan maak met elke boom op aarde.”
 
-Die Manyeka Arts Trust hou 'n !Xun vertelling van die storie deur Meneputo Mnaunga Maneka. Die illustrasies is deur Marlene Winberg en digitaal deur Satsiri Winberg ontwerp vanaf skilderye by Manyeka Art Collection gemaak deur San kunstenaars Thaalu  Rumao, Tuoi Samcuia en Joao Wenne Dikuango, wie al reeds oorlede is.
+Die Manyeka Arts Trust hou 'n !Xun vertelling van die storie deur Meneputo Mnaunga Maneka. Die illustrasies is deur Marlene Winberg en digitaal deur Satsiri Winberg ontwerp vanaf skilderye by Manyeka Art Collection gemaak deur San kunstenaars Thaalu Rumao, Tuoi Samcuia en Joao Wenne Dikuango, wie al reeds oorlede is.
 
 ##
 * License: [CC-BY]

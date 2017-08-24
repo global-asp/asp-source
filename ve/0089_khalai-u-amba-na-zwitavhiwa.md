@@ -4,7 +4,7 @@
 Ho yu ndi Khalai. U na minwaha ya sumbe. Dzina lawe li amba wavhudi nga luambo lwawe lwa Lubukusu.
 
 ##
-Khalai u vuwa a tshi amba na muri wa muswiri. "Ndi khou humbela muri wa muswiri,  hula uri fhe maswiri o vhibvaho."
+Khalai u vuwa a tshi amba na muri wa muswiri. "Ndi khou humbela muri wa muswiri, hula uri fhe maswiri o vhibvaho."
 
 ##
 Khalai a tshimbila a tshiya tshikoloni. Ndilani u amba na hatsi. "Ndi khou humbela hatsi vhu hule vhu vhe vhudala vhu songo oma."

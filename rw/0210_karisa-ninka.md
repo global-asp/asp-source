@@ -16,7 +16,7 @@ Babatwarira inka.
 Karisa na nyirakuru bariruka barabahunga.
 
 ##
-Bihisha mu gihuru  kugeza ijoro riguye.
+Bihisha mu gihuru kugeza ijoro riguye.
 
 ##
 Nyuma abasirikari baragaruka.
@@ -28,7 +28,7 @@ Nyirakuru amuhisha munsi y'amababi y'ibiti.
 Umwe muri abo basirikari akandagira kuri Karisa ariko ntiyakoma.
 
 ##
-Ba basirikare bamaze kugenda, Karisa na nyirakuru  bava mu bwihisho.
+Ba basirikare bamaze kugenda, Karisa na nyirakuru bava mu bwihisho.
 
 ##
 Basubira iwabo bomboka.

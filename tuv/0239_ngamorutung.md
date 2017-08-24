@@ -20,7 +20,7 @@ Apei kolong’it, abu ekipe tolimo akilakin adakar ng’ina.
 Abu ng’esi tomea itwaan alimor ekoi ng’olo.
 
 ##
-Akwaar nakolong abala ekipe, apotu ng’itung'a tochunakin taparachu, kipoto akimuj ka  ng’ibaren. 
+Akwaar nakolong abala ekipe, apotu ng’itung'a tochunakin taparachu, kipoto akimuj ka ng’ibaren. 
 
 Aponi kidarae ekipe tani ni ang’opia.
 
@@ -49,7 +49,7 @@ Nyejoikina ekipe ng’akiro ng’una, abu tong’oo dio kilam ng’itung’a ng�
 
 Tojong’o ng'esi akidong’are, dio ng’itung’a tarata ng’amoru ewaasi, iboyete ka eriedikito.
 
-Anyoun akwaar ng’ina, kidong ng’amoru neni ikote ng’itung’a nabo eonosi  nakware.
+Anyoun akwaar ng’ina, kidong ng’amoru neni ikote ng’itung’a nabo eonosi nakware.
 
 Egier alimokinere akwap ng’ina Ng’amorutung’a ng’olo!
 

@@ -34,7 +34,7 @@ Gweno ochukere. Nyaka to mwonyo gi ngulo. Nyaka to jiro gi wolo. Munyo owolo Ong
 Gweno owolo nyuka owolo woko Ongongolo iyii go. Yoki Ongongolo gi nyathi pere jurweta malo iwi yathi pondo.
 
 ##
-Woki isawa no, Gwendi kodi Ongongolini jubedo  jukwori.
+Woki isawa no, Gwendi kodi Ongongolini jubedo jukwori.
 
 ##
 * License: [CC-BY]

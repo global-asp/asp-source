@@ -1,4 +1,4 @@
-# Andiswa Omuzaanhi Owo  Mupiira
+# Andiswa Omuzaanhi Owo Mupiira
 
 ##
 Andiswa ya bona abalenzi

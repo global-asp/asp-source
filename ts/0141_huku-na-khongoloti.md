@@ -19,13 +19,13 @@ Huku a yi khungivanyekile leswaku yi lahlekeriwile hi ntlangu. Huku a yi nga am
 Huku yi khunguvanyikile ku kondza yi pfula na nomo wa yona hinkwawo yi mita khongoloti.
 
 ##
-Loko huku yi karhi yi famba,  yi hlangana na mana wa khongoloti. Mana wa khongoloti a vutisa,  "A wu n'wi vonanga n'wana wa mina?" Huku a yi vulangi nchumu. Mana wa khongoloti a vilela swinene.
+Loko huku yi karhi yi famba, yi hlangana na mana wa khongoloti. Mana wa khongoloti a vutisa, "A wu n'wi vonanga n'wana wa mina?" Huku a yi vulangi nchumu. Mana wa khongoloti a vilela swinene.
 
 ##
 Kutani mana wa khongoloti a twa xiritwana xi ku, "Ndzi pfune manana!" Mana wa khongoloti ri languta, ri yingisela kahle. Rito a ri huma endzeni ka khwiri ra huku.
 
 ##
-Mana wa khongoloti a huwelela,  "Tirhisa matimba ya wena yo hlawuleka n'wananga!" Khongoloti ri na nuho wo biha na ku bava swinene. Huku yi sungula ku vabya.
+Mana wa khongoloti a huwelela, "Tirhisa matimba ya wena yo hlawuleka n'wananga!" Khongoloti ri na nuho wo biha na ku bava swinene. Huku yi sungula ku vabya.
 
 ##
 Huku yi gomela. Yi mita na ku tshutela marha. Yi entshemula yi khohlola. Yi tlhela yi khohlola. Khongoloti a ri nyangatsa.
@@ -34,7 +34,7 @@ Huku yi gomela. Yi mita na ku tshutela marha. Yi entshemula yi khohlola. Yi tlh
 Huku yi khohlola ku kondza khongoloti ri huma ekhwirini. Khongoloti na mana wa rona va kasa va ya tumbela ehenhla ka murhi.
 
 ##
-Ku suka siku rero,  huku na khongoloti va vile valala.
+Ku suka siku rero, huku na khongoloti va vile valala.
 
 ##
 * License: [CC-BY]

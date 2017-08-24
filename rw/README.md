@@ -6,7 +6,7 @@ Story ID | Title | License
 0002 | [Inyamaswa Zo Mu Rugo](http://africanstorybook.org/reader.php?id=20732&d=0&a=1) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0009 | [Injangwe yanjye irihe?](http://africanstorybook.org/stories/injangwe-yanjye-irihe-1) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0078 | [Ibikorwa by&#039;inka idasanzwe](http://africanstorybook.org/stories/ibikorwa-byinka-idasanzwe) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
-0087 | [Nkunda  Gusoma](http://africanstorybook.org/reader.php?id=20325&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0087 | [Nkunda Gusoma](http://africanstorybook.org/reader.php?id=20325&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0105 | [Nyiramaterefone](http://africanstorybook.org/stories/nyiramaterefone) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0141 | [Inkoko Na Magurijana](http://africanstorybook.org/reader.php?id=17457&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0154 | [Inkende n&#039;umugore w&#039;umuhigi](http://africanstorybook.org/stories/inkende-numugore-wumuhigi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

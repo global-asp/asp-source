@@ -19,7 +19,7 @@ Zebra mushanvu niziruka kunwa ameizi.
 Ebikyere munana nana ebyenyanza mwenda birye nibizuba omu meizi.
 
 ##
-Ekicuncu kimwe nikitontoma. Nawe  nayenda kunwa.  Kwonka atinire ekicuncu.
+Ekicuncu kimwe nikitontoma. Nawe nayenda kunwa. Kwonka atinire ekicuncu.
 
 ##
 Enjojo emwe eriyo nenywa ameizi nana Ekicuncu.

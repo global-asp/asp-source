@@ -21,7 +21,7 @@ Wanakijiji walijitayarisha kama kawaida. Walimchinja mbuzi na kupika chakula.
 Vile vile walikutana wakaandaa kafara na kungoja siku nzima hadi jioni ila mgeni hakufika.
 
 ##
-Walicheza ngoma kama kawaida hadi usiku wa manane.  
+Walicheza ngoma kama kawaida hadi usiku wa manane. 
 
 Usiku huo kulikuwa na wachezaji ngoma wengi na kila mtu alikuwa amesisimka.
 
@@ -29,7 +29,7 @@ Usiku huo kulikuwa na wachezaji ngoma wengi na kila mtu alikuwa amesisimka.
 Kabla ya ngoma kuisha, mgeni alifika. Kwa mavazi alifanana na wanakijiji na hawakumtambua.
 
 ##
-Alipopata nafasi ya kucheza ngoma, alijiunga na wanaume wengine.  
+Alipopata nafasi ya kucheza ngoma, alijiunga na wanaume wengine. 
 
 Ilionekana wazi kuwa alicheza tofauti na wenyeji.
 

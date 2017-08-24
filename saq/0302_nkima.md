@@ -1,7 +1,7 @@
 # Nkima
 
 ##
-Ng'ura,  nkima!
+Ng'ura, nkima!
 
 ##
 Kepejisho nkima.
@@ -16,7 +16,7 @@ Keysheru nkima nkirewaj.
 Keysheru nkima ong'an.
 
 ##
-Ng'ura,  nkima!
+Ng'ura, nkima!
 
 ##
 Kesupat oleng' nkima.

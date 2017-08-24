@@ -28,10 +28,10 @@ A te nga boŋ se daari bambata fo.
 A day beelo kuuku fo.
 
 ##
-A go ga goro karga kuuku boŋ,  a go ga ŋwa nda kawra bambata fo.
+A go ga goro karga kuuku boŋ, a go ga ŋwa nda kawra bambata fo.
 
 ##
-A dira nga kwaaraa,  ga koy goro saaji fimbi fo ra. A goro no-din jiiri boobo.
+A dira nga kwaaraa, ga koy goro saaji fimbi fo ra. A goro no-din jiiri boobo.
 
 ##
 * License: [CC-BY]

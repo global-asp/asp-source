@@ -22,7 +22,7 @@ Bantfu bebatibuta batsi: “Yindvodza lenjani lena?”
 ##
 Kepha Themba akatange akushaye mkhuba loko.
 
-Watichubekela ngekutsengisa abuye amemetele atsi:  “Tsengani emabhanana ami!  Tsengani emabhanana ami lanongotelako futsi lavutsiwe”.
+Watichubekela ngekutsengisa abuye amemetele atsi: “Tsengani emabhanana ami! Tsengani emabhanana ami lanongotelako futsi lavutsiwe”.
 
 ##
 Lomunye wesifazane wafika watsi cuku sikhehle sabhana ekhredini yaThemba. 
@@ -43,7 +43,7 @@ Ngesikhashana lesincane ikhredi beseyingenalutfo.
 Themba wabala imali lekayizuzile ngalelolanga.
 
 ##
-Wasuka lapho waya kuyotsenga  insipho, shukela kanye nesinkhwa. Watifaka tonkhe tintfo takhe ekhredini.
+Wasuka lapho waya kuyotsenga insipho, shukela kanye nesinkhwa. Watifaka tonkhe tintfo takhe ekhredini.
 
 ##
 Themba wayihlalisisa kahle ikhredi yakhe layetfwele enhloko, wachubeka wahamba waya ekhaya.

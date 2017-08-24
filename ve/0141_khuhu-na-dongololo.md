@@ -25,7 +25,7 @@ Hezwi khuhu I tshi khou ya hayani ya tangana na mme a dongololo. Mme a donglolo 
 Zwenezwo mme a dongololo vha pfa kuipfi kutuku. "Kha vha nthuse mmawe!" ha lila liipfi. Mme a dongololo la sedza thungo dzothe la thetshelesa zwavhudi. Liipfi li khou bva nga ngomu ha khuhu.
 
 ##
-Mme a dongololo vha vhidzelela,  "Shumisa maanda a u o khetheaho nwananga!" Dongololo la ita munukho muvhi na u thetshela huvhi. Khuhu ya thoma u lwala.
+Mme a dongololo vha vhidzelela, "Shumisa maanda a u o khetheaho nwananga!" Dongololo la ita munukho muvhi na u thetshela huvhi. Khuhu ya thoma u lwala.
 
 ##
 Khuhu ya boda. Nga murahu ya mila ya pfa. Ya dovha ya etsemula ya hotola ya hotola. Dongololo la nengisea!

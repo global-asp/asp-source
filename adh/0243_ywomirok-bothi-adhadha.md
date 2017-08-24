@@ -1,25 +1,25 @@
-# Ywomirok  Bothi  Adhadha
+# Ywomirok Bothi Adhadha
 
 ##
-Odongo gi Apiyo jobedo gi ba jo i tindi madwoŋ.  Jo bedo ka jo kiyo akiya ywomirok. Ki rupir sikulu i lacego,  to rupir jowanya kidho lyewo adha jo.  Go bedo yoloka pa jokitoga ger gi nam madwoŋ.
+Odongo gi Apiyo jobedo gi ba jo i tindi madwoŋ.  Jo bedo ka jo kiyo akiya ywomirok. Ki rupir sikulu i lacego, to rupir jowanya kidho lyewo adha jo.  Go bedo yoloka pa jokitoga ger gi nam madwoŋ.
 
 ##
 Odongo gi Apiyo jo sangala swa rupir hongo otundo ma kidho lyewo adha jo kendo. Wor m'otelo jo tweyo migugu pa jo to jo yikere ma woth ma kidho loka p'adha jo. Nindo kumako waŋ jo aka jo luwo kwoŋ lyewo adha jo wor gi pi.
 
 ##
-Jo mondo yawere mere kadho p'adha jo i mutoka pa ba jo. Ogwey gi jo motoka kalo gote,  ogwange ma dudi gi ndelin majan. Jo kwano motokin aka jowero.
+Jo mondo yawere mere kadho p'adha jo i mutoka pa ba jo. Ogwey gi jo motoka kalo gote, ogwange ma dudi gi ndelin majan. Jo kwano motokin aka jowero.
 
 ##
 Rumacen nyithindho jo ol to jo podho nindo.
 
 ##
-Ba jo ocewo jo munyo jo tundo loka ago. Jo nwaŋo adha jo,  Nyajaruya,  ywomere i tyendi yath i par.
+Ba jo ocewo jo munyo jo tundo loka ago. Jo nwaŋo adha jo, Nyajaruya, ywomere i tyendi yath i par.
 
 ##
-Nyajaruwa osangala gi jo,  orwako jo i ot to mielo thoko dier ot. Nyikwaye jo miyo go mic ma jo kelo wok i tindi madwoŋ. Odongo owaco ni,  "Tel yawo mic paran." Apiyo bende owaco ni,  "Be,  tel g'aparan ayino!"
+Nyajaruwa osangala gi jo, orwako jo i ot to mielo thoko dier ot. Nyikwaye jo miyo go mic ma jo kelo wok i tindi madwoŋ. Odongo owaco ni, "Tel yawo mic paran." Apiyo bende owaco ni, "Be, tel g'aparan ayino!"
 
 ##
-Munyo Nyajaruwa ocowo yawo mic je,  omiyo nyikwaye silwany i kula ma nyanono pa jo.
+Munyo Nyajaruwa ocowo yawo mic je, omiyo nyikwaye silwany i kula ma nyanono pa jo.
 
 ##
 Odongo gi Apiyo to jowok kadho tuko. Jo riemo ombutuku gi winyin.
@@ -43,7 +43,7 @@ Nyajaruwa ofonjo nyikwaye guro kwon mayom macamere gi fufa. Onyutho jo kite mate
 Odikini acel Odongo okidho kwayo dhok p'adhamere. Jo donjo i ndelo pa jager. Won ndelo omako nge gi Odongo. Obwoko go ni ladoŋ gi dhoki rupir jo camo cemo pere. Wok ndelo no Odongo ogwoko dhoki timo banja kendo.
 
 ##
-Ndelo man nyithindho jokidho i kisiya gi adha jo. Go oyido nitie gi kitandilo m'atana iye fufa,  sukari gi sabuni. Apiyo omaro waco ri jonyew welo ma gigipiny. Odongo oyido tweyo gigipiny m'otiek nyewo.
+Ndelo man nyithindho jokidho i kisiya gi adha jo. Go oyido nitie gi kitandilo m'atana iye fufa, sukari gi sabuni. Apiyo omaro waco ri jonyew welo ma gigipiny. Odongo oyido tweyo gigipiny m'otiek nyewo.
 
 ##
 I cowe mere jo madho cai kanyacel. Jo konyo adha jo gi kwano pesa m'olimo.
@@ -52,7 +52,7 @@ I cowe mere jo madho cai kanyacel. Jo konyo adha jo gi kwano pesa m'olimo.
 Mayot yot ywomirok orumo aka oripo ni nyithindho no jo wodoki i tindi pa jo. Nyajaruwa omiyo Odongo junga to miyo Apiyo sweta. Otweyo ri jo kit cemo ma camo iyo.
 
 ##
-Munyo ba jo obino omo jo,  oyido jo kumito dok. Nyithindho jo kwayo adha jo dok gi jo i tindi madwoŋ. Obwonjo to waco ni,  "Aasa ti ma kidho i tindi madwoŋ. Alabedo ka akur win bino thurin kendo."
+Munyo ba jo obino omo jo, oyido jo kumito dok. Nyithindho jo kwayo adha jo dok gi jo i tindi madwoŋ. Obwonjo to waco ni,  "Aasa ti ma kidho i tindi madwoŋ. Alabedo ka akur win bino thurin kendo."
 
 ##
 Odongo gi Apiyo jopodho i kor adha jo ma joridho matek aka jo sewila go.

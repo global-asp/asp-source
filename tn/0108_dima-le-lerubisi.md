@@ -210,7 +210,7 @@ kantlha ya rra motlholo.
 PALE
 Ka 2003, Katunga Carimbwe o buele tema ya gagwe ya
 pale ena mme Dima and Owl ba dira gopre pale ena e bane
-ya nnete mme e bane le botshelo.Mangumbu, Mahongo
+ya nnete mme e bane le botshelo. Mangumbu, Mahongo
 and Winberg ba fetotse pale ena mme ba e dira ka puo e
 bonolo eo bana baka e tlhaloganyng mme baka e
 ratang.bagolo ba gagwe ba buele pakle ena go ena ko

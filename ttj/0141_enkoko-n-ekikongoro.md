@@ -25,16 +25,16 @@ Wankoko obwakaba nagaruka omuka yatangatangana nyina kikongoro. Yamukagaza ati. 
 Hanyima nyina kikongoro akahuurra akaraka kataito. "Mau njuna!" Nyina kikongoro akamagamaga nahuliriza nokwegendesereza. Iraka likaba niriruga munda ya'Wankoko.
 
 ##
-Nyina kikongoro yateera empamo,  "Wekonyeze amaani goona mwana wange!" Ekikongoro nikisisobora kurugwamu ekinunko kandi nokusarra. Enkoko ekatandika kwehurra kubi.
+Nyina kikongoro yateera empamo, "Wekonyeze amaani goona mwana wange!" Ekikongoro nikisisobora kurugwamu ekinunko kandi nokusarra. Enkoko ekatandika kwehurra kubi.
 
 ##
-Enkoko ekebijagura,  yamira kandi yacwa orucwanta. Yayesemura kandi yakorra. Yakorra muno. Ekikongoro nikitama!
+Enkoko ekebijagura, yamira kandi yacwa orucwanta. Yayesemura kandi yakorra. Yakorra muno. Ekikongoro nikitama!
 
 ##
-Enkoko ekakorra kuhikya obu yaihireyo ekikogoro ekyekaba emizire. Nyina kikongoro n'omwana bayekurra,  batemba omuti kwesereka.
+Enkoko ekakorra kuhikya obu yaihireyo ekikogoro ekyekaba emizire. Nyina kikongoro n'omwana bayekurra, batemba omuti kwesereka.
 
 ##
-Kuruga kasumi ako,  Wankoko na Kikongoro bafooka banyanzigwa.
+Kuruga kasumi ako, Wankoko na Kikongoro bafooka banyanzigwa.
 
 ##
 * License: [CC-BY]

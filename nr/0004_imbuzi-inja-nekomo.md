@@ -1,16 +1,16 @@
 # Imbuzi, Inja Nekomo
 
 ##
-Imbuzi,  inja nekomo bezibangana abakhulu. Ngelinye ilanga bathatha ikhambo ngeteksi.
+Imbuzi, inja nekomo bezibangana abakhulu. Ngelinye ilanga bathatha ikhambo ngeteksi.
 
 ##
-Kuthe nasele bafikile lapha ekade baya khona,  umtjhayeli weteksi wababawa bonyana babhadale imali yesikhwelo iteksi. Ikomo yona yabhadala.
+Kuthe nasele bafikile lapha ekade baya khona, umtjhayeli weteksi wababawa bonyana babhadale imali yesikhwelo iteksi. Ikomo yona yabhadala.
 
 ##
 Inja yona yabhadala imadlana encani ngombana beyiphethe imali etjhodako.
 
 ##
-Kuthe umtjhayeli afuna ukunikela inja itjhentji,  imbuzi nakuya idla phasi iyabaleka.
+Kuthe umtjhayeli afuna ukunikela inja itjhentji, imbuzi nakuya idla phasi iyabaleka.
 
 ##
 Umtjhayeli wasilingeka bese wakhamba azange asanikela inja itjhentjhi yakhe.
@@ -22,7 +22,7 @@ Ngikho nanamhlanje inja igijimisa ikoloyi nayikhambako ngoba ifuna umtjhayeli ay
 Bese kuthi iimbuzi zibalekela zisaba itjhada leenkoloyi ngombana zisaba ukuthi zizokubanjwa ngomabana azange zabhadala ziyakoloda.
 
 ##
-Ngikho nje ikomo yona ayinandaba nayeqa indlela,  ithatha isikhathi sayo ngombana iyazi ukobana yona ayikolodi muntu.
+Ngikho nje ikomo yona ayinandaba nayeqa indlela, ithatha isikhathi sayo ngombana iyazi ukobana yona ayikolodi muntu.
 
 ##
 * License: [CC-BY]

@@ -22,7 +22,7 @@ Wazama wazama, kodwa wayengafikeleli kulezo zimvini. Waqhubeka ehluleka, umgogod
 Ekugcineni, wase ulahla ithawela futhi wahamba.
 
 ##
-U jakalasi wayenga jabulanga neze. Wema,  wabuka emuva kulezo mvini waqhabanga, "lezo mvini ezingavuthwanga ezihlaza. "Wakhala wase uyahamba. Futhi waye lambe ukudlula.
+U jakalasi wayenga jabulanga neze. Wema, wabuka emuva kulezo mvini waqhabanga, "lezo mvini ezingavuthwanga ezihlaza. "Wakhala wase uyahamba. Futhi waye lambe ukudlula.
 
 ##
 * License: [CC-BY]

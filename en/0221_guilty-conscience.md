@@ -1,7 +1,7 @@
 # Guilty Conscience
 
 ##
-Once upon a time, there was an old woman who lived with her three grandchildren.  
+Once upon a time, there was an old woman who lived with her three grandchildren. 
 
 ##
 Every morning they all went to work in the field. 
@@ -12,7 +12,7 @@ But one day, one of the girls said, “Grandmother, I don’t feel well today.�
 So the old woman sent the child home.
 
 ##
-When the girl got home, she saw that there was meat in the pot. She ate all the meat and then went to sleep.  
+When the girl got home, she saw that there was meat in the pot. She ate all the meat and then went to sleep. 
 
 ##
 The old woman and two children were tired and hungry when they returned from the field.
@@ -26,7 +26,7 @@ She opened the pots to serve her grandchildren. When she opened the pot with the
 “Who ate the meat?” asked Grandmother, frowning. But all three grandchildren shook their heads.“Not me,” each one said.
 
 ##
-So their grandmother tied a rope across the river.  She told each of them to walk on the rope as they sang a song.“The one that ate the meat will fall into the river, and learn to tell the truth,” Grandmother said to the children.
+So their grandmother tied a rope across the river. She told each of them to walk on the rope as they sang a song.“The one that ate the meat will fall into the river, and learn to tell the truth,” Grandmother said to the children.
 
 ##
 The first granddaughter walked quickly across the river, singing the song.

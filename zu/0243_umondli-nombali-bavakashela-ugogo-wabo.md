@@ -4,19 +4,19 @@
 UMondli noMbali babehlala edolobheni nobaba wabo. Babekujabulela ukuvalwa kwezikole ngoba babezovakashela ugogo wabo. Phela ugogo wayehlala kwesinye isigodi esasinedamu elikhulu lapho kwakudotshwa khona izinhlanzi. Abantu bakule ndawo babekhonzile ukudoba.
 
 ##
-UMondli-ke babejabule kakhulu kulokhu ngoba nabo ngalesi sikhathi, babezovakashela ugogo wabo ohlala kulesi sigodi esinedamu. Ngobusuku okwakuzosa bahambe ngabo, bapakisha izikhwama balungiselela uhambo olude oluya kwagogo. Ubuthongo babungafiki, bexoxa ubusuku bonke,  izinhliziyo zilangazelela leli holide.
+UMondli-ke babejabule kakhulu kulokhu ngoba nabo ngalesi sikhathi, babezovakashela ugogo wabo ohlala kulesi sigodi esinedamu. Ngobusuku okwakuzosa bahambe ngabo, bapakisha izikhwama balungiselela uhambo olude oluya kwagogo. Ubuthongo babungafiki, bexoxa ubusuku bonke, izinhliziyo zilangazelela leli holide.
 
 ##
-Ekuseni ngovivi,  baqala uhambo lwabo ngemoto kababa wabo. Imoto yayihamba idlula izintaba,  amaqguma, wena zilwane zasendle namasimu. Babeloku bebalana nezimoto eziphambana nabo nalezo abazedlulayo. Babebuye bacule bejabulele indlela.
+Ekuseni ngovivi, baqala uhambo lwabo ngemoto kababa wabo. Imoto yayihamba idlula izintaba, amaqguma, wena zilwane zasendle namasimu. Babeloku bebalana nezimoto eziphambana nabo nalezo abazedlulayo. Babebuye bacule bejabulele indlela.
 
 ##
-Emva kwesikhashana, lapho ubaba ezwa sekuthule,  waqalaza, wabathola sebefile ubuthongo.
+Emva kwesikhashana, lapho ubaba ezwa sekuthule, waqalaza, wabathola sebefile ubuthongo.
 
 ##
-Kuthe sebengena esigodini lapho ugogo ehlala khona,  ubaba wabo wabavusa. Nanguya ugogo, uNobuntu,  eziphumulele phansi kwesihlahla. Ugogo kwakuyintombi ezithandayo, ebathanda abantu njengegama lakhe. Wayemuhle, ekhuthele, ephiwe nempilo enhle.
+Kuthe sebengena esigodini lapho ugogo ehlala khona, ubaba wabo wabavusa. Nanguya ugogo, uNobuntu, eziphumulele phansi kwesihlahla. Ugogo kwakuyintombi ezithandayo, ebathanda abantu njengegama lakhe. Wayemuhle, ekhuthele, ephiwe nempilo enhle.
 
 ##
-Ugogo wathi vuthu lapho ayehleli khona,  wabamukela, egidagida, ecula yedwana yinjabulo yokubona abazukulu bakhe. Nabo abazukulu babejabule. Ngokushesha babekhipha imithwalo yabo, bedlulisa nezipho ababeziphathele ugogo edolobheni. "Gogo! Gogo! Vula esami kuqala isipho," kumemeza uMondli. NoMbali naye ngapha ubelesele,  ufuna ugogo avule esakhe isipho kuqala.
+Ugogo wathi vuthu lapho ayehleli khona, wabamukela, egidagida, ecula yedwana yinjabulo yokubona abazukulu bakhe. Nabo abazukulu babejabule. Ngokushesha babekhipha imithwalo yabo, bedlulisa nezipho ababeziphathele ugogo edolobheni. "Gogo! Gogo! Vula esami kuqala isipho," kumemeza uMondli. NoMbali naye ngapha ubelesele, ufuna ugogo avule esakhe isipho kuqala.
 
 ##
 Emva kokuvulwa kwezipho, ugogo wababusisa ngokwesiko labo.
@@ -46,13 +46,13 @@ Ngelinye ilanga ekuseni uMondli wakhipha izinkomo zikagogo edlelweni, ethi uyokw
 Ngolunye usuku, izingane zahamba noNobuntu zaya emakethe. Wayenetafula lapho ayethengisa khona imifino, izithelo nezinye izinto ezincane ezidingwa umphakathi. UMbali wayethanda ukutshela abathengi ukuthi izinto zibiza malini, ahlanganise, athathe imali. UMondli yena, wayesongela abathengi izimpahla zabo abazithengile.
 
 ##
-Ekupheleni kosuku, babephuza itiye babukeze usuku,  kube mnandi. Abazukulu bebemsiza ugogo ukubala imali ayenzile ngalolo suku.
+Ekupheleni kosuku, babephuza itiye babukeze usuku, kube mnandi. Abazukulu bebemsiza ugogo ukubala imali ayenzile ngalolo suku.
 
 ##
 Kodwa amaholide asheshe aphela. Kwasekufanele ukuthi babuyele esikoleni edolobheni. Ugogo wapha uMondli ikepisi kanti uMbali wamupha ijezi. Wabapakishela nomphako wendlela ephindela edolobheni.
 
 ##
-Babengasafuni ukugoduka, lapho ubaba wabo efika esezobalanda. Bancenga ugogo ukuba ahambe nabo,  aye edolobheni. Wayevele amoyizele athi, "Sengimdala kakhulu ukuthi ngingahlala edolobheni. Ugogo uzosala lapha ukuze nibuye futhi nizojabulela amaholide ahlukile."
+Babengasafuni ukugoduka, lapho ubaba wabo efika esezobalanda. Bancenga ugogo ukuba ahambe nabo, aye edolobheni. Wayevele amoyizele athi, "Sengimdala kakhulu ukuthi ngingahlala edolobheni. Ugogo uzosala lapha ukuze nibuye futhi nizojabulela amaholide ahlukile."
 
 ##
 Bavalelisa, bamanga ugogo ngezinhliziyo ezibuhlungu.

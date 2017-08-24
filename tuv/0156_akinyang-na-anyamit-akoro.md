@@ -13,7 +13,7 @@ Napei kona.
 PUU! Toporok akinyang!
 
 ##
-Arumoret kaneni,  amam akoro anyamit ng'esi,  nabo talakar ng'esi.
+Arumoret kaneni, amam akoro anyamit ng'esi, nabo talakar ng'esi.
 
 ##
 Todol ni enyamia ng'esi akoro nabo.

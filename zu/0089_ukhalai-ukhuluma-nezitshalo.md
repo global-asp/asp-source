@@ -1,22 +1,22 @@
 # Ukhalai Ukhuluma Nezitshalo
 
 ##
-UKhalai lona. Uneminyaka eyisikhombisa. Igama lakhe lichaza 'olungile' ngolimi lwakubo,  isi Lubukusu.
+UKhalai lona. Uneminyaka eyisikhombisa. Igama lakhe lichaza 'olungile' ngolimi lwakubo, isi Lubukusu.
 
 ##
-UKhalai uvuka ekuseni akhulume nesihlahla samawolintshi. "Ngiyacela sihlahla samawolintshi,  khula ubemkhulu usiphe amawolintshi amaningi avuthiwe."
+UKhalai uvuka ekuseni akhulume nesihlahla samawolintshi. "Ngiyacela sihlahla samawolintshi, khula ubemkhulu usiphe amawolintshi amaningi avuthiwe."
 
 ##
-UKhalai uya esikoleni. Endleleni ukhuluma notshani. "Ngiyakucela tshani,  yiba luhlaza kakhulu ungomi."
+UKhalai uya esikoleni. Endleleni ukhuluma notshani. "Ngiyakucela tshani, yiba luhlaza kakhulu ungomi."
 
 ##
-UKhalai wedlula izimbali zasendle,  "Ngiyanicela zimbali,  hlalani niqhakaza ukuze nginihlome ezinweleni zami."
+UKhalai wedlula izimbali zasendle, "Ngiyanicela zimbali, hlalani niqhakaza ukuze nginihlome ezinweleni zami."
 
 ##
-Esikoleni,  uKhalai ukhuluma nesihlahla esimila phakathi nezakhiwo,  "Ngiyakucela sihlahla,  khipha amahlamvu amade ukuze sifunde siphansi komthunzi wakho."
+Esikoleni, uKhalai ukhuluma nesihlahla esimila phakathi nezakhiwo, "Ngiyakucela sihlahla, khipha amahlamvu amade ukuze sifunde siphansi komthunzi wakho."
 
 ##
-UKhalai ukhuluma nothango oluzungeze isikole,  "Ngicela ukhule uqine ukuze uvimbe abantu ababi bangangeni."
+UKhalai ukhuluma nothango oluzungeze isikole, "Ngicela ukhule uqine ukuze uvimbe abantu ababi bangangeni."
 
 ##
 Lapho uKhalai ebuya esikoleni uvakashela isihlahla samawolintshi. "Asevuthiwe kodwa amawolintshi akho?" kubuza uKhalai.

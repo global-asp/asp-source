@@ -19,7 +19,7 @@ Umma nogogo bayapheka.
 Ngubani ofuna ukufunda name? Ubaba nomalume bakhona.
 
 ##
-Baba nomalume ngibawa ukufunda nani. Awa,  ubaba nomalume balungisa ikoloyi. Ngubani ofuna ukufunda name?
+Baba nomalume ngibawa ukufunda nani. Awa, ubaba nomalume balungisa ikoloyi. Ngubani ofuna ukufunda name?
 
 ##
 Mina ngizokufunda incwadi ngingedwa. Ngithanda ukufunda!

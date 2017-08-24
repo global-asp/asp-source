@@ -1,4 +1,4 @@
-# Mee Sha  Nɛ M Baa Kraŋ
+# Mee Sha Nɛ M Baa Kraŋ
 
 ##
 Mee sha k baa kraŋ.

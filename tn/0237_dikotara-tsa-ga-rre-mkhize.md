@@ -15,7 +15,7 @@ Kwa lebenkeleng la ga Rre Mkhize le gona ditšhipsi di tloga di butswa, mme o s
 Jabu le Zodwa ba reka dijo. Zodwa o reka kwa lebenkeleng la ga Rre Mkhize. Jabu o reka kwa go Rre Motaung. O dumela gore kwatara ya kwa ga Rre Motaung e nale ditšhipsi tse dintsi le atchar go feta ya kwa ga Rre Mkhize.
 
 ##
-Mola wa kwa lebenkeleng la ga Rre Motaung ka metlha o motelele.  Zodwa o emetse Jabu. Jaanong ditsala di dutse mmogo mo tlase ga moriti go itumelela dikotara tsa bona.
+Mola wa kwa lebenkeleng la ga Rre Motaung ka metlha o motelele. Zodwa o emetse Jabu. Jaanong ditsala di dutse mmogo mo tlase ga moriti go itumelela dikotara tsa bona.
 
 ##
 Zodwa o lemoga sengwe se se dirang gore a lebelele thata ebile a goge sefatlhego."O lebeletse eng?" ga botsa Jabu."Kotara ya gago! E feta ya me ka bogolo!" Ga goa Zodwa.
@@ -48,7 +48,7 @@ Barutwana ba bangwe ba ne ba ba setse morago go ya lebenkelelng mme ba reeditse 
 Rre Mkhize a latlhela matsogo a gagwe mo moyeng. "Lo bua jang ka nna?" A ngongorega. "Ga ke a nna jalo! Ke batla lo tswe ka lebenkele la me gona jaanong!"
 
 ##
-Zodwa a buela kwa tlase a re, "Re tla bolelela mongwe le mongwe se o se dirang. Se se tla gasagana jaaka molelo wa naga mo sekolong mme o tla tshwanelwa ke go tswala lebenkele la gago. Ga go motho yo o tla tlang  go reka mo go wena!"
+Zodwa a buela kwa tlase a re, "Re tla bolelela mongwe le mongwe se o se dirang. Se se tla gasagana jaaka molelo wa naga mo sekolong mme o tla tshwanelwa ke go tswala lebenkele la gago. Ga go motho yo o tla tlang go reka mo go wena!"
 
 Rre Mkhize o ile a lebelela bana ba bararo ba ba šakgetseng ba eme mo pele ga gagwe. Mme a lebelela bontsi-ntsi jo bo golang mo pele ga lebenkele la gagwe.
 

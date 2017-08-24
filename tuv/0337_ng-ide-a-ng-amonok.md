@@ -1,7 +1,7 @@
 # Ng’Ide a Ng’Amonok
 
 ##
-Kolong ang'orot,  alomit awi na alakara.
+Kolong ang'orot, alomit awi na alakara.
 
 ##
 Pe ajienete kesi. Eng'aranakinete ng'ikauriak kech anawi tani alomana.
@@ -34,7 +34,7 @@ Na kaneni apotu totiakut arekinet. Apotu tolemut emodol a ng'amonok ana ekeyarit
 Apotu yasi lokatokech lo arai ikeny kidiama naita emoru.
 
 ##
-Nabo na ajipunia akolong,  abu ng'esi toporo eeokinit tooma nakicha na ataparach.
+Nabo na ajipunia akolong, abu ng'esi toporo eeokinit tooma nakicha na ataparach.
 
 ##
 * License: [CC-BY]

@@ -9,6 +9,6 @@ Story ID | Title | License
 0121 | [Nyuka](http://africanstorybook.org/stories/nyuka) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0141 | [Gweno Kodi Ongongolo](http://africanstorybook.org/reader.php?id=20822&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0201 | [Nyathi Ma Nyakare](http://africanstorybook.org/reader.php?id=19993&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
-0243 | [Ywomirok  Bothi  Adhadha](http://africanstorybook.org/reader.php?id=15758&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0243 | [Ywomirok Bothi Adhadha](http://africanstorybook.org/reader.php?id=15758&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0302 | [Mac](http://africanstorybook.org/reader.php?id=19481&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0314 | [Kibwe gi Wodi Gweno](http://africanstorybook.org/stories/kibwe-gi-wodi-gweno) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
