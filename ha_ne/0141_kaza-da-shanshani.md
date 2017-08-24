@@ -6,7 +6,7 @@ Amma kullum suna takara
 tsakaninsu. Wata rana, sai suka yi
 niyyar wasan ƙwallon ƙafa don
 sanin wa ya fi kwaninta tsakani su
-biyu(2).
+biyu.
 
 ##
 Sai suka shiga filin ƙwallon ƙafar
@@ -19,7 +19,7 @@ na kazar zai je. Ganin haka, sai da
 kaza ta fara hassala.
 
 ##
-Ƴan takarar biyu (2) sun yi niyyar
+Ƴan takarar biyu sun yi niyyar
 su je bugun da kai sai mai tsoron
 gida. Da farko shanshani ita ce mai
 tsaron gida wato gola kenan. Kaza
@@ -32,8 +32,7 @@ Shanshani ta harba ƙwallo, kuma ta
 saka a raga. Shanshani tana
 gwaninta kuma tana saka ƙwallon.
 Shanshani ta saka ƙwallon har da
-kai. Shanshani ta saka ƙwallon biyar
-(5).
+kai. Shanshani ta saka ƙwallon biyar.
 
 ##
 Kaza ta hassala da rishin nasarar da
@@ -88,7 +87,3 @@ su shiri.
 * Illustration: Winny Asara
 * Adaptation: Plan Niger - Projet NECS - Usaid, avec la contribution du comité asl du projet necs
 * Language: ha
-
-Cette histoire a été écrite par un
-élève enseignant de Arua PTC en
-Uganda.
