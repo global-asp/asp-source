@@ -1,4 +1,4 @@
-# Tingi and the Cows
+# Tingi and the cows
 
 ##
 Tingi lived with his
