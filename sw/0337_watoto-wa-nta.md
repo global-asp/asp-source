@@ -1,4 +1,4 @@
-# Watoto wa Nta
+# Watoto wa nta
 
 ##
 Hapo zamani za kale,
