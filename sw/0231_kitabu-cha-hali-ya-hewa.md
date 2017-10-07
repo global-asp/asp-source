@@ -1,4 +1,4 @@
-# Kitabu cha Hali ya Hewa
+# Kitabu cha hali ya hewa
 
 ##
 Hakuna mvua.
