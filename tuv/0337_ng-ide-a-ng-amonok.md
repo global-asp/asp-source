@@ -12,7 +12,6 @@ Na kaneni pe achamunitae kesi irudakinosi nakim.
 ##
 Achamakina esubete etich kech nakwaare.
 
-##
 Kotere asubitae kesi a ng'amonok!
 
 ##

@@ -19,9 +19,8 @@ Atopia kwap akai.
 Elata ng'iboro lukimujet.
 
 ##
-Kotere nyo atiyaa ayong etich lokojokon.
+Kotere nyo atiyaa ayong etich lokojokon...
 
-##
 Toboliae lokaatokang.
 
 ##

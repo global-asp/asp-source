@@ -29,4 +29,4 @@ Lokacin da aka juya rabin lokaci na biyu, sai wani daga cikin su ya turawa Andis
 * Text: Eden Daniels
 * Illustration: Eden Daniels
 * Translation: Muhammad Umar
-* Language: Hausa (Nigeria)
+* Language: ha

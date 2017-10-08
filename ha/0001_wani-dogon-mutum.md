@@ -38,4 +38,4 @@ Ya bar gidanshi ya koma dokar daji. Ya rayu shekaru masu yawa.
 * Text: Cornelius Gulere
 * Illustration: Catherine Groenewald
 * Translation: Muhammad Tukur Bala
-* Language: Hausa (Nigeria)
+* Language: ha

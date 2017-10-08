@@ -41,4 +41,4 @@ Wangari ta mutu a shekara ta dubu biyu da sha daya (2011), amma mu kan tuna ta d
 * Text: Nicola Rijsdijk
 * Illustration: Maya Marshak
 * Translation: Rabi'u Aminu Lawan, Taiye Fatoki
-* Language: Hausa (Nigeria)
+* Language: ha

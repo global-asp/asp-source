@@ -6,8 +6,7 @@ Ayei kolong akinyang nanyamit akoro.
 ##
 Asaki ng'esi akimuj wadio nabo ekililing'at.
 
-##
-Napei kona.
+Napei kona...
 
 ##
 PUU! Toporok akinyang!

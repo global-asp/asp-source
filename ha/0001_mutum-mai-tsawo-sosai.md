@@ -38,4 +38,4 @@ Ya bar gidansa ya koma cikin babban daji, ya zauna tsawon lokaci.
 * Text: Cornelius Gulere
 * Illustration: Catherine Groenewald
 * Translation: Muhammad Umar
-* Language: Hausa (Nigeria)
+* Language: ha

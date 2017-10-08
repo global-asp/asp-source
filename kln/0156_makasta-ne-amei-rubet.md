@@ -6,8 +6,7 @@ Kitun ko kimi makasta ne kiame rubet.
 ##
 Kicheng' amitwokik mutyo ko sisei.
 
-##
-Atya.
+Atya...
 
 ##
 Rrr! Kiryach makasta.

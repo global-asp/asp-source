@@ -29,4 +29,4 @@ To! Wai shin wa zan karantawa? Bari na karantawa kaina
 * Text: Letta Machoga
 * Illustration: Wiehan de Jager
 * Translation: rabiu abdullahi
-* Language: Hausa (Nigeria)
+* Language: ha

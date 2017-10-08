@@ -29,4 +29,4 @@ Manomin ya ce "shhh!"
 * Text: Jenny Katz
 * Illustration: Sandy Campbell
 * Translation: Halima Lawal Daura
-* Language: Hausa (Nigeria)
+* Language: ha

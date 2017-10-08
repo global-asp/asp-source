@@ -9,3 +9,4 @@ Story ID | Title | License
 0110 | [Mitsitsin Iri: Labarin Wangari Maathai](http://africanstorybook.org/reader.php?id=20859&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0234 | [Andiswa Kwararriyar 'yarwasan Kwallan Kafa](http://africanstorybook.org/reader.php?id=20760&d=0&a=1) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0327 | [Kidayar Dabbobi](http://africanstorybook.org/reader.php?id=20516&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0329 | [Anansi Malalaci](http://africanstorybook.org/reader.php?id=20520&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

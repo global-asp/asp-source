@@ -25,12 +25,6 @@ Epupi ng'esi.
 Aporit ayong.
 
 ##
-Eremarit ayong.
-
-##
-Kewokit ayong imotoka niichi.
-
-##
 * License: [CC-BY]
 * Text: Nina Orange
 * Illustration: Angie & Upesh, Wiehan de Jager, Marion Drew
