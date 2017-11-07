@@ -41,7 +41,7 @@ kila wakati.
 Wakati huo wote, mwanawe Anansi alikuwa
 amesimama chini ya ule mti huku akimtazama
 babake.
-Akamwambia, “ Baba, mbona usikifungie
+Akamwambia, “Baba, mbona usikifungie
 chungu mgongoni ili uweze kuuparaga mti?”
 Basi Anansi akaamua kukifungia chungu
 kilichojaa hekima mgongoni mwake.
