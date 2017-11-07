@@ -19,7 +19,7 @@ Nguruwe anasema,
 "Ghuranti."
 
 ##
-Kuku anasema ,"Ko,ko."
+Kuku anasema, "Ko,ko."
 
 ##
 Mbwa anasema, "Bwe."
