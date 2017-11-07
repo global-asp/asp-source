@@ -23,7 +23,7 @@ Lakini viatu hivi ni
 vipya.
 
 ##
-....vinanitosha vizuri.
+...vinanitosha vizuri.
 
 ##
 * License: [CC-BY-NC]
