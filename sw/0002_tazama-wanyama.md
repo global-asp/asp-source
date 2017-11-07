@@ -19,14 +19,14 @@ Nguruwe anasema,
 "Ghuranti."
 
 ##
-Kuku anasema ,"Ko,ko."
+Kuku anasema, "Ko, ko."
 
 ##
 Mbwa anasema, "Bwe."
 
 ##
 Mkulima
-anasema,"Kimya."
+anasema, "Kimya."
 
 ##
 * License: [CC-BY-NC]
