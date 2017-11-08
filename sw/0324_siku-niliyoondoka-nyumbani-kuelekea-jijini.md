@@ -19,7 +19,7 @@ Nilipenyeza ndani nikakaa karibu na dirisha. Mtu aliyeketi karibu nami alishika 
 Niliangalia nje na kutambua kwamba nilikuwa naondoka kijijini mwangu, mahali ambapo nililelewa. Nilikuwa naenda katika jiji kubwa.
 
 ##
-Upakiaji mizigo ulikamilika na abiria wakawa wameketi. Wachuuzi walizidi kusukumana kutaka kuingia ndani ya basi ili wauze bidhaa zao.Kila mmoja alitaja kwa sauti majina ya bidhaa alivyokuwa anauza. Maneno yao yalinifurahisha.
+Upakiaji mizigo ulikamilika na abiria wakawa wameketi. Wachuuzi walizidi kusukumana kutaka kuingia ndani ya basi ili wauze bidhaa zao. Kila mmoja alitaja kwa sauti majina ya bidhaa alivyokuwa anauza. Maneno yao yalinifurahisha.
 
 ##
 Baadhi ya abiria walinunua vinywaji. Wengine wakanunua vitavunaji vidogo na kuanza kutavuna. Wasiokuwa na fedha, kama mimi, walitazama tu.
