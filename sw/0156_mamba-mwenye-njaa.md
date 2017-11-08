@@ -17,7 +17,7 @@ Mamba anashambulia!
 
 ##
 Baada ya hiyo hana
-njaa tena,na anafurahi.
+njaa tena, na anafurahi.
 
 ##
 Hadi anapohisi njaa
