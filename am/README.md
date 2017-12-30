@@ -12,7 +12,6 @@ Story ID | Title | License
 0204 | [አስካለ](http://africanstorybook.org/stories/አስካለ) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0207 | [አዋቂው ሰውዬ](http://africanstorybook.org/stories/አዋቂው-ሰውዬ) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0222 | [የዲያብሎስ የአንገት ልብስ](http://africanstorybook.org/stories/የዲያብሎስ-የአንገት-ልብስ) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
-0234 | [አዲሴ የእግር ኳስ ኮከቧ](http://africanstorybook.org/stories/አዲሴ-የእግር-ኳስ-ኮከቧ) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0265 | [ንገሩኝ ...አሁኑኑ! ደስተኛ እና የተከፋ](http://africanstorybook.org/stories/ደስ-ያላችሁና-የከፋችሁ-አሁኑኑ-…-ንገሩኝ) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0284 | [ተመለሽ ድመቴ](http://africanstorybook.org/stories/ተመለሽ-ድመቴ) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0304 | [ገብጋባው ክንዴ](http://africanstorybook.org/stories/ገብጋባው-ክንዴ) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
