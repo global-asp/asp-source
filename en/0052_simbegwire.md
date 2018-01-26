@@ -16,8 +16,8 @@ homework.
 
 ##
 One day, Simbegwire's father came
-home later than usual. “Where are
-you my child?” he called.
+home later than usual. "Where are
+you my child?" he called.
 Simbegwire ran to her father. She
 stopped still when she saw that he
 was holding a woman's hand. "I
@@ -26,8 +26,8 @@ my child. This is Anita," he said
 smiling.
 
 ##
-“Hello Simbegwire, your father told
-me a lot about you,” said Anita. But
+"Hello Simbegwire, your father told
+me a lot about you," said Anita. But
 she did not smile or take the girl's
 hand.
 Simbegwire's father was happy and
@@ -75,7 +75,7 @@ blanket.
 
 ##
 One morning, Simbegwire was late
-getting out of bed. “You lazy girl!”
+getting out of bed. "You lazy girl!"
 Anita shouted. She pulled
 Simbegwire out of bed. The
 precious blanket caught on a nail,
@@ -95,12 +95,12 @@ climbed a tall tree near a stream
 and made a bed for herself in the
 branches.
 As she went to sleep, she sang:
-“Maama, maama, maama, you left
+"Maama, maama, maama, you left
 me.
 You left me and never came back.
 Father doesn't love me anymore.
 Mother, when are you coming back?
-You left me.”
+You left me."
 
 ##
 The next morning, Simbegwire sang
@@ -118,8 +118,8 @@ the song.
 This woman looked up into the tree.
 When she saw the girl and the
 pieces of colourful blanket, she
-cried, “Simbegwire, my brother's
-child!”
+cried, "Simbegwire, my brother's
+child!"
 The other women stopped washing
 and helped Simbegwire to climb
 down from the tree. Her aunt
@@ -159,11 +159,11 @@ from far away. She was scared he
 might be angry, so she ran inside
 the house to hide.
 But her father went to her and said,
-“Simbegwire, you have found a
+"Simbegwire, you have found a
 perfect mother for yourself. One
 who loves you and understands
 you. I am proud of you and I love
-you.”
+you."
 They agreed that Simbegwire would
 stay with her aunt as long as she
 wanted to.

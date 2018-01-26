@@ -30,9 +30,9 @@ She hung the doll
 outside to dry.
 
 ##
-“I can't find my doll,”
+"I can't find my doll,"
 cried Norah.
-“Don't worry,” said her
+"Don't worry," said her
 mother.
 
 ##

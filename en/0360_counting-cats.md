@@ -64,14 +64,14 @@ How many cats?
 Eight cats.
 
 ##
-What’s this we see?
+What's this we see?
 
 A kitten is stuck in a tree!
 
-“I will rescue you!
+"I will rescue you!
 
 ##
-“Mama, can we keep him? Just one more.”
+"Mama, can we keep him? Just one more."
 
 How many cats?
 

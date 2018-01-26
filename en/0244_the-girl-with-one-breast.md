@@ -34,10 +34,10 @@ seen. He called her name very
 loudly, but there was complete
 silence.
 Then he heard a voice saying,
-“Why are you calling? Don't you
+"Why are you calling? Don't you
 know that you are in the forest
 area of Musambwa kwa
-Libeeletwela?”
+Libeeletwela?"
 
 ##
 When the man heard that, he

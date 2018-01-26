@@ -2,10 +2,10 @@
 
 ##
 Early one morning Vusi's granny
-called him, “Vusi, please take this
+called him, "Vusi, please take this
 egg to your parents. They want to
 make a large cake for your sister's
-wedding”.
+wedding".
 
 ##
 On his way to his parents, Vusi met
@@ -14,56 +14,56 @@ grabbed the egg from Vusi and shot
 it at a tree. The egg broke.
 
 ##
-“What have you done?” cried Vusi.
-“That egg was for a cake. The cake
+"What have you done?" cried Vusi.
+"That egg was for a cake. The cake
 was for my sister's wedding. What
 will my sister say if there is no
-wedding cake?”
+wedding cake?"
 
 ##
 The boys were sorry for teasing
 Vusi.
-“We can't help with the cake, but
+"We can't help with the cake, but
 here is a walking stick for your
-sister,” said one.
+sister," said one.
 Vusi continued on his journey.
 
 ##
 Along the way he met two men
-building a house. “Can we use that
-strong stick?” asked one.
+building a house. "Can we use that
+strong stick?" asked one.
 But the stick was not strong enough
 for building, and it broke.
 
 ##
-“What have you done?” cried Vusi.
-“That stick was a gift for my sister.
+"What have you done?" cried Vusi.
+"That stick was a gift for my sister.
 The fruit pickers gave me the stick
 because they broke the egg for the
 cake. The cake was for my sister's
 wedding. Now there is no egg, no
 cake, and no gift. What will my
-sister say?”
+sister say?"
 
 ##
 The builders were sorry for breaking
 the stick.
-“We can't help with the cake, but
-here is some thatch for your sister,”
+"We can't help with the cake, but
+here is some thatch for your sister,"
 said one.
 And so Vusi continued on his
 journey.
 
 ##
 Along the way, Vusi met a farmer
-and a cow. “What delicious thatch,
-can I have a nibble?” asked the cow.
+and a cow. "What delicious thatch,
+can I have a nibble?" asked the cow.
 But the thatch was so tasty that the
 cow ate it all!
 
 ##
-“What have you done?” cried Vusi.
-“That thatch was a gift for my
+"What have you done?" cried Vusi.
+"That thatch was a gift for my
 sister. The builders gave me the
 thatch because they broke the stick
 from the fruit pickers. The fruit
@@ -72,7 +72,7 @@ they broke the egg for my sister's
 cake. The cake was for my sister's
 wedding. Now there is no egg, no
 cake, and no gift. What will my
-sister say?”
+sister say?"
 
 ##
 The cow was sorry she was greedy.
@@ -89,8 +89,8 @@ wedding. The guests were already
 eating.
 
 ##
-“What shall I do?” cried Vusi.
-“The cow that ran away was a gift,
+"What shall I do?" cried Vusi.
+"The cow that ran away was a gift,
 in return for the thatch the builders
 gave me. The builders gave me the
 thatch because they broke the stick
@@ -99,17 +99,17 @@ pickers gave me the stick because
 they broke the egg for the cake.
 The cake was for the wedding. Now
 there is no egg, no cake, and no
-gift.”
+gift."
 
 ##
 Vusi's sister thought for a while,
 then she said,
-“Vusi my brother, I don't really care
+"Vusi my brother, I don't really care
 about gifts. I don't even care about
 the cake! We are all here together, I
 am happy. Now put on your smart
 clothes and let's celebrate this
-day!”
+day!"
 And so that's what Vusi did.
 
 ##

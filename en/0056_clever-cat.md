@@ -49,7 +49,7 @@ eats her food.
 When Safi finishes, she
 jumps onto the sofa and
 sleeps. All you hear is,
-“Purr! Purr! Purr!”
+"Purr! Purr! Purr!"
 
 ##
 When Mister Kiio

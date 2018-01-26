@@ -11,11 +11,11 @@ girls.
 ##
 When Namukhaywa was
 pregnant with her seventh
-child, Ndong'a warned her, “If
+child, Ndong'a warned her, "If
 you give birth to another girl, I
 will leave you. But if you give
 me a baby boy, I will hold a big
-party for you!”
+party for you!"
 
 ##
 When it was time to give birth,
@@ -55,13 +55,13 @@ up to be a fine young woman.
 One day, while minding his
 father's cattle, Mukhwana saw a
 very beautiful girl.
-“This is the girl I want to
-marry,” he said to himself.
+"This is the girl I want to
+marry," he said to himself.
 
 ##
 But when he asked her to marry
 him, she sang this song:
-“Mukhwana wefwe, Mukhwana.
+"Mukhwana wefwe, Mukhwana.
 So yakhupa omunwa,
 Mukhwana.
 Nebebula omukhana,
@@ -72,27 +72,27 @@ Nebebula omusiani, Mukhwana.
 Barera mungo muno,
 Mukhwana.
 Iyeyi yakwa, Mukhwana.
-Iyindi yakwa, Mukhwana.”
+Iyindi yakwa, Mukhwana."
 
 ##
 This happened again and again.
 Mukhwana did not know what
 to do. So he went to his mother,
 Namukhaywa.
-“I have found a beautiful girl,”
-he said. “And I want to marry
+"I have found a beautiful girl,"
+he said. "And I want to marry
 her. But every time I ask her,
-she sings the same song.”
+she sings the same song."
 
 ##
 To his surprise, Namukhaywa
-said, “What the girl is singing
+said, "What the girl is singing
 about is true. That is your sister.
 You were born twins. Your father
 wanted a son, not a daughter.
 So I left your baby sister with
 the midwife, and brought you
-home to your father.”
+home to your father."
 
 ##
 When Mukhwana told his father

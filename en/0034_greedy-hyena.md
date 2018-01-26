@@ -25,10 +25,10 @@ the rock, she found
 Atabo truly stuck.
 
 ##
-“I will make a fence
+"I will make a fence
 around the rock to
 protect you from wild
-animals,” mother said
+animals," mother said
 to Atabo.
 
 ##
@@ -37,18 +37,18 @@ with only one door
 which she used to get
 inside.
 
-Then mother said to Atabo, “When I come to
+Then mother said to Atabo, "When I come to
 feed you I will sing a song for you to open
-the door.”
+the door."
 This is the song she sang:
-“lka koku nachirima,
+"lka koku nachirima,
 Bala ekena,
 Ke...ke...i...ya.
-Tangarae totokonia kainak ngakon kile.”
+Tangarae totokonia kainak ngakon kile."
 
 ##
-And mother also said, “Never open the door
-to a stranger.”
+And mother also said, "Never open the door
+to a stranger."
 So whenever mother came she sang the
 song, the door opened and she gave Atabo
 food.
@@ -98,9 +98,9 @@ Mother called a
 meeting of all the
 animals and lit a very
 big fire.
-“The animal that ate
+"The animal that ate
 Atabo will fall into the
-fire and burn,” she said.
+fire and burn," she said.
 
 ##
 All the animals jumped
@@ -121,10 +121,10 @@ the fire.
 ##
 Then the animals sang
 another song:
-“Ata kalio,
+"Ata kalio,
 Anikanyamit ikon koku,
 Achakakin nakim na,
-Chi...gi...gir.”
+Chi...gi...gir."
 
 ##
 * License: [CC-BY]

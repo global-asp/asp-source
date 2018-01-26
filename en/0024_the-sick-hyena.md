@@ -37,25 +37,25 @@ worry, my friend. Come in and
 give me some lovely company!"
 
 ##
-“Oh, I'm not sure if I should come in. Really, I don't have
+"Oh, I'm not sure if I should come in. Really, I don't have
 time right now,
-and you have so many visitors . . .”
+and you have so many visitors . . ."
 
-“No, no, rabbit, everything is alright. There's nobody in
+"No, no, rabbit, everything is alright. There's nobody in
 here. It's no good
-for me to stay here all sick and alone.”
+for me to stay here all sick and alone."
 
 ##
 "You are lying! I can see the
 footprints of animals that have
 gone in but haven't come out . .
-.“
+."
 
 ##
 The hyena went quiet and the
-rabbit said, “Good-bye, my
+rabbit said, "Good-bye, my
 friend, I think I will visit you
-another day.”
+another day."
 
 ##
 And the rabbit ran far away

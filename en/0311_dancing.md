@@ -9,28 +9,28 @@ I dance when I am mad.
 
 ##
 My teacher says,
-“Sit still!
+"Sit still!
 Don't dance about all
-day.”
+day."
 
 ##
 But my mother says,
-“Dancing makes you
+"Dancing makes you
 healthy,
 Dancing makes you tall,
 One day you'll be a
 dancer,
-And surprise them all!”
+And surprise them all!"
 
 ##
 And I say,
-“One day
+"One day
 I'll dance and people
 will pay
 Just to see me leap and
 twirl.
-‘Her dancing is SO
-good,' they'll say.”
+'Her dancing is SO
+good,' they'll say."
 
 ##
 

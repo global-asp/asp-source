@@ -8,10 +8,10 @@ above the trees. Crow had a huge
 piece of cheese in his mouth.
 
 ##
-“Hmmm...that cheese looks
+"Hmmm...that cheese looks
 delicious! I must find a way to get
-it,” thought the jackal.
-“Oh, I have a plan!” said Jackal to
+it," thought the jackal.
+"Oh, I have a plan!" said Jackal to
 himself while wiping his mouth
 quickly. He did not want Crow to
 notice that he was hungry.
@@ -25,10 +25,10 @@ where Crow was sitting.
 
 ##
 Jackal called with a huge smile,
-“Hello Crow! You're looking very
+"Hello Crow! You're looking very
 good today. Your feathers look
 glossy and healthy. You must be
-taking very good care of yourself.”
+taking very good care of yourself."
 
 ##
 Crow was very flattered to hear this.
@@ -37,10 +37,10 @@ strongest and most beautiful of all
 the other birds.
 
 ##
-“I hear you also have the most
+"I hear you also have the most
 beautiful singing voice of all the
 other birds. Won't you sing a song
-for me this morning?”
+for me this morning?"
 
 ##
 Crow was so flattered that he

@@ -101,7 +101,7 @@ the test of endurance set by the parents!
 
 ##
 Her parents had to hand over their
-daughter to the “lazy one”.
+daughter to the "lazy one".
 The girl begged to be saved from
 her fate, but her parents could do
 nothing.

@@ -7,45 +7,45 @@ thirst.
 
 ##
 Lion and Elephant as the chief animals got together to discuss the situation. Lion said,
-“We're going to end up dying from thirst. Let's call everyone together and discuss the idea
+"We're going to end up dying from thirst. Let's call everyone together and discuss the idea
 of digging a well. Elephant agreed and went off to spread the news to all the animals.
 
 ##
-All the animals except the hare got together to discuss the situation. Lion said, “Look, my
+All the animals except the hare got together to discuss the situation. Lion said, "Look, my
 brothers and sisters, this year, the rain has not fallen. Everyone is dying from hunger and
-thirst. Let us now make a plan to dig a well so that we might all be able to drink from it.”
+thirst. Let us now make a plan to dig a well so that we might all be able to drink from it."
 
 ##
 All the animals agreed and immediately grabbed hoes, shovels and picks and started
-digging. They dug and dug. And they dug some more. Finally they hit water. Lion said, “Why
-did Hare not come to dig this well? He most certainly will not drink from this water!”
+digging. They dug and dug. And they dug some more. Finally they hit water. Lion said, "Why
+did Hare not come to dig this well? He most certainly will not drink from this water!"
 
 ##
-Later Hare came and saw the well. He said, “Tipite, tipite at the well!” He heard nothing. So
+Later Hare came and saw the well. He said, "Tipite, tipite at the well!" He heard nothing. So
 he went in, drank some water and splashed around for a while.
 
 ##
 The next day, when the animals came they saw that their well was a big mess. The water
-was nothing but mud. They asked, “Who would do such a thing?” Someone said, “I bet it
-was Hare. When we were digging the well he was nowhere to be found.”
+was nothing but mud. They asked, "Who would do such a thing?" Someone said, "I bet it
+was Hare. When we were digging the well he was nowhere to be found."
 
 ##
 And so the animals decided to leave a guard at the well. They
 chose Baboon to keep an eye on things. Baboon was at the well
-when Hare came at night saying, “Tipite! Tipite! by the water!”
-Baboon replied, “Pitani!” So Hare came over and greeted Baboon,
-“I have come, my friend, and I bring that which the great ones like
-to eat!” Baboon replied, “Come, let's see what it is.”
+when Hare came at night saying, "Tipite! Tipite! by the water!"
+Baboon replied, "Pitani!" So Hare came over and greeted Baboon,
+"I have come, my friend, and I bring that which the great ones like
+to eat!" Baboon replied, "Come, let's see what it is."
 
 ##
-Hare had some honey. He went over to Baboon, “Yes, my friend, try some of this!” Hare
+Hare had some honey. He went over to Baboon, "Yes, my friend, try some of this!" Hare
 gave him the honey. Then he drew some water from the well and drank it. Just as Hare was
 leaving, Hyena arrived and he saw Hare.
 
 ##
 The next day, Hyena went and told all the animals that Hare had taken water from the well.
-So they chose Turtle to guard the well. Hare arrived at night, saying, “Tipite by the well!”
-When he didn't hear any reply he said: “I am Hare! I've come to drink water.”
+So they chose Turtle to guard the well. Hare arrived at night, saying, "Tipite by the well!"
+When he didn't hear any reply he said: "I am Hare! I've come to drink water."
 
 ##
 When Turtle had arrived at the well earlier that night, she had hidden herself among the
@@ -56,12 +56,12 @@ came up.
 ##
 When the animals arrived, they saw that Turtle had captured Hare. They called the rest of
 the animals to decide what to do with Hare. When all the animals were assembled, Lion
-asked them, “What shall we do with this Hare?”
+asked them, "What shall we do with this Hare?"
 
 ##
-Turtle said, “Elephant should grab him with her trunk and beat him on the rocks.” All the
-other animals agreed. Then Hare said, “O Great Lion, you know that hares don't die if you
-hit them on rocks. The Hare will only die if he is thrown into ash.” So Lion told Elephant to
+Turtle said, "Elephant should grab him with her trunk and beat him on the rocks." All the
+other animals agreed. Then Hare said, "O Great Lion, you know that hares don't die if you
+hit them on rocks. The Hare will only die if he is thrown into ash." So Lion told Elephant to
 throw Hare into ash.
 
 ##

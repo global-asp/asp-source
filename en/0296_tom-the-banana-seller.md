@@ -12,7 +12,7 @@ People at the market are buying fruit.
 ##
 But no one is buying
 
-Tom’s bananas.
+Tom's bananas.
 
 They prefer to buy fruit from women.
 
@@ -22,9 +22,9 @@ They prefer to buy fruit from women.
 ##
 But Tom does not give up.
 
-He calls, “Buy my bananas!
+He calls, "Buy my bananas!
 
-Buy my sweet ripe bananas!”
+Buy my sweet ripe bananas!"
 
 ##
 One woman picks up a bunch of bananas from the tray.
@@ -37,7 +37,7 @@ The woman buys the bananas.
 ##
 More people come to the stall.
 
-They buy Tom’s bananas and eat them.
+They buy Tom's bananas and eat them.
 
 ##
 Soon, the tray is empty.

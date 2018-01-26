@@ -10,16 +10,16 @@ food raw. Only Lion had fire.
 ##
 The people and animals wanted
 fire. The people and the animals
-had a meeting. “We want to
-cook our food'” they said. “How
-can we get the fire from Lion?”
+had a meeting. "We want to
+cook our food'" they said. "How
+can we get the fire from Lion?"
 
 ##
 In the evening they started
 singing and dancing. They
-called to all the animals, “come
+called to all the animals, "come
 dance with us, come dance with
-us!” Many animals came to join
+us!" Many animals came to join
 them.
 
 ##
@@ -40,9 +40,9 @@ danced around the fire.
 ##
 The people and the animals wanted to take Lion's fire
 sticks. They thought of a good plan. They called rabbit.
-“We all know that you are very clever and very fast.” When
+"We all know that you are very clever and very fast." When
 Lion is dancing and singing, you must take his fire sticks
-and run!”
+and run!"
 
 ##
 So Rabbit took Lion's fire sticks
@@ -52,56 +52,56 @@ him. He caught rabbit and
 brought the fire sticks back.
 
 ##
-Then lion sang his song: “I have
+Then lion sang his song: "I have
 no problem. I can eat you all. I
 can eat you with hair. I can eat
 you without hair. All of you are
-food for me!”
+food for me!"
 
 ##
 The people still wanted Lion's
 fire sticks. They thought of
 another plan. They called
-springbok. “We all know that
+springbok. "We all know that
 you can jump very high and run
-very fast,” they said. When Lion
+very fast," they said. When Lion
 is dancing and singing, you
 must take his fire sticks and
-run!”
+run!"
 
 ##
 So springbok took Lion's fire
 sticks and ran as fast as he
-could. But Lion said, “I don't
-hear springbok's feet dancing.”
+could. But Lion said, "I don't
+hear springbok's feet dancing."
 He turned and saw springbok
 running away into the veld. He
 caught springbok and brought
 the fire sticks back.
 
 ##
-Again lion sang his song: “I
+Again lion sang his song: "I
 have no problem. I can eat you
 all. I can eat you with hair. I can
 eat you without hair. All of you
-are food for me!”
+are food for me!"
 
 ##
 The people still wanted Lion's
 fire sticks. They thought of
 another plan. They called
-ostrich. “We all know that you
+ostrich. "We all know that you
 have the longest and strongest
-legs of all of us,” they said.
+legs of all of us," they said.
 When Lion is dancing and
 singing, you must take his fire
-sticks and run!”
+sticks and run!"
 
 ##
 So ostrich took Lion's fire sticks
 and ran as fast as he could. But
-Lion said, “I don't hear ostrich's
-sweet singing voice anymore.”
+Lion said, "I don't hear ostrich's
+sweet singing voice anymore."
 He turned and saw ostrich
 running away into the veld.
 
@@ -115,11 +115,11 @@ Ostrich was too fast for him.
 ##
 Then Lion spoke to all the
 people and all the animals.
-“From this day on,” he said,
-“you must all be very, very
+"From this day on," he said,
+"you must all be very, very
 careful. I will hunt you, and
 chase you, and when I catch
-you I will eat you.”
+you I will eat you."
 
 ##
 And so this is how people came

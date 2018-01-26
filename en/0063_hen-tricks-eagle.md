@@ -8,14 +8,14 @@ her shopping bags. Hen was
 standing on one leg.
 
 ##
-Eagle asked Hen, “Where is
-your other leg?”
+Eagle asked Hen, "Where is
+your other leg?"
 
 ##
-Hen told Eagle, “The
+Hen told Eagle, "The
 shopkeeper cut off my leg and
 gave me these groceries in
-return.”
+return."
 
 ##
 Eagle asked Hen whether

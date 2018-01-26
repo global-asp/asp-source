@@ -1,4 +1,4 @@
-# Devil’s scarf
+# Devil's scarf
 
 ##
 There was a rich man who looked for a wife for a long time.

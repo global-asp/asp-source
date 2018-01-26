@@ -62,16 +62,16 @@ afternoon.
 Suddenly she heard a voice coming out of the river.
 She looked up and saw a big fish. The voice was
 coming from the fish. Nosisa was so shocked she
-almost ran away, but the fish stopped her. “Please
+almost ran away, but the fish stopped her. "Please
 don't run away my daughter, I am your mother. I
 have changed myself into a fish so that your father
-does not know it's me.”
+does not know it's me."
 
 ##
-“What is the matter?” asked the
+"What is the matter?" asked the
 fish. Nosisa told the fish everything
-about her sad life. “Don't worry my
-girl. I will bring you food every day,”
+about her sad life. "Don't worry my
+girl. I will bring you food every day,"
 said the fish. The fish gave fresh
 vegetables to Nosisa. She had a
 feast. When she looked up the fish
@@ -92,23 +92,23 @@ glowing and she was a happy child.
 ##
 Nosisa visited the fish every day until her stepmother
 became suspicious. Nosisa had gained weight and
-she was glowing. “Something is going on at the river,
-I must find out what it is,” thought the stepmother.
+she was glowing. "Something is going on at the river,
+I must find out what it is," thought the stepmother.
 One afternoon she followed Nosisa to the river. She
 saw Nosisa talking to the fish, and getting delicious
-food. Nosisa's secret was out. “I have to do
-something about this fish,” said the stepmother.
+food. Nosisa's secret was out. "I have to do
+something about this fish," said the stepmother.
 
 ##
 In the evening, Mpunzi came back from the fields. He
-found his new wife crying in her hut. “What is wrong
-my lovely wife,” asked Mpunzi.
-“I went to a traditional doctor,” said the wife. “He
+found his new wife crying in her hut. "What is wrong
+my lovely wife," asked Mpunzi.
+"I went to a traditional doctor," said the wife. "He
 told me that the only way for me to give you a son is
-to eat the biggest fish that lives in this nearby river,”
-she said. “Will you catch the fish for me tonight?”
+to eat the biggest fish that lives in this nearby river,"
+she said. "Will you catch the fish for me tonight?"
 pleaded the woman.
-“I will do anything for you my beautiful wife,” said
+"I will do anything for you my beautiful wife," said
 Mpunzi.
 
 ##
@@ -119,9 +119,9 @@ eventually Mpunzi caught the biggest fish. He put it
 in a bag and went home with it. When he got to the
 house, there was a good hot fire ready to cook the
 fish.
-“I will make the best meal ever for us,” said the
-woman to Mpunzi. “You are the bravest and
-strongest man I know.”
+"I will make the best meal ever for us," said the
+woman to Mpunzi. "You are the bravest and
+strongest man I know."
 Mpunzi was very pleased with himself.
 
 ##
@@ -129,14 +129,14 @@ That night Mpunzi and his wife went to bed happy
 after their delicious meal. They left the bones on the
 table for Nosisa to clean in the morning.
 When Nosisa brought coffee into their hut in the
-morning they were still sleeping. “This is very
-strange,” she thought to herself. “My father usually
+morning they were still sleeping. "This is very
+strange," she thought to herself. "My father usually
 wakes up very early in the morning to go to the
-fields. I wonder why he is still sleeping.”
+fields. I wonder why he is still sleeping."
 
 ##
-“Anyway, now I can run to the river for a nice
-breakfast,” she thought. Nosisa ran to the river.
+"Anyway, now I can run to the river for a nice
+breakfast," she thought. Nosisa ran to the river.
 When she got there she called out to the fish, and
 she called again and again. The fish never came.
 Nosisa started to cry. She did not know what had

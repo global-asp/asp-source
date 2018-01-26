@@ -27,15 +27,15 @@ When the waters closed again, the snakes
 could not forget the beauty they had seen.
 
 ##
-“We cannot stay in this dark cold pool any longer,” they said to each other.
-“Let us go up and see the earth above.”
-“How will we live on earth?” said the smaller snake.
-“Will we crawl on our bellies?”
+"We cannot stay in this dark cold pool any longer," they said to each other.
+"Let us go up and see the earth above."
+"How will we live on earth?" said the smaller snake.
+"Will we crawl on our bellies?"
 
 ##
-“The birds of the air will not laugh at us for
-being so low,” said her friend.
-“We will not crawl, we will walk!”
+"The birds of the air will not laugh at us for
+being so low," said her friend.
+"We will not crawl, we will walk!"
 Very slowly the snakes uncoiled themselves.
 Close together they began to swim up, up, to
 the light above.
@@ -52,17 +52,17 @@ with hands and fingers.
 They were no longer snakes, but Man and Woman.
 
 ##
-“We will make our home in the
-hills,” said Woman. “Each
+"We will make our home in the
+hills," said Woman. "Each
 morning we will see the sun rise
-and feel it warm on our backs.”
-“We will look after the grass
-and the trees,” said Man. “And
-be friends with Bird and Beast.”
+and feel it warm on our backs."
+"We will look after the grass
+and the trees," said Man. "And
+be friends with Bird and Beast."
 
 ##
-“Come,” said First Man.
-“I will,” said First Woman.
+"Come," said First Man.
+"I will," said First Woman.
 And they walked out together into their new world.
 
 ##

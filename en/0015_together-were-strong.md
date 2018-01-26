@@ -4,9 +4,9 @@
 One harsh winter, many people in the land were sick. Ma
 Monikazi's cheeks burned. Sweat dripped from her body. She
 wanted to hold the icy grass to her face to cool down. Under her
-blanket she held her belly and sang to the baby inside her: “Be
+blanket she held her belly and sang to the baby inside her: "Be
 strong, little one. Winter's not long. Be brave, little one. Together
-we're strong!”
+we're strong!"
 
 Her stomach growled when the baby's powerful kicks woke her at
 night. She ate the leftover meat in the cooking pot, hungry for life.
@@ -46,8 +46,8 @@ napkins and washed the baby clothes. She swept the house and
 fed the fire. She picked up her baby brother when he cried and
 tickled him till he laughed.
 
-She taught them to sing: “Be strong, little one. Winter is gone. Be
-brave, little one. Together we're strong!”
+She taught them to sing: "Be strong, little one. Winter is gone. Be
+brave, little one. Together we're strong!"
 
 ##
 Qingqiwe, her grandfather, raised
@@ -62,9 +62,9 @@ He taught her to talk softly to
 Shishi, to groom her with a hard
 bristled brush. When she stroked its
 glossy coat, Albertina whispered,
-“You are the most beautiful
+"You are the most beautiful
 creature. Thank you for letting me
-ride on your back.”
+ride on your back."
 
 Her father, Bonilizwe, came home from the mines at Christmas.
 Ntsiki pulled herself up onto Shishi's broad back. She rode out to
@@ -75,13 +75,13 @@ had ever seen covered her father's face.
 
 ##
 On her sixth birthday she went to
-school. “You must choose an English
-name,” said the Presbyterian
+school. "You must choose an English
+name," said the Presbyterian
 teacher, but Ntsiki liked her own
-name. “Why do I need a new
-name?” she asked. The teacher
+name. "Why do I need a new
+name?" she asked. The teacher
 scowled and read the names aloud:
-“Adah, Agnes, Albertina, Anna.”
+"Adah, Agnes, Albertina, Anna."
 What did they mean? Ntsiki liked
 the long name best.
 
@@ -94,8 +94,8 @@ When her cousin married a handsome man from a nearby town,
 Albertina was chosen as an umkhapi. The maid of honour! Weeks
 before the wedding, she stitched her isikhakha, the short
 traditional skirt, and threaded bright beads onto her amatikiti. Her
-mother gave her the white flag and said, “You have a big job, my
-blessing.”
+mother gave her the white flag and said, "You have a big job, my
+blessing."
 
 At the bend in the road Albertina waved the flag, then turned
 Shishi back, leading everybody from miles around to the
@@ -113,13 +113,13 @@ to be the head girl and wore her
 badge with pride.
 
 Her best friend, Betty, told her
-about a competition, saying, “You
-must apply, my clever friend.”
-“What is the prize?” asked
+about a competition, saying, "You
+must apply, my clever friend."
+"What is the prize?" asked
 Albertina, growing curious.
 
-“A scholarship to high school!” said Betty. “You must apply. You'll
-win it, for sure.”
+"A scholarship to high school!" said Betty. "You must apply. You'll
+win it, for sure."
 
 Albertina studied until the candle burned down. She practised
 sums. She practised spelling. She sharpened her pencils and gave
@@ -132,16 +132,16 @@ shook. The sums were tricky. Her
 mouth went dry. Her hand cramped
 on her pencil but she continued.
 
-“Well done, Albertina!” said her
+"Well done, Albertina!" said her
 teacher at the end. The important
 official arrived and called the top
-two students to the stage. “Well
-done to Albertina for full marks,” he
-said, “but you are too old. The
-scholarship goes to...”
+two students to the stage. "Well
+done to Albertina for full marks," he
+said, "but you are too old. The
+scholarship goes to..."
 
-Albertina tried not to cry. “That's unfair,” shouted Betty, hopping
-with fury. “That wasn't in the rules!” How would Albertina go to
+Albertina tried not to cry. "That's unfair," shouted Betty, hopping
+with fury. "That wasn't in the rules!" How would Albertina go to
 high school now? She dragged her feet all the way home.
 
 The teacher wrote to the newspaper about the unfair decision.
@@ -190,10 +190,10 @@ Albertina loved the nuns who taught
 her. Could she become a holy
 sister?
 
-“But nuns earn no salary,” said
-Father Bernard. “Perhaps you
+"But nuns earn no salary," said
+Father Bernard. "Perhaps you
 should become a nurse? You'll be
-paid while you study.”
+paid while you study."
 
 ##
 Albertina took a train to
@@ -204,7 +204,7 @@ people came all day to the hospital.
 She cleaned their wounds with
 careful fingers. She held the old
 people gently. When the babies
-cried, she sang: “Be strong, little
+cried, she sang: "Be strong, little
 one. Winter's not long. Be brave,
 little one. Together we're strong!
 
@@ -240,16 +240,16 @@ of the nation.
 Max had his mother's black button eyes and his father's round
 chin. He was the hope for their future. Albertina wanted to fight for
 a new South Africa, so that Max could be free. When he cried, she
-sang: “Be strong, little one. Winter's not long. Be brave, little one.
-Together we're strong!”
+sang: "Be strong, little one. Winter's not long. Be brave, little one.
+Together we're strong!"
 
 ##
 Police came in the middle of the
 night, banging on the door.
 Albertina scolded the men who
-messed up her house. “How rude
-you are!” she said, “trampling mud
-inside my home.”
+messed up her house. "How rude
+you are!" she said, "trampling mud
+inside my home."
 
 In the morning Albertina's favourite flowers lay crushed beneath
 their footprints. She remembered chasing the chickens from her
@@ -260,8 +260,8 @@ She would support her husband who kept many secrets and hid
 from the police.
 
 She joined the women and worked to organise a march to Pretoria.
-The women refused to carry a pass. They sang, “Wathint' abafazi;
-wathint' imbokodo! You strike a woman; you strike a rock!”
+The women refused to carry a pass. They sang, "Wathint' abafazi;
+wathint' imbokodo! You strike a woman; you strike a rock!"
 
 Many hard years followed after Walter's arrest. He was jailed on
 Robben Island for 26 years. Albertina, also, was sent to jail many
@@ -272,9 +272,9 @@ But even on the darkest nights, she
 could see a sliver of moon through
 the window in her cell. She sang the
 song that Ma Monikazi sang before
-she was born: “Be strong, little one.
+she was born: "Be strong, little one.
 Winter's not long. Be brave, little
-one. Together we're strong!”
+one. Together we're strong!"
 
 ##
 * License: [CC-BY]

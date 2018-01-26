@@ -39,12 +39,12 @@ Then the young man who had
 hidden his father went and told
 him everything that had
 happened.?
-And the old man said, “That's
+And the old man said, "That's
 the easiest thing in the world to
-take care of.”
+take care of."
 
 ##
-The old man said, “Find a toad
+The old man said, "Find a toad
 and put it near the snake. You'll
 see that the snake will come
 out of the child's stomach to

@@ -22,10 +22,10 @@ palace.
 
 ##
 The kind said to Elephant and
-Chameleon, “I want you to
+Chameleon, "I want you to
 stomp
 on the ground with your feet
-until water comes out.”
+until water comes out."
 The king promised the princess
 in marriage to the one who
 succeeded.

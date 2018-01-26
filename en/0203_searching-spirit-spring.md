@@ -3,17 +3,17 @@
 ##
 The Winter cold had passed.
 
-Spring was coming to Nkanyezi’s village.
+Spring was coming to Nkanyezi's village.
 
 Soon the villagers would gather to celebrate the new season. Nkanyezi looked forward to the Spring festival more than any other day in the year.
 
 ##
-One warm morning, Nkanyezi overheard two village elders talking about the festival.“The people of Ndlovu have lost their spirit of celebration,” one sighed.“How can we have a Spring festival in a village that has forgotten how to celebrate?” asked another.
+One warm morning, Nkanyezi overheard two village elders talking about the festival."The people of Ndlovu have lost their spirit of celebration," one sighed."How can we have a Spring festival in a village that has forgotten how to celebrate?" asked another.
 
 ##
-Nkanyezi was worried.“How will the sun shine again unless we sing to wake it from its winter slumber?” she asked herself.
+Nkanyezi was worried."How will the sun shine again unless we sing to wake it from its winter slumber?" she asked herself.
 
-Nkanyezi thought for a long time.“I must find what we have lost,” she decided.“I must go in search of things that will bring back the spirit of celebration to my village.”
+Nkanyezi thought for a long time."I must find what we have lost," she decided."I must go in search of things that will bring back the spirit of celebration to my village."
 
 ##
 The elders gave Nkanyezi their blessing for the journey. They gave her a bag to carry the things she would find.
@@ -26,7 +26,7 @@ Nkanyezi walked all day. She hiked up a hill, and down into a valley. She sailed
 ##
 As night was closing in, Nkanyezi arrived at a village of patterns and colours as she had never seen before. She told the village elders about her journey to bring back the spirit of celebration to her people.
 
-The mother of this tribe gave Nkanyezi a gift. She told the girl, “With love we give to you this paint to restore colour to a village that has gone dull.”
+The mother of this tribe gave Nkanyezi a gift. She told the girl, "With love we give to you this paint to restore colour to a village that has gone dull."
 
 Nkanyezi thanked the elders and put the paint in her bag.
 
@@ -41,7 +41,7 @@ Nkanyezi found herself in the village of the Bhubezi. People were sitting around
 She told the village elders about her journey to bring back the spirit of celebration to her people. The Bhubezi invited her to rest and stay the night.
 
 ##
-In the morning the chief called on Nkanyezi.“My child,” he said, “here is a special drum. It plays a new song every time you beat it.”
+In the morning the chief called on Nkanyezi."My child," he said, "here is a special drum. It plays a new song every time you beat it."
 
 Nkanyezi thanked the elders and put the drum in her bag. She went on her way again, delighted with this gift of music and dance.
 
@@ -51,7 +51,7 @@ On the third day of her journey, as she a passed a field of fat cows, her nose s
 This tribe was famous for its feasts and Nkanyezi had never before tasted such flavours. After she had eaten her fill, she told the village elders about her journey to bring back the spirit of celebration to her people.
 
 ##
-The next day, the council of cooks gave her a secret spice blend.“Our daughter,” they said, “with these spices, happy tummies are guaranteed! We give you the gift of good food.”
+The next day, the council of cooks gave her a secret spice blend."Our daughter," they said, "with these spices, happy tummies are guaranteed! We give you the gift of good food."
 
 Nkanyezi thanked the elders and put the spices in her bag.
 

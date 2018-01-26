@@ -27,12 +27,12 @@ They were looking at
 the sky.
 
 ##
-Kobole said, “It is a
+Kobole said, "It is a
 beautiful cloth hanging
-from the sky.” Neno
-said, “No! I think
+from the sky." Neno
+said, "No! I think
 someone is pouring
-paint from the sky.”
+paint from the sky."
 
 ##
 Some people agreed
@@ -44,25 +44,25 @@ argued.
 ##
 A man from a faraway
 village arrived and said,
-“You are all wrong.”
+"You are all wrong."
 
 ##
 The people shouted,
-“Then what is it?”
+"Then what is it?"
 
 ##
-The stranger said, “It is
+The stranger said, "It is
 the rainbow. Have you
 never seen the rainbow
-before?”
+before?"
 
 ##
-“What is a r-a-i-n-b-ow?” the villagers asked,
+"What is a r-a-i-n-b-ow?" the villagers asked,
 looking at the stranger.
 
 ##
-Neno asked, “Is it ours?
-Can we keep it here?”
+Neno asked, "Is it ours?
+Can we keep it here?"
 But the man had
 already gone away.
 

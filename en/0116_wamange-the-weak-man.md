@@ -38,15 +38,15 @@ He started thinking of making a hut
 for himself.
 
 ##
-He sung,“Tomorrow I will build
-myself a hut” ×4
+He sung,"Tomorrow I will build
+myself a hut" ×4
 In the morning when the sun
 started shinning clearly,
 
 ##
 Wamaŋe became warm. He
 changed the song.
-“It is hot why should I build a hut?”
+"It is hot why should I build a hut?"
 ×4
 
 ##

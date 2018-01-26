@@ -1,17 +1,17 @@
 # Rain for Nomvula
 
 ##
-“No Nomvula, don't play with
-water. It is so scarce!”
-“But it's hot, Mama! I feel like
+"No Nomvula, don't play with
+water. It is so scarce!"
+"But it's hot, Mama! I feel like
 getting into this water. I want to
-be cool.”
+be cool."
 
 ##
-“No, Nomvula. Don't play with
-water. Water is scarce.”
-“But it's hot, Mama, I'm thirsty.
-I'd like to drink cold water.”
+"No, Nomvula. Don't play with
+water. Water is scarce."
+"But it's hot, Mama, I'm thirsty.
+I'd like to drink cold water."
 
 ##
 It is raining. There is going to be

@@ -31,9 +31,9 @@ birds.
 ##
 Other families noticed how well
 the hill family lived.
-“It is a good life up in the hills,”
-said the husband. “You should
-come there too.”
+"It is a good life up in the hills,"
+said the husband. "You should
+come there too."
 
 ##
 Soon the other families left the

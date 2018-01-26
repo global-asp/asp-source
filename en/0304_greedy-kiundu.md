@@ -15,14 +15,14 @@ to his son's wedding.
 Kiundu also heard that there
 was another wedding party in
 Katumbi village.
-“Ugh! Two parties on the same
-day!” Kiundu thought.
+"Ugh! Two parties on the same
+day!" Kiundu thought.
 
 ##
-“I must attend both parties,”
+"I must attend both parties,"
 Kiundu said.
-“I will first walk to Katumbi then
-come back to Nyamani.”
+"I will first walk to Katumbi then
+come back to Nyamani."
 
 ##
 Kiundu woke up early in the
@@ -30,8 +30,8 @@ morning and walked to Katumbi
 village.
 He looked around and saw that
 the party had not yet started.
-“I will go back to Nyamani and
-return to Katumbi later,” Kiundu
+"I will go back to Nyamani and
+return to Katumbi later," Kiundu
 decided.
 
 ##
@@ -42,9 +42,9 @@ When he arrived, men were still
 preparing the food.
 
 ##
-“I left cooks at Katumbi
-preparing to cook,” he thought.
-“The food must be ready now.”
+"I left cooks at Katumbi
+preparing to cook," he thought.
+"The food must be ready now."
 Kiundu decided to go back to
 Katumbi.
 

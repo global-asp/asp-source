@@ -17,9 +17,9 @@ cook and eat it.
 ##
 The old rooster heard the woman
 talking and its heart sank.
-“Aaiii, you are also very old but I
+"Aaiii, you are also very old but I
 don't see anyone trying to kill you,
-we will see!”
+we will see!"
 So the old rooster sneaked away
 and decided to head for the big city
 to start singing.
@@ -27,46 +27,46 @@ to start singing.
 ##
 As the old rooster walked, he met
 the cat.
-“What has happened?” the cat
+"What has happened?" the cat
 asked.
-“My friend, my boss wants to eat
+"My friend, my boss wants to eat
 me because I can no longer tell her
-the time,” said the old rooster.
-“I am going to the big city to sing.
-Where are you going?”
-“My friend, my boss has also
+the time," said the old rooster.
+"I am going to the big city to sing.
+Where are you going?"
+"My friend, my boss has also
 decided to kill me because I can no
 longer catch rats. I am running
-away,” said the cat. “Can I join
-you?”
-“Let's go!” said the old rooster.
+away," said the cat. "Can I join
+you?"
+"Let's go!" said the old rooster.
 
 ##
 They had walked a short while when
 they saw a dog running very fast.
 The old rooster called the dog and
 asked why he was running so fast.
-“My friend, my boss chased me
+"My friend, my boss chased me
 because I can no longer catch
-thieves,” replied the dog while
+thieves," replied the dog while
 panting.
-“We have similar problems. We are
-going to the big city to sing,” said
+"We have similar problems. We are
+going to the big city to sing," said
 the old rooster.
-“Can I join you?” asked the dog.
+"Can I join you?" asked the dog.
 
 ##
 The three animals set off together.
 As they were walking, a horse
 stopped them and asked what was
 happening.
-“Our bosses want to kill us because
-we can no longer do our jobs,” they
+"Our bosses want to kill us because
+we can no longer do our jobs," they
 all replied together.
-“I have the same problem, where
-are you going?” asked the horse.
-“We are going to the big city to
-sing,” they replied.
+"I have the same problem, where
+are you going?" asked the horse.
+"We are going to the big city to
+sing," they replied.
 The horse asked to join them and
 they accepted.
 
@@ -85,11 +85,11 @@ back.
 
 ##
 They immediately started singing.
-“Kookoliookoo,” sang the rooster.
-“Myaaawuu myaaawuu,” sang the
+"Kookoliookoo," sang the rooster.
+"Myaaawuu myaaawuu," sang the
 cat.
-“Woo woo,” sang the dog.
-“Wuuuu wuuuu,” sang the horse.
+"Woo woo," sang the dog.
+"Wuuuu wuuuu," sang the horse.
 They all sang loudly together. The
 people inside the house were
 thieves. The thieves were afraid and

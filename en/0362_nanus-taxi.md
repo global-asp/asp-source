@@ -6,7 +6,7 @@ taxi. We are going home.
 
 ##
 Here I am standing in line. My mother sings me a song.
-“Come Mr Taxi can't you see? We are waiting, Nanu and me!”
+"Come Mr Taxi can't you see? We are waiting, Nanu and me!"
 
 ##
 The lady next to me is taking her chickens home. They will
@@ -14,12 +14,12 @@ lay eggs for her to eat.
 
 ##
 These men are coming back from work. They smile at me. I
-hear them sing, “Hey little Nanu, don't you worry. Taxi's
-coming in a hurry.”
+hear them sing, "Hey little Nanu, don't you worry. Taxi's
+coming in a hurry."
 
 ##
 A lady walks past. She is a very smart lady. Aren't her shoes
-beautiful? They go “click, click, click...click, click, click...”
+beautiful? They go "click, click, click...click, click, click..."
 when she walks.
 
 ##
@@ -36,8 +36,8 @@ friends tonight.
 
 ##
 I am tired now. My mother puts me on her back where I can
-rest. She sings, “Please Mr Taxi, don't be late, Gogo is
-waiting at our gate.”
+rest. She sings, "Please Mr Taxi, don't be late, Gogo is
+waiting at our gate."
 
 ##
 There is my friend Tumi. He is also resting. We will be home
@@ -53,8 +53,8 @@ town today. When I grow up I will buy many earrings for me
 and my mother.
 
 ##
-My mother is getting tired now. I sing her a song, “Please Mr
-Taxi, won't you come, we are waiting, me and mum.”
+My mother is getting tired now. I sing her a song, "Please Mr
+Taxi, won't you come, we are waiting, me and mum."
 
 ##
 Wait! I can hear the taxi! Here it comes!!!

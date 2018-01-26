@@ -19,10 +19,10 @@ clay pot, he learned something
 new. It was so exciting!
 
 ##
-Greedy Anansi thought, “I'll
+Greedy Anansi thought, "I'll
 keep the pot safe at the top of a
 tall tree. Then I can have it all
-to myself!”
+to myself!"
 He spun a long thread, wound it
 round the clay pot, and tied it to
 his stomach.
@@ -35,9 +35,9 @@ knees all the time.
 All the time Anansi's young son
 had been standing at the
 bottom of the tree watching. He
-said, “Wouldn't it be easier to
+said, "Wouldn't it be easier to
 climb if you tied the pot to your
-back instead?”
+back instead?"
 Anansi tried tying the clay pot
 full of wisdom to his back, and it
 really was a lot easier.
@@ -46,10 +46,10 @@ really was a lot easier.
 In no time he reached the top of
 the tree.
 But then he stopped and
-thought, “I'm supposed to be
+thought, "I'm supposed to be
 the one with all the wisdom,
 and here my son was cleverer
-than me!”
+than me!"
 Anansi was so angry about this
 that he threw the clay pot down
 out of the tree.

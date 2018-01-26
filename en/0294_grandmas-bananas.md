@@ -10,23 +10,23 @@ Although Grandma had many grandchildren, I secretly knew that I was her favourit
 But there was one secret she did not share with me: where she ripened bananas.
 
 ##
-One day I saw a big straw basket placed in the sun outside Grandma's house. When I asked what it was for, the only answer I got was, “It's my magic basket.”
+One day I saw a big straw basket placed in the sun outside Grandma's house. When I asked what it was for, the only answer I got was, "It's my magic basket."
 
-Next to the basket, there were several banana leaves that Grandma turned from time to time. I was curious. “What are the leaves for, Grandma?” I asked. The only answer I got was, “They are my magic leaves.”
+Next to the basket, there were several banana leaves that Grandma turned from time to time. I was curious. "What are the leaves for, Grandma?" I asked. The only answer I got was, "They are my magic leaves."
 
 ##
 It was so interesting watching Grandma, the bananas, the banana leaves and the big straw basket. But Grandma sent me off to my mother on an errand.
 
-“Grandma, please, let me watch as you prepare...”
+"Grandma, please, let me watch as you prepare..."
 
-“Don't be stubborn, child, do as you are told,” she insisted. I took off running.
+"Don't be stubborn, child, do as you are told," she insisted. I took off running.
 
 ##
 When I returned, Grandma was sitting outside but with neither the basket nor the bananas.
 
-“Grandma, where is the basket, where are all the bananas, and where...”
+"Grandma, where is the basket, where are all the bananas, and where..."
 
-But the only answer I got was, “They are in my magic place.” It was so disappointing!
+But the only answer I got was, "They are in my magic place." It was so disappointing!
 
 ##
 Two days later, Grandma sent me to fetch her walking stick from her bedroom.
@@ -34,9 +34,9 @@ Two days later, Grandma sent me to fetch her walking stick from her bedroom.
 As soon as I opened the door, I was welcomed by the strong smell of ripening bananas. In the inner room was grandma's big magic straw basket. It was well hidden by an old blanket. I lifted it and sniffed that glorious smell.
 
 ##
-Grandma's voice startled me when she called, “What are you doing? Hurry up and bring me the stick.”
+Grandma's voice startled me when she called, "What are you doing? Hurry up and bring me the stick."
 
-I hurried out with her walking stick. “What are you smiling about?” Grandma asked.
+I hurried out with her walking stick. "What are you smiling about?" Grandma asked.
 
 Her question made me realise that I was still smiling at the discovery of her magic place.
 

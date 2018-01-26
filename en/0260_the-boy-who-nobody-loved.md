@@ -41,7 +41,7 @@ loved him.
 ##
 The old woman asked if he needed
 help. He responded quickly and said
-“Yes”. The old woman said that
+"Yes". The old woman said that
 before she helped him, she wanted
 him to lick her face until she was
 clean and beautiful.
@@ -58,54 +58,54 @@ and beautiful.
 
 ##
 The old woman thanked him. She
-said, “You will find many wonderful
+said, "You will find many wonderful
 things in the forest, but don't take
 any of these things. Only bring back
-the root that you find.”
+the root that you find."
 
 ##
 The boy ran, wanting to see all of
 those things in the forest. But
 before he could enter the forest, the
 old woman called him. She said,
-“Boy! Come back here!” He ran
-back to her and said, “I'm here”.
+"Boy! Come back here!" He ran
+back to her and said, "I'm here".
 She asked him if he had heard what
-she said to him. “I said you will find
+she said to him. "I said you will find
 many wonderful things in the forest,
 but don't take any of these things.
 Only bring back the root that you
-find,” she repeated. The boy
+find," she repeated. The boy
 nodded and so the old woman
 allowed him to go into the forest.
 
 ##
 The boy ran off, but before he could
 enter the forest, he heard a voice
-saying, “Boy! Come back here!” He
+saying, "Boy! Come back here!" He
 started to be confused about what
 the old woman wanted. He ran back
-to her. She said, “I don't think you
+to her. She said, "I don't think you
 heard me properly. I said you will
 find many wonderful things in the
 forest, but don't take any of these
 things. Only bring back the root that
-you find.” The boy nodded and ran
+you find." The boy nodded and ran
 back to the forest.
 
 ##
 Just after he had entered the forest,
 he heard a voice again saying,
-“Boy! Come back here!” He tried to
+"Boy! Come back here!" He tried to
 ignore the voice but he continued
 hearing it so he went back to the
-old woman. The old woman said, “I
+old woman. The old woman said, "I
 don't trust you. I don't think you'll
 do what I ask you to do. I said you
 will find many wonderful things in
 the forest, but don't take any of
 these things. Only bring back the
-root that you find.” The boy was
+root that you find." The boy was
 starting to become annoyed with
 the repetition. He ran faster than
 before, until he was in the forest.

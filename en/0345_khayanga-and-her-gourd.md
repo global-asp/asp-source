@@ -76,8 +76,8 @@ once again.
 Khayanga continued to carry her
 Gourd everywhere she went.
 Wherever she passed, people
-whispered to each other, “What
-type of gourd is this?”
+whispered to each other, "What
+type of gourd is this?"
 With her special Gourd, Khayanga
 received everything she needed.
 

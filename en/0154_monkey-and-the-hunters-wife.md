@@ -12,7 +12,7 @@ made Monkey jump up and
 down.
 She would jump to one branch,
 then to another, and cry out,
-“Kwi! Kwi! Kwi!”
+"Kwi! Kwi! Kwi!"
 
 ##
 Monkey was always sad.
@@ -51,10 +51,10 @@ hold the baby monkey.
 
 ##
 The three boys played singing:
-“Throw it up!
+"Throw it up!
 Throw it down!
 Throw it to me!
-Throw it to him!”
+Throw it to him!"
 The baby monkey was thrown
 from one child to the other.
 
@@ -70,8 +70,8 @@ would also die like the others.
 Then the hunter's wife came
 and saw her children playing
 with the little monkey.
-She said, “Be careful! Bring it
-here. You will drop it!”
+She said, "Be careful! Bring it
+here. You will drop it!"
 
 ##
 She took the baby monkey in

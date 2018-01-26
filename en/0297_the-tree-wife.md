@@ -34,25 +34,25 @@ a married woman. And he built her
 a house with the mud and grass
 that used to lie at the foot of her
 trunk.
-“Only one thing I beg of you,” he
-said to his wife. “Never tell anyone
-where you come from.”
+"Only one thing I beg of you," he
+said to his wife. "Never tell anyone
+where you come from."
 
 ##
 But before long, the young men
 from a neighbouring village began
 talking among themselves.
-“How can such an old man have
-such a beautiful young wife?”
+"How can such an old man have
+such a beautiful young wife?"
 So they decided to steal her and
 take her to their own kraal.
 
 ##
 The old man was heartbroken. He
 felt he could not live without her.
-But then he thought, “Perhaps if I
+But then he thought, "Perhaps if I
 have something of hers, I would not
-feel so sad?”
+feel so sad?"
 So he sent his doves to find her, to
 sing to her, and to bring back
 something of hers to him.

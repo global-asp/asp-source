@@ -29,7 +29,7 @@ changed into a person.
 ##
 Sinson asked her what she was
 carrying. Kalabushe answered,
-“Meat, eggs and milk.”
+"Meat, eggs and milk."
 Kalabushe's mother had warned
 her not to say what she was
 carrying.
@@ -55,7 +55,7 @@ her blanket.
 When Kalabushe arrived, the
 house was very quiet. She went
 inside the house and called out,
-“Aunt, where are you?”
+"Aunt, where are you?"
 
 ##
 When she did not hear her
@@ -66,25 +66,25 @@ she saw someone covered with
 a big blanket.
 
 ##
-“Aunt, why are your ears so big
-today?” asked Kalabushe.
+"Aunt, why are your ears so big
+today?" asked Kalabushe.
 Sinson replied from under the
-big blanket, “So that I can hear
-you well.”
+big blanket, "So that I can hear
+you well."
 
 ##
-Kalabushe asked again, “Aunt,
+Kalabushe asked again, "Aunt,
 why are your eyes so big
-today?”
-Sinson answered, “So I can see
-you well.”
+today?"
+Sinson answered, "So I can see
+you well."
 
 ##
-Kalabushe finally asked, “Aunt,
+Kalabushe finally asked, "Aunt,
 why is your mouth so big
-today?”
-Sinson replied, “So I can
-swallow you up.”
+today?"
+Sinson replied, "So I can
+swallow you up."
 Sinson jumped from the bed
 and swallowed up Kalabushe.
 

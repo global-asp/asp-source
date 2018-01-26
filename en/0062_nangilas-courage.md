@@ -36,12 +36,12 @@ Some men did not return from the lake at all.
 ##
 Nangila felt worried. Not even her brothers would go to the lake. She decided to fetch the herb herself.
 
-Her mother said, “My daughter, if strong men have failed, will you succeed?” But Nangila had made up her mind.
+Her mother said, "My daughter, if strong men have failed, will you succeed?" But Nangila had made up her mind.
 
 ##
 On the way to the lake, Nangila met an old woman carrying wood. She helped the woman to carry her firewood.
 
-The old woman was grateful. She said to Nangila, “I will tell you how to reach the spirit lake and what to do when you get there.”
+The old woman was grateful. She said to Nangila, "I will tell you how to reach the spirit lake and what to do when you get there."
 
 ##
 When she reached the shore of the lake, Nangila saw the spirit family drinking and dancing.

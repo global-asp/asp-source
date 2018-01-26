@@ -43,9 +43,9 @@ head.
 ##
 The following morning, before
 the head went to his farm, he
-spoke to Tortoise. “If Adun tries
+spoke to Tortoise. "If Adun tries
 to escape, blow this horn to tell
-me,” said the head.
+me," said the head.
 
 ##
 After the head left, Adun packed
@@ -54,24 +54,24 @@ run away.
 
 ##
 Seeing her, Tortoise blew the
-horn, “Head, head, Adun is
-about to run away,” puffed
+horn, "Head, head, Adun is
+about to run away," puffed
 Tortoise.
 
 ##
 The head went up to Adun and
-said, “Where do you think you
-are going?”
+said, "Where do you think you
+are going?"
 Adun went back to the head's
 house.
 
 ##
 Eventually Adun consulted a
 diviner about what to do. The
-diviner advised, “Go and buy
+diviner advised, "Go and buy
 some bean cakes. Soak them in
 palm oil and put them in
-Tortoise's horn.”
+Tortoise's horn."
 
 ##
 Adun followed the diviner's

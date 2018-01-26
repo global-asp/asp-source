@@ -5,9 +5,9 @@ Once upon a time, there was an old
 woman who loved her grandson
 very much.
 She gave him an egg as a gift.
-She said, “From this egg you will get
+She said, "From this egg you will get
 bride wealth for your marriage
-when you are of age.”
+when you are of age."
 And the boy went on his way.
 
 ##
@@ -19,14 +19,14 @@ and it broke.
 
 ##
 The boy cried,
-“Ei...Ei...Ei! You have caused trouble
+"Ei...Ei...Ei! You have caused trouble
 for me!
 The egg was not mine.
 It belonged to my grandmother.
 And grandmother didn't give it to
 me for nothing.
 She gave it to me to get bride
-wealth.”
+wealth."
 
 ##
 So the berry gatherers gave him the
@@ -42,7 +42,7 @@ broke into pieces.
 
 ##
 The boy cried,
-“Hee...Hee...Hee! You have caused
+"Hee...Hee...Hee! You have caused
 trouble for me! The stick was not
 mine, it belonged to the berry
 gatherers.
@@ -55,7 +55,7 @@ It belonged to my grandmother.
 And grandmother didn't give it to
 me for nothing,
 She gave it to me to get bride
-wealth.”
+wealth."
 
 ##
 So the builders gave him a bundle
@@ -69,7 +69,7 @@ The herdsman gave it to the cow
 and the cow ate it all up.
 
 ##
-The boy cried, “E...E...E! You have
+The boy cried, "E...E...E! You have
 caused trouble for me! The grass
 was not mine. It belonged to the
 builders.
@@ -86,7 +86,7 @@ to my grandmother.
 And grandmother did not give it to
 me for nothing.
 She gave it to me to get bride
-wealth.”
+wealth."
 
 ##
 So the herdsman gave the boy his
@@ -104,7 +104,7 @@ And they slaughtered it and ate it
 all.
 
 ##
-The boy cried, “Ei...Ei...Ei! You have
+The boy cried, "Ei...Ei...Ei! You have
 caused trouble for me! The cow was
 not mine. It belonged to the
 herdsman.
@@ -126,15 +126,15 @@ to my grandmother.
 And grandmother didn't give it to
 me for nothing,
 She gave it to me to get bride
-wealth.”
+wealth."
 
 ##
-Then the bride's family said, “We
+Then the bride's family said, "We
 have nothing left to pay you. But let
-us give you the bride.”
+us give you the bride."
 And so, the saying came to pass
-that, “What goes round comes
-around!”
+that, "What goes round comes
+around!"
 
 ##
 * License: [CC-BY]

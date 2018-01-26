@@ -9,8 +9,8 @@ with horns. No one else.
 
 ##
 When the pig heard about the
-party, he thought, “I don't have
-horns. What am I going to do?”
+party, he thought, "I don't have
+horns. What am I going to do?"
 
 ##
 The next day, he had an idea.
@@ -29,14 +29,14 @@ When the party started heating
 up, the wax began to melt and
 his horns fell off.
 The horned animals were
-shocked. “Who's that one with
+shocked. "Who's that one with
 no horns? Why did he come
-here?” they asked.
+here?" they asked.
 
 ##
 The king of the animals
-commanded, “Grab that pig and
-throw him down to earth.”
+commanded, "Grab that pig and
+throw him down to earth."
 They grabbed the pig and threw
 him down to earth.
 

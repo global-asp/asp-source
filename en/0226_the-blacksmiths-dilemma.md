@@ -23,22 +23,22 @@ Ratshipi to the palace.
 ##
 Ratshipi was happy to hear that
 Kgosi Mogale wanted to see him.
-“I will be very happy to work for the
-chief,” he said.
+"I will be very happy to work for the
+chief," he said.
 
 ##
 So Ratshipi went to the palace.
-“Ratshipi, I have heard about your
-good work,” said Kgosi Mogale.
-“I want you to do a very special
-task.”
+"Ratshipi, I have heard about your
+good work," said Kgosi Mogale.
+"I want you to do a very special
+task."
 
 ##
-“With your iron and steel, I want
+"With your iron and steel, I want
 you to build a man who can walk,
 cry real tears and bleed real human
-blood.”
-“Impossible!” thought Ratshipi. But
+blood."
+"Impossible!" thought Ratshipi. But
 no one could say no to the king in
 this village.
 
@@ -67,30 +67,30 @@ man sitting under a tree.
 
 ##
 It was old Rapule!
-“I am so pleased to see you,” said
+"I am so pleased to see you," said
 Ratshipi.
-“I have a big problem.”
+"I have a big problem."
 He told Old Rapule the whole story.
 Old Rapule thought carefully, and
 then he said...
 
 ##
-“Tell the chief that you will need a
+"Tell the chief that you will need a
 thousand buckets full of tears and a
 thousand African pots full of hair.
 With the water, you will make
 blood. With the hair, you will make
-a fire to strengthen the steel man.”
-“Thank you, thank you!” Ratshipi
+a fire to strengthen the steel man."
+"Thank you, thank you!" Ratshipi
 said, running back to the palace.
 
 ##
-Ratshipi said, “Kgosi Mogale, to do
+Ratshipi said, "Kgosi Mogale, to do
 what you ask, I will need two things.
 A thousand buckets full of tears;
 and a thousand African pots filled
 with hair from the heads of the
-villagers.”
+villagers."
 Kgosi Mogale agreed. He asked his
 headmen to tell the villagers.
 
@@ -109,15 +109,15 @@ buckets and pots.
 Eventually Kgosi Mogale gave up
 and called Ratshipi back to the
 palace.
-“Ratshipi, you are a wise man, the
-wisest in the village,” said Kgosi
-Mogale. “Will you do me the honour
-of being my chief headman?”
+"Ratshipi, you are a wise man, the
+wisest in the village," said Kgosi
+Mogale. "Will you do me the honour
+of being my chief headman?"
 Ratshipi smiled.
 
 ##
-“Only if you let old Rapule come
-back to the village,” he replied.
+"Only if you let old Rapule come
+back to the village," he replied.
 So Ratshipi became chief headman.
 And he and old Rapule were the
 advisors of Kgosi Mogale.

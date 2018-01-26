@@ -27,10 +27,10 @@ Sakima was left with his little sister.
 ##
 Sakima loved to sing songs.
 
-One day his mother asked him, “Where do you learn these songs from, Sakima?”
+One day his mother asked him, "Where do you learn these songs from, Sakima?"
 
 ##
-Sakima answered, “They just come, mother. I hear them in my head and then I sing.”
+Sakima answered, "They just come, mother. I hear them in my head and then I sing."
 
 ##
 Sakima liked to sing for his little sister, especially, if she felt hungry.
@@ -40,7 +40,7 @@ His sister would listen to him singing his favourite song.
 She would sway to the soothing tune.
 
 ##
-“Can you sing it again and again, Sakima,” his sister would beg him.
+"Can you sing it again and again, Sakima," his sister would beg him.
 
 Sakima would accept and sing it over and over again.
 
@@ -50,25 +50,25 @@ One evening when his parents returned home, they were very quiet.
 Sakima knew that there was something wrong.
 
 ##
-“What is wrong, mother, father?” Sakima asked.
+"What is wrong, mother, father?" Sakima asked.
 
 Sakima learned that the rich man's son was missing.
 
 The man was very sad and lonely.
 
 ##
-“I can sing for him. He might be happy again,” Sakima told his parents.
+"I can sing for him. He might be happy again," Sakima told his parents.
 
 But his parents dismissed him.
 
-“He is very rich. You are only a blind boy. Do you think your song will help him?”
+"He is very rich. You are only a blind boy. Do you think your song will help him?"
 
 ##
 However, Sakima did not give up.
 
 His little sister supported him.
 
-She said, “Sakima's songs soothe me when I am hungry. They will soothe the rich man too.”
+She said, "Sakima's songs soothe me when I am hungry. They will soothe the rich man too."
 
 ##
 The following day, Sakima asked his little sister to lead him to the rich man's house.
@@ -81,12 +81,12 @@ Slowly, the head of the rich man began to show through the big window.
 ##
 The workers stopped what they were doing. They listened to Sakima's beautiful song.
 
-But one man said, “Nobody has been able to console the boss. Does this blind boy think he will console him?”
+But one man said, "Nobody has been able to console the boss. Does this blind boy think he will console him?"
 
 ##
 Sakima finished singing his song and turned to leave.
 
-But the rich man rushed out and said, “Please sing again.”
+But the rich man rushed out and said, "Please sing again."
 
 ##
 At that very moment, two men came carrying someone on a stretcher.

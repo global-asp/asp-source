@@ -71,12 +71,12 @@ After a while, he disguised himself
 and went back to Owl's place.
 The children recognised him and
 said:
-“There is the man who stole our
-sun!”
+"There is the man who stole our
+sun!"
 The adults did not agree with the
 children and said,
-“No, this is not the man who stole
-our sun.”
+"No, this is not the man who stole
+our sun."
 
 ##
 They saw that this man was an old
@@ -91,8 +91,8 @@ set. It became too dark to see the
 magic dancer.
 
 ##
-Owl said to his wife, “Go and look in
-my bag and fetch the moon.”
+Owl said to his wife, "Go and look in
+my bag and fetch the moon."
 Owl held the moon high above his
 shoulders and it lit up the darkness
 for all to see the dance. While they
@@ -145,9 +145,9 @@ little dry grass until a tiny flame
 appeared. The fire grew and lit the
 whole veld and each time the
 flames reached a tree, Dima said,
-“From now on people will be able to
+"From now on people will be able to
 make a fire with each tree on
-earth.”
+earth."
 
 ##
 A long time passed. When Dima
@@ -189,12 +189,12 @@ distribution in the extensive area of southern Africa and the
 Kalahari whose original inhabitants speak !Xun and other closely
 related languages, although the names and identities of the
 trickster, Dima, and his adversary change from area to area.
-The “clapping game” mentioned in our version, Dima and Owl, is
+The "clapping game" mentioned in our version, Dima and Owl, is
 still current among the !xun, the Nharo, and possibly other
 communities of Kalahari San. This story depicts Dima as a culture
 hero and transformer of the primeval world into the present world.
-He achieves this with words, “From now on people will be able to
-make a fire with each tree on earth.”
+He achieves this with words, "From now on people will be able to
+make a fire with each tree on earth."
 The Manyeka Arts Trust holds a !Xun audio telling of this story by
 Meneputo Mnaunga Maneka in archive.
 

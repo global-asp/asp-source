@@ -34,20 +34,20 @@ body was full of sores.
 
 ##
 Nambuya came across this old
-woman, who called her, “My
+woman, who called her, "My
 daughter, how are you? Where
 do you come from? Where are
-you going?”
+you going?"
 
 ##
 Nambuya answered all the
 questions. Then the old woman
-said, “Come carry me to my
+said, "Come carry me to my
 house and I will tell you what to
-do.” Nambuya was rude to the
-woman. She said, “I would
+do." Nambuya was rude to the
+woman. She said, "I would
 rather die than touch those
-disgusting sores of yours.”
+disgusting sores of yours."
 
 ##
 The old woman kept quiet and
@@ -76,8 +76,8 @@ the same questions.
 
 ##
 Nelima agreed to carry Netasile
-to her house. “You have done
-what many have failed to do,”
+to her house. "You have done
+what many have failed to do,"
 said the old woman. She gave
 Nelima a stick and told her to
 go back home, where she would
@@ -93,10 +93,10 @@ richest woman in the land.
 
 ##
 But she mourned for the loss of
-her sister and she said, “One
+her sister and she said, "One
 who did not listen to advice
 ended up in an elephant's
-mouth.”
+mouth."
 
 ##
 * License: [CC-BY]

@@ -46,10 +46,10 @@ close watch on his precious basket.
 It started to rain even more heavily,
 and Anansi was getting cold and
 wet. So he ran into a hole.
-“I will stay in this hole until the rain
-stops,” said Anansi to himself. “At
+"I will stay in this hole until the rain
+stops," said Anansi to himself. "At
 least my money is protected by the
-maize I put on top of it.”
+maize I put on top of it."
 
 ##
 A little while later, Vulture was
@@ -64,29 +64,29 @@ stop.
 ##
 Anansi saw Vulture sitting on his
 basket.
-“Oh thank you, my friend, for
-protecting my basket,” he said to
+"Oh thank you, my friend, for
+protecting my basket," he said to
 the Vulture.
-“Excuse me, Anansi, did I hear you
-right?” asked Vulture. “Your basket?
+"Excuse me, Anansi, did I hear you
+right?" asked Vulture. "Your basket?
 This basket is mine! I found it here
-on the road side!”
+on the road side!"
 Anansi could not believe his ears!
-“It's mine, I tell you!”
+"It's mine, I tell you!"
 
 ##
 Furious, Anansi went and reported
 the theft to the chief. But Vulture
 said to the chief and his elders,
-“How could anyone leave a basket
+"How could anyone leave a basket
 full of money and maize unguarded
-on the road?”
-“But I was watching my basket,”
-said Anansi. “It's my money and my
-maize!”
-“I was looking after the basket
+on the road?"
+"But I was watching my basket,"
+said Anansi. "It's my money and my
+maize!"
+"I was looking after the basket
 when you came and said it was
-yours!” replied Vulture.
+yours!" replied Vulture.
 
 ##
 When the chief and his elders had
@@ -99,10 +99,10 @@ Eventually they reached a decision.
 ##
 They summoned Anansi and the
 Vulture again.
-“We believe Vulture's story,” they
-said. “He is not the thief. You were
+"We believe Vulture's story," they
+said. "He is not the thief. You were
 trying to claim something that was
-not yours.”
+not yours."
 Anansi could not believe his ears!
 He burst into tears.
 

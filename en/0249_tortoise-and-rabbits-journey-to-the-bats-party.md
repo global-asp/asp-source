@@ -4,7 +4,7 @@
 The journey started at 8:00 am. On the way to
 the bats party, tortoise told the rabbit that
 once they reach at the party, he will be called
-“All of you” and rabbit accepted it.
+"All of you" and rabbit accepted it.
 
 ##
 By 10:00am they were already at the party,
@@ -14,7 +14,7 @@ in one room.
 ##
 The bats brought tea for them and tortoise
 asked who should take the tea? The bats
-replied “it is for all of you”.
+replied "it is for all of you".
 
 ##
 Tortoise thanked the bats and he started taking
@@ -23,8 +23,8 @@ the party.
 
 ##
 When Time for lunch came, food was served.
-The bats again said, “This food is for all of
-you”. Immediately Tortoise began eating as the
+The bats again said, "This food is for all of
+you". Immediately Tortoise began eating as the
 rabbit waited for his food.
 
 ##

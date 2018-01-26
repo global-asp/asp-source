@@ -9,30 +9,30 @@ Little Ant had no water
 for many days.
 
 ##
-“I need a drop of water,
+"I need a drop of water,
 even if it falls from a
-leaf.”
+leaf."
 
 ##
 But even the dew had
 dried up.
 
 ##
-“If I don't drink, I will
-die,” cried Little Ant.
-“I must go to the river I
-have heard about.”
+"If I don't drink, I will
+die," cried Little Ant.
+"I must go to the river I
+have heard about."
 
 ##
-“The river will sweep
-you away,” a wise
+"The river will sweep
+you away," a wise
 squirrel warned him.
 
 ##
 But Little Ant was so
 thirsty.
-“I will die if I don't drink
-some water.”
+"I will die if I don't drink
+some water."
 
 ##
 Little Ant went to look
@@ -64,21 +64,21 @@ But he was swept away
 by the water.
 
 ##
-“Help someone. Help
-me please.”
+"Help someone. Help
+me please."
 
 ##
-“Quick, climb on,” said
+"Quick, climb on," said
 White Dove, holding a
 branch in his beak.
 
 ##
 
 ##
-“I cannot leave until I
+"I cannot leave until I
 say thank you to the
 dove. I will wait until he
-comes back to drink.”
+comes back to drink."
 
 ##
 One day as he waited,
@@ -87,19 +87,19 @@ river with their
 slingshots.
 
 ##
-“There is a big white
+"There is a big white
 dove that comes here
-to drink,” said one boy.
-“We will have it for
-supper tonight.”
+to drink," said one boy.
+"We will have it for
+supper tonight."
 
 ##
 
 ##
-“I cannot let the boys
+"I cannot let the boys
 kill White Dove.
 But I am so tiny, what
-can I do?”
+can I do?"
 
 ##
 Just then White Dove
@@ -118,7 +118,7 @@ as hard as he could.
 
 ##
 The boy jumped.
-“Ouch!” he cried.
+"Ouch!" he cried.
 
 ##
 White Dove was

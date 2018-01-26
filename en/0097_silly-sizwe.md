@@ -7,7 +7,7 @@ Sizwe who lived with his mother
 near to the Chief's kraal.
 Now Sizwe did so many silly
 things, that everybody called
-him “Silly Sizwe.”
+him "Silly Sizwe."
 
 ##
 The Chief, who lived in that
@@ -39,13 +39,13 @@ the girl did not even smile.
 ##
 When he got home, he told his
 mother what had happened.
-“You silly boy,” said his mother.
-“You should have put the eggs
+"You silly boy," said his mother.
+"You should have put the eggs
 in your hat and you could have
-brought them safely home.”
-“Never mind Mother,” said
+brought them safely home."
+"Never mind Mother," said
 Sizwe.
-“I will do that next time.”
+"I will do that next time."
 
 ##
 The next day, Sizwe was asked
@@ -73,14 +73,14 @@ happened, but she never even
 smiled.
 
 ##
-“You silly child,” said his
-mother, “If you had carried the
+"You silly child," said his
+mother, "If you had carried the
 bucket in your hand, you could
 have brought the milk safely
-home.”
-“Never mind Mother,” said
-Sizwe. “I will remember to do
-that next time.”
+home."
+"Never mind Mother," said
+Sizwe. "I will remember to do
+that next time."
 
 ##
 The next day, Sizwe had to look
@@ -105,11 +105,11 @@ laugh. She never even smiled.
 His mother was very cross with
 Sizwe when he told her what
 had happened.
-“You stupid boy,” she said, “you
+"You stupid boy," she said, "you
 should have held the rope and
-pulled the piglet behind you.”
-“Never mind Mother. I will do
-that next time,” said Sizwe.
+pulled the piglet behind you."
+"Never mind Mother. I will do
+that next time," said Sizwe.
 
 ##
 The next day, Sizwe had to work in the Chief's kitchen. He
@@ -131,12 +131,12 @@ Did the chief's daughter laugh?
 No, she did not even smile.
 
 ##
-“You silly, silly boy,” said his
+"You silly, silly boy," said his
 mother when she told her what
 had happened. You should have
-carried it on your shoulder.”
-“Don't worry,” said Sizwe, “I will
-do so next time.”
+carried it on your shoulder."
+"Don't worry," said Sizwe, "I will
+do so next time."
 
 ##
 The next day when Sizwe got to
@@ -147,8 +147,8 @@ given one of the Chief's cows to
 take to his mother.
 Sizwe was very happy. He
 remembered his mother's
-words, “Carry it home on your
-shoulder.”
+words, "Carry it home on your
+shoulder."
 
 ##
 Sizwe got down on his hands

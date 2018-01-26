@@ -8,7 +8,7 @@ going on in this town. But she made
 a whole world here. She even made
 me. And she named her house after
 me.
-It was called ‘The Owl House'.
+It was called 'The Owl House'.
 
 ##
 Most of Helen's nine brothers and

@@ -4,7 +4,7 @@
 Andiswa watched the boys play soccer. She wished that she could join them. She asked the coach if she can practise with them.
 
 ##
-The coach put his hands on his hips. “At this school, only boys are allowed to play soccer,” he said.
+The coach put his hands on his hips. "At this school, only boys are allowed to play soccer," he said.
 
 ##
 The boys told her to go play netball. They said that netball is for girls and soccer is for boys. Andiswa was upset.

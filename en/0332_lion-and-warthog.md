@@ -20,7 +20,7 @@ Days went past as Lion sat baking in the sun.
 He was hungry and thirsty and there was nobody to
 save him.
 He became weaker and weaker.
-“I am going to die of hunger and thirst in this trap,”
+"I am going to die of hunger and thirst in this trap,"
 he thought to himself.
 
 ##
@@ -34,31 +34,31 @@ water and play in the mud before the sun got too
 hot.
 
 ##
-“Warthog! Please help me! Warthog!” cried Lion.
-“Please set me free from this trap,” pleaded Lion.
-“Never,” said Warthog.
-“You are a cruel animal. You will eat me and my
-family for breakfast if I set you free.”
-“I promise I will never do such a bad thing. We will be
-friends if you can set me free,” said Lion.
+"Warthog! Please help me! Warthog!" cried Lion.
+"Please set me free from this trap," pleaded Lion.
+"Never," said Warthog.
+"You are a cruel animal. You will eat me and my
+family for breakfast if I set you free."
+"I promise I will never do such a bad thing. We will be
+friends if you can set me free," said Lion.
 
 ##
 Warthog felt sorry for the lion.
-“I do not like seeing you in such
+"I do not like seeing you in such
 pain, thirsty and dying from
-hunger.”
+hunger."
 So he pulled at the trap with his
 long strong tusks and released Lion.
 Warthog saved his new friend.
 
 ##
-“Thank you very much my friend for
-saving my life,” said Lion. “I must
-go to my family now, good bye.”
-“Go well my friend,” said Warthog.
+"Thank you very much my friend for
+saving my life," said Lion. "I must
+go to my family now, good bye."
+"Go well my friend," said Warthog.
 He was happy that Lion was his
-friend. “My family will never have to
-run from the lion again,” he
+friend. "My family will never have to
+run from the lion again," he
 thought.
 
 ##
@@ -67,30 +67,30 @@ weak.
 He was also very hungry.
 Then he saw Warthog's children
 playing in the mud.
-“Today is my lucky day,” said Lion
+"Today is my lucky day," said Lion
 with his mouth watering.
 
 ##
-“Hey Warthog, my new friend,”
+"Hey Warthog, my new friend,"
 called Lion.
-“I have been caught in the trap for
+"I have been caught in the trap for
 days without food. But I am too
 weak to hunt.
 Please would you give one of your
-children to me for breakfast?”
+children to me for breakfast?"
 Warthog was shocked.
-“I saved you from the trap and now
-you want to eat my children?”
+"I saved you from the trap and now
+you want to eat my children?"
 
 ##
-“I am very sorry my friend,” said
-Lion, “but I am starving.
+"I am very sorry my friend," said
+Lion, "but I am starving.
 I might be weak for now but I am
-stronger than you.”
+stronger than you."
 The lion opened his mouth and
 showed his strong yellow teeth.
-“If you do not give me one of your
-children, I will take one for myself,”
+"If you do not give me one of your
+children, I will take one for myself,"
 he roared.
 
 ##
@@ -98,11 +98,11 @@ Warthog knew that he did not have the speed or the
 strength of Lion.
 He would never be able to protect his children in a
 fight.
-“Al right,” said Warthog.
-“I will give you one of my children.
+"Al right," said Warthog.
+"I will give you one of my children.
 But first I want you to show me how you were caught
 in the trap.
-In case I have to save another lion from this trap.”
+In case I have to save another lion from this trap."
 
 ##
 Lion imagined the wonderful taste
@@ -113,34 +113,34 @@ his foot inside to show his friend
 how he was trapped.
 
 ##
-“Ouch!” Lion roared.
+"Ouch!" Lion roared.
 Warthog had closed the trap on
 Lion's foot.
-“Aha! I got you,” said Warthog.
-“You will stay in that trap hungry
+"Aha! I got you," said Warthog.
+"You will stay in that trap hungry
 and thirsty again.
 See if your strong teeth and sharp
-claws can help you now.”
+claws can help you now."
 
 ##
-“Run! Run! Run away!” Warthog's
+"Run! Run! Run away!" Warthog's
 wife shouted to the children at the
 top of her voice.
-“Raise your tails when you are
+"Raise your tails when you are
 running so that your father can see
-you,” she called.
+you," she called.
 The babies ran as fast as they could
 through the bushes.
 
 ##
-“Warthog please help me!” begged Lion again.
+"Warthog please help me!" begged Lion again.
 He was in pain from the sharp jaws of the hunter's
 trap.
-“I will do anything for you if you save me.”
-“No way, liar! I will never believe you again,” said
+"I will do anything for you if you save me."
+"No way, liar! I will never believe you again," said
 Warthog.
-“I will also warn other animals not to save you
-because you are very sly.”
+"I will also warn other animals not to save you
+because you are very sly."
 
 ##
 Warthog saw his children running in a row with their

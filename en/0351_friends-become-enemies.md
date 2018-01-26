@@ -31,10 +31,10 @@ carried it to his own granary.
 ##
 Hyena complained about the
 stolen crops. Hare answered,
-“Maybe the neighbours stole
+"Maybe the neighbours stole
 your maize. They are suffering
 from famine because they are
-lazy.”
+lazy."
 
 ##
 Hyena thought about this

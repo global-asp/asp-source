@@ -10,33 +10,33 @@ was the most important!
 ##
 The teacher said that he had
 the most important occupation.
-“Without teachers you could
-not go to school and learn.”
+"Without teachers you could
+not go to school and learn."
 
 ##
 The builder said that he had
 the most important occupation.
-“Without builders you would
+"Without builders you would
 not have schools to learn in
-or houses to sleep in.”
+or houses to sleep in."
 
 ##
 The carpenter said that he had
 the most important occupation.
-“Without carpenters you would
+"Without carpenters you would
 have no furniture for your
-houses and schools.”
+houses and schools."
 
 ##
 The doctor claimed that he had
 the most important occupation.
-“Without doctors and nurses
-you could get sick and die.”
+"Without doctors and nurses
+you could get sick and die."
 
 ##
 The farmer said that she had
 the most important occupation.
-“Without farmers you would
+"Without farmers you would
 you would not have food
 to eat."
 
@@ -44,10 +44,10 @@ to eat."
 The student argued that
 students had the most
 important work.
-“Without students, there
+"Without students, there
 would be no teachers,
 builders, doctors, farmers,
-or carpenters.”
+or carpenters."
 
 ##
 Eventually everyone agreed

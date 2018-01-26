@@ -85,7 +85,7 @@ back!
 As soon as they were
 there, the monkey
 climbed the tree and
-said, “Thank you for the
+said, "Thank you for the
 ride, my dear friend.
 Goodbye, now you can
 go home!" But the

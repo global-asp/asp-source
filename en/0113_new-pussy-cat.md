@@ -4,7 +4,7 @@
 Prosy wanted a pussy cat.
 
 ##
-Prosy’s family went to visit the pussy cats.
+Prosy's family went to visit the pussy cats.
 
 ##
 Prosy wanted this cat.

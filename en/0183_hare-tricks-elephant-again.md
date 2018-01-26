@@ -30,9 +30,9 @@ This upset Hare very much.
 
 ##
 One day Hare asked Elephant,
-“What makes you so good?”
+"What makes you so good?"
 Elephant quickly answered,
-“My big legs.”
+"My big legs."
 
 ##
 The next day,
@@ -47,26 +47,26 @@ Elephant was upset
 because he had never
 been defeated.
 So he asked Hare,
-“What makes you a
-good runner?”
+"What makes you a
+good runner?"
 Hare answered,
-“My thin legs.”
+"My thin legs."
 
 ##
 Without a second thought,
 Elephant asked what
 he could do to make
 his legs thin.
-Hare said, “It is simple,
-I will show you with fire.”
+Hare said, "It is simple,
+I will show you with fire."
 
 ##
-Hare said, “Put your legs
-in the fire.”
+Hare said, "Put your legs
+in the fire."
 Elephant stepped into
 the fire. He shouted,
-“I am burning! I am
-burning!”
+"I am burning! I am
+burning!"
 
 ##
 Hare was happy.

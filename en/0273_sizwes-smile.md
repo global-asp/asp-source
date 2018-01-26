@@ -5,18 +5,18 @@ It had been raining for days, and
 everyone was grumpy. Everyone
 except Sizwe, who woke up with a
 smile every morning.
-“Yoh! Sizwe! That smile is magic!”
+"Yoh! Sizwe! That smile is magic!"
 said Gogo.
-“Is it for me?”
+"Is it for me?"
 Sizwe clapped his hand over his
 mouth.
-“But it's MY smile, Gogo,” he
+"But it's MY smile, Gogo," he
 whispered.
 
 ##
-His mother laughed. “Sizwe! A smile
+His mother laughed. "Sizwe! A smile
 is something you can give away
-without losing it. Look!”
+without losing it. Look!"
 She lifted him up to the mirror.
 There was his smile, just as bright
 as before.
@@ -46,7 +46,7 @@ her favourite cousin.
 Zanele was so happy, that the smile
 bounced up, and beamed out at the
 postman.
-“Thank you, Mister Postman!” she
+"Thank you, Mister Postman!" she
 said.
 
 ##
@@ -69,15 +69,15 @@ tail. Then he turned and ran back to
 the house with the precious, warm
 smile.
 A bent old man opened the door.
-“Oh, no! You can't come inside.
-You're all wet!” he told the dog. But
+"Oh, no! You can't come inside.
+You're all wet!" he told the dog. But
 right away, the smile beamed up at
 the old man.
 
 ##
 The old man stood a little straighter.
-“Eish,” he said, “Who cares if it's
-raining? Let's go for a walk, boy!”
+"Eish," he said, "Who cares if it's
+raining? Let's go for a walk, boy!"
 And off they went, splashing in the
 puddles.
 There, at the zebra crossing, stood
@@ -85,7 +85,7 @@ grumpy Mrs Makabela, the traffic
 cop. She looked cold, and wet, and
 miserable.
 The old man knew just what to do.
-“Morning, Mrs Makabela!” he called,
+"Morning, Mrs Makabela!" he called,
 and smiled his biggest, brightest
 smile.
 But Mrs Makabela... did not smile
@@ -124,9 +124,9 @@ and laughing out loud in the rain.
 ##
 In the library, everything was quiet
 except for the sound of the rain.
-“It's time to go,” said Sizwe's
+"It's time to go," said Sizwe's
 mother, closing her book.
-“Aw, mom!” said Sizwe, who had
+"Aw, mom!" said Sizwe, who had
 run out of smiles.
 
 ##

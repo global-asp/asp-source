@@ -29,9 +29,9 @@ singing to them.
 
 ##
 "Where is Joe? Asked
-Jessica”
-“He is just late but he is
-coming.” Aunt Merane
+Jessica"
+"He is just late but he is
+coming." Aunt Merane
 said.
 
 ##

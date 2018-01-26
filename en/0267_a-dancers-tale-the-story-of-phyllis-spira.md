@@ -95,8 +95,8 @@ Reward comes easily,
 when you put yourself to the
 test.
 Phyllis came to realise this,
-once she was called ‘The Best.'
-She was awarded ‘Prima
+once she was called 'The Best.'
+She was awarded 'Prima
 Ballerina Assoluta.'
 The greatest dancer of them all!
 Phyllis would be forever known.

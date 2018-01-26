@@ -10,9 +10,9 @@ It was very noisy.
 ##
 One day, Ebei's
 mother said,
-“Tomorrow we will
+"Tomorrow we will
 go to town to buy
-your school uniform.”
+your school uniform."
 
 ##
 Ebei was very excited.
@@ -43,8 +43,8 @@ at the bus stop.
 They complained
 because the bus
 was late.
-“Has the bus
-left us?”
+"Has the bus
+left us?"
 they asked.
 
 ##
@@ -62,8 +62,8 @@ But Ebei cried and
 did not want to go.
 His mother
 comforted him.
-“We will wait
-a bit longer,” she said.
+"We will wait
+a bit longer," she said.
 
 ##
 Suddenly, they heard
@@ -82,10 +82,10 @@ looked at this bus.
 They did not get in.
 
 ##
-“Get in! Get in!”
+"Get in! Get in!"
 shouted the driver.
-“We are very late
-today,” he said.
+"We are very late
+today," he said.
 
 ##
 Ebei and his mother
@@ -110,13 +110,13 @@ The red bus left
 for town.
 
 ##
-“Where is the big
-blue bus?” asked
+"Where is the big
+blue bus?" asked
 Ebei's mother.
-“It broke down,”
+"It broke down,"
 replied the driver.
-“We are fixing it.
-It will come tomorrow,”
+"We are fixing it.
+It will come tomorrow,"
 he added.
 
 ##

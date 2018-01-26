@@ -12,22 +12,22 @@ they had cooked.
 One day, he was walking past
 Rabbit's house when he smelled
 something cooking.
-“Greens!” he said excitedly.
-“They're not quite ready yet,” said
-Rabbit. “You can help me with the
-washing up in the mean time.”
-“Sorry, I have things to do. I'll come
-back later,” said Anansi.
+"Greens!" he said excitedly.
+"They're not quite ready yet," said
+Rabbit. "You can help me with the
+washing up in the mean time."
+"Sorry, I have things to do. I'll come
+back later," said Anansi.
 
 ##
-“How will I call you when they're
-ready?” asked Rabbit.
+"How will I call you when they're
+ready?" asked Rabbit.
 Anansi thought for a minute.
-“I'll spin a web,” he said, “and tie
+"I'll spin a web," he said, "and tie
 one end around my leg and one end
 to your pot. When the greens are
 ready, pull on the web string and I'll
-come right away.”
+come right away."
 So Anansi tied the web to the pot,
 and walked on.
 
@@ -35,30 +35,30 @@ and walked on.
 A short while later he saw Monkey
 and his wife, cooking some beans in
 a large pot.
-“Come and join us!” they said. “The
-beans are nearly ready.”
-“Sorry, I have things to do,” said
+"Come and join us!" they said. "The
+beans are nearly ready."
+"Sorry, I have things to do," said
 Anansi before they could ask him to
 help.
-“But let me tie one end of this web
+"But let me tie one end of this web
 around my leg and one end to your
 pot. When the beans are ready, pull
-on the web string, and I'll come.”
+on the web string, and I'll come."
 
 ##
 He walked on until he smelled
 sweet potatoes.
-“Anansi,” called his friend Warthog.
-“My pot is full of sweet potatoes
+"Anansi," called his friend Warthog.
+"My pot is full of sweet potatoes
 and honey! Come and share my
 food with me. Here's a fork for you
-to help me stir.”
-“I'll come back later,” said Anansi
-quickly. “But let me tie one end of
+to help me stir."
+"I'll come back later," said Anansi
+quickly. "But let me tie one end of
 this web around my leg and one
 end to your pot. When the sweet
 potatoes are ready, pull on the web
-string, and I'll come.”
+string, and I'll come."
 
 ##
 By the time Anansi arrived at the
@@ -66,7 +66,7 @@ river, each of his eight legs was tied
 to a different pot of delicious food.
 Just then, Anansi felt a tug on one
 of his legs.
-“Rabbit's food is ready!” he said,
+"Rabbit's food is ready!" he said,
 licking his lips.
 
 ##
@@ -76,7 +76,7 @@ And a fourth, fifth, sixth, seventh,
 eighth...
 Everyone was pulling on the web
 strings at the same time!
-“Stop! Stop!” he cried in pain, as
+"Stop! Stop!" he cried in pain, as
 his legs were stretched thinner and
 thinner.
 But no one could hear him.

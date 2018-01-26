@@ -3,7 +3,7 @@
 ##
 Mother Sun decided to visit her sister, the moon.
 
-Sister Moon lives on the other side of the sky. “I will be back soon,” said Sun to the clouds.
+Sister Moon lives on the other side of the sky. "I will be back soon," said Sun to the clouds.
 
 ##
 When Sun left, the mountains put on their white scarves.
@@ -53,12 +53,12 @@ The clouds were very happy to see mother Sun again.
 They went away to play.
 
 ##
-Lots of little plants popped out of the earth to say, “Hello.”
+Lots of little plants popped out of the earth to say, "Hello."
 
 The whole world sparkled.
 
 ##
-Mother Sun shone her light everywhere.“I told you I would be back,” she beamed.
+Mother Sun shone her light everywhere."I told you I would be back," she beamed.
 
 ##
 * License: [CC-BY]

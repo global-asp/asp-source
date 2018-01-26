@@ -12,8 +12,8 @@ sick that he was almost dead.
 When he saw that his sickness
 was getting worse, Crocodile
 went to the nyabezi who said,
-“If you want to get better, you
-have to eat baboon meat.”
+"If you want to get better, you
+have to eat baboon meat."
 
 ##
 When he heard this, Crocodile
@@ -28,25 +28,25 @@ back and took him out to the
 deepest part of the river.
 
 ##
-Crocodile said, “The nyabezi
+Crocodile said, "The nyabezi
 told me that if I am to be healed
-I must eat you, my friend.”
+I must eat you, my friend."
 
 ##
-Then, Baboon replied, “No, my
+Then, Baboon replied, "No, my
 friend. Don't eat me. I'm too
 small. Wait a minute and I'll call
 my grandfather. He's bigger
 than me. Eat him and you'll be
-full.”
+full."
 
 ##
-Then Crocodile said, “Where is
-this grandfather of yours?”
-Baboon said, “He's in that tree,
-over on that island.” Crocodile
-said, “Go get him so that I may
-eat him.”
+Then Crocodile said, "Where is
+this grandfather of yours?"
+Baboon said, "He's in that tree,
+over on that island." Crocodile
+said, "Go get him so that I may
+eat him."
 
 ##
 Baboon jumped off Crocodile's

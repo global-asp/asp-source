@@ -8,7 +8,7 @@ found a fat hornbill.
 ##
 When I struck it with a
 catapult, it shouted
-“ŋaa, ŋaa, ŋa!”
+"ŋaa, ŋaa, ŋa!"
 
 ##
 The hornbill flew into

@@ -15,21 +15,21 @@ his home.
 Then Mairu also heard that there
 was another wedding in Nabuyanja
 village.
-“Ugh! ugh! ugh!Two parties on the
-same day!” Mairu imagined.
+"Ugh! ugh! ugh!Two parties on the
+same day!" Mairu imagined.
 
 ##
-“I must attend both parties,” ha ha
-ha said. “I will first walk to Bubaali
-then come back to Nabuyanja.”
+"I must attend both parties," ha ha
+ha said. "I will first walk to Bubaali
+then come back to Nabuyanja."
 
 ##
 Mairu woke up very early in the
 morning and walked to Bubaali
 village. He looked around and saw
 that the party had not yet started.
-“I will go back to Nabuyanja and
-return to Bubaali later,” Mairu
+"I will go back to Nabuyanja and
+return to Bubaali later," Mairu
 suggested to him self, yes! yes!
 hope i will not be late.
 
@@ -42,9 +42,9 @@ and women were still preparing the
 food.
 
 ##
-“I left cooks at Bubaali preparing to
-cook,” he thought. “The food must
-be ready now.” Mairu decided to
+"I left cooks at Bubaali preparing to
+cook," he thought. "The food must
+be ready now." Mairu decided to
 walk back to Nabuyanja under hot
 sunshine , i will not loose hope he
 added!

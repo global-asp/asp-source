@@ -11,8 +11,8 @@ I am the one who lets in
 the sun.
 
 ##
-“You're my morning
-star,” says Ma.
+"You're my morning
+star," says Ma.
 
 ##
 I wash myself, I don't
@@ -37,7 +37,7 @@ day.
 
 ##
 Then I dress myself,
-“I'm big now Ma,” I say.
+"I'm big now Ma," I say.
 
 ##
 I can close my buttons

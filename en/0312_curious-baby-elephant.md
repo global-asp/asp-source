@@ -21,40 +21,40 @@ every animal.
 ##
 She was curious about
 Giraffe.
-“Why do you have a
-long neck?” she asked.
+"Why do you have a
+long neck?" she asked.
 
 ##
 She was curious about
 Rhino.
-“Why does your horn
-have a sharp point?”
+"Why does your horn
+have a sharp point?"
 
 ##
 She was curious about
 Hippo.
-“Why do you have red
-eyes?” she asked.
+"Why do you have red
+eyes?" she asked.
 
 ##
 And she was VERY
 curious about Crocodile.
-“What does Crocodile
-eat for dinner?”
+"What does Crocodile
+eat for dinner?"
 
 ##
-“Never ask a question
-like that!” said her
+"Never ask a question
+like that!" said her
 mother.
 She walked off,
 frowning.
 
 ##
 But clever Crow quickly
-said, “Follow me to the
+said, "Follow me to the
 river. There you will see
 what Crocodile eats for
-dinner.”
+dinner."
 
 ##
 So Baby Elephant
@@ -70,26 +70,26 @@ water.
 Where was Crocodile?
 
 ##
-“Hello,” said a stone
+"Hello," said a stone
 near the river bank.
-“Hello,” said Baby
+"Hello," said Baby
 Elephant.
-“Perhaps you can tell
+"Perhaps you can tell
 me what Crocodile eats
-for dinner?”
+for dinner?"
 
 ##
-“Bend down and I will
-tell you,” said the
-stone. “Lower, lower...”
+"Bend down and I will
+tell you," said the
+stone. "Lower, lower..."
 So Baby Elephant bent
 down lower, until...
 
 ##
-“Snap!” Her nose was
+"Snap!" Her nose was
 in the jaws of Crocodile.
-“Crocodile will eat you
-for dinner!” squawked
+"Crocodile will eat you
+for dinner!" squawked
 Crow.
 
 ##
@@ -105,7 +105,7 @@ Baby Elephant's nose
 stretched, and
 stretched, and
 stretched, until...
-“Duuffff!” she fell on
+"Duuffff!" she fell on
 her back.
 
 ##

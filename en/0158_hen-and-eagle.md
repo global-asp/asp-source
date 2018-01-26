@@ -11,18 +11,18 @@ One day, there was famine in
 the land. Eagle had to walk very
 far to find food. She came back
 very tired.
-“There must be an easier way
-to travel!” said Eagle.
+"There must be an easier way
+to travel!" said Eagle.
 
 ##
 After a good night's sleep, Hen
 had a brilliant idea. She began
 collecting the fallen feathers
 from all their bird friends.
-“Let's sew them together on top
-of our own feathers,” she said.
-“Perhaps that will make it easier
-to travel.”
+"Let's sew them together on top
+of our own feathers," she said.
+"Perhaps that will make it easier
+to travel."
 
 ##
 Eagle was the only one in the
@@ -68,14 +68,14 @@ needle was nowhere to be
 found.
 
 ##
-“Just give me a day,” Hen
-begged Eagle. “Then you can
+"Just give me a day," Hen
+begged Eagle. "Then you can
 fix your wing and fly away to
-get food again.”
-“Just one more day,” said Eagle.
-“If you can't find the needle,
+get food again."
+"Just one more day," said Eagle.
+"If you can't find the needle,
 you'll have to give me one of
-your chicks as payment.”
+your chicks as payment."
 
 ##
 When Eagle came the next day,
@@ -92,10 +92,10 @@ needle.
 ##
 As the shadow of Eagle's wing
 falls on the ground, Hen warns
-her chicks. “Get out of the bare
-and dry land.”
+her chicks. "Get out of the bare
+and dry land."
 And they respond:
-“We are not fools. We will run.”
+"We are not fools. We will run."
 
 ##
 * License: [CC-BY]

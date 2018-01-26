@@ -14,7 +14,7 @@ bride price for the princess.
 ##
 Near king Kayanja's palace lived a
 chief called Aludah the Great. He
-was called “the Great” because
+was called "the Great" because
 everybody in the neighbourhood
 obeyed him. (He was very violent to
 anyone who disobeyed him!)
@@ -47,19 +47,19 @@ not be happy with this decision.
 One week before the royal wedding
 day, maid Kakembo approached
 Apenyo.
-“My dear princess, your father has
+"My dear princess, your father has
 organised your wedding with Chief
 Aludah, and it will take place in one
-week,” said Kakembo.
+week," said Kakembo.
 
 ##
 Princess Apenyo was shocked and
 at first didn't know what to do. Then
-she thought, “I will never marry
+she thought, "I will never marry
 chief Aludah, that fat old man.
 Never! I must hurry to Trevor and
 see what he can do before it's too
-late.”
+late."
 Trevor was princess Apenyo's
 boyfriend.
 
@@ -75,36 +75,36 @@ she arrived at his house she was
 tired, hungry, and thirsty.
 
 ##
-“My love, why have you run all this
+"My love, why have you run all this
 long distance alone and at such a
-time of night?” asked Trevor. He
+time of night?" asked Trevor. He
 fetched drinking water for her and
 allowed her to rest.
 Trevor could not settle down while
 he waited for Apenyo to talk.
 
 ##
-“My dear princess, what is the
-problem?” asked Trevor.
+"My dear princess, what is the
+problem?" asked Trevor.
 Apenyo breathed heavily and said
-sadly, “My father wants to marry
+sadly, "My father wants to marry
 me off to chief Aludah the Great.
 But I can't marry that horrible man.
 Trevor, I want to marry you even if
 you are poor. I am ready to suffer. I
-love you.”
+love you."
 
 ##
-“But princess, I have nothing to pay
+"But princess, I have nothing to pay
 as your bride price, you know I'm a
-poor boy.” cried Trevor.
-Apenyo replied, “I know, but it's
-only you I can get married to.”
+poor boy." cried Trevor.
+Apenyo replied, "I know, but it's
+only you I can get married to."
 She thought for a while and said,
-“Let's go to Kategga the boat man
+"Let's go to Kategga the boat man
 to sail us to the other side of the
 river. That way we can escape and
-my father will never find us.”
+my father will never find us."
 
 ##
 Back at the palace, king Kayanja
@@ -117,8 +117,8 @@ everyone else searched, but they
 couldn't find Princess Apenyo.
 They went back to the King and told
 him Apenyo was nowhere to be
-seen. “Then go to the bush and
-search,” King Kayanja ordered. He
+seen. "Then go to the bush and
+search," King Kayanja ordered. He
 was very annoyed.
 
 ##
@@ -164,10 +164,10 @@ escaped.
 ##
 Heavy winds rocked the boat and
 Kategga could no longer control it.
-King Kayanja shouted: “Apenyo,
+King Kayanja shouted: "Apenyo,
 please come back! I have forgiven
 you and will never punish you or
-Trevor.”
+Trevor."
 But it was too late. The boat tipped
 over and the three people were
 thrown into the wild water. They all

@@ -42,12 +42,12 @@ became greener than
 ever before.
 
 ##
-People sang, “Long live
+People sang, "Long live
 Baraka, long live
-Baraka.” “May our
+Baraka." "May our
 children and children's
 children forever respect
-River Temu.”
+River Temu."
 
 ##
 * License: [CC-BY]

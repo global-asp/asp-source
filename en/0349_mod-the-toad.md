@@ -1,23 +1,23 @@
 # Mod the Toad
 
 ##
-It was a cold and wet morning in the forest. Mod the little toad was tired of swimming in cold water.“I need to leave this place during the rainy season,” she said to herself.
+It was a cold and wet morning in the forest. Mod the little toad was tired of swimming in cold water."I need to leave this place during the rainy season," she said to herself.
 
 ##
-“I want an adventure,” said Mod to the terrapin. "I must find out about the world.”“Be careful, don’t leave the water for too long or your skin will dry out,” warned the wise terrapin. 
+"I want an adventure," said Mod to the terrapin. "I must find out about the world.""Be careful, don't leave the water for too long or your skin will dry out," warned the wise terrapin. 
 
 At that time, toads still had smooth wet skin like frogs. Without water, their skins would become too dry. 
 
 ##
-But Mod the toad was curious. “I must find out, I must go beyond the forest,” she said.
+But Mod the toad was curious. "I must find out, I must go beyond the forest," she said.
 
 Mod hopped out of the water. Hop, hop, she went, away from the river. She had fun jumping over the rocks, across grass, and past trenches.
 
 ##
-She heard the sound of an airplane. Mod looked up into the sky. “What is up there?” she asked, “I wonder if the clouds are talking.” But no one answered her.
+She heard the sound of an airplane. Mod looked up into the sky. "What is up there?" she asked, "I wonder if the clouds are talking." But no one answered her.
 
 ##
-Mod carried on her way. She met a chameleon for the first time. He was next to a large puddle of water. “Hello, I am on my way to dry land for adventure. What can you tell me?” she asked.“Nothing much stranger. It rains here too. Lots of rain and lots of flies,” replied the chameleon.
+Mod carried on her way. She met a chameleon for the first time. He was next to a large puddle of water. "Hello, I am on my way to dry land for adventure. What can you tell me?" she asked."Nothing much stranger. It rains here too. Lots of rain and lots of flies," replied the chameleon.
 
 ##
 As Chameleon was talking, his body changed colour. Mod got a fright. She quickly said goodbye to Chameleon and hopped into a nearby bush.
@@ -42,7 +42,7 @@ So the little toad found a cool, dark place under a rock and sadly made a new ho
 ##
 This is why toads have dry rough skin, and can live away from water.
 
-Frogs still have smooth wet skin and need to stay where it’s wet.
+Frogs still have smooth wet skin and need to stay where it's wet.
 
 ##
 * License: [CC-BY]

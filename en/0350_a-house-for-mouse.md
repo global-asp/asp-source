@@ -8,30 +8,30 @@ house.
 This looks like a nice house.
 
 ##
-“You can come and sleep with
-me,” said Puppy.
+"You can come and sleep with
+me," said Puppy.
 
-“Thank you,” said Mouse.
+"Thank you," said Mouse.
 
 ##
 That night, Mouse's dreams
 were bouncy and muddy.
 
 ##
-“You can come and sleep with
-me,” said Parrot.
+"You can come and sleep with
+me," said Parrot.
 
-“Thank you,” said Mouse.
+"Thank you," said Mouse.
 
 ##
 That night, Mouse's dreams
 were noisy and wild.
 
 ##
-“You can come and sleep with
-me,” said Fish.
+"You can come and sleep with
+me," said Fish.
 
-“Thank you,” said Mouse.
+"Thank you," said Mouse.
 
 ##
 That night, Mouse's dreams

@@ -10,18 +10,18 @@ able to walk.
 ##
 One day Hyena, curious to know
 something about his friend, asked
-Raven, “What is this white thing
-which is always below your neck?”
+Raven, "What is this white thing
+which is always below your neck?"
 
-Raven answered, “It is the fatty meat which I usually eat in the sky.
-I have been eating it for so long now it is stuck on my neck.”
+Raven answered, "It is the fatty meat which I usually eat in the sky.
+I have been eating it for so long now it is stuck on my neck."
 On hearing about meat, saliva started pouring out of Hyena's
 mouth for he was greedy and he loved meat very much.
 Hyena really wanted to eat that meat. But how could he reach the
 meat in the sky if he had no wings to fly?
-“Please my friend,” he asked Raven, “lend me some feathers so
+"Please my friend," he asked Raven, "lend me some feathers so
 that I can make myself some wings. I really want to be able to fly
-like you.”
+like you."
 
 ##
 Raven was not mean, so he gave
@@ -35,12 +35,12 @@ few feathers to carry him.
 So he had to think of another plan.
 
 ##
-“Please my friend,” he asked Raven,
-“could I hold onto your tail as you
-fly up into the sky?”
-“All right,” said Raven. “I know how
+"Please my friend," he asked Raven,
+"could I hold onto your tail as you
+fly up into the sky?"
+"All right," said Raven. "I know how
 much you want to fly. Let's do it
-tomorrow morning.”
+tomorrow morning."
 When day came, Hyena took hold of
 Raven's tail and Raven flew up into
 the sky.
@@ -48,7 +48,7 @@ the sky.
 ##
 Raven flew and flew and flew until
 he was exhausted. But Hyena said,
-“Just a little further, my friend!”
+"Just a little further, my friend!"
 He could see the white and fatty
 meat just above them, and his
 mouth was watering.
@@ -72,12 +72,12 @@ middle of nowhere in the sky.
 He jumped onto the fatty meat
 thinking that as he ate, the fatty
 meat would hold him. But as he
-tried to hold and eat the ‘meat', all
+tried to hold and eat the 'meat', all
 he felt was moist cloud!
 
 ##
-By now he was falling fast. “Help,
-help!” he shouted.
+By now he was falling fast. "Help,
+help!" he shouted.
 But no one could hear him. Raven
 was lost in the clouds.
 

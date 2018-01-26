@@ -44,7 +44,7 @@ They found Nyar-Kanyada, their
 grandmother, resting on a mat
 under a tree.
 Nyar-Kanyada in Luo, means
-‘daughter of the people of
+'daughter of the people of
 Kanyada'.
 She was a strong and beautiful
 woman.
@@ -57,9 +57,9 @@ joy.
 Her grandchildren were excited
 to give her the presents they
 brought from the city.
-“First open my gift,” said
+"First open my gift," said
 Odongo.
-“No, my gift first!” said Apiyo.
+"No, my gift first!" said Apiyo.
 
 ##
 After she opened the presents,
@@ -150,10 +150,10 @@ them, they did not want to
 leave.
 The children begged Nyar-Kanyada to go with them to the
 city.
-She smiled and said, “I am too
+She smiled and said, "I am too
 old for the city. I will be waiting
 for you to come to my village
-again.”
+again."
 
 ##
 Odongo and Apiyo both hugged

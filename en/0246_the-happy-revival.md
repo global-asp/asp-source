@@ -69,12 +69,12 @@ than ever before. The deer galloped
 happily once more across the grass.
 
 ##
-“Long live Baraka, long live
-Baraka,” the people of Kwere sang.
-“Long live Olokwango," said Baraka
-and his people. “May our children
+"Long live Baraka, long live
+Baraka," the people of Kwere sang.
+"Long live Olokwango," said Baraka
+and his people. "May our children
 and children's children forever
-respect you.”
+respect you."
 
 ##
 * License: [CC-BY]

@@ -1,16 +1,16 @@
-# How tortoise’s nose became crooked
+# How tortoise's nose became crooked
 
 ##
 Once upon a time,
 
 Tortoise and Squirrel were very close friends.
 
-One day, Squirrel said to Tortoise, “My friend, we have no money, but market day is getting close.
+One day, Squirrel said to Tortoise, "My friend, we have no money, but market day is getting close.
 
-What business can we do to make some money?”
+What business can we do to make some money?"
 
 ##
-Tortoise responded, “You know I can make clay plates. I want you to join me in making plates to sell.” “Okay my friend, tomorrow evening I will join you to make the plates,” Squirrel said.
+Tortoise responded, "You know I can make clay plates. I want you to join me in making plates to sell." "Okay my friend, tomorrow evening I will join you to make the plates," Squirrel said.
 
 ##
 On the day of the market,
@@ -25,7 +25,7 @@ When Tortoise got there, he saw that it was his friend Squirrel fighting with Mo
 ##
 Immediately, without finding out what caused the fight,
 
-Tortoise took a big stick and began to beat Mole. “Leave my friend alone!” shouted Tortoise.
+Tortoise took a big stick and began to beat Mole. "Leave my friend alone!" shouted Tortoise.
 
 ##
 Mole turned to face
@@ -33,7 +33,7 @@ Mole turned to face
 Tortoise and bit him deeply on the nose.
 
 ##
-Tortoise’s nose began to bleed.
+Tortoise's nose began to bleed.
 
 ##
 Tortoise had impatiently entered into the fight.

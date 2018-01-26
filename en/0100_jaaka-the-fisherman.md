@@ -30,17 +30,17 @@ Was it a loss? He's so
 sad.
 
 ##
-“Today the situation is
+"Today the situation is
 bad. The Nile breeze did
 not permit me to fish.
 And one perch swam
-away with my hook.”
+away with my hook."
 
 ##
-“But I have hope that
+"But I have hope that
 tomorrow will be good,
 because I've bought a
-new hook.”
+new hook."
 
 ##
 * License: [CC-BY]

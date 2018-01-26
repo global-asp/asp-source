@@ -11,13 +11,13 @@ Then he sat down to eat them up.
 ##
 Just as Anansi was about to put the
 first bite in his mouth, he heard a
-knock on his door. “Oh, no!”
-thought Anansi. “Who can that be?”
+knock on his door. "Oh, no!"
+thought Anansi. "Who can that be?"
 But he opened the door.
 There was Turtle, who looked very
-tired. Turtle said, “Anansi, please let
+tired. Turtle said, "Anansi, please let
 me in. I've walked so far today, and
-I'm so tired and hungry.”
+I'm so tired and hungry."
 So what could Anansi do but let him
 in?
 
@@ -28,10 +28,10 @@ anybody else. So he came up with a
 nasty plan.
 Just as Turtle sat down at the table
 and began to reach for some yams,
-Anansi yelled at him, “Turtle, your
+Anansi yelled at him, "Turtle, your
 hands are all dirty! You can't eat
 with your hands all dirty! Go wash
-them.”
+them."
 Turtle's hands really were dirty. So
 he slowly crawled to the river,
 washed his hands, and then crawled
@@ -42,10 +42,10 @@ But meanwhile Anansi had started
 gobbling up the yams. By the time
 Turtle got back, he saw that the
 yams were all gone.
-Turtle looked at Anansi. “Thank you
+Turtle looked at Anansi. "Thank you
 for inviting me to dinner. If you're
 ever near my house, please come
-by and let me return the favour,”
+by and let me return the favour,"
 said Turtle.
 And Turtle began crawling slowly
 away to his house.
@@ -62,10 +62,10 @@ going down over the river. Turtle
 was lying on a rock in the sun,
 warming himself up, as turtles do.
 When Turtle saw Anansi, he said,
-“Hello there, Anansi, have you
-come to have dinner with me?”
-And Anansi said, “Yes, that would
-be very nice, thank you.” He was
+"Hello there, Anansi, have you
+come to have dinner with me?"
+And Anansi said, "Yes, that would
+be very nice, thank you." He was
 getting hungrier and hungrier.
 
 ##
@@ -75,8 +75,8 @@ dinner and get everything ready.
 Anansi waited on the rocks by the
 shore.
 Soon Turtle swam back up and said,
-“Oh Anansi, it is all ready now,
-please join me for dinner.” And
+"Oh Anansi, it is all ready now,
+please join me for dinner." And
 Turtle dived down again and began
 to eat the green leaves he had for
 dinner.
@@ -106,13 +106,13 @@ watering.
 ##
 But just as Anansi was reaching for
 some of that delicious food, Turtle
-stopped him. “Anansi, surely you're
+stopped him. "Anansi, surely you're
 not going to eat dinner with your
 coat on? That's not how we do
-things at my house.”
-Anansi, without thinking, said, “Oh,
+things at my house."
+Anansi, without thinking, said, "Oh,
 of course you're right, Turtle, what
-was I thinking?” He took off his
+was I thinking?" He took off his
 coat.
 
 ##

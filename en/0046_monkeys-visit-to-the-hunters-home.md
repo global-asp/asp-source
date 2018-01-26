@@ -12,7 +12,7 @@ The pain of having miscarriages
 made Monkey jump up and down all
 the time.
 She would jump from one tree to
-another saying “Kau! Kau! Kau!”
+another saying "Kau! Kau! Kau!"
 
 ##
 Monkey was always lonely.
@@ -60,7 +60,7 @@ and fed it.
 
 ##
 The three boys sang:
-“Baby monkey
+"Baby monkey
 you will not fall down
 we love you baby monkey x2
 The monkey was thrown up and the
@@ -79,9 +79,9 @@ were throwing it up .
 The kind woman came and saw
 young boys playing with the baby
 monkey.
-She said politely to them, “Be
+She said politely to them, "Be
 careful! Bring it here. You will break
-it!”
+it!"
 
 ##
 She took the baby monkey in her

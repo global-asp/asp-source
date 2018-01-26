@@ -22,10 +22,10 @@ anyone. But they heard a voice
 greeting them.
 
 ##
-The voice said, “I am a louse.
+The voice said, "I am a louse.
 Open the pot and have food.
 Open the earthenware pot and
-drink amahewu.”
+drink amahewu."
 
 ##
 Then the louse put on its skin
@@ -39,9 +39,9 @@ They left the house.
 ##
 As they left, they had a bad
 thought.
-They said, “No, it couldn't
+They said, "No, it couldn't
 happen that we had food from a
-louse.”
+louse."
 Eventually they agreed to go
 back and crush the louse.
 

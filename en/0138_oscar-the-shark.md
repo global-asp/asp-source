@@ -11,16 +11,16 @@ carrots.
 
 ##
 Johnnie the seahorse
-says, “Oscar, eat your
-carrots!”
+says, "Oscar, eat your
+carrots!"
 
 ##
 But Oscar does not like
 the taste of carrots.
 
 ##
-“Carrots will help you to
-see better,” says
+"Carrots will help you to
+see better," says
 Johnnie.
 
 ##
@@ -31,8 +31,8 @@ for Dr Shakes.
 
 ##
 Dr Shakes says,
-“Glasses will help you
-to see better.”
+"Glasses will help you
+to see better."
 
 ##
 Oscar does not want to

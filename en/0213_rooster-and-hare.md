@@ -26,21 +26,21 @@ whole night.
 ##
 In the morning, Hare wanted to
 know Rooster's secret.
-“Where do you put your heads
-at night?” he asked.
+"Where do you put your heads
+at night?" he asked.
 
 ##
 Rooster decided to play a joke
 on Hare.
-He said, “My friend, we birds
+He said, "My friend, we birds
 have a secret for going to sleep.
 At bedtime, we chop off our
 heads. Without heads, we sleep
-very well.”
+very well."
 
 ##
-“Then in the morning, we put
-our heads back on,” explained
+"Then in the morning, we put
+our heads back on," explained
 Rooster.
 
 ##

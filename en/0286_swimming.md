@@ -6,14 +6,14 @@ lived two friends,
 Tortoise and Snake.
 
 ##
-On day Tortoise said to Snake, “Let us go and swim.”
-“Alright, but I don't know to swim,” answered Snake.
-“I will teach you,” replied Tortoise.
+On day Tortoise said to Snake, "Let us go and swim."
+"Alright, but I don't know to swim," answered Snake.
+"I will teach you," replied Tortoise.
 
 ##
-They went to a swimming pool. “Who will enter the water
-first?” asked Tortoise.
-“You will, and I will watch you,” said Snake.
+They went to a swimming pool. "Who will enter the water
+first?" asked Tortoise.
+"You will, and I will watch you," said Snake.
 
 ##
 Tortoise entered the swimming pool. Snake observed from

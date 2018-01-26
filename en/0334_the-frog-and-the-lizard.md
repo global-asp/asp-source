@@ -22,9 +22,9 @@ frog to pay a visit to him at his
 home on the tree.
 
 ##
-‘'I cannot climb a tree'' a frog
-explained to his friend,” I will help
-you to climb” answered the lizard.
+''I cannot climb a tree'' a frog
+explained to his friend," I will help
+you to climb" answered the lizard.
 
 ##
 They then agreed to a certain date,
@@ -36,7 +36,7 @@ rope onto the frog's tail.
 
 ##
 He started pulling the frog upwards
-the tree .the frog cried out “am
+the tree .the frog cried out "am
 feeling a lot of pain, the lizard
 however, continued pulling the
 rope upwards the frog's tail got

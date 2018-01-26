@@ -18,11 +18,11 @@ take him to the place where he
 bought them.
 
 ##
-Hare said to Elephant, “You
+Hare said to Elephant, "You
 should get a better pair than
 mine, that way you can show
 off to the whole village and
-make others jealous.”
+make others jealous."
 Elephant was so excited.
 Hare and Elephant agreed to
 meet the next day at Hare's
@@ -31,34 +31,34 @@ home.
 ##
 The following day, Elephant
 went to Hare's house.
-Hare said to him, “Welcome my
+Hare said to him, "Welcome my
 friend, come in so we can get
 you the best pair of shoes that
-no one else has.”
+no one else has."
 
 ##
 Elephant was surprised and
-said, “Excuse me my friend, I
+said, "Excuse me my friend, I
 thought we were going to the
-market to buy the shoes?”
+market to buy the shoes?"
 Hare answered and said,
-“Elephant, do you want the
+"Elephant, do you want the
 shoes or is it the market that
-you want to see?”
+you want to see?"
 
 ##
 Elephant calmed down and
-said, “Of course I want shoes.
+said, "Of course I want shoes.
 I did not sleep last night
 because I was thinking of my
-new shoes all the time.”
+new shoes all the time."
 
 So Hare led Elephant to the
 back of the house where he had
 lit a huge fire.
-Hare said to Elephant, “Stand in
+Hare said to Elephant, "Stand in
 the fire so that the shoes can
-start forming.”
+start forming."
 
 ##
 Because Elephant was eager to
@@ -74,15 +74,15 @@ As the pain increased, Elephant
 started to cry.
 
 ##
-Hare said to Elephant, “Stop
+Hare said to Elephant, "Stop
 crying otherwise the shoes will
-be ugly.”
+be ugly."
 Elephant quietened down a
 little but the pain increased.
 While tears rolled down
 Elephant's face, Hare secretly
-laughed and said, “Stop crying
-if you want the shoes.”
+laughed and said, "Stop crying
+if you want the shoes."
 
 ##
 When the pain was too much to
@@ -96,10 +96,10 @@ He lay down roaring with pain.
 ##
 Hare went close to Elephant's
 ear and whispered,
-“You were so close to having
+"You were so close to having
 the most beautiful pair of
 shoes, but now you cannot have
-them.”
+them."
 
 ##
 It was many months before

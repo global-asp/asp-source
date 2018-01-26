@@ -5,7 +5,7 @@ Basetsana Makgalemele was born
 in a township called Soweto. She
 was her parents' third daughter.
 They named her Basetsana, which
-means “girls”. In Tswana culture,
+means "girls". In Tswana culture,
 calling your daughter that means
 your next child will be a boy. This
 actually happened. Her parents'
@@ -21,7 +21,7 @@ One day at school netball practice,
 the coach told two girls to pick
 teams. Bassie stood on the edge of
 the field hoping someone would
-say, “Come play with us!” But
+say, "Come play with us!" But
 nobody wanted her on their team.
 Little did they know, Bassie would
 become one of the most popular
@@ -79,8 +79,8 @@ competition!
 ##
 Bassie's mother was her role model.
 Bassie described her mom as a
-“fierce, hardworking Xhosa woman
-who did not suffer fools”. She was a
+"fierce, hardworking Xhosa woman
+who did not suffer fools". She was a
 teacher and Bassie had plans to
 follow in her footsteps, but things
 don't always go as planned! After
@@ -94,8 +94,8 @@ was now a successful business
 woman.
 
 ##
-Bassie's motto is: “To whom much
-is given, much is expected.” She
+Bassie's motto is: "To whom much
+is given, much is expected." She
 believes that you are given a gift so
 that you can give to others. Bassie
 does this by volunteering, giving of
@@ -112,7 +112,7 @@ with Nelson Mandela. When she was
 crowned Miss South Africa, Madiba
 wrote her a letter of
 congratulations. In the letter, he
-called her “our Queen”. They shared
+called her "our Queen". They shared
 a passion for children and education
 and the belief that an educated
 nation can help fight poverty.
@@ -135,14 +135,14 @@ Basetsana Women Investment
 Holdings. She and Romeo have
 three children, two boys and a girl.
 Bassie sees her role as mother to
-her children as her “highest calling
-and greatest privilege”.
+her children as her "highest calling
+and greatest privilege".
 
 ##
 Bassie says the secret to her
-success is “courage, determination,
+success is "courage, determination,
 passion and staying committed to
-the course”. Despite all her
+the course". Despite all her
 success, she remains humble while
 trying to make the world a better
 place.

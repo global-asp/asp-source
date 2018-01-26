@@ -35,12 +35,12 @@ him.
 
 ##
 The man took up his
-spear, shouting, “If you
+spear, shouting, "If you
 want to eat me, then I
-will spear you.” The lion
-woke up and ran out, “I
+will spear you." The lion
+woke up and ran out, "I
 said this man will one
-day kill me.”
+day kill me."
 
 ##
 From that day, the lion

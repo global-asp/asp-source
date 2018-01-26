@@ -33,10 +33,10 @@ She lets the children watch television at her shop.
 She visits the sick and the elderly in their homes.
 
 ##
-When she passes, there are shouts of “Ms Phone! Ms Phone!”
+When she passes, there are shouts of "Ms Phone! Ms Phone!"
 
 ##
-Then she feels happy and says, “I am Ms Phone. Here, look at my phones!”
+Then she feels happy and says, "I am Ms Phone. Here, look at my phones!"
 
 That is Ms Phone and her five cellphones.
 

@@ -25,9 +25,9 @@ spiders and snakes too.
 But Akai was never in danger of
 being bitten by these
 dangerous creatures.
-Her mother said, “Her special
+Her mother said, "Her special
 mat protects Akai from any
-harm.”
+harm."
 
 ##
 Akai was a clever child.

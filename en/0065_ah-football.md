@@ -24,25 +24,25 @@ friends playing football.
 ##
 I wanted to play the ball
 very much.
-I said, “Ah! Football.”
+I said, "Ah! Football."
 
 ##
-I said to Chuma, “Let's
+I said to Chuma, "Let's
 go and ask them to let
 us play with them. I like
 playing football very
-much.”
+much."
 
 ##
-Chuma replied, “Let us
+Chuma replied, "Let us
 go to the shop first then
-we can come to play.”
+we can come to play."
 
 ##
-But I told Chuma, “Let
+But I told Chuma, "Let
 us play first! If we go
 home, grandmother will
-not allow us.”
+not allow us."
 
 ##
 Our friends allowed us
@@ -67,10 +67,10 @@ After the game, we
 went to the shop but we
 had lost the money.
 I started to cry.
-Chuma said, “Stop
+Chuma said, "Stop
 crying. You wanted us
 to play before going to
-the shop.”
+the shop."
 
 ##
 We returned home
@@ -84,14 +84,14 @@ Grandmother was very
 annoyed when we
 reached home.
 The first question she
-asked us was, “Where
-were you all this time?”
+asked us was, "Where
+were you all this time?"
 
 ##
 She forgave us but
 warned us, "Never go to
 play again without
-permission.”
+permission."
 
 ##
 We quickly went to feed

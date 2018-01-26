@@ -22,10 +22,10 @@ them. The needle fell out of his
 pocket and got lost.
 When he reached home he told his
 mother what had happened.
-“My child,” said his mother, “next
+"My child," said his mother, "next
 time put the needle on a piece of
-paper.”
-“Yes mother, I understand,” replied
+paper."
+"Yes mother, I understand," replied
 Kisirusiru.
 
 ##
@@ -34,10 +34,10 @@ remembered what his mother said, and wrapped the pot in a piece
 of paper to carry it back home.
 But on the way the paper got torn and the pot fell down and broke
 into pieces, spilling the water on the ground.
-When he got home, his mother patiently explained, “My child, next
+When he got home, his mother patiently explained, "My child, next
 time put the pot on your head. Then you'll be able to carry it
-without spilling.”
-“Yes mother, I understand,” said Kisirusiru.
+without spilling."
+"Yes mother, I understand," said Kisirusiru.
 
 ##
 
@@ -51,11 +51,11 @@ head.
 The goat kicked and scratched
 Kisirusiru's head. Soon blood was
 pouring down his face.
-“When will you stop your stupidity?”
+"When will you stop your stupidity?"
 said his father, exasperated.
-“Goats are tied and pulled with
+"Goats are tied and pulled with
 ropes! If you can't behave properly,
-you'll have to leave this house.”
+you'll have to leave this house."
 
 ##
 The next day, the man sent his son

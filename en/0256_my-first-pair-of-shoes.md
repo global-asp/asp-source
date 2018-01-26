@@ -7,11 +7,11 @@ nice shoes, I would look at them
 with longing.
 
 ##
-My mother would say, “You will
+My mother would say, "You will
 have many pairs in the future,
-just wait!”
+just wait!"
 Sometimes I did not believe her.
-“When is the future?” I asked
+"When is the future?" I asked
 her one day.
 
 ##
@@ -20,8 +20,8 @@ Christmas.
 Everybody was busy going to
 the market and coming back
 with bags of new things.
-“Mother, are we going to the
-market?” I asked her.
+"Mother, are we going to the
+market?" I asked her.
 
 ##
 The day before Christmas, my
@@ -84,8 +84,8 @@ I decided to get back into bed.
 
 ##
 The following morning, I was
-woken by my mother. “What is
-this I see?” she asked.
+woken by my mother. "What is
+this I see?" she asked.
 
 ##
 I was wearing my new shoes in

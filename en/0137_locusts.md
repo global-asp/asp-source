@@ -14,7 +14,7 @@ We tried to chase the locusts away.
 But they would not go.
 
 ##
-We made noises and screamed, “Wuwi, wuwi!”
+We made noises and screamed, "Wuwi, wuwi!"
 
 But the locusts would not go.
 
@@ -52,9 +52,9 @@ But still, there were so many locusts.
 Then, the next morning, the locusts flew away. The cloud left our village.
 
 ##
-When the farmers saw their farms, they moaned loudly: “Our farms are destroyed!”
+When the farmers saw their farms, they moaned loudly: "Our farms are destroyed!"
 
-The villagers cried, “What will we eat this year? What have the locusts left us?”
+The villagers cried, "What will we eat this year? What have the locusts left us?"
 
 ##
 * License: [CC-BY]

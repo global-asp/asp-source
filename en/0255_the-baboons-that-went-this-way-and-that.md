@@ -27,8 +27,8 @@ floor of the caves.
 Other families noticed how well the hill family was doing. They saw
 the sleekness of their children, and they noticed how calm the
 parents were.
-“It is a good life that we lead up in the hills,” said the husband.
-“You should come there too.”
+"It is a good life that we lead up in the hills," said the husband.
+"You should come there too."
 Soon the other families abandoned their homes on the flat land
 and went up to the hills. Each family found a cave to live in, and in
 this way they were warm and secure. Soon everybody talked about

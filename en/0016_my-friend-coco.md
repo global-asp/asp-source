@@ -12,14 +12,14 @@ I knew I had a friend.
 ##
 After putting him down, my
 uncle turned to me and asked,
-“What name will you give him?”
+"What name will you give him?"
 I looked at my puppy, and said,
-“Coco.”
+"Coco."
 My uncle was surprised.
-He asked, “Why do you call him
-Coco?”
-I said, “Because he looks like
-cocoa.”
+He asked, "Why do you call him
+Coco?"
+I said, "Because he looks like
+cocoa."
 
 ##
 I asked my uncle if Coco was born alone.
@@ -36,8 +36,8 @@ together as if they were talking.
 ##
 I asked my uncle if I could keep
 both Coco and his brother.
-“All right,” he said. “But you
-must look after them.”
+"All right," he said. "But you
+must look after them."
 So every evening, I played with
 them and took them for
 exercise.
@@ -55,7 +55,7 @@ back Coco's brother.
 But when Coco was left alone,
 he looked very sad.
 It felt as if he was asking me,
-“Why did you do that?”
+"Why did you do that?"
 
 ##
 He stopped playing.
@@ -64,8 +64,8 @@ a walk with me.
 There were times when Coco
 ate very little.
 I was worried.
-I asked myself, “What can I do
-to help Coco?”
+I asked myself, "What can I do
+to help Coco?"
 
 ##
 Then one day my uncle came to visit.

@@ -30,7 +30,7 @@ Near their village they met their
 uncle. He was taking his cow to the
 water. Thaimi called out, "Run,
 uncle, run! Men are coming to steal
-our cattle and burn our village.“
+our cattle and burn our village."
 The man shouted at his cow and
 made her run towards the village.
 
@@ -124,7 +124,7 @@ What was going to happen?
 
 ##
 Then Thaimi said, "It's cold. Let's
-make a fire.“
+make a fire."
 She took two stones and struck
 them together. The sparks caught
 the grass and small flames flared.

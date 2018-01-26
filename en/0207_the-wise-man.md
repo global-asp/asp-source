@@ -6,8 +6,8 @@ man who thought that the
 youth were wiser than their
 elders. He even bragged about
 it before his wife.
-He said to her, “I am wiser than
-your father.”
+He said to her, "I am wiser than
+your father."
 His wife disagreed with him, but
 he would not listen to her.
 
@@ -22,12 +22,12 @@ back to ask her husband if he
 still held the same view.
 
 ##
-Her husband sent her back. “Go
+Her husband sent her back. "Go
 and tell your father to prepare
 for me a drink brewed from
-mist.”
-“Now I will prove to my fatherin-law that I am indeed very
-wise,” he chuckled.
+mist."
+"Now I will prove to my fatherin-law that I am indeed very
+wise," he chuckled.
 No one can make a drink from
 mist.
 
@@ -47,9 +47,9 @@ man nor a woman.
 The son-in-law found himself
 trapped.
 From that time, he believed in
-the old saying that “Shoulders
+the old saying that "Shoulders
 will never grow taller than the
-head.”
+head."
 
 ##
 * License: [CC-BY]

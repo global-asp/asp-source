@@ -4,7 +4,7 @@
 The small bus stop in my village was busy with people and overloaded buses. On the ground were even more things to load. Touts were shouting the names where their buses were going.
 
 ##
-“City! City! Going west!” I heard a tout shouting. That was the bus I needed to catch.
+"City! City! Going west!" I heard a tout shouting. That was the bus I needed to catch.
 
 ##
 The city bus was almost full, but more people were still pushing to get on. Some packed their luggage under the bus. Others put theirs on the racks inside.
@@ -46,7 +46,7 @@ On the way, I memorised the name of the place where my uncle lived in the big ci
 Nine hours later, I woke up with loud banging and calling for passengers going back to my village. I grabbed my small bag and jumped out of the bus.
 
 ##
-The return bus was filling up quickly. Soon it would make its way back east. The most important thing for me now, was to start looking for my uncle’s house.
+The return bus was filling up quickly. Soon it would make its way back east. The most important thing for me now, was to start looking for my uncle's house.
 
 ##
 * License: [CC-BY]

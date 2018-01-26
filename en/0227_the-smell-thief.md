@@ -36,11 +36,11 @@ lovely smells that drifted out of the
 bakery windows.
 When Mr Shabangu noticed these
 people sniffing the air near his
-bakery, he said angrily, ‘How dare
+bakery, he said angrily, 'How dare
 they sniff my delicious smells!'
 
 ##
-‘Those are MY smells. I made them, so they belong to me! If people want to smell my
+'Those are MY smells. I made them, so they belong to me! If people want to smell my
 wonderful smells, they should pay for them!' He huffed and puffed and wiped the sweat
 from his brow, before turning back the oven to bake some bread and rolls for his lunchtime
 customers.
@@ -79,14 +79,14 @@ Finally, one winter morning when he
 was in an especially bad mood, he
 stormed out of his bakery and
 grabbed the old woman by the arm.
-‘How dare you steal my smells!' he
-shouted. ‘You're nothing but a smell
+'How dare you steal my smells!' he
+shouted. 'You're nothing but a smell
 thief!' He wiped his hands on an
 apron, then pulled it off and threw it
 back into the bakery.
 
 ##
-‘This is the last day this cheeky
+'This is the last day this cheeky
 woman will steal my smells!' he
 shouted. And with these words, he
 dragged Ma Shange off to the court
@@ -98,8 +98,8 @@ quivering and confused Ma Shange
 with him.
 
 ##
-‘Good morning,' said the judge in his deep voice.
-‘Sir,' said Mr Shabangu furiously, ‘I demand justice! I wish to lay a complaint against this
+'Good morning,' said the judge in his deep voice.
+'Sir,' said Mr Shabangu furiously, 'I demand justice! I wish to lay a complaint against this
 woman. Every day for the last three weeks, she has walked past my bakery early in the
 morning when my delicious smells are at their best, and stolen them. I demand that she
 pays for those smells!'
@@ -115,9 +115,9 @@ quivering and confused Ma Shange
 with him.
 
 ##
-‘Good morning,' said the judge in
+'Good morning,' said the judge in
 his deep voice.
-‘Sir,' said Mr Shabangu furiously, ‘I
+'Sir,' said Mr Shabangu furiously, 'I
 demand justice! I wish to lay a
 complaint against this woman.
 Every day for the last three weeks,
@@ -127,13 +127,13 @@ delicious smells are at their best,
 and stolen them.
 
 ##
-The judge scratched his big, bald head for a moment. Then he cleared his throat. ‘Fair
-enough,' he said to the baker. ‘Justice will be done.' He turned to Ma Shange. ‘How much
+The judge scratched his big, bald head for a moment. Then he cleared his throat. 'Fair
+enough,' he said to the baker. 'Justice will be done.' He turned to Ma Shange. 'How much
 money do you have on you, Madam?' he asked.
 
 ##
-‘Only two rands,' stammered Ma Shange.
-‘Well,' said the judge, hand it to me, please.' Meekly,
+'Only two rands,' stammered Ma Shange.
+'Well,' said the judge, hand it to me, please.' Meekly,
 Ma Shange reached into the pocket of her tatty old
 cardigan and pulled out two one rand coins. She
 handed them to the judge. He took them, thanking
@@ -141,8 +141,8 @@ her politely.
 
 ##
 Then he shook the coins in his big fist, so that they
-made a clinking sound. ‘This is my judgement,' he
-said to the baker. ‘The punishment must fit the
+made a clinking sound. 'This is my judgement,' he
+said to the baker. 'The punishment must fit the
 crime. Therefore the sound of Ma Shange's money is
 the payment you will get for the smells she stole.
 And now I wish you a good day.'

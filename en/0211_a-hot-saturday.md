@@ -6,15 +6,15 @@ Saturday.
 Everyone was grumpy.
 
 ##
-“Let's go to the river,”
+"Let's go to the river,"
 Lerato said.
-“But Mme told us not to
-swim in the river,” said
+"But Mme told us not to
+swim in the river," said
 Bontle.
-“We won't swim,”
-answered Lerato. “We'll
+"We won't swim,"
+answered Lerato. "We'll
 just play in the shade
-next to the water.”
+next to the water."
 
 ##
 First we took off our
@@ -49,13 +49,13 @@ bushes.
 ##
 There were some cows
 near the river.
-Bontle looked up, “Look
+Bontle looked up, "Look
 at that cow! She's
-eating your shirt!”
+eating your shirt!"
 
 ##
-“The cows ate our
-clothes!”
+"The cows ate our
+clothes!"
 But did Mme believe
 us?
 Soon our bottoms were

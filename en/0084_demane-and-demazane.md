@@ -19,7 +19,7 @@ They found a cave to live in. They were scared because they had heard that there
 
 So they made a strong door to cover the entrance, with only two holes to let in air and light.
 
-Demane warned his sister, “Stay in the cave while I am out hunting, and don’t cook any meat. Cannibals love the smell of cooking meat.”
+Demane warned his sister, "Stay in the cave while I am out hunting, and don't cook any meat. Cannibals love the smell of cooking meat."
 
 ##
 Each evening Demane brought back something he had killed – a hare or some birds or a small buck.
@@ -33,19 +33,19 @@ So one day, when her brother had gone, she went out to explore.
 
 She found a stream to play in, and some trees to climb.
 
-She felt free and happy. “Perhaps,” she thought, “there are no cannibals. Perhaps Uncle said there were cannibals just to frighten us.”
+She felt free and happy. "Perhaps," she thought, "there are no cannibals. Perhaps Uncle said there were cannibals just to frighten us."
 
 ##
 The next day she felt bold enough to make a fire to warm herself.
 
-But she made it inside the cave with the door firmly shut – just to be on the safe side. “I’m sure it won’t matter if I put a little meat on the fire. It will be so good to have a cooked meal.”
+But she made it inside the cave with the door firmly shut – just to be on the safe side. "I'm sure it won't matter if I put a little meat on the fire. It will be so good to have a cooked meal."
 
 ##
 When her brother came home he sang as usual,"Demazane, Demazane, child of my mother, open this cave to me.  The swallows can enter it. It has two holes."
 
 She opened the door and let him in.
 
-When he saw the cooked meat, Demane asked, “How did you do this without a fire?” “I dried the meat in the sun outside the cave,” Demazane replied quickly.
+When he saw the cooked meat, Demane asked, "How did you do this without a fire?" "I dried the meat in the sun outside the cave," Demazane replied quickly.
 
 Demane was too tired to argue, and they sat down to enjoy the meal together.
 
@@ -54,16 +54,16 @@ The next day, she made a fire and cooked meat again.
 
 She had just finished when a voice sang outside the door, "Demazane, Demazane, child of my mother, open this cave to me. The swallows can enter it. It has two holes."
 
-But the voice did not sound like her brother’s.
+But the voice did not sound like her brother's.
 
-Demazane said, “No. You are not my brother. Your voice is not like his.”
+Demazane said, "No. You are not my brother. Your voice is not like his."
 
 She felt safe in the cave.
 
 ##
-A little while later, someone was singing outside the cave again, “Do let me in, my sister.”"Demazane, Demazane, child of my mother, open this cave to me. The swallows can enter it. It has two holes."
+A little while later, someone was singing outside the cave again, "Do let me in, my sister.""Demazane, Demazane, child of my mother, open this cave to me. The swallows can enter it. It has two holes."
 
-The voice sounded just like her brother’s, so she opened the door.
+The voice sounded just like her brother's, so she opened the door.
 
 ##
 A huge hairy man filled the opening of the cave.
@@ -84,9 +84,9 @@ He followed the ash along the path until he saw a fire in the distance.
 ##
 Near the fire was a huge hairy man sitting with a large bag next to him.
 
-Demane walked up to the man, pretending to limp, “Please, father, can you help me? I’ve hurt my leg. I need some water.”
+Demane walked up to the man, pretending to limp, "Please, father, can you help me? I've hurt my leg. I need some water."
 
-The man replied, “I’ll get you some water, if you will promise not to touch my bag.” And he put the bag carefully in his hut.
+The man replied, "I'll get you some water, if you will promise not to touch my bag." And he put the bag carefully in his hut.
 
 ##
 But when he had gone, Demane cut the string of the bag, and out climbed his sister.
@@ -98,12 +98,12 @@ Brother and sister hid and waited to see what would happen.
 ##
 When the man came with the water, his son and daughter came with him.
 
-He said to his daughter, “There is something nice in the bag in our hut. Go! Bring it!”
+He said to his daughter, "There is something nice in the bag in our hut. Go! Bring it!"
 
-She opened the bag a little to see what it was, but the bees stung her hand, and she called out, “It is biting.” “Go and help her!” he shouted to his son. But the result was the same.
+She opened the bag a little to see what it was, but the bees stung her hand, and she called out, "It is biting." "Go and help her!" he shouted to his son. But the result was the same.
 
 ##
-“Don’t treat me like a fool,” he shouted, and stormed into the hut. He closed the door and opened the bag himself.
+"Don't treat me like a fool," he shouted, and stormed into the hut. He closed the door and opened the bag himself.
 
 The angry bees swarmed out and stung his head, his nose, his eyes. Blinded, he jumped about, howling with pain.
 

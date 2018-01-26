@@ -16,36 +16,36 @@ could think of was his hunger
 pangs.
 
 ##
-“Aaauuuu!” Sly jackal let out a loud
+"Aaauuuu!" Sly jackal let out a loud
 scream. He fell into a well right in
 front of him. He was so hungry that
 he did not spot it.
 
 ##
-“Oh my hat!” he thought. “I have to
+"Oh my hat!" he thought. "I have to
 get out of this well. I will die of
-hunger.”
+hunger."
 
 ##
 Sly jackal screamed and shouted:
-“Help! Anyone help!” Donkey was
+"Help! Anyone help!" Donkey was
 grazing a few metres away from the
 well. Donkey heard sly jackal's
 desperate cry. He came rushing.
 
 ##
-“What is the matter?” Donkey was
+"What is the matter?" Donkey was
 very worried.
-“The water in this well is cool and
+"The water in this well is cool and
 sweet. I am bored swimming alone.
 I need someone to help me swim.
-Please will you join me?”
+Please will you join me?"
 
 ##
-“The sun is very hot,” said donkey.
-“I can't swim very well though.”
-“Jump in! I will help you come out of
-the well,” promised the sly jackal.
+"The sun is very hot," said donkey.
+"I can't swim very well though."
+"Jump in! I will help you come out of
+the well," promised the sly jackal.
 
 ##
 Donkey jumped into the well. The
@@ -55,7 +55,7 @@ jackal had jumped on his back and
 out of the well. Sly jackal laughed
 and ran away. Donkey was trapped
 in the well. He started screaming
-and shouting: “Help! Anyone help!”
+and shouting: "Help! Anyone help!"
 
 ##
 * License: [CC-BY]

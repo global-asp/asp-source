@@ -93,9 +93,9 @@ a big frog jumped through the door.
 The frog told them about how it
 swallowed their baby. They begged
 the frog to give them the baby.
-“Give me three flies to eat then I
-will give you the baby,” said the
-frog.” The father caught three flies
+"Give me three flies to eat then I
+will give you the baby," said the
+frog." The father caught three flies
 and fed them to the frog. The frog
 coughed and the baby popped out.
 The family and the frog jumped and

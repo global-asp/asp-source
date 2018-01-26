@@ -10,7 +10,7 @@ name was Mudduawulira.
 
 ##
 One day the man said to his
-son, “Let's go for a walk.”
+son, "Let's go for a walk."
 
 ##
 On the way, they saw a very
@@ -18,8 +18,8 @@ nice suitcase. It was packed full.
 
 ##
 The man got very excited. He
-said to Mudduawulira, “Pick it
-up and we will take it home.”
+said to Mudduawulira, "Pick it
+up and we will take it home."
 
 ##
 The son did what the father told

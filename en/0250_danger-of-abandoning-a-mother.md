@@ -13,8 +13,8 @@ mother.
 
 ##
 One day, Lodipo's younger wife,
-Akitela, said, “Let us move
-away to a safer village.”
+Akitela, said, "Let us move
+away to a safer village."
 The current place was
 constantly attacked by cattle
 raiders and Akitela felt unsafe.
@@ -26,9 +26,9 @@ mother.
 But Akitela insisted that they
 should move and leave the old
 woman alone.
-“If you don't move away from
+"If you don't move away from
 here, I will return to my
-parents,” Akitela cried to
+parents," Akitela cried to
 Lodipo.
 
 ##
@@ -44,8 +44,8 @@ Lodipo's blind mother sat on a
 goat skin under a tree.
 She was unaware of what was
 going on.
-“How can we leave her on her
-own?” Akai wondered.
+"How can we leave her on her
+own?" Akai wondered.
 
 ##
 Lodipo and his two wives loaded
@@ -61,10 +61,10 @@ mother-in-law all alone.
 ##
 The old woman was left alone in the manyatta.
 She cried and sang this sad song:
-“Awesita Lodipo Ngina Ekitae Ka ng'akinei,
+"Awesita Lodipo Ngina Ekitae Ka ng'akinei,
 Nakolong kedounio,
 Nitonoma tani Akolong'a Awesiti ngina,
-Awesiti a Lodipo ngina Eriamaros morua polonia.”
+Awesiti a Lodipo ngina Eriamaros morua polonia."
 
 ##
 Immediately after Lodipo and

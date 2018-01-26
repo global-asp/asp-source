@@ -4,12 +4,12 @@
 Bathtime is Jack's
 favourite part of
 the day.
-‘I'll be back in a
+'I'll be back in a
 few moments,'
 says his mom.
 
 ##
-‘Make sure to clean
+'Make sure to clean
 behind your ears.'
 
 ##

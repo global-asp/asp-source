@@ -6,11 +6,11 @@ her clothes in a small bag.
 
 ##
 As she went out the door, she
-hugged me and said, “Bye for
-now.”
+hugged me and said, "Bye for
+now."
 
 ##
-“Where are you going, mum?” I
+"Where are you going, mum?" I
 looked up at her as I asked.
 
 ##
@@ -19,35 +19,35 @@ follow her but dad lifted me up
 on his shoulder.
 
 ##
-Dad said, “Your mother is going
-to the hospital to have a baby.”
+Dad said, "Your mother is going
+to the hospital to have a baby."
 
 ##
-When I heard “baby” I stopped
+When I heard "baby" I stopped
 crying and looked at him.
-“Why is she going to get the
-baby from the hospital?” I
+"Why is she going to get the
+baby from the hospital?" I
 asked him.
 
 ##
 Dad sat me on a small chair and
-said, “I will tell you why she is
+said, "I will tell you why she is
 going to get the baby from the
-hospital.”
+hospital."
 
 ##
 I listened keenly to him as he explained although I didn't
 quite understand why she wasn't having the baby at home.
-When dad finished explaining, I asked, “Will she still love
-me when she comes back with the other baby?”
+When dad finished explaining, I asked, "Will she still love
+me when she comes back with the other baby?"
 
 ##
 My dad held me close and said,
-“We will always love you.”
+"We will always love you."
 
 ##
-“Can I write a letter to her while
-she is there?” I asked dad.
+"Can I write a letter to her while
+she is there?" I asked dad.
 
 ##
 That evening, I began to write a
@@ -58,7 +58,7 @@ I tore a paper from my exercise
 book and began to write...
 
 ##
-“Mummy, mummy, dad said
+"Mummy, mummy, dad said
 that you have gone to bring
 another baby...
 
@@ -77,7 +77,7 @@ be mine...
 
 ##
 ...I am waiting for you here
-outside our house.”
+outside our house."
 
 ##
 I folded my letter so I could give

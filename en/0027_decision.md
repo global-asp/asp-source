@@ -36,19 +36,19 @@ My father walked from house to house asking people to attend a village meeting.
 People gathered under a big tree and listened.
 
 ##
-My father stood up and said, “We need to work together to solve our problems.”
+My father stood up and said, "We need to work together to solve our problems."
 
 ##
-Eight-year-old Juma, sitting on a tree trunk shouted, “I can help with cleaning up.”
+Eight-year-old Juma, sitting on a tree trunk shouted, "I can help with cleaning up."
 
 ##
-One woman said, “The women can join me to grow food.”
+One woman said, "The women can join me to grow food."
 
 ##
-Another man stood up and said, “The men will dig a well.”
+Another man stood up and said, "The men will dig a well."
 
 ##
-We all shouted with one voice, “We must change our lives.”
+We all shouted with one voice, "We must change our lives."
 
 From that day we worked together to solve our problems.
 

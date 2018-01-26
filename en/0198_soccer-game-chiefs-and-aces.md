@@ -31,7 +31,7 @@ careful, and you shared the ball.
 You played as a real team!
 
 ##
-‘High Five! Give yourselves a
+'High Five! Give yourselves a
 hand!' says the coach.
 
 ##

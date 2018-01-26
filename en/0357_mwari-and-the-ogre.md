@@ -18,8 +18,8 @@ went to collect firewood as usual.
 ##
 She took the axe and entered into the forest.
 As she started cutting the fallen tree into
-pieces she heard a big sound asking,” who is
-touching my firewood?”
+pieces she heard a big sound asking," who is
+touching my firewood?"
 
 ##
 Mwari was so scared, she tried
