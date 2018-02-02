@@ -41,7 +41,7 @@ chercher quelque-chose.
 regarder ce que tu prépares...
 « Ne sois pas têtue, petite, fais ce
 que je te demande » insista-t-elle. Je
-partis donc en courant
+partis donc en courant.
 
 ##
 A mon retour, grand-mère était
@@ -49,8 +49,7 @@ assise dehors, mais il n'y avait plus
 ni panier, ni bananes.
 « Grand-mère, où est le panier, où
 sont toutes les bananes, et où est ...
-« 
-Mais pour seule réponse, elle me
+« Mais pour seule réponse, elle me
 dit: « Ils sont dans mon lieu
 magique. » J'étais très déçue.
 
