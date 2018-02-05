@@ -1,7 +1,7 @@
-# Goat, Dog and Cow
+# Goat, Dog, and Cow
 
 ##
-Goat, Dog and Cow
+Goat, Dog, and Cow
 were great friends. One
 day they went on a
 journey in a taxi.

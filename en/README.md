@@ -5,7 +5,7 @@ Story ID | Title | License
 0001 | [A very tall man](http://africanstorybook.org/stories/very-tall-man) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0002 | [Look at the animals](http://africanstorybook.org/stories/look-animals) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0003 | [School clothes](http://africanstorybook.org/stories/school-clothes) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
-0004 | [Goat, Dog and Cow](http://africanstorybook.org/stories/goat-dog-and-cow) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0004 | [Goat, Dog, and Cow](http://africanstorybook.org/stories/goat-dog-and-cow) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0005 | [Anansi and Turtle](http://africanstorybook.org/stories/anansi-and-turtle) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0006 | [Anansi and Wisdom](http://africanstorybook.org/stories/anansi-and-wisdom) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0007 | [Looking for water](http://africanstorybook.org/stories/looking-water) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
