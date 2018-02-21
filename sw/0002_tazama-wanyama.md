@@ -4,29 +4,25 @@
 Tazama wanyama.
 
 ##
-Ng'ombe anasema,
-"Moo."
+Ng'ombe anasema, "Moo."
 
 ##
-Mbuzi anasema, "Me,
-me."
+Mbuzi anasema, "Mee, mee."
 
 ##
 Farasi anasema, "Nei."
 
 ##
-Nguruwe anasema,
-"Ghuranti."
+Nguruwe anasema, "Ghuranti."
 
 ##
-Kuku anasema, "Ko, ko."
+Kuku anasema, "Ko, ko, ko."
 
 ##
-Mbwa anasema, "Bwe."
+Mbwa anasema, "Bwe, bwe."
 
 ##
-Mkulima
-anasema, "Kimya."
+Mkulima anasema,"Nyamaza!"
 
 ##
 * License: [CC-BY-NC]

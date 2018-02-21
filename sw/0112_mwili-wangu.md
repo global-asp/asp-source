@@ -1,33 +1,28 @@
 # Mwili wangu
 
 ##
-Ninaweza kukimbia
-nayo.
+Ninaweza kukimbia nao.
 
 ##
-Ninaweza kuruka nayo.
+Ninaweza kuruka nao.
 
 ##
-Ninaweza kucheza
-nayo.
+Ninaweza kucheza nao.
 
 ##
-Ninaweza kuogelea
-nayo.
+Ninaweza kuogelea nao.
 
 ##
-Ninaweza kupiga nayo.
+Ninaweza kuruka kamba nao.
 
 ##
-Ninaweza kutoroka
-nayo.
+Ninaweza kupiga mpira nao.
 
 ##
-Ninaweza kuepa nayo.
+Ninaweza kutoroka nao.
 
 ##
-Lakini siwezi kupaa
-angani nayo.
+Lakini siwezi kupaa nao angani.
 
 ##
 * License: [CC-BY-NC]

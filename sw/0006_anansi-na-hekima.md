@@ -1,72 +1,22 @@
-# Anansi na Hekima
+# Anansi na hekima
 
 ##
-Hapo zamani za kale, watu
-hawakujua chochote.
-Hawakujua kupanda mimea,
-hawakujua kushona nguo, wala
-hawakujua kuuunda vyombo
-vya chuma.
-Lakini mungu aliyeitwa Nyame
-akiwa mbinguni, alimiliki
-hekima ambayo watu walihitaji.
-Nyame alihifadhi hekima hiyo
-kwenye chungu
-kilichotengenezwa kwa udongo
+Hapo zamani za kale, watu hawakujua chochote. Hawakujua kupanda mimea, hawakujua kushona nguo, wala hawakujua kuunda zana za chuma. Nyame, mungu aliyekuwa mbinguni, ndiye aliyekuwa mwenye hekima zote za dunia. Alihifadhi hekima hiyo kwenye chungu cha udongo.
 
 ##
-Siku moja, Nyame akaamua
-kumpa Anansi chungu hicho
-kilichojaa ujuzi na hekima tele.
-Basi Anansi akawa anakitazama
-chungu kile. Na kila
-alipokitazama alipata kujua
-jambo jipya.
-Alifuarahi sana.
+Siku moja, Nyame aliamua kumpa Anansi chungu hicho cha hekima. Kila Anansi alipotazama ndani ya chungu cha udongo, alijifunza jambo jipya. Alifurahi sana!
 
 ##
-Na kwa sababu ya ulafi wake, Anansi alisema
-moyoni, “Nitakificha chungu hiki juu ya mti
-mrefu ili mtu mwingine yeyote asikifikie.
-Ningetaka chungu hiki kinifae peke yangu.”
-Kwa kutumia miyaa, Anansi alitengeneza
-kamba akaifungia kwenye chungu. Kisha,
-alifungia kamba hiyo kwenye kiuno chake.
-Alianza kupanda mti ule huku kile chungu
-kikining’inia mbele yake. Lakini haikuwa rahisi
-kupanda huku chungu kikimgonga magotini
-kila wakati.
+Anansi mlafi alinong'ona moyoni, "Nitakificha chungu hiki juu ya mti mrefu ili nikifaidi mwenyewe." Akasokota uzi mrefu na kuuzungusha kwenye chungu. Kisha, akajifunga tumboni. Akaanza kupanda kwenye mti. Lakini ilikuwa vigumu kupanda kwenye mti huku chungu kikimgonga magotini kila mara.
 
 ##
-Wakati huo wote, mwanawe Anansi alikuwa
-amesimama chini ya ule mti huku akimtazama
-babake.
-Akamwambia, “Baba, mbona usikifungie
-chungu mgongoni ili uweze kuuparaga mti?”
-Basi Anansi akaamua kukifungia chungu
-kilichojaa hekima mgongoni mwake.
-Ikawa rahisi zaidi kukibeba kile chungu
-mgongoni mwake.
+Wakati huo wote, mwanawe alikuwa amesimama chini ya ule mti akimtazama baba yake. Akamwambia, "Baba, si ingekuwa rahisi kupanda endapo ungekifungia chungu mgongoni?" Basi Anansi akajaribu kukifungia chungu kilichojaa hekima mgongoni mwake, na kweli ikawa rahisi zaidi.
 
 ##
-Baada ya muda mfupi, alifika
-juu ya mti.
-Akiwa juu ya mti aliwaza, “Mimi
-ndiye ninabeba hekima lakini,
-mwanangu anaonekana kuwa
-mwerevu kuniliko."
-Anansi alikasirika na kukitupa
-kile chungu chini.
+Punde tu alifika juu ya mti, aliwaza, "Natakiwa kuwa ndiye mwenye hekima zote, lakini hapa mwanangu ndiye mwenye akili kuliko mimi." Anansi alikasirishwa sana kiasi kwamba alikitupa kile chungu chini ya mti.
 
 ##
-Chungu kilianguka na kuvunjika
-vigaevigae.
-Watu waliipata hekima wakajua
-kulima, kushona nguo, na
-kuunda vyombo vya chuma.
-Hivyo ndivyo watu walivyojua
-kufanya mambo yote
-wanayofanya.
+Chungu kilivunjika vipandevipande pale chini. Hekima zikawa za bure kwa mtu yeyote kujichukulia. Na hivyo ndivyo watu walivyojifunza kulima, kushona nguo, kuunda zana za chuma, na mambo yote mengine ambayo watu wanajua kuyafanya.
 
 ##
 * License: [CC-BY]

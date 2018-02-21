@@ -1,56 +1,52 @@
 # Uamuzi
 
 ##
-Kijiji changu kilikuwa na matatizo mengi.
-
-Tulipanga foleni ndefu tukisubiri kuchota maji kutoka mfereji mmoja.
+Kijiji changu kilikuwa na matatizo mengi. Tulipanga foleni ndefu tukisubiri kuchota maji kutoka mfereji mmoja.
 
 ##
-Tulisubiri chini ya mti mkubwa kupokea msaada wa chakula.
+Tulisubiri kupokea msaada wa chakula.
 
 ##
-Tulifunga nyumba zetu mapema kwa ajili ya wizi.
+Tulifunga nyumba zetu mapema kwasababu ya wizi.
 
 ##
-Baadhi ya watoto waliacha shule kwa sababu wazazi wao hawakuweza kulipa karo.
+Watoto wengi waliacha shule.
 
 ##
-Wasichana wadogo walifanya kazi kijijini kama yaya.
+Wasichana wadogo walifanya kazi kama watumishi kwenye vijiji vingine.
 
 ##
-Wavulana wadogo waliranda randa kijijini huku wengine wakifanyia watu kazi mashambani.
+Wavulana wadogo waliranda randa kijijini na wengine walifanya kazi kwenye mashamba ya watu.
 
 ##
-Upepo ulipovuma, ulipeperusha karatasi chafu na kuziangika mitini na uani.
+Upepo ulipovuma, ulipeperusha karatasi chafu na kuzifikisha mitini na uani.
 
 ##
-Njiani, watu walikatwa na vipande vya chupa vilivyotupwa ovyo ovyo.
+Watu walikatwa na vipande vya chupa vilivyotupwa ovyo ovyo.
 
 ##
-Halafu siku moja, mfereji wa maji ulikauka na mitungi yetu ikawa tupu.
+Halafu siku moja, mfereji wa maji ulikauka na mitungi yetu ikawa  kawa tupu.
 
 ##
-Babangu alitembea kutoka nyumba hadi nyumba akiwaalika watu kuhudhuria mkutano wa kujiji.
+Baba yangu alitembea kutoka nyumba hadi nyumba akiwaomba watu kuhudhuria mkutano wa kijiji.
 
 ##
-Watu walikusanyika chini ya mti ule ule ambako tulipokea chakula cha msaada.
+Watu walikusanyika chini ya mti mkubwa na kusikiliza.
 
 ##
-Babangu alisimama katikati ya kikundi na kusema, “Lazima turekebishe kijiji chetu.”
+Baba yangu alisimama na kusema, "Tunahitaji kusaidiana kutatua matatizo yetu."
 
 ##
-Juma, aliyekuwa amepanda mti, alisema kwa sauti, “Naweza kusafisha uwanja wa nyumba yetu.”
+Juma, mtoto wa miaka minane aliyekuwa amekaa kwenye tawi la mti, alisema kwa sauti, "Naweza kusaidia na usafi."
 
 ##
-Mwanamke mmoja wa makamo, alisema, “Sisi wanawake tunaweza kuungana na kupanda chakula.”
+Mwanamke mmoja alisema, "Sisi wanawake tunaweza kuungana na kupanda chakula."
 
 ##
-Mwanamme mwingine alisimama na kusema, “Wanaume watachimba kisima cha maji.”
+Mwanamume mwingine alisimama na kusema, "Wanaume watachimba kisima cha maji."
 
 ##
-Sote tulisema kwa sauti moja, “Lazima tubadilishe maisha yetu.”
-
-Tangu siku hiyo, tulifanya kazi pamoja tukatatua shida zetu.
+Sote tulisema kwa sauti moja, "Lazima tubadilishe maisha yetu." Tangu siku hiyo, tulifanya kazi pamoja kutatua shida zetu.
 
 ##
 * License: [CC-BY]

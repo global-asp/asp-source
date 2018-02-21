@@ -1,11 +1,10 @@
 # Wapi paka wangu?
 
 ##
-Wapi paka wangu?
+Yuko wapi paka wangu?
 
 ##
-Je, yuko chini ya
-kitanda?
+Je, yuko chini ya kitanda?
 
 ##
 Yuko juu ya kabati?
@@ -14,17 +13,16 @@ Yuko juu ya kabati?
 Yuko nyuma ya sofa?
 
 ##
-Yuko karibu na pipa la
-taka?
+Yuko karibu na pipa la takataka?
 
 ##
 Yuko ndani ya kikapu?
 
 ##
-Yuko nje?
+Yuko nje ya nyumba?
 
 ##
-Yuko hapa!
+Yupo hapa!
 
 ##
 * License: [CC-BY-NC]

@@ -1,27 +1,19 @@
 # Mamba mwenye njaa
 
 ##
-Wakati mmoja palikuwa
-na mamba mwenye
-njaa.
+Wakati mmoja palikuwa na mamba mwenye njaa.
 
 ##
-Alitafuta chakula pole
-pole tena kimya.
-
-Halafu...
+Alitafuta chakula pole pole tena kimya. Halafu …
 
 ##
-POO!!!
-Mamba anashambulia!
+POO!!! Mamba anashambulia!
 
 ##
-Baada ya hiyo hana
-njaa tena, na anafurahi.
+Baada ya hapo hana njaa tena, na anafurahi.
 
 ##
-Hadi anapohisi njaa
-tena.
+Hadi anapohisi njaa tena.
 
 ##
 * License: [CC-BY]

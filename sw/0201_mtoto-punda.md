@@ -1,106 +1,68 @@
-# Mtoto punda
+# Mtoto Punda
 
 ##
-Siku moja, msichana mdogo aliona umbo la ajabu kwa umbali.
+Ilikuwa ni msichana mdogo aliyekuwa wa kwanza kuona umbo la ajabu kwa mbali.
 
 ##
-Umbo hilo lilipokaribia, aligundua kwamba lilikuwa mwanamke mja mzito.
+Kadiri umbo lilipokaribia, aliona kwamba lilikuwa ni mwanamke mwenye ujauzito mkubwa.
 
 ##
-Kwa ushupavu, msichana huyo alimkaribia yule mwanamke mja mzito.
-
-Jamaa zake wakasema, "Hatuna budi kumkaribisha akae nasi. Tutamlinda hadi mtoto wake atakapozaliwa."
+Kwa upole na ujasiri, msichana alimsogelea mwanamke yule. "Lazima tumhifadhi," watu wa msichana yule walisema. "Tutawaweka yeye na mtoto wake salama."
 
 ##
-Baadaye, mama huyo alikuwa tayari kujifungua. Majirani wakashughulika.
-
-"Sukuma!"
-
-"Leta blanketi!"
-
-"Maji!"
-
-"Suukuumaaa!!"
+Mtoto alikuwa njiani kuzaliwa si muda mrefu. "Sukuma!" "Leteni mablanketi!" "Maji!" "Suuukuuumaaaa!!!"
 
 ##
-Mama alijifungua. Majirani walipomwona mtoto, wote walirudi nyuma kwa mshtuko.
-
-"Punda!"
+Lakini walipomwona mtoto, wote waliruka kwa mshtuko. "Punda?!"
 
 ##
-Wakaanza kugombana.
-
-"Tulikubali kuwa tutamlinda huyu mama hadi atakapojifungua, na hivyo ndivyo tutakavyofanya." Kiongozi wao alisema.
-
-"Hapana! Tukifanya hivyo tutapata bahati mbaya!" Alisema jirani mwingine.
+Wakaanza kubishana. "Tulisema tutawaweka mama na mtoto salama, na hivyo ndivyo tutakavyofanya," baadhi wakasema. "Lakini watatuletea mkosi!" wengine wakadai.
 
 ##
-Mama yule alijikuta peke yake tena.
-
-Akajiuliza, "Nitafanyaje na mtoto huyu mwenye kunifedhehesha?"
+Kwa hiyo mwanamke yule alijikuta yuko peke yake kwa mara nyingine tena. Akajiuliza atafanya nini na mtoto huyo wa ajabu. Akajiuliza atafanya nini na yeye mwenyewe.
 
 ##
-Hatimaye alikubali kuwa huyo ni mtoto wake na yeye ndiye mamake.
+Lakini hatimaye alikubali kwamba huyo ni mwanaye na yeye ni mama yake.
 
 ##
-Mtoto punda angalibaki alivyozaliwa, mambo yangekuwa tofauti. Lakini, mtoto punda alikua, akakua, hadi mamake akashindwa kumbeba mgongoni.
-
-Mamake mara nyingi alichoka na kuvunjika moyo. Mara nyingine mtoto punda alimfanyisha kazi za kinyama.
+Endapo mtoto huyo angebaki kuwa vilevile, na umbo dogo, labda kila kitu kingekuwa tofauti. Lakini mtoto Punda aliendelea kukua na kukua mpaka hakuweza kutoshea tena mgongoni mwa mama yake. Pamoja na kujaribu kwa bidii, hakuweza kuwa na tabia za kibinadamu. Mara nyingi mama yake alichoka na kuvunjika moyo. Wakati mwingine alimlazimisha kufanya kazi walizostahili wanyama.
 
 ##
-Mtoto punda alikasirika akachanganyikiwa. Hangeweza kufanya lolote kama binadamu. Hakufanana na huyu wala yule.
-
-Alizidi kukasirika hadi siku moja akampiga mamake teke akaanguka chini.
+Kuchanganyikiwa na hasira vilianza kujengeka ndani mwa Punda. Alishindwa kufanya hivi wala vile. Alishindwa kuwa hivi wala vile. Alipatwa na hasira sana kiasi kwamba, siku moja, alimpiga teke mama yake mpaka akaanguka chini.
 
 ##
-Mtoto punda aliona aibu. Akakimbilia mbali kadiri alivyoweza.
+Punda alijawa na aibu. Akaanza kukimbilia mbali kwa haraka kadiri awezavyo.
 
 ##
-Aliendelea kukimbia hadi usiku alipotambua kuwa amepotea.
-
-"Hi ho?" Alinong’ona gizani.
-
-"Hi ho?" Mwangwi ukamrudia.
-
-Alijikunja mahali akalala usingizi wa mang'amung'amu.
+Wakati aliposimama, ilikuwa ni usiku, na alikuwa amepotea. "Hee haw?" alinong'ona gizani. "Hee haw?" giza likatoa mwangwi. Alikuwa mwenyewe. Alijikunyata katika umbo dogo, akalala fofofo usingizi wa mang'amung'amu.
 
 ##
-Kulipokucha, mtoto punda aliamka na kumkuta mzee wa ajabu akimtazama. Naye pia akamtazama mzee machoni kwa hisia za matumaini. Mzee akasema, "Njoo twende kwangu."
+Punda aliamka na kumkuta mzee mmoja wa ajabu akimtazama. Akamwangalia mzee yule machoni na akaanza kuhisi ishara ya matumaini.
 
 ##
-Mtoto punda alikubali mwaliko wa mzee. Mzee alimfundisha njia nyingi za maisha.
-
-Mtoto punda alijifunza mengi.
+Punda alienda kushi na mzee yule, na mzee alimfundisha mbinu nyingi za kuishi. Punda alisikiliza na kujifunza, na mzee vivyo hivyo pia. Walisaidiana na kucheka pamoja.
 
 ##
-Asubuhi moja, mzee alimwomba mtoto punda ambebe hadi kilele cha mlima.
+Asubuhi moja, mzee alimwomba Punda ambebe hadi kwenye kilele cha mlima.
 
 ##
-Walipofika juu mawinguni, walilala.
-
-Mtoto punda akaota kuwa mamake ni mgonjwa na anamwita.
-
-Alipoamka...
+Walipofika juu kwenye mawingu, walipatwa usingizi. Punda akaota kuwa mama yake alikuwa mgonjwa na alimhitaji. Na alipoamka...
 
 ##
-...mawingu yalikuwa yametoweka na mzee rafikiye alikuwa hayupo.
+...mawingu yalikuwa yametoweka pamoja na rafiki yake, yule mzee.
 
 ##
-Hatimaye mtoto punda alifahamu atakavyofanya.
+Hatimaye, Punda alijua alichotakiwa kufanya.
 
 ##
-Mtoto punda alirudi nyumbani akamkuta mamake amenuna. Mama na mtoto wake mpotevu walitazamana kwa muda mrefu.
-
-Halafu wakakumbiatiana bila legezo.
+Punda alimkuta mama yake akiwa peke yake huku akimwomboleza mwanaye aliyepotea. Wakaangaliana kwa muda mrefu. Na kisha wakakumbatiana kwa hisia.
 
 ##
-Mtoto punda na mamake waliishi pamoja kwa ushirikiano.
-
-Waliishi kwa furaha pamoja na majirani wao.
+Mtoto Punda na mama yake wamekuwa kitu kimoja na kuishi kwa ushirikiano. Taratibu, familia nyingine zimeanza kuhamia na kushi miongoni mwao.
 
 ##
 * License: [CC-BY]
 * Text: Lindiwe Matshikiza
 * Illustration: Meghan Judge
-* Translation: Translators without Borders, Pete Mhunzi
+* Translation: Monica Shank Lauwo & Lauwo George
 * Language: sw

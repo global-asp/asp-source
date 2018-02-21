@@ -1,33 +1,32 @@
-# Ninapenda kusoma
+# Ninapenda kusoma!
 
 ##
-Mimi ninapenda kusoma.
+Ninapenda kusoma.
 
 ##
-Nitamsomea nani?
+Nimsomee nani?
 
 ##
-Lesiba amelala.
+Mdogo wangu amelala.
 
 ##
-Nitamsomea nani?
+Nimsomee nani?
 
 ##
-Mama na bibi wanapika.
+Mama na bibi wana kazi.
 
 ##
-Nani nitamsomea?
+Nimsomee nani?
 
 ##
-Baba na mjomba wanarekebisha gari.
+Baba na babu wana kazi.
 
 ##
-Nitamsomea nani?
-Naweza kutulia nakukifurahia kitabu mimi mwenyewe!
+Nimsomee nani? Nijisomee mwenyewe!
 
 ##
 * License: [CC-BY]
 * Text: Letta Machoga
 * Illustration: Wiehan de Jager
-* Translation: Pete Mhunzi
+* Translation: Monica Shank Lauwo & Lauwo George
 * Language: sw

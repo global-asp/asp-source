@@ -1,7 +1,7 @@
 # Sare za shule
 
 ##
-Rinda hili ni refu.
+Gauni hili ni refu.
 
 ##
 Sweta hii ni kubwa.
@@ -10,20 +10,19 @@ Sweta hii ni kubwa.
 Mkoba huu ni mkubwa.
 
 ##
-Mshipi huu...
+Mkanda huu ni …
 
 ##
 Kofia hii ni ndogo.
 
 ##
-Sokisi hizi ni fupi.
+Soksi hizi ni fupi.
 
 ##
-Lakini viatu hivi ni
-vipya.
+Lakini viatu hivi ni vipya.
 
 ##
-...vinanitosha vizuri.
+… vinanitosha vizuri.
 
 ##
 * License: [CC-BY-NC]

@@ -1,10 +1,10 @@
-# Kitabu cha Hali ya Hewa
+# Kitabu cha hali ya hewa
 
 ##
 Hakuna mvua.
 
 ##
-Jua linang’aa.
+Jua linang'aa.
 
 ##
 Kuna upepo.

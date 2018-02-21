@@ -1,65 +1,37 @@
 # Watoto wa nta
 
 ##
-Hapo zamani za kale,
-paliishi familia yenye
-furaha.
+Hapo zamani za kale, paliishi familia yenye furaha.
 
 ##
-Hawakugombana hata
-kidogo.
-Watoto waliwasaidia
-wazazi nyumbani na
-shambani.
+Hawakugombana hata kidogo. Watoto waliwasaidia wazazi nyumbani na shambani.
 
 ##
-Lakini, walikatazwa
-kwenda karibu na moto.
+Lakini, walikatazwa kwenda karibu na moto.
 
 ##
-Walifanya kazi zao zote
-usiku.
-
-Hii ni kwa sababu walikuwa wameumbwa
-kwa nta.
+Walifanya kazi zao zote usiku. Hii ni kwa sababu walikuwa wameumbwa kwa nta.
 
 ##
-Lakini, kijana mmoja
-alitamani kwenda nje
-wakati wa mchana.
+Lakini, kijana mmoja alitamani kwenda nje wakati wa mchana.
 
 ##
-Siku moja tamaa ya
-kwenda nje ikazidi.
-Wenzake wakamwonya
-asiende juani.
-Lakini, hakusikia.
+Siku moja tamaa ya kwenda nje ikazidi. Wenzake wakamwonya asiende juani. Lakini, hakusikia.
 
 ##
-Aliyeyuka kwa sababu
-joto lilikuwa kali.
+Aliyeyuka kwa sababu joto lilikuwa kali.
 
 ##
-Watoto wa nta
-walihuzunika walipoona
-kaka yao akiyeyuka.
+Watoto wa nta walihuzunika walipoona kaka yao akiyeyuka.
 
 ##
-Wakapanga jambo
-fulani.
-Walichukua nta
-iliyoyeyuka
-wakatengeza ndege.
+Wakapanga jambo fulani. Walichukua nta iliyoyeyuka wakatengeza ndege.
 
 ##
-Wakamweka ndege
-huyo juu ya mlima
-mrefu.
+Wakamweka ndege huyo juu ya mlima mrefu.
 
 ##
-Jua lilipochomoza
-asubuhi, akapeperuka
-akiimba kwa furaha.
+Jua lilipochomoza asubuhi, akapeperuka akiimba kwa furaha.
 
 ##
 * License: [CC-BY]

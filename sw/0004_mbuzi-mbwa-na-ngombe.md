@@ -1,67 +1,28 @@
-# Mbuzi, Mbwa na Ng’ombe
+# Mbuzi, Mbwa na Ng'ombe
 
 ##
-Mbuzi, Mbwa na
-Ng’ombe walikuwa
-marafiki wakubwa.
-Siku moja walienda
-safari kwa teksi.
+Mbuzi, Mbwa na Ng'ombe walikuwa marafiki wa karibu sana. Siku moja walisafiri kwa teksi.
 
 ##
-Walipofika mwisho wa
-safari yao, dereva
-aliwauliza walipe nauli
-zao.
-Ng’ombe alilipa nauli
-yake.
+Walipofika mwisho wa safari yao, dereva aliwaomba walipe nauli zao. Ng'ombe alilipa nauli yake.
 
 ##
-Mbwo alilipa zaidi
-kidogo kwa sababu
-hakuwa na kiasi kamili
-cha pesa.
+Mbwa alilipa zaidi kidogo kwa sababu hakuwa na pesa taslimu.
 
 ##
-Dereva alikuwa karibu
-kumrejeshea Mbwa
-pesa zake zilizosalia
-wakati Mbuzi
-alipotoroka bila kulipa
-chochote.
+Dereva alipokaribia kumpa Mbwa chenji yake, Mbuzi alitoroka bila kulipa chochote.
 
 ##
-Dereva alikasirika sana.
-Aliondoka huku
-akiendesha gari bila
-kumrudishia Mbwa pesa
-zake zilizobaki.
+Dereva alikasirika sana. Aliondoka bila kumrudishia Mbwa chenji yake.
 
 ##
-Hiyo ndiyo sababu, hata
-leo Mbwa hukimbia
-kuelekea gari akiwa na
-nia ya kuangalia ndani
-ili kumpata dereva aliye
-na pesa zake zilizosalia.
+Hiyo ndiyo sababu hadi leo Mbwa hukimbiza magari ili achungulie ndani kuona kama atampata dereva mwenye chenji yake.
 
 ##
-Mbuzi naye hutoroka
-anaposikia mlio wa gari.
-Anaogopa kushikwa
-kwa kukosa kulipa nauli
-yake.
+Mbuzi hukimbia anaposikia mlio wa gari. Anaogopa atakamatwa kwa kutolipa nauli.
 
 ##
-Na Ng’ombe
-hashughuliki gari linapo
-kuja.
-Ng’ombe huchukuwa
-muda wake kupita
-barabara kutoka
-upande mmoja hadi
-mwingine.
-Anajua kuwa alilipa
-nauli yake kamili!
+Na Ng'ombe hababaiki gari likiwa linakuja. Ng'ombe huvuka barabara bila wasiwasi kwa sababu anajua alilipa nauli yake yote.
 
 ##
 * License: [CC-BY]
