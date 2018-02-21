@@ -40,7 +40,7 @@ Baba yangu alisimama na kusema, "Tunahitaji kusaidiana kutatua matatizo yetu."
 Juma, mtoto wa miaka minane aliyekuwa amekaa kwenye tawi la mti, alisema kwa sauti, "Naweza kusaidia na usafi."
 
 ##
-Mwanamke mmoja alisema, "Sisi wanawake tunaweza kuungana na kupanda chakula."
+Mwanamke mmoja alisema, "Sisi wanawake tunaweza kuungana na kuotesha chakula."
 
 ##
 Mwanamume mwingine alisimama na kusema, "Wanaume watachimba kisima cha maji."
