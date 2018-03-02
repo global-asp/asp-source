@@ -49,6 +49,7 @@ ISO code | Language Name
 [keo](https://github.com/global-asp/asp-source/tree/master/keo) | Kakwa
 [ki](https://github.com/global-asp/asp-source/tree/master/ki) | Gikuyu
 [kln](https://github.com/global-asp/asp-source/tree/master/kln) | Kalenjin
+[koo](https://github.com/global-asp/asp-source/tree/master/koo) | Lukhonzo
 [kpz](https://github.com/global-asp/asp-source/tree/master/kpz) | Sabinyi
 [kr](https://github.com/global-asp/asp-source/tree/master/kr) | Kanuri
 [laj](https://github.com/global-asp/asp-source/tree/master/laj) | Leblango
