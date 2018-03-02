@@ -1,4 +1,4 @@
-# Inkoko N’Agaca
+# Inkoko N'Agaca
 
 ##
 Kera habayeho Inkoko n'Agaca bikaba inshuti magara. Byabanaga n'izindi nyoni mu mahoro asesuye. Ntan'umwe muri bombi washoboraga kuguruka.
