@@ -73,7 +73,7 @@ changu,” alimwambia Tai.
 “Kikapu chako? Kikapu hiki ni changu! Nilikipata hapo
 pembeni mwa barabara!”
 Anansi hakuweza kuamini masikio yake! “Ni changu,
-nakwambia!’
+nakwambia!'
 
 ##
 Akiwa amekasirika, Anansi alienda kushtaki wizi huo

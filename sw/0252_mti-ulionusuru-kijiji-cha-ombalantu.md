@@ -31,37 +31,37 @@ anyamaze. Mbona anyamaze? Hapo karibu, kulikuwa na kundi la
 vijana waliokuwa wakipumzika. Walibeba mishale na nyuta... na
 mikuki! Thaimi aliweza kusikia sauti zao.
 "Angula," Thaimi alimwita kwa sauti ya chini. “Wanaume hao ni
-wezi wa mifugo. Wamekuja kuiba ng’ombe wetu na kuchoma
+wezi wa mifugo. Wamekuja kuiba ng'ombe wetu na kuchoma
 nyumba zetu. Njoo haraka. Lazima tukimbie nyumbani
 3 waliondoka polepole kutoka
 tukawatahadharishe wanakijiji.” Basi
 
 ##
 Walipokaribia kijijini walikutana na mjomba wao. Alikuwa akienda
-kunywesha ng’ombe maji mtoni. Thaimi alimwita kwa sauti,
+kunywesha ng'ombe maji mtoni. Thaimi alimwita kwa sauti,
 “Mjomba, kimbia, kimbia! Kuna wanaume wanaokuja kuiba
-ng’ombe na kutuchomea nyumba.”
+ng'ombe na kutuchomea nyumba.”
 Mjomba alimrudisha ng'ombe kijijini.
 Na kwa mbali, Thaimi alimwona Shangazi shambani akilima
 akamwita, “Shangazi, kimbia, kimbia!” Wanume wanakuja kuiba
-ng’ombe wetu na kuchoma nyumba zetu!”
+ng'ombe wetu na kuchoma nyumba zetu!”
 Shangazi alichukua jembe lake, akamchukuwa mtoto aliyekuwa
 akilala na kisha akatoroka kurudi kijijini.
 Kisha Thaimi akamwona babu yake. Alikuwa akichechemea
 kandokando mwa barabara akimbebesha punda nafaka.
 Akamwita kwa sauti, “ Babu, kimbia, kimbia, wanaume wanakuja
-kuiba ng’ombe wetu na kuchoma nyumba zetu.” Babu alipiga
+kuiba ng'ombe wetu na kuchoma nyumba zetu.” Babu alipiga
 punda akaenda mbio kuelekea kijijini.
 
 ##
 Basi Thaimi na ndugu yake wakafika kijijini. Akawaita watu wote
 kwa sauti, “Kimbieni, kimbieni. Kuna wanaume wanaokuja kuiba
-ng’ombe wetu na kuchoma nyumba zetu!”
+ng'ombe wetu na kuchoma nyumba zetu!”
 Wanakijiji wakahofu sana. Wakakimbia hapa na pale kwa
 kuchanganyikiwa kama kundi la mchwa lililokanyagwa na
-ng’ombe.
+ng'ombe.
 Hawakujua mahali pa kujificha wala hawakujua la kufanya.
-Wangeficha ng’ombe wao wapi?
+Wangeficha ng'ombe wao wapi?
 Wangeficha nafaka zao wapi?
 Wangejificha wapi?
 Thaimi aliogopa sana. Akakumbuka kitu. Alikumbuka mahali

@@ -1,7 +1,7 @@
 # Khalai azungumza na mimea
 
 ##
-Khalai ni msichana mwenye umri wa miaka saba. Jina lake lina maana ya ‘aliye mzuri' katika lugha yake ya Lubukusu.
+Khalai ni msichana mwenye umri wa miaka saba. Jina lake lina maana ya 'aliye mzuri' katika lugha yake ya Lubukusu.
 
 ##
 Khalai anaamka na kuongea na mmea mchanga wa Mchungwa, "Tafadhali mti wa Mchungwa, kua mkubwa uzae machungwa mengi mabivu."

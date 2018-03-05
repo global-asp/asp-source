@@ -6,7 +6,7 @@ Ndovu na Sungura
 walikuwa marafiki
 wakubwa sana.
 Walikuwa na ngamia,
-ng’ombe na kondoo
+ng'ombe na kondoo
 wengi.
 
 ##

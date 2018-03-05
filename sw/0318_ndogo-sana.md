@@ -11,9 +11,9 @@
 “Sela anaweza kuitumia siketi yako.”
 
 ##
-“Angalia long’i yangu. Ni ndogo sana,” Nelima anasema.
+“Angalia long'i yangu. Ni ndogo sana,” Nelima anasema.
 “Kweli ni ndogo sana.” Mama anasema.
-“Sela anaweza kuitumia long’i yako.”
+“Sela anaweza kuitumia long'i yako.”
 
 ##
 “Angalia T-shati yangu. Ni ndogo sana,” Nelima alisema.

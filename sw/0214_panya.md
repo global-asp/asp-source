@@ -5,7 +5,7 @@ Hapo awali palikuwa na
 panya wawili.
 Mmojawao aliishi
 kwenye nyika. Would
-say ‘Mmoja wao’
+say 'Mmoja wao'
 
 ##
 Panya mwingine aliishi
@@ -17,11 +17,11 @@ aliyeishi katika nyumba
 alimwambia panya wa
 nyika, “wewe chakula
 chako si kizuri, usingizi
-wako umejaa mang’
-amung’ amu huku
+wako umejaa mang'
+amung' amu huku
 mvua ukikulowesha.”
 Would write it
-‘mang’amung’amu’
+'mang'amung'amu'
 
 ##
 “Lakini sisi, tunalala
@@ -37,7 +37,7 @@ hii hii usiku,” akajibu
 panya wa nyika. “Niko
 tayari kama mrija
 uanosubiri kinwaji.”
-Would write it ‘kinywaji’
+Would write it 'kinywaji'
 
 ##
 Wakati huo huo
@@ -49,7 +49,7 @@ changu, wataona cha
 kutema kuni!” Ndipo
 akawategea mtego
 uliyojaa sukari. Would
-say ‘mtema’
+say 'mtema'
 
 ##
 Panya waliingia nyumbani kula

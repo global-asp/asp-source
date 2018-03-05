@@ -14,7 +14,7 @@ Upepo ulibishana na miti.
 Miti ilikasirika mno ikairusha majani yake kila mahali.
 
 ##
-Anga lilianza kunung’unika.
+Anga lilianza kunung'unika.
 
 Lilibadilika rangi na kuwa kijivu.
 
@@ -49,10 +49,10 @@ Yalienda zake kucheza.
 ##
 Miche midogo midogo ilichipuka ardhini na kusema, “Habari.”
 
-Dunia nzima iling’ara.
+Dunia nzima iling'ara.
 
 ##
-Mama Jua alitoa mng’aro wake kila mahali.
+Mama Jua alitoa mng'aro wake kila mahali.
 
 Alitabasamu na kusema, “Nilikuelezeni kuwa ningerudi."
 

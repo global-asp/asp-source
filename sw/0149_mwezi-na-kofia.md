@@ -9,7 +9,7 @@ Papa alimnunulia Chintu
 miwani ya kupendeza.
 Mama alininunulia kofia
 ya rangi ya samawati
-iliyong’aa mno.
+iliyong'aa mno.
 Motto alipata
 peremende.
 
@@ -50,7 +50,7 @@ Baada ya kutoka shule
 siku iliyofuata,
 mamangu alinipa kofia
 nyingine nyekundi
-iliyong’ara mano.
+iliyong'ara mano.
 “Mwezi uliituma,”
 mama alisema.
 

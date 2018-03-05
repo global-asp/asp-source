@@ -1,7 +1,7 @@
-# Kisasi cha Ndege-asali
+# Kisasi cha Kiongozi
 
 ##
-Hii ni hadithi ya Ngede, Ndege-asali, na mvulana mmoja mlafi anayeitwa Gingile. Siku moja Gingile alipokuwa akiwinda alisikia mwito wa Ngede. Kinywa chake kilianza kutokwa mate kwa kufikiria juu ya asali. Alisimama, akasikiliza na kuangalia vizuri hadi alipomwona yule ndege akiwa ametua kwenye matawi yaliyokuwa juu ya kichwa chake. "Chitik-chitik-chitik," yule ndege mdogo alitatarika aliporuka na kutua kwenye mti uliokuwa karibu, tena na mwingine. "Chitik-chitik-chitik," aliita, huku akinyamaza na kuhakikisha kwamba Gingile alikuwa amemfuata.
+Hii ni hadithi ya Ngede, Kiongozi, na mvulana mmoja mlafi anayeitwa Gingile. Siku moja Gingile alipokuwa akiwinda alisikia mwito wa Ngede. Kinywa chake kilianza kutokwa mate kwa kufikiria juu ya asali. Alisimama, akasikiliza na kuangalia vizuri hadi alipomwona yule ndege akiwa ametua kwenye matawi yaliyokuwa juu ya kichwa chake. "Chitik-chitik-chitik," yule ndege mdogo alitatarika aliporuka na kutua kwenye mti uliokuwa karibu, tena na mwingine. "Chitik-chitik-chitik," aliita, huku akinyamaza na kuhakikisha kwamba Gingile alikuwa amemfuata.
 
 ##
 Baada ya nusu saa, walifikia mti wa mtini. Ngede aliruka kama mwenda wazimu kutoka tawi moja hadi jingine. Kisha alitulia kwenye tawi moja na kupindua kichwa chake kumwangalia Gingile kama kusema, "Iko hapa! Njoo sasa! Kwa nini unachukua muda mrefu?" Gingile hakuweza kuona nyuki wowote kutoka chini ya mti, lakini alimwamini Ngede.
@@ -16,7 +16,7 @@ Muda mfupi baadaye, aliweza kusikia sauti ya nyuki wakijibidisha. Walikuwa wakii
 Nyuki walipokuwa nje, Gingile aliingiza mikono yake ndani ya kiota. Alitoa kipande kikubwa cha sega kilichokuwa kinadondoka urojo mwingi wa asali nyeupe. Aliiweka taratibu ndani ya mkoba aliokuwa nao na kuanza kushuka kutoka mtini.
 
 ##
-Ngede alishuhudia kila kitu Gingile alichofanya. Alikuwa anamsubiri abakishe kiasi kidogo cha asali kama shukurani kwa Ndege-asali. Ngede aliruka kutoka tawi hadi tawi huku akikaribia chini. Mwishowe Gingile alifika chini ya mti. Ngede alitua kwenye mwamba karibu na mvulana huyo na kusubiri zawadi yake.
+Ngede alishuhudia kila kitu Gingile alichofanya. Alikuwa anamsubiri abakishe kiasi kidogo cha asali kama shukurani kwa Kiongozi. Ngede aliruka kutoka tawi hadi tawi huku akikaribia chini. Mwishowe Gingile alifika chini ya mti. Ngede alitua kwenye mwamba karibu na mvulana huyo na kusubiri zawadi yake.
 
 ##
 Lakini Gingile alizima moto, akachukua mkuki wake na kuanza safari kwenda nyumbani bila kumjali ndege yule. Ngede aliita kwa hasira, "USH-ndi! USH-ndi!" Gingile alisimama, akamkodolea macho yule ndege kisha akacheka kwa sauti. "Unataka asali kidogo, rafiki yangu? Ha! Lakini ni mimi niliyefanya kazi yote pamoja na kuumwa na nyuki. Kwa nini nikugawie hii asali tamu?" Baada ya kusema hivyo, aliondoka na kwenda zake. Ngede alikasirika sana! Hivi sivyo alivyostahili kutendewa! Ila atalipiza kisasi.
@@ -28,10 +28,10 @@ Siku moja baada ya majuma machache, Gingile tena alisikia mwito wa asali kutoka 
 Gingile alipopanda, alishangaa kwa nini hakusikia sauti ya nyuki. "Pengine mzinga umo ndani zaidi katika mti," alifikiria. Alipanda tena juu ya tawi jingine. Lakini badala ya mzinga, alikuwa alijikuta amekodolewa macho na Chui! Chui alikuwa na hasira sana kwa sababu usingizi wake ulikuwa umekatizwa. Aliyafanya macho yake kuwa madogo, akaufungua mdomo wake na kuonyesha meno yake makubwa na makali.
 
 ##
-Kabla ya Chui kumvamia Gingile, alishuka chini haraka. Katika haraka hiyo, aliteleza na kuanguka kwa kishindo huku akiumia mguu wake. Alirukaruka akienda kwa haraka alivyoweza. Kwa bahati nzuri, Chui alikuwa bado amelala kwa hivyo hakumfukuza. Ngede, Ndege-asali alikuwa amelipiza kisasi chake na Gingile alikuwa amejifunza funzo lake.
+Kabla ya Chui kumvamia Gingile, alishuka chini haraka. Katika haraka hiyo, aliteleza na kuanguka kwa kishindo huku akiumia mguu wake. Alirukaruka akienda kwa haraka alivyoweza. Kwa bahati nzuri, Chui alikuwa bado amelala kwa hivyo hakumfukuza. Ngede, Kiongozi alikuwa amelipiza kisasi chake na Gingile alikuwa amejifunza funzo lake.
 
 ##
-Kwa hivyo wakati watoto wa Gingile wanaposikia hadithi ya Ngede, wanamheshimu yule ndege. Kila wanapotoa asali, huhakikisha kwamba wanamwachia Ndege-asali fungu kubwa!
+Kwa hivyo wakati watoto wa Gingile wanaposikia hadithi ya Ngede, wanamheshimu yule ndege. Kila wanapotoa asali, huhakikisha kwamba wanamwachia Kiongozi fungu kubwa!
 
 ##
 * License: [CC-BY]

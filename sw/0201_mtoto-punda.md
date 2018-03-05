@@ -40,13 +40,13 @@ Wakati aliposimama, ilikuwa ni usiku, na alikuwa amepotea. "Hee haw?" alinong'on
 Punda aliamka na kumkuta mzee mmoja wa ajabu akimtazama. Akamwangalia mzee yule machoni na akaanza kuhisi ishara ya matumaini.
 
 ##
-Punda alienda kushi na mzee yule, na mzee alimfundisha mbinu nyingi za kuishi. Punda alisikiliza na kujifunza, na mzee vivyo hivyo pia. Walisaidiana na kucheka pamoja.
+Punda alienda kuishi na mzee yule, na mzee alimfundisha mbinu nyingi za kuishi. Punda alisikiliza na kujifunza, na mzee vivyo hivyo pia. Walisaidiana na kucheka pamoja.
 
 ##
 Asubuhi moja, mzee alimwomba Punda ambebe hadi kwenye kilele cha mlima.
 
 ##
-Walipofika juu kwenye mawingu, walipatwa usingizi. Punda akaota kuwa mama yake alikuwa mgonjwa na alimhitaji. Na alipoamka...
+Walipofika juu kwenye mawingu, walipatwa na usingizi. Punda akaota kuwa mama yake alikuwa mgonjwa na alimhitaji. Na alipoamka...
 
 ##
 ...mawingu yalikuwa yametoweka pamoja na rafiki yake, yule mzee.

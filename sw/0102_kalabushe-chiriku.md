@@ -10,7 +10,7 @@ hakusikia.
 
 ##
 Siku moja, shangaziye
-Kalabushe, aliyeishi ng’ambo ile
+Kalabushe, aliyeishi ng'ambo ile
 ya kijiji cha Kalabushe, aliugua.
 
 ##

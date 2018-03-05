@@ -30,7 +30,7 @@ wakiangalia angani.
 ##
 Kobole alisema,
 “Ni shuka maridadi
-inaning’inia kutoka
+inaning'inia kutoka
 angani.”
 Neno alisema,
 “La! Ni mtu anamwaga

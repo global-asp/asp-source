@@ -2,7 +2,7 @@
 
 ##
 Hapo zamani za kale, paliishi mzee aliyekuwa tajiri
-wa kila kitu – shamba kubwa lenye rutuba, ng’ombe,
+wa kila kitu – shamba kubwa lenye rutuba, ng'ombe,
 na mbuzi.
 Lakini jinsi alivyokuwa akizeeka ndivyo alivyokuwa
 akihuzunika kwani alikosa kitu fulani.
@@ -99,7 +99,7 @@ Asije kukusahau.
 kwa hivyo, walienda tena mara ya tatu wakatua
 mabegani mwake.
 Walipokuwa wakiimba, kila njiwa alikuwa akidona na
-kumng’oa jicho.
+kumng'oa jicho.
 Punde si punde, akageuka na kuwa sanamu.
 Miguu na mikono yake ilidondoka.
 Kichwa vilevile kilianguka. Akaanguka chini, pu!

@@ -75,7 +75,7 @@ Anansi alijaribu kujizamisha ndani ya mto lakini,
 wapi! Yeye alikuwa buibui wala sio kasa.
 Alishindwa kupiga mbizi kabisa. Kila mara alikuwa
 akielea juu ya maji.
-Alijaribu kuruka majini tena na tena lakini ng’o!
+Alijaribu kuruka majini tena na tena lakini ng'o!
 Hakufanikiwa kukifikia chakula chini ya maji.
 
 ##

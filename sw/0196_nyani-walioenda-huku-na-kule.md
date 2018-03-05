@@ -49,7 +49,7 @@ na kuwa salama.
 Punde watoto walikuwa wepesi
 wa kupanda miamba na
 kutafuta matunda mitini.
-Wangening’inia kwenye matawi
+Wangening'inia kwenye matawi
 kama vile kima hufanya.
 
 ##

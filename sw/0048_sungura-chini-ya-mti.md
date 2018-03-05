@@ -68,8 +68,8 @@ Basi punda pia akaanza
 kukimbia.
 
 ##
-Walikutana na ng’ombe.
-Ng’ombe aliuliza, “kwa nini
+Walikutana na ng'ombe.
+Ng'ombe aliuliza, “kwa nini
 mnakimbia?” Punda alijibu,
 “sijui nilisikia alivyosema farasi,
 naye hajui. Yeye alisikia mbwa
@@ -81,14 +81,14 @@ ikipiga makelele, “kimbia
 sungura, kimbia!”
 
 ##
-Ng’ombe akapata wasiwasi na
+Ng'ombe akapata wasiwasi na
 pamoja na wengine akaanza
 kukimbia.
 
 ##
 Walikutana na paka. Paka
 aliuliza, kwa nini mnakimbia?”
-Ng’ombe alijibu. “sijui nilisikia
+Ng'ombe alijibu. “sijui nilisikia
 tu alivyosema punda naye
 hajui. Yeye alimsikia farasi naye
 farasi hajui, alimsikia mbwa

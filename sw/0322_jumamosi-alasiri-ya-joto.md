@@ -22,7 +22,7 @@ Bontle.
 karibu na maji,”
 
 ##
-Lakini kucheza ‘kati’ ni kazi ya
+Lakini kucheza 'kati' ni kazi ya
 joto hata kama uko chini ya miti
 karibu na mto.
 Kwanza tulivua viatu vyetu.
@@ -60,10 +60,10 @@ Tuliangalia juu ya vichaka.
 Tuliangalia kila mahali.
 
 ##
-Ng’ombe walikuwa wakifurahia
+Ng'ombe walikuwa wakifurahia
 nyasi tamu karibu na mto.
 Bontle aliangalia juu, “Ona yule
-ng’ombe! Nini kilicho mdomoni
+ng'ombe! Nini kilicho mdomoni
 mwake?”
 “Anakula ua jekundu,” Lerato
 alisema.
@@ -71,7 +71,7 @@ alisema.
 ##
 “Sio ua jekundu,” Mpho alipiga
 kelele. “Ni shati lako!”
-Tulimwangalia ng’ombe
+Tulimwangalia ng'ombe
 mwingine.
 Alikuwa anakula kitu cha
 kisamwati.
@@ -82,8 +82,8 @@ kelele Bontle.
 Tulienda nyumbani tukiwa tumevaa tu suruali
 zetu tukitetemeka. Lakini sio tu kwa ajili ya
 baridi.
-“Walikuwa ng’ombe,” tulilia.
-“Ng’ombe walikula nguo zetu.”
+“Walikuwa ng'ombe,” tulilia.
+“Ng'ombe walikula nguo zetu.”
 Lakini Mme alituamini?
 Punde kidogo matako yetu yalikuwa na joto
 sana. Lakini sio kwa ajili ya jua.

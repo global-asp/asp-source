@@ -1,10 +1,10 @@
-# Ng’ombe wetu Pendo
+# Ng'ombe wetu Pendo
 
 ##
 Jina langu ni Ndalo.
 
 ##
-Baba yangu humfuga ng’ombe aitwaye Pendo.
+Baba yangu humfuga ng'ombe aitwaye Pendo.
 
 ##
 Pendo hupenda kula nyasi siku nzima.

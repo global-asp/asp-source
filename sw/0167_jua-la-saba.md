@@ -5,7 +5,7 @@ Hapo zamani za kale
 kulikuwa na jua saba
 huko juu.
 Miale mikali ya jua hizo
-iling’aa duniani hadi
+iling'aa duniani hadi
 binadamu wakashindwa
 kustahimili.
 
@@ -99,7 +99,7 @@ Jogoo aliwika tena kwa nguvu zaidi,
 zaidi.
 Jogoo akawika kwa mara ya tatu,
 “KOOKOODoKOO ...” jua likapanda
-juu zaidi na kung’aa.
+juu zaidi na kung'aa.
 Kukawa na mwangza kila mahali.
 Wanyama wote walifurahia.
 Nao binadamu wakaridhika kwa

@@ -87,7 +87,7 @@ ubawani.
 Ndege wengine walikuwa
 wameangalia yote haya na
 walikuwa na hasira.
-Walimsubiri, tayari kuyang’oa
+Walimsubiri, tayari kuyang'oa
 manyoya yake yote.
 
 ##

@@ -117,10 +117,10 @@ barabarani.
 Miongoni mwa watu wale walikuwa
 watumishi wa mwanamfalme.
 Walimwita mkulima wakamhonga
-na pesa pamoja na ng’ombe
+na pesa pamoja na ng'ombe
 akikubali kumwachia msichana.
 Bila ya kusita hata kwa dakika moja
-akakubali pesa pamoja na ng’ombe
+akakubali pesa pamoja na ng'ombe
 akaenda zake peke yake.
 
 ##

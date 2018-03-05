@@ -1,12 +1,12 @@
-# Vituko vya Ng’ombe Shujaa
+# Vituko vya Ng'ombe Shujaa
 
 ##
-Huyu ni ng’ombe.
+Huyu ni ng'ombe.
 Ng'ombe ni mtulivu.
 
 ##
 Mchana yeye ni
-ng’ombe wa kawaida.
+ng'ombe wa kawaida.
 
 ##
 Hupeperusha tiara.
@@ -16,7 +16,7 @@ Au kucheza mpira.
 
 ##
 Usiku ukifika,
-Ni Ng’ombe Shujaa.
+Ni Ng'ombe Shujaa.
 
 ##
 Yeye huokoa maisha,
@@ -29,7 +29,7 @@ uhalifu.
 Pia nawe ukifunga macho yako kabisa, na ukitamani...
 
 ##
-Huenda ng’ombe akakutembelea pia!
+Huenda ng'ombe akakutembelea pia!
 
 ##
 

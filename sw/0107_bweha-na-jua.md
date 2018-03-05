@@ -29,10 +29,10 @@ Labda huyu ndiye mke wake?!
 
 ##
 “U-mzuri mno,” Bweha aliueleza
-mng’aro.
+mng'aro.
 “Lakini, wewe ni nani? Mbona uko
 peke yako?”
-“Mimi ni jua,” mng’aro ulijibu.
+“Mimi ni jua,” mng'aro ulijibu.
 “Familia yangu waliniacha hapa
 wakati walihama.
 Hawakutaka kunibeba maanake

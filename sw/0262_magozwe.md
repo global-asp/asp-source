@@ -4,7 +4,7 @@
 Katika jiji la shughuli nyingi la Nairobi, mbali na maisha ya nyumbani, paliishi kikundi cha wavulana wasiokuwa na makazi. Waliikaribisha kila siku kama ilivyokuja. Asubuhi moja wa wavulana hao walikuwa wanaweka mikeka yao baada ya kulalia lami baridi. Walikoka moto karibu na biwi la takataka kwa kutumia makaratasi ili kufukuzia mbali baridi. Miongoni mwa wavulana hao alikuwa Magozwe, mdogo kwa wote.
 
 ##
-Wazazi wa Magozwe walipofariki, alikuwa na umri wa miaka mitano pekee na alienda kuishi na mjomba wake. Mtu huyu hakumjali mtoto. Hakumpatia Magozwe chakula cha kutosha. Alimfanyisha Magozwwe kazi nzito za nyumbani.
+Wazazi wa Magozwe walipofariki, alikuwa na umri wa miaka mitano pekee na alienda kuishi na mjomba wake. Mwanamume huyo hakumjali mtoto. Hakumpatia Magozwe chakula cha kutosha. Alimfanyisha Magozwe kazi nzito za nyumbani.
 
 ##
 Magozwe alipolia au kulalamika au kumdadisi, mjomba wake alimpiga. Magozwe alipouliza kama angeenda shule, mjomba wake alimpiga na kusema, "Usinisumbue na hayo, wewe ni mjinga huwezi kujifunza chochote." Kwa hivyo baada ya miaka mitatu ya kunyanyaswa, Magozwe alitoroka kutoka kwa mjomba wake na kuanza kuishi mitaani.
@@ -46,7 +46,7 @@ Kwa hivyo, Magozwe alihamia katika chumba ndani ya nyumba ya paa la kijani kibic
 Magozwe alianza kwenda shule na haikuwa rahisi. Mara nyingi alitaka kukata tamaa. Lakini alipofikiria juu ya rubani na mchezaji kandanda maarufu aliosoma katika vitabu vya hadithi, alivumilia.
 
 ##
-Magozwe alikuwa ameketi uani nje ya nyumba ya paa la kijani kibichi akisoma kitabu cha shule. Tomaso alikuja na kukaa karibu naye. "Hadithi inahusu nini? Tomaso aliuliza. "Inahusu mvulana ambaye ni mwalimu," Magozwe alijibu. "Jina la mvulana ni nani?" Tomaso aliuliza tena. "Jina lake ni Magozwe," Magozwe alisema huku akitabasamu.
+Magozwe alikuwa ameketi uani nje ya nyumba ya paa la kijani kibichi akisoma kitabu cha shule. Tomaso alikuja na kukaa karibu naye. "Hadithi inahusu nini?" Tomaso aliuliza. "Inahusu mvulana ambaye ni mwalimu," Magozwe alijibu. "Jina la mvulana ni nani?" Tomaso aliuliza tena. "Jina lake ni Magozwe," Magozwe alisema huku akitabasamu.
 
 ##
 * License: [CC-BY]

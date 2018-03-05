@@ -10,7 +10,7 @@ kichaka akitafuta chakula.
 Aliiona bustani kubwa iliyojaa
 zabibu mbivu.
 Aliona kichala cha zabibu
-kikining’inia kutoka tawi moja.
+kikining'inia kutoka tawi moja.
 
 ##
 “Hizo zinaonekana tamu kweli

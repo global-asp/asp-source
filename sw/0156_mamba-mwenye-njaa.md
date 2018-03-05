@@ -1,10 +1,10 @@
 # Mamba mwenye njaa
 
 ##
-Wakati mmoja palikuwa na mamba mwenye njaa.
+Hapo zamani, palikuwa na mamba mwenye njaa.
 
 ##
-Alitafuta chakula pole pole tena kimya. Halafu …
+Alitafuta chakula taratibu na kwa ukimya. Halafu …
 
 ##
 POO!!! Mamba anashambulia!
@@ -13,7 +13,7 @@ POO!!! Mamba anashambulia!
 Baada ya hapo hana njaa tena, na anafurahi.
 
 ##
-Hadi anapohisi njaa tena.
+Hadi atakapopatwa na njaa tena.
 
 ##
 * License: [CC-BY]

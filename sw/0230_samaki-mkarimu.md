@@ -33,7 +33,7 @@ Alizoea kukaa nje ya boma lake na kuangalia mifugo wake wakila
 nyasi uwanjani. Alihisi kuwa ametosheka sana na mali yake.
 Wengi wa wafanyi kazi wa Mpunzi walifagia boma lake, na
 kuwaangalia mbuzi, farasi, mifugo na kondoo wake.
-Waliwakama ng’ombe maziwa ambayo Mpunzi aliwauzia wanakijiji
+Waliwakama ng'ombe maziwa ambayo Mpunzi aliwauzia wanakijiji
 wengine.
 
 ##
@@ -46,7 +46,7 @@ Nosisa na wafanyi kazi.
 Nosisa alirauka mapema kila siku kumtayarishia chai
 mamake wa kambo.
 Alimfagilia chumba chake na kumpikia, lakini
-mamake wa kambo alinung’unika kuwa chakula
+mamake wa kambo alinung'unika kuwa chakula
 chake kilikuwa baridi, kuwa chai yake ilikuwa hafifu,
 na kwamba chumba chake hakikuwa kisafi.
 

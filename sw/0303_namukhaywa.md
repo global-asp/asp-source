@@ -3,13 +3,13 @@
 ##
 Hapo zamani katika kijiji cha
 Elunyikho, paliishi mwanamme
-kwa jina Ndong’a na mkewe
+kwa jina Ndong'a na mkewe
 Namukhaywa. Walikuwa na
 watoto sita, wote wasichana.
 
 ##
 Namukhaywa alipokuwa na
-mimba ya saba, Ndong’a
+mimba ya saba, Ndong'a
 alimwonya, “Ukimzaa
 msichana, nitakuua. Lakini
 ukinipa mtoto mvulana,
@@ -42,7 +42,7 @@ mumewe.
 
 ##
 Kwa fahari, alimwonyesha
-Ndong’a mtoto mvulana.
+Ndong'a mtoto mvulana.
 Alifurahi sana na kuwaita
 wanakijiji kusherehekea
 kuzaliwa kwa mtoto wake

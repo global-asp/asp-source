@@ -10,10 +10,10 @@ Jua linang'aa.
 Kuna upepo.
 
 ##
-Kuna mawingu mazito.
+Kuna mawingu.
 
 ##
-Ni baridi.
+Kuna baridi.
 
 ##
 Mvua inanyesha.
@@ -22,7 +22,7 @@ Mvua inanyesha.
 Kuna ngurumo za radi.
 
 ##
-Naona upinde.
+Naona upinde wa mvua.
 
 ##
 * License: [CC-BY-NC]
