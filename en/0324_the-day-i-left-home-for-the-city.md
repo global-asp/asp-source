@@ -28,7 +28,7 @@ A few passengers bought drinks, others bought small snacks and began to chew. Th
 These activities were interrupted by the hooting of the bus, a sign that we were ready to leave. The tout yelled at the hawkers to get out.
 
 ##
-Hawkers pushed each other to make their way out of the bus. Some gave back change to the travelers. Others made last minute attempts to sell more items.
+Hawkers pushed each other to make their way out of the bus. Some gave back change to the travellers. Others made last minute attempts to sell more items.
 
 ##
 As the bus left the bus stop, I stared out of the window. I wondered if I would ever go back to my village again.
