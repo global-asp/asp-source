@@ -21,7 +21,7 @@ Wavulana wadogo waliranda randa kijijini na wengine walifanya kazi kwenye masham
 ##
 Upepo ulipovuma, ulipeperusha karatasi chafu na kuzifikisha mitini na uani.
 
-##21
+##
 Watu walikatwa na vipande vya chupa vilivyotupwa ovyo ovyo.
 
 ##
