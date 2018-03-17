@@ -12,7 +12,7 @@ préférée. Elle m'invitait souvent
 dans sa maison. Elle partageait
 avec moi ses petits secrets.
 Mais il y avait une chose qu'elle
-gardait secrète: L'endroit où elle
+gardait secrète : L'endroit où elle
 faisait murir les bananes.
 
 ##
@@ -20,7 +20,7 @@ Un jour, je vis un grand panier de
 paille placé au soleil devant la
 maison de grand-mère. Quand je lui
 ai demandé à quoi il servait, pour
-seule réponse, elle me dit: « C'est
+seule réponse, elle me dit : « C'est
 mon panier magique. » A côté du
 panier, il y avait plusieurs feuilles
 de bananier que grand-mère
@@ -28,7 +28,7 @@ retournait de temps en temps.
 J'étais curieuse. « A quoi servent ces
 feuilles, grand-mère ? » demandai-je.
 Mais pour seule réponse, elle me
-dit: « Ce sont mes feuilles
+dit : « Ce sont mes feuilles
 magiques. »
 
 ##
@@ -50,7 +50,7 @@ ni panier, ni bananes.
 « Grand-mère, où est le panier, où
 sont toutes les bananes, et où est ...
 « Mais pour seule réponse, elle me
-dit: « Ils sont dans mon lieu
+dit : « Ils sont dans mon lieu
 magique. » J'étais très déçue.
 
 ##

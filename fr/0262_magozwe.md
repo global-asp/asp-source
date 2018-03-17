@@ -11,7 +11,7 @@ Parmi ces jeunes garçons se trouvait Magozwe. C'était le plus jeune d'entre eu
 Quand Magozwe a perdu ses parents, il n'avait que cinq ans. Après leur décès, il alla s'installer avec son oncle, mais ce dernier n'avait pas une once d'affection pour Magozwe. Il ne lui donnait pas assez de nourriture et le faisait travailler le très dur.
 
 ##
-Si Magozwe avait le malheur de se plaindre ou de répliquer, son oncle le frappait. Quand Magozwe demandait s'il pouvait aller à l'école, son oncle le frappait de plus belle, lui disant: « Tu es trop stupide pour apprendre quoi que ce soit ».
+Si Magozwe avait le malheur de se plaindre ou de répliquer, son oncle le frappait. Quand Magozwe demandait s'il pouvait aller à l'école, son oncle le frappait de plus belle, lui disant : « Tu es trop stupide pour apprendre quoi que ce soit ».
 
 Après avoir supporté ce traitement pendant trois ans, Magozwe s'enfuit de chez son oncle et commença à vivre dans la rue.
 

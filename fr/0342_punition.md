@@ -52,7 +52,7 @@ Rahim ne se sent pas
 bien.
 
 ##
-Il gémit: « J'ai mal au
+Il gémit : « J'ai mal au
 ventre ! »
 
 ##
