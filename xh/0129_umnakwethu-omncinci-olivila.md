@@ -1,15 +1,13 @@
 # Umnakwethu Omncinci Olivila
 
 ##
-Ndiyavuko ndibase
-umlilo.
+Ndiyavuko ndibase umlilo.
 
 ##
 Ndibilisi amanzi.
 
 ##
-Ndikhethe inkuni
-zokubasa umlilo.
+Ndikhethe inkuni zokubasa umlilo.
 
 ##
 Ndizamise imbiza.
@@ -21,11 +19,9 @@ Ndishayele phantsi.
 Ndihlambe izitya.
 
 ##
-Kutheni mna ndisebenza nzima. . . .
+Kutheni mna ndisebenza nzima...
 
-##
-. . . elo xesha yena
-umnakwethu uyadlala?
+... elo xesha yena umnakwethu uyadlala?
 
 ##
 * License: [CC-BY-NC]

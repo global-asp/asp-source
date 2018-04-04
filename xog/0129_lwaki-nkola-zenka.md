@@ -1,12 +1,10 @@
 # Lwaki nkola zenka?
 
 ##
-Nzuuka naakuma
-omuliro mu ziiko.
+Nzuuka naakuma omuliro mu ziiko.
 
 ##
-Nfumba amaadhi ga
-buugi.
+Nfumba amaadhi ga buugi.
 
 ##
 Naayasaga enku.
@@ -23,9 +21,7 @@ Naanaaza amasowaani.
 ##
 Lwaki nkola zenka...
 
-##
-... nga muganda wange
-ali kuzaanha buzaanhe?
+... nga muganda wange ali kuzaanha buzaanhe?
 
 ##
 * License: [CC-BY-NC]

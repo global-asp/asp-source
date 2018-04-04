@@ -1,8 +1,7 @@
 # Lazy little brother
 
 ##
-I wake up and make
-fire.
+I wake up and make fire.
 
 ##
 I boil some water.
@@ -22,8 +21,7 @@ I wash the dishes.
 ##
 Why do I work so hard...
 
-... when my brother is
-busy playing?
+... when my brother is busy playing?
 
 ##
 * License: [CC-BY-NC]

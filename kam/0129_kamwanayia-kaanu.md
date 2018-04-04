@@ -1,8 +1,7 @@
 # Kamwanayia kaanu
 
 ##
-Nũkĩlaa na ngũvuva
-mwaki.
+Nũkĩlaa na ngũvuva mwaki.
 
 ##
 Nĩnĩtheũkasya kĩw’ũ.
@@ -20,11 +19,9 @@ Nĩnduutaa nyũmba.
 Nĩnthambasya mĩio.
 
 ##
-Why do I work so haNĩthũkũmaa mũno
-wanou nĩkĩ. . .
+Nĩthũkũmaa mũno wanou nĩkĩ...
 
-...na mwanayia ethiwa
-akwetye kuthaũka.
+...na mwanayia ethiwa akwetye kuthaũka.
 
 ##
 * License: [CC-BY-NC]

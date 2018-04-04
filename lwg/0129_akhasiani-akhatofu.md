@@ -1,8 +1,7 @@
 # Akhasiani akhatofu
 
 ##
-Embukhanga ne
-embwana omuliro.
+Embukhanga ne embwana omuliro.
 
 ##
 Endundumia amatsi.
@@ -22,9 +21,7 @@ Ne ndosia efikaye.
 ##
 Ekholanga emilimo nende amani mbu shi...
 
-##
-...omusiani wefu naye
-nabaya busa.
+... omusiani wefu naye nabaya busa.
 
 ##
 * License: [CC-BY-NC]

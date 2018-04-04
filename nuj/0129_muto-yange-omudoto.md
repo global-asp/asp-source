@@ -1,12 +1,10 @@
 # Muto yange omudoto
 
 ##
-Sisimuha naŋwana
-omuliro.
+Sisimuha naŋwana omuliro.
 
 ##
-Ni kena nga mbasa
-amaaji.
+Ni kena nga mbasa amaaji.
 
 ##
 Nga nasaaga ekwi.
@@ -15,8 +13,7 @@ Nga nasaaga ekwi.
 Nga kuyuga mu bi piiya.
 
 ##
-Nga saagula mu
-nyumba.
+Nga saagula mu nyumba.
 
 ##
 Noosa esaani.
@@ -24,9 +21,7 @@ Noosa esaani.
 ##
 Lwahiina tamba bugali tyo...
 
-##
-Ne muganda yange ni
-geholera gw'ohugudula.
+... ne muganda yange ni geholera gw'ohugudula.
 
 ##
 * License: [CC-BY-NC]

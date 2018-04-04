@@ -1,5 +1,4 @@
-# Mi ne nga anyapa
-'diyi
+# Mi ne nga anyapa 'diyi
 
 ##
 Mi nenga anyapa ‘diyi.
@@ -23,8 +22,7 @@ A'u yi wuu, “kilaki.”
 Ocoo ni wuu, “mbuu.”
 
 ##
-‘Ba anyapa ma tambapi
-ri ni wuu, “ciri”.
+‘Ba anyapa ma tambapi ri ni wuu, “ciri”.
 
 ##
 * License: [CC-BY-NC]

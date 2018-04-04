@@ -1,8 +1,7 @@
 # Wandayase omutiti omukara
 
 ##
-Ninyokha nabwana
-kumulilo.
+Ninyokha nabwana kumulilo.
 
 ##
 Nakhasia kamechi.
@@ -20,11 +19,9 @@ Neyao asi.
 Nasinga chisaani.
 
 ##
-Sikila sina nekhalabana lukani. . .
+Sikila sina nekhalabana lukani...
 
-##
-….ne wandayase
-kenyaa busa.
+... ne wandayase kenyaa busa.
 
 ##
 * License: [CC-BY-NC]

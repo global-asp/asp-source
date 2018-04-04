@@ -1,8 +1,7 @@
 # Nnake yo o botswa
 
 ##
-Ke dira molelo fa ke
-tsoga.
+Ke dira molelo fa ke tsoga.
 
 ##
 Ke bedisa metsi.
@@ -22,9 +21,7 @@ Ke tlhatswa dijana.
 ##
 Goreng ke bereka bokete jaana...
 
-##
-…fa nnake ene a
-tshameka.
+... fa nnake ene a tshameka.
 
 ##
 * License: [CC-BY-NC]

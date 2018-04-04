@@ -21,7 +21,7 @@ Elata ng'iboro lukimujet.
 ##
 Kotere nyo atiyaa ayong etich lokojokon...
 
-Toboliae lokaatokang.
+... toboliae lokaatokang.
 
 ##
 * License: [CC-BY-NC]

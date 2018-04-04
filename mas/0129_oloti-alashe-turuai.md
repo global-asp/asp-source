@@ -1,19 +1,16 @@
 # Olotí aláshe túrúáí
 
 ##
-Óre peê ainyotóto
-náínok enkímá.
+Óre peê ainyotóto náínok enkímá.
 
 ##
-Náílang'ílang enkáre
-náísújare.
+Náílang'ílang enkáre náísújare.
 
 ##
 Náíper ilkeék.
 
 ##
-Náíng'olíng'ol emotí
-ayíér endáa.
+Náíng'olíng'ol emotí ayíér endáa.
 
 ##
 Náor oltírén.
@@ -24,8 +21,7 @@ Náísuj intokitín.
 ##
 Káínyoo peê aás esíaai nabá injí ópeny?
 
-... amû egíra olálashe lái
-aigurán.
+... amû egíra olálashe lái aigurán.
 
 ##
 * License: [CC-BY-NC]

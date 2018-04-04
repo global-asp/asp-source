@@ -21,7 +21,6 @@ Weelashan dhaqaa.
 ##
 Maxaan aad ugu shaqeeyaa...
 
-##
 ... markuu walaalkey yar cayaar ku masquulsanyahay?
 
 ##

@@ -1,8 +1,7 @@
 # Ma adri gaa ovuo ru ri
 
 ##
-Ma enga o'dua ri si dika
-ma aci odu.
+Ma enga o'dua ri si dika ma aci odu.
 
 ##
 Ma yi dri.
@@ -20,10 +19,9 @@ Ma joale we.
 Ma afajo yi oji.
 
 ##
-Ma azi nga andekokoru `dini a`disi ya ...
+Ma azi nga andekokoru `dini a`disi ya...
 
-... de ma adri gaa ri ni
-lu ini avi ‘i.
+... de ma adri gaa ri ni lu ini avi ‘i.
 
 ##
 * License: [CC-BY-NC]

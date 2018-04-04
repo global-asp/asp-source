@@ -1,8 +1,7 @@
 # Muto wange munafu
 
 ##
-Nzuukuka ku makya ne
-nkuma omuliro.
+Nzuukuka ku makya ne nkuma omuliro.
 
 ##
 Nfumba amazzi.
@@ -22,8 +21,7 @@ Njoza ebintu.
 ##
 Lwanki nkola nnyo...
 
-...nga muto wange ye
-azannya buzannyi?
+...nga muto wange ye azannya buzannyi?
 
 ##
 * License: [CC-BY-NC]

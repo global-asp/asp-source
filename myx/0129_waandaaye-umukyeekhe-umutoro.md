@@ -1,8 +1,7 @@
 # Waandaaye umukyeekhe umutoro
 
 ##
-Isiisimukha mwiilo
-nabwaana kumulilo.
+Isiisimukha mwiilo nabwaana kumulilo.
 
 ##
 Naatutubisa kameetsi.
@@ -22,9 +21,7 @@ Isiinga tsisowaani.
 ##
 Lwashiina inaamba naabi indyo....
 
-##
-nga wandaayase ali
-khukhwinyaha busa.
+... nga wandaayase ali khukhwinyaha busa.
 
 ##
 * License: [CC-BY-NC]

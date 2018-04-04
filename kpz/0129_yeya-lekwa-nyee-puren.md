@@ -1,8 +1,7 @@
 # Yeya lekwa nyee puren
 
 ##
-Aŋŋete ani Koron alay
-mata.
+Aŋŋete ani Koron alay mata.
 
 ##
 Apeel peeko.
@@ -22,9 +21,7 @@ Asite ani torokok.
 ##
 Amune sayisye ani swama kot...
 
-##
-…ye miite yeyamwani
-kukworane.
+... ye miite yeyamwani kukworane.
 
 ##
 * License: [CC-BY-NC]

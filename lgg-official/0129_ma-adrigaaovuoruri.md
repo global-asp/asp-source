@@ -1,8 +1,7 @@
 # Ma adrigaaovuoruri
 
 ##
-Ma engá o'dúá rɨ ̀ sɨ ̀ rá
-ma àcɨ ́ òdʉ̀.
+Ma engá o'dúá rɨ ̀ sɨ ̀ rá ma àcɨ ́ òdʉ̀.
 
 ##
 Ma yí dri.
@@ -11,8 +10,7 @@ Ma yí dri.
 Ma éjá alé òsɨ ̀
 
 ##
-Ma nyaká émvʉ́ alíá rɨ ̀
-osa.
+Ma nyaká émvʉ́ alíá rɨ ̀ osa.
 
 ##
 Ma jóalé we.
@@ -23,9 +21,7 @@ Ma àfa jó yɨ òjɨ ̀
 ##
 Ma àzí nga àndèkókòrʉ́ ...
 
-... dè mâ adríi fè 'ɨ ̂nɨ ́ drì
-ndʉ́ avɨ ́irɨ ̀á 'dɨ ́nɨ à'dɨ sɨ ̀
-yǎ?
+... dè mâ adríi fè 'ɨ ̂nɨ ́ drì ndʉ́ avɨ ́irɨ ̀á 'dɨ ́nɨ à'dɨ sɨ ̀ yǎ?
 
 ##
 * License: [CC-BY-NC]
