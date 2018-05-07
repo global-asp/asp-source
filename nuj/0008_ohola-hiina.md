@@ -25,12 +25,6 @@ Ali huŋulirisa.
 Ohola hiina?
 
 ##
-Ndi hwebbomba.
-
-##
-Ndi hutuuma omugoye.
-
-##
 * License: [CC-BY]
 * Text: Nina Orange
 * Illustration: Wiehan de Jager, Marion Drew

@@ -91,9 +91,6 @@ legokolodi ya ba manaba a magolo
 ##
 * License: [CC-BY]
 * Text: Winny Asara
-* Illustration: Winny Asara
+* Illustration: Magriet Brink
 * Translation: Bathokwa Educators
 * Language: nso
-
-This story was written by a student
-teacher at Arua PTC in Uganda.

@@ -100,10 +100,6 @@ buusiku.
 ##
 * License: [CC-BY]
 * Text: Winny Asara
-* Illustration: Winny Asara
+* Illustration: Magriet Brink
 * Translation: Fabian Wakholi
 * Language: myx
-
-Lukano luno lwaronebwa n’umusomi
-mutweela uwe mwileekelo lya Arua
-P.T.C, mu Uganda.

@@ -39,6 +39,6 @@ Pͻsε sankaŋa sa, Nͻbibesi la Kataguma daa tari la diŋo la taaba.
 ##
 * License: [CC-BY]
 * Text: Winny Asara
-* Illustration: Winny Asara
+* Illustration: Magriet Brink
 * Translation: Samuel Awinkene Atintono
 * Language: gur

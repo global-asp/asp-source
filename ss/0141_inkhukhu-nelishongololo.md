@@ -112,9 +112,6 @@ titsa letinkhulu.
 ##
 * License: [CC-BY]
 * Text: Winny Asara
-* Illustration: Winny Asara
+* Illustration: Magriet Brink
 * Translation: Nombuso Mbele, Mthokozisi Zwane
 * Language: ss
-
-Lendzaba yabhalwa ngumfundzi
-lofundzela buthishela e- Arua PTC eUganda.

@@ -88,6 +88,6 @@ millepattes sont ennemis.
 ##
 * License: [CC-BY]
 * Text: Winny Asara
-* Illustration: Winny Asara
+* Illustration: Magriet Brink
 * Translation: Isabelle Duston, Véronique Biddau
 * Language: fr

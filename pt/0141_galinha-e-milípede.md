@@ -73,6 +73,6 @@ A partir desse momento, galinhas e milípedes eram inimigos.
 ##
 * License: [CC-BY]
 * Text: Winny Asara
-* Illustration:
+* Illustration: Magriet Brink
 * Translation: Mikayla Rodrigues
 * Language: pt

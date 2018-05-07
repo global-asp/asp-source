@@ -18,7 +18,7 @@ Mu mawiiwi,batagiha olugendo lwawe era bagendera mu motoka ya saawe.
 Ba fuga babita mu sosi, musolo ekambwe no mundimiro j’amajaani.
 
 ##
-Ehiseera ni hyabitaŋo,abaana batagiha ohuŋenyuha olw’omudembo.
+Ehiseera ni hyabitaŋo, abaana batagiha ohuŋenyuha olw’omudembo.
 
 ##
 Saawe gabasisimusa ni benda ohwoleresa ewa nguhwa waawe.
@@ -30,10 +30,9 @@ Nguuhu gabakalimbusa mu nyumba era esangalo eri gaali ni n’alyo ng’olibonera
 
 Abejuhulu babe bamuŋambya ebirabo ebi baali ni nibamuleteaye ohuŋwa mu hibuga.
 
-##
 Era hino bahihola n’esangaalo.
 
-Nga Muhwana amuloma ati, ’’Sooka wigule ehirabo hyange!"
+Nga Muhwana amuloma ati, "Sooka wigule ehirabo hyange!"
 
 Ne eno Mulongo yeesi ati, "Ehirabo ehyange nje hyobe osooka!"
 

@@ -4,10 +4,7 @@
 Kera hariho ingona yari ishonje.
 
 ##
-Ijya gushaka icyo kurya, buke buke idatera urusabu.
-
-##
-Bucece.
+Ijya gushaka icyo kurya, buke buke idatera urusabu. Bucece...
 
 ##
 CAKI! Ingona iracakira!

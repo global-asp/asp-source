@@ -39,6 +39,6 @@ Za han din, gorŋey nda konjanjey te care se baabayze.
 ##
 * License: [CC-BY]
 * Text: Winny Asara
-* Illustration: Winny Asara
+* Illustration: Magriet Brink
 * Translation: Plan Niger - Projet NECS - Usaid
 * Language: dje

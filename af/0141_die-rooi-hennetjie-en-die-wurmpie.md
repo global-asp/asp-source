@@ -95,6 +95,6 @@ vyande.
 ##
 * License: [CC-BY]
 * Text: Winny Asara
-* Illustration: Winny Asara
+* Illustration: Magriet Brink
 * Translation: Tanja Pouwels
 * Language: af

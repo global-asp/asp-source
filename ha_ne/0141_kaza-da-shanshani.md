@@ -84,6 +84,6 @@ su shiri.
 ##
 * License: [CC-BY]
 * Text: Winny Asara
-* Illustration: Winny Asara
+* Illustration: Magriet Brink
 * Adaptation: Plan Niger - Projet NECS - Usaid, avec la contribution du comité asl du projet necs
 * Language: ha

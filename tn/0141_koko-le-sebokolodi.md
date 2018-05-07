@@ -107,6 +107,3 @@ utlwana.
 * Illustration: Magriet Brink
 * Translation: Lorato Trok
 * Language: tn
-
-This story was written by a student
-teacher at Arua PTC in Uganda.

@@ -39,6 +39,6 @@ Adìyẹ àti Ọ̀ọ̀kùn dí ọ̀tá.
 ##
 * License: [CC-BY]
 * Text: Winny Asara
-* Illustration:
+* Illustration: Magriet Brink
 * Translation: Ṣẹ́gun Ṣóẹ̀tán
 * Language: yo

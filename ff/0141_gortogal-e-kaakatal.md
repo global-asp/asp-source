@@ -88,10 +88,6 @@ kaakate laatondiri wayɓe.
 ##
 * License: [CC-BY]
 * Text: Winny Asara
-* Illustration: Winny Asara
+* Illustration: Magriet Brink
 * Translation: Plan Niger - Projet NECS - Usaid
 * Language: ff
-
-Cette histoire a été écrite par un
-élève enseignant de Arua PTC en
-Uganda.

@@ -43,6 +43,5 @@ From that time, chickens and millipedes were enemies.
 ##
 * License: [CC-BY]
 * Text: Winny Asara
-* Illustration: Winny Asara
-* Translation: Monageng Florence
+* Illustration: Magriet Brink
 * Language: en
