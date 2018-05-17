@@ -4,8 +4,7 @@
 Injangwe yanjye irihe?
 
 ##
-Ese iri munsi
-y'igitanda?
+Ese iri munsi y'igitanda?
 
 ##
 Ese iri hejuru y'akabati?
@@ -14,8 +13,7 @@ Ese iri hejuru y'akabati?
 Ese iri inyuma y'intebe?
 
 ##
-Ese iri aho tujugunya
-imyanda?
+Ese iri aho tujugunya imyanda?
 
 ##
 Ese iri mu gitebo?

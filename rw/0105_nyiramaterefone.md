@@ -11,19 +11,19 @@ Afite terefone eshanu zigendanwa.
 Uko abyutse ahita atondekanya izo terefone uko ari eshanu ku meza.
 
 ##
-Iy’umuhondo ayikoresha mu kuvugana n’abo mu muryango we.
+Iy'umuhondo ayikoresha mu kuvugana n'abo mu muryango we.
 
 ##
-Iy’umweru ayikoresha avugana n’abo bakorana.
+Iy'umweru ayikoresha avugana n'abo bakorana.
 
 ##
-Itukura ayikoresha avugana n’abamurimo imyenda.
+Itukura ayikoresha avugana n'abamurimo imyenda.
 
 ##
-Iy’ikigina ayikoresha iyo avugana n’inshuti ze z’inkoramutima.
+Iy'ikigina ayikoresha iyo avugana n'inshuti ze z'inkoramutima.
 
 ##
-Iy’umuhemba akayikoresha avugana n’abamukeneyeho inkunga.
+Iy'umuhemba akayikoresha avugana n'abamukeneyeho inkunga.
 
 ##
 Nyiraterefone akunda gushimisha abantu. Ntabwo akunda amahane.
@@ -32,7 +32,7 @@ Nyiraterefone akunda gushimisha abantu. Ntabwo akunda amahane.
 Yemererera abana kuza kureba televiziyoku iduka rye.
 
 ##
-Akunda gusura abarwayi ndetse n’abakecuru n’abasaza mu ngo zabo.
+Akunda gusura abarwayi ndetse n'abakecuru n'abasaza mu ngo zabo.
 
 ##
 Aho anyuze hose baririmba izina rye bati, "Nyiramaterefone! Nyiramaterefone!"
