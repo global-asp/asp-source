@@ -1,35 +1,19 @@
 # Mbili
 
 ##
+Mikono miwili midogo ya kushika.
 
 ##
-Mikono miwili midogo
-ya kushika.
+Miguu miwili midogo kupiga teke.
 
 ##
+Macho mawili madogo kuona.
 
 ##
-Miguu miwili midogo
-kupiga teke.
+Masikio mawili madogo kusikia.
 
 ##
-
-##
-Macho mawili madogo
-kuona.
-
-##
-
-##
-Masikio mawili madogo
-kusikia.
-
-##
-
-##
-Na mikono miwili
-KUKUMBATIA kwa
-upendo.
+Na mikono miwili KUKUMBATIA kwa upendo.
 
 ##
 * License: [CC-BY-NC]

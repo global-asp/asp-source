@@ -13,9 +13,6 @@ Ng'akonyen nachik ng'aarei ing'olikinete.
 Ng'aki ng'aarei nachik epupete.
 
 ##
-And two loving arms to HUG!
-
-##
 Ta anuakin ang'akan ang'arei alakara.
 
 ##
