@@ -28,4 +28,5 @@ Anaporudi nyumbani alasiri, Khalai anautembelea mti wa Mchungwa kuangalia kama m
 * License: [CC-BY]
 * Text: Ursula Nafula
 * Illustration: Jesse Pietersen
+* Translation: Ursula Nafula
 * Language: sw
