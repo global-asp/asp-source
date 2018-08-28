@@ -64,5 +64,5 @@ Mtoto Punda na mama yake wamekuwa kitu kimoja na kuishi kwa ushirikiano. Taratib
 * License: [CC-BY]
 * Text: Lindiwe Matshikiza
 * Illustration: Meghan Judge
-* Translation: Monica Shank Lauwo & Lauwo George
+* Translation: Monica Shank Lauwo, Lauwo George
 * Language: sw

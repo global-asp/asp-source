@@ -28,5 +28,5 @@ Nimsomee nani? Nijisomee mwenyewe!
 * License: [CC-BY]
 * Text: Letta Machoga
 * Illustration: Wiehan de Jager
-* Translation: Monica Shank Lauwo & Lauwo George
+* Translation: Monica Shank Lauwo, Lauwo George
 * Language: sw
