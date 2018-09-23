@@ -69,7 +69,7 @@ ISO code | Language Name
 [nr](https://github.com/global-asp/asp-source/tree/master/nr) | isiNdebele
 [nso](https://github.com/global-asp/asp-source/tree/master/nso) | Sepedi
 [nuj](https://github.com/global-asp/asp-source/tree/master/nuj) | Lunyole
-[nyn](https://github.com/global-asp/asp-source/tree/master/ny) | Chichewa
+[ny](https://github.com/global-asp/asp-source/tree/master/ny) | Chichewa
 [nyn](https://github.com/global-asp/asp-source/tree/master/nyn) | Runyankore
 [nyu](https://github.com/global-asp/asp-source/tree/master/nyu) | Chinyungwe
 [om](https://github.com/global-asp/asp-source/tree/master/om) | Afan Oromo
