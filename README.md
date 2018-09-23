@@ -30,6 +30,7 @@ ISO code | Language Name
 [alz](https://github.com/global-asp/asp-source/tree/master/alz) | Alur
 [am](https://github.com/global-asp/asp-source/tree/master/am) | Amharic
 [anu](https://github.com/global-asp/asp-source/tree/master/anu) | Anywak
+[bem](https://github.com/global-asp/asp-source/tree/master/bem) | IciBemba
 [bxk](https://github.com/global-asp/asp-source/tree/master/bxk) | Lubukusu
 [cce](https://github.com/global-asp/asp-source/tree/master/cce) | Cicopi
 [de](https://github.com/global-asp/asp-source/tree/master/de) | German
