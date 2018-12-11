@@ -12,8 +12,6 @@ esihlahleni esilandelayo, nesilandelayo.
 ukuqinisekisa ukuthi uyayilandela uSibusiso.
 
 ##
-
-##
 Emva kwesikhathi eside, bafika
 esihlahleni esikhulu somkhiwane.
 Ingede yagxumagxuma
@@ -92,8 +90,6 @@ INgede yathukuthela! "Ayikho enye into engingayenza! Kodwa
 ngizoziphindiselela."
 
 ##
-
-##
 Ngelinye ilanga sekuphele amasonto ambalwa, uSibusiso
 waphinda wezwa umsindo weNgede. Wakhumbula loluya luju
 olwalumnandi, walangazelela ukuyilandela inyoni futhi.
@@ -104,8 +100,6 @@ sihlahla." Ngokushesha wakha umlilo omncane waqala wanwebela,
 isikhuni esesibambe ngamazinyo. iNgede yama yabukela.
 
 ##
-
-##
 USibusiso wanwebela, ezibuza ukuthi kungani pho engawuzwa
 lomsindo ojwayelekile wokububula kwezinyosi. “Mhlawumbe
 isidleke sisekujuleni kwalesisihlahla," ezicabangela.
@@ -113,8 +107,6 @@ Wadlulela kwelinye igatsha. Esikhundleni sokuthola isidleke
 wazithela ebusweni bengwe!
 Ingwe yathukuthela kabi ukuthi iphazanyiswe ebuthongweni bayo.
 Yavula amehlo, nomlomo yaveza amazinyo amakhulu acijile.
-
-##
 
 ##
 Ngaphambi kokuba iNgwe imudle uSibusiso, wehlika ngokushesha

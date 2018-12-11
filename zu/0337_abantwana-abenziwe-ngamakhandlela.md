@@ -66,8 +66,6 @@ ukukhanya
 kwasekuseni.
 
 ##
-Abantwana abenziwe
-ngamakhandlela
 * License: [CC-BY]
 * Text: Southern African Folktale
 * Illustration: Wiehan de Jager
