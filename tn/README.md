@@ -55,7 +55,7 @@ Story ID | Title | License
 0303 | [Dineo](http://africanstorybook.org/stories/dineo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0311 | [Mokibo](http://africanstorybook.org/stories/mokibo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0312 | [Tlowana marata go itse](http://africanstorybook.org/stories/tlowana-marata-go-itse) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0322 | [Letsatsi la Lamatlhatso le le mogote](http://africanstorybook.org/stories/letsatsi-la-lamatlhatso-le-le-mogote) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0322 | [Letsatsi La Lamatlhatso Le Le Mogote](http://africanstorybook.org/reader.php?id=3147&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
 0323 | [Nawa e e thunyang](http://africanstorybook.org/stories/nawa-e-e-thunyang) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0337 | [Bana ba kerese](http://africanstorybook.org/stories/bana-ba-kerese-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0339 | [Ditlhako tse dintšhwa](http://africanstorybook.org/stories/ditlhako-tse-dintšhwa) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)

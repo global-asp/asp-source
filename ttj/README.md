@@ -11,3 +11,4 @@ Story ID | Title | License
 0210 | [Tingi N’Ente](http://africanstorybook.org/reader.php?id=14921&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0283 | [Omwegesa Akinyi](http://africanstorybook.org/stories/omwegesa-akinyi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0293 | [Ngonza](http://africanstorybook.org/stories/i-enjoyngonza) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0322 | [Kyamukaga Kimu Nyamusana Mukyanda](http://africanstorybook.org/reader.php?id=14938&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)

@@ -1,93 +1,44 @@
-# Ngomunye umGqibelo ntambama kushisa
+# Ngomunye Umgqibelo Ntambama Kushisa
 
 ##
-Kwakushisa kakhulu ngomunye
-uMGqibelo kuDisemba. UZanele
-noSipho noSanele baphuma
-phandle bayodlala. Umama
-wayethe kubo “Anginidingi
-lapha eduze kwami.” Bagijima
-baphuma endlini.
+Ngu Mgqibelo ntambama, ilanga lalikhipa inhlanzi emanzini.
 
 ##
-“Asihambeni siyodlala
-ngasemfuleni,” kusho
-uZanele.”Kupholile lapho”
-“Kodwa ubaba wasitshela ukuthi
-singabhukudi emfuleni,” kusho
-uSanele.
-“Angeke sibhukude”,
-kuphendula uZanele. “Sizodlala
-nje emthunzini eduze
-kwamanzi.”
+"Zanele, Nosipho no Sanele. Phumani niyodlala ngaphandle." Kusho umama. Nangempela saphuma silandelana.
 
 ##
-Kodwa ukudlala ukunqakisana
-kuyashisa, noma ngabe
-ungaphansi kwesihlahla eduze
-komfula.
-Baqala bakhumula izicathulo.
-Kodwa besashisa.
-Base bekhumula amahembe
-kanye neziketi nezikhindi.
-Kodwa besashisa.
+Khona manjalo kwezwakala uSanele ethi, "Masihambeni siyodlala ngasemfuleni, kupholile lapho." "Hhayi-bo! Umama wasitshela kahle ukuthi singayi ukuyobhukuda emfuleni." Kulanda uZanele. "Ngeke sibhukude, sizozidlalela emthunzini eduze namanzi," kuphendula uSanele.
 
 ##
-Bafaka izinyawo zabo emanzini
-ukuze baphole.
-Base bethelana ngamanzi.
-Ngokushesha bazibona
-sebemanzi te.
+Kodwa nokudlala nako, kufakelana ukushisa noma ungahlala emthunzini eduze nomfula. Saqala ngokukhipha izicathulo kodwa ukushisa kwathi ngikhona. Sakhumula amahembe neziketi, kodwa sasisezwela ukushisa.
 
 ##
-“Oh wozani ! Masibhukudeni,”
-kusho uSipho. “Ubaba angeke
-azi.”
-Babhukuda babhukuda
-bakhohlwa ukubheka isikhathi.
+Ngokushesha safaka izinyawo zethu emfuleni ukuze sizipholise. Sathelana ngamanzi. Kwagcina ngokuthi sibe manzi te!
 
 ##
-Ilanga lase liya ngomtsha
-wendoda, baqala ukugodola.
-"Ziphi izingubo zethu?",
-bebuzana.
+"Kumnandi bakithi masivele sibhukudeni. Umama ngeke azi," kusho uNosipho. Sangena emanzini, sashaya amadamudamu sibhukuda kumnandi. Sakhohlwa.
 
 ##
-Bazifuna ngaphansi
-kwezihlahla.
-Bazifuna emhlangeni.
-Bazifuna yonke indawo.
+Lashona ilanga, saqala sagodola. "Ziphi izingubo zethu?" sibuzana sodwa. Sabheka, sabheka, do!
 
 ##
-Kwakukhona izinkomo ezaziseduze komfula,
-zijabulela utshani obumnandi.
-USanele wabheka ngakuzo, “Buka leya nkomo!
-Yini esemlonyeni wayo?”
-“Idla imbali ebomvu,” kusho uZanele.
+Safuna phasi kwezihlahla. Ngubo wawula! Safuna esikhotheni, do! Sabheka yonke indawo.
 
 ##
-“Akuyona imbali ebomvu leya”, kumemeza
-uSipho. “Yihembe lakho!”
-Babuka enye inkomo. Yayihlafuna into eluhlaza
-okwesibhakabhaka.
-“Yisiketi sami!”,kumemeza uZanele.
+Eduze nomfula kwakunezinkomo zizidlela, ezinye zizetshisela utshani zinanela ubumnandi botshani. Kwathi lapho uZanele ebheka phezulu, "Hhabe! Yini le esemlonyeni wenkomazi?" USanele waphendula ngokunganaki, "Idla imbali ebomvu." Ngokushesha uNosipho wamemeza, "Hehehe! Bhekisisa, akuyona imbali, ihembe lakho!"
 
 ##
-Bahamba ngezingubo
-zangaphansi ukuya ekhaya,
-beqhaqhazela.
-“Izinkomo zidle izingubo
-zethu.”,kodwa uthi ubaba
-wasikholwa nje?
-Ngokushesha izinqa zethu
-zafudumala. Kwakungelona
-ilanga elalisifudumezile.
+Thushu! Nansi enye inkomo, nayo yayihlafuna okuluhlazana okwesibhakabhaka. "Isiketi sami!" kumemeza uZanele.
 
 ##
-Ngomunye umGqibelo ntambama
-kushisa
+Sizokwenzenjani? Kwakumele siphindele ekhaya. Sahamba ngezimpahla zangaphansi, siqhaqhazela sibheke ekhaya. Sasingasagodoliswa umoya opholile, kodwa sasiqhaqhazeliswa isenzo sezinkomo. Sahamba sikhala, "Izingubo zethu zidliwe izinkomo!"
+
+##
+Ucabanga ukuthi umama wakholwa yindaba esasixoxa ngezinyembezi? LUTHO! Ngokushesha, izinqe zethu zase zifudunyezwe induku.
+
+##
 * License: [CC-BY]
-* Text: Nombulelo Thabane, Tessa Welch
+* Text: Nombulelo Thabane
 * Illustration: Wiehan de Jager
-* Translation: Fikile Khuboni
+* Translation: Fikile Khuboni and Pumla Mdontswa
 * Language: zu

@@ -47,6 +47,7 @@ Story ID | Title | License
 0202 | [UThandeka kanye nezinkukhu ezigeziwe](http://africanstorybook.org/stories/uthandeka-kanye-nezinkukhu-ezigeziwe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0203 | [Uhambo lokuyofuna ugqozi nesasasa lomkhosi weNtwasahlobo](http://africanstorybook.org/stories/uhambo-lokuyofuna-ugqozi-nesasasa-lomkhosi-wentwasahlobo) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0210 | [Utingi](http://africanstorybook.org/reader.php?id=15385&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0211 | [Imbuzi, Inkosi Eyayingenalo Iqiniso](http://africanstorybook.org/reader.php?id=16090&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0215 | [Ukudla kwasekuseni Breakfast](http://africanstorybook.org/stories/ukudla-kwasekuseni-breakfast) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0218 | [Ugogo owayenomusa nentombazane enukayo](http://africanstorybook.org/stories/ugogo-owayenomusa-nentombazane-enukayo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0220 | [Umgcini nesikhungo esikhethekile](http://africanstorybook.org/stories/umgcini-nesikhungo-esikhethekile) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)

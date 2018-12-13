@@ -12,3 +12,5 @@ Story ID | Title | License
 0220 | [Muthogomeli and fhethu ho khetheaho ha u thogomela phuka](http://africanstorybook.org/stories/muthogomeli-and-fhethu-ho-khetheaho-ha-u-thogomela-phuka) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0243 | [Holodeyi Na Makhulu](http://africanstorybook.org/reader.php?id=18305&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0262 | [Magozwe](http://africanstorybook.org/stories/magozwe-4) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0316 | [Zwine Nda Zwi Takalela](http://africanstorybook.org/reader.php?id=18986&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0322 | [Masiari A Mugivhela U Fhisaho](http://africanstorybook.org/reader.php?id=18319&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)

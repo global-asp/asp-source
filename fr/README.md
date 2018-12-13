@@ -61,6 +61,7 @@ Story ID | Title | License
 0185 | [Comment la nuit vint au village d’Opioc](http://africanstorybook.org/stories/comment-la-nuit-vint-au-village-d%E2%80%99opioc) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0188 | [Ma mère a fait des plantations](http://africanstorybook.org/stories/ma-m%C3%A8re-fait-des-plantations-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0210 | [Tingi et les vaches](http://africanstorybook.org/stories/tingi-et-les-vaches-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0211 | [Le Faux Roi Bouc](http://africanstorybook.org/reader.php?id=14526&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0213 | [Coq et Lièvre](http://africanstorybook.org/stories/coq-et-li%C3%A8vre) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0216 | [Le jour où le soleil s'en alla](http://africanstorybook.org/stories/le-jour-o%C3%B9-le-soleil-sen-alla) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0220 | [Keeper et son orphelinat spécial](http://africanstorybook.org/stories/keeper-et-son-orphelinat-sp%C3%A9cial) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)

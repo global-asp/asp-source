@@ -7,3 +7,5 @@ Story ID | Title | License
 0141 | [Nkuku Na Bongololo](http://africanstorybook.org/reader.php?id=18661&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0243 | [Cuti Kwa Ambuya](http://africanstorybook.org/reader.php?id=18665&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0262 | [Magozwe](http://africanstorybook.org/reader.php?id=18671&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0316 | [Vintu Vamene Nikonda Kucita](http://africanstorybook.org/reader.php?id=18589&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0322 | [Cibelu Cina Cakupya Mumazulo](http://africanstorybook.org/reader.php?id=18659&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)

@@ -12,3 +12,5 @@ Story ID | Title | License
 0243 | [Ywomirok Bothi Adhadha](http://africanstorybook.org/reader.php?id=15758&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0302 | [Mac](http://africanstorybook.org/reader.php?id=19481&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0314 | [Kibwe gi Wodi Gweno](http://africanstorybook.org/stories/kibwe-gi-wodi-gweno) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0316 | [Amaro Timo](http://africanstorybook.org/reader.php?id=15759&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0322 | [Mukaga Moro M’Olieth](http://africanstorybook.org/reader.php?id=15766&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)

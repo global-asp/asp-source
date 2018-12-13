@@ -57,6 +57,7 @@ Story ID | Title | License
 0188 | [A minha mãe plantou](http://africanstorybook.org/stories/minha-m%C3%A3e-plantou) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0189 | [As cores do arco-íris](http://africanstorybook.org/stories/cores-do-arco-%C3%ADris) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0210 | [Tingi e as Vacas](http://africanstorybook.org/stories/tingi-e-vacas) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0211 | [Bode, O Rei Falso](http://africanstorybook.org/reader.php?id=16652&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0213 | [O Galo e a Lebre](http://africanstorybook.org/stories/o-galo-e-lebre) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0214 | [A ratazana](http://africanstorybook.org/stories/ratazana) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0216 | [O dia que o Sol foi embora](http://africanstorybook.org/stories/o-dia-que-o-sol-foi-embora) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)

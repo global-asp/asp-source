@@ -6,3 +6,5 @@ Story ID | Title | License
 0089 | [Maluba Ali Temwa Ifilimbwa](https://africanstorybook.org/reader.php?id=20786&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0243 | [Cuuti Kuli Banakulu](https://africanstorybook.org/reader.php?id=18684&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0262 | [Magozwe](https://africanstorybook.org/reader.php?id=18676&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0316 | [Nalitemwa Ukucita Ifintu](http://africanstorybook.org/reader.php?id=18570&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0322 | [Kasuba Kamo Pacibelushi Ninshi Nakukaba](http://africanstorybook.org/reader.php?id=18693&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)

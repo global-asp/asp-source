@@ -1,82 +1,38 @@
-# Enkolóng e Jumamósi nairówua
+# Enkolong E Jumamosi Nairowua
 
 ##
-Óre enkolóng nabô te olápâ lé
-tomom aáre, néírowúáju olêng.
-Négogong'ú póoki ng'ái. Néjokí
-ng'otonyé Síalo, Títo o Kekó,
-"mayíéu nádol intáí te embatá é
-nanu."
+Ore enkolong nabo olapa le tomon aare, neirowuaju oleng. Negogong'u pooki ng'ae. Nejoki ng'otonye Sialo, Tito o Keko, "Mayieu nadol intae te embat e nanu."
 
 ##
-Néípang te áji. Néjokí Kéko
-inkulíe, "émáapé olkejú."
-Néwalikí Síálô ajokí, "kéíróbi
-inê". Káke etiáka Titó, "mmê
-peê kípúo áaisómpírâ. Te olóîp
-aké kíngurân, te embatá é
-enkáré".
+Neipang teaji. Nejoki Keko inkulie, "Emaape olkeju." Newaliki Sialo ajoki, "Keirobi ine." Kake etiaka Tito, "Mme pee kipuo aaisompira. Toloip ake kinguran, te mbata enkare."
 
 ##
-Étón aké éírówúa te enkíguran é
-Libeke te entonatá ó olchaní.
-Níking'as áaitayu inamúka, káke
-étón aké éírówúa.
-Níkintokí áaitayu inkiláni, káke
-étón aké éírówúa.
+Eton ake eirowua te nkiguran e Libeke te entonata o' olchani. Niking'as aaitayu inamuka, kake eton ake eirowua. Nikintoki aaitayu inkilani, kake eton ake eirowua.
 
 ##
-Níkintadóíki inkejék atúa enkáré
-peê eiropíju.
-Níkintokí áasuaakino enkáré.
-Káke eitáshala iyíóók enkáre.
+Nikintadoiki inkejek atua enkare pee eiropiju. Nikintoki aisuakino enkare neitashala iyiook enkare.
 
 ##
-Néjo Kéko, "óotú émátaar
-enkáré, amû imeyíólou áíkata
-yíéyiô".
-Níkiaar enkáré, níkisompíra,
-néítu kintokí áaduaaya
-enkolóng.
+Nejo Keko, "Ootu emataar enkare, amu meyiolou aikata yeiyio." Nikiaar enkare, nikisompira, neitu kintoki aaduaaya enkolong.
 
 ##
-Óre peê edoyíó enkólong,
-níkinteru áaning enkijápe.
-Níkipukú te enkáre áaing'oru
-inkiláni.
-Kóreê dúóó inkiláni âng?
+Ore pee edoyio enkolong, nikinteru aaning enkijape. Nikipuku te nkare aaing'oru inkilani. Koree duoo inkilani ang?
 
 ##
-Níkitalú te áborí ilkeék.
-Níkitalú te entîm.
-Níkitalú te póoki wúéjî.
+Nikitalu te abori ilkeek. Nikitalu te entim. Nikitalu te pooki wueji.
 
 ##
-Óre te embatá ó olkejú, nétií inkíshu náagirá
-áadaa áanya inkújít.
-Néshumúnye Sóíla, Titó ó Kekó áaing'or
-inkíshú. Néduáya entóki nadó nanyáíta
-enkíteng. Néjo Sóíla, "einosíta enkíteng
-entapúkái nadó".
-Néwalikí Kéko ajokí, "mmê entapúkái, enkilâ
-inó".
+Ore te embata o' olkeju, netii inkishu naagira aadaa aanya inkujit. Neshumunye Sialo, Tito o' Keko aaing'or inkishu. Neduaya entoki nado nanyaita enkiteng. Nejo Sialo, "Einosita enkiteng entapukai nado." Newaliki Keko ajoki, "Mme entapukai, enkila ino."
 
 ##
-Nékidol áí kíténg nányáíta entóki pûs.
-Nébuaku Titó ajó, "enkilâ áí idía!"
+Nekidol ae kiteng nanyaita entoki pus. Nebuaku Tito ajo, "Enkila ae idia!"
 
 ##
-Nékishukó áng míkíaata inkiláni,
-kinkiríkira te enkíjape.
-Nékinchír áajo, "inkíshú
-náainosâ inkiláni âng."
-Káke íjó kétonyorráyie yíéyío?
-Óre ínâ kátá aké, néírowúáju
-iyíóók iltúlî, némé te enkárakí
-enkolóng.
+Nekishuko ang mikiaata inkilani, kinkirikira te nkijape. Nekinchir aajo, "Inkishu naainosa inkilani ang." Kake ijo ketonyorrayie yieyio? Ore ina kata ake, neirowuaju iyiook iltuli, neme te enkaraki enkolong.
 
 ##
 * License: [CC-BY]
-* Text: Nombulelo Thabane, Tessa Welch
+* Text: Nombulelo Thabane
 * Illustration: Wiehan de Jager
+* Translation: Leonard Kotikash
 * Language: mas

@@ -32,6 +32,7 @@ Story ID | Title | License
 0297 | [Mosadi wa sehlare](http://africanstorybook.org/stories/mosadi-wa-sehlare) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0305 | [Dikatse tša Selemeng](http://africanstorybook.org/stories/dikatse-tša-selemeng) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
 0312 | [Tlowana ya go rata go tseba](http://africanstorybook.org/stories/tlowana-ya-go-rata-go-tseba) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0316 | [Tšeo Ke Ratago Go Dira](http://africanstorybook.org/reader.php?id=18984&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0318 | [Ga di ntekane](http://africanstorybook.org/stories/ga-di-ntekane) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0322 | [Mokibelo wa go fiša tšhiritšhiri](http://africanstorybook.org/stories/mokibelo-wa-go-fiša-tšhiritšhiri) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0326 | [Mokotla wa go bolela](http://africanstorybook.org/stories/mokotla-wa-go-bolela-1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

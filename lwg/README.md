@@ -57,7 +57,7 @@ Story ID | Title | License
 0309 | [Akhatiiti nende Okukhoongo](http://africanstorybook.org/stories/akhatiiti-nende-okukhoongo) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0313 | [Olukusi](http://africanstorybook.org/stories/olukusi-0) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0318 | [Eshititi muno](http://africanstorybook.org/stories/eshititi-muno) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
-0322 | [Mwichuma ndala mushiteere shiomubasu omululu](http://africanstorybook.org/stories/mwichuma-ndala-mushiteere-shiomubasu-omululu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0322 | [Mwichuma Mushiteere  Shiomubasu Omululu](http://africanstorybook.org/reader.php?id=3154&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
 0323 | [Linakanda lisebushe](http://africanstorybook.org/stories/linakanda-lisebushe) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0326 | [Iloloti Ilomalomanga](http://africanstorybook.org/stories/iloloti-ilomalomanga) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0327 | [Okhubala Tsisolo](http://africanstorybook.org/reader.php?id=19590&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)

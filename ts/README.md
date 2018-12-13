@@ -11,3 +11,5 @@ Story ID | Title | License
 0243 | [Ku Endzela Kokwana Wa Xisati Hi Tiholideyi](http://africanstorybook.org/reader.php?id=19018&d=0&a=1) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0262 | [Mahewu](http://africanstorybook.org/stories/mahewu) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0264 | [Mapapila](http://africanstorybook.org/stories/mapapila) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+0316 | [Ndzi Rhandza Ku Endla](http://africanstorybook.org/reader.php?id=18875&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0322 | [Siku Rin’Wana Ro Hisa Ra Muqgivela Nindzhenga](http://africanstorybook.org/reader.php?id=18867&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)

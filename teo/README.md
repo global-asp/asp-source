@@ -21,6 +21,7 @@ Story ID | Title | License
 0241 | [Akangasi](http://africanstorybook.org/stories/akangasi) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0259 | [Adumaki Ekabaka Ake'Pese Ekilokit](http://africanstorybook.org/stories/adumaki-ekabaka-akepese-ekilokit) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0264 | [Ibaluwan](http://africanstorybook.org/stories/ibaluwan) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+0322 | [Amukaaga Na Amwanan](http://africanstorybook.org/reader.php?id=20628&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
 0330 | [Esapat Lo Eisinye](http://africanstorybook.org/stories/esapat-lo-eisinye) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0339 | [Amuka Nuka Itetiak](http://africanstorybook.org/stories/amuka-nuka-itetiak) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0364 | [Itogoi](http://africanstorybook.org/stories/itogoi) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)

@@ -21,6 +21,7 @@ Story ID | Title | License
 0147 | [Amaka gange ni Nze](http://africanstorybook.org/stories/amaka-gange-ni-nze) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0188 | [Maama wange yalima](http://africanstorybook.org/stories/maama-wange-yalima) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0192 | [Isuubi kipooli ku mugaati](http://africanstorybook.org/stories/isuubi-kipooli-ku-mugaati) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0211 | [Wambuzi Isabazinga Omufere](http://africanstorybook.org/reader.php?id=13540&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0234 | [Andiswa Omuzaanhi Owo Mupiira](http://africanstorybook.org/reader.php?id=21371&d=0&a=1) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0237 | [Nsobola](http://africanstorybook.org/stories/nsobola) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0241 | [Akabendhe](http://africanstorybook.org/stories/akabendhe) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)

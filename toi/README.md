@@ -6,3 +6,5 @@ Story ID | Title | License
 0141 | [Nkuku, Joongola](https://africanstorybook.org/reader.php?id=18643&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
 0243 | [Mupumuno Abankaaka](https://africanstorybook.org/reader.php?id=18644&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0262 | [Magozwe](https://africanstorybook.org/reader.php?id=18653&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0316 | [Ndakkomana Kucita](http://africanstorybook.org/reader.php?id=18630&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0322 | [Bumwi Buzuba Masikati Mu Nsabata](http://africanstorybook.org/reader.php?id=18650&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
