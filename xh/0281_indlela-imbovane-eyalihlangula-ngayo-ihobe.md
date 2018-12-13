@@ -1,166 +1,83 @@
-# Indlela imbovane eyalihlangula ngayo ihobe
+# Indlela Imbovane Eyalihlangula Ngayo Ihobe
 
 ##
-Ilanga laligqats'
-ubhobhoyi kwihlathi
-elomileyo.
+Ilanga laligqats' ubhobhoyi kwihlathi elomileyo.
 
 ##
-Kwakusele kuziintsuku
-ezininzi imbovane
-encinane ingawaseli
-amanzi.
+Kwakusele kuziintsuku ezininzi imbovane encinane ingawaseli amanzi.
 
 ##
-"Ndidinga ithontsi
-lamanzi nokuba liwa
-egqabini."
+"Ndidinga ithontsi lamanzi nokuba liwa egqabini."
 
 ##
-Kodwa nombethe
-wawusele womile.
+Kodwa nombethe wawusele womile.
 
 ##
-"Ukuba andiseli manzi
-ngoku, ndiza kufa,"
-yatsho imbovane
-encinane inyembezana.
-"Kufuneka ndiye kula
-mlambo bendive
-ngawo."
+"Ukuba andiseli manzi ngoku, ndiza kufa," yatsho imbovane encinane inyembezana. "Kufuneka ndiye kula mlambo bendive ngawo."
 
 ##
-"Umlambo uza kumka
-nawe," watsho
-unomatse okrelekrele
-eyilumkisa.
+"Umlambo uza kumka nawe," watsho unomatse okrelekrele eyilumkisa.
 
 ##
-Kodwa yayomile
-lunxano imbovane
-encinane. "Ndiza kufa
-ukuba andiseli manzi
-ngoku."
+Kodwa yayomile lunxano imbovane encinane. "Ndiza kufa ukuba andiseli manzi ngoku."
 
 ##
-Imbovane encinane
-yahamba isiya
-kukhangela loo
-mlambo...
+Imbovane encinane yahamba isiya kukhangela loo mlambo.
 
 ##
-yahamba yahamba
-idlula kwingca
-eyomileyo
-nakumahlahla
-awomileyo...
+Yahamba yahamba idlula kwingca eyomileyo nakumahlahla awomileyo.
 
 ##
-...yahamba yade yeva
-ukugwinkciza kwamanzi
-omlambo.
+Yahamba yade yeva ukugwinkciza kwamanzi omlambo.
 
 ##
-Imbovane encinane
-yathatha ithamo
-lamanzi ixesha elide.
+Imbovane encinane yathatha ithamo lamanzi ixesha elide.
 
 ##
-Ngendlela eyayivuya
-ngayo ayizange ilibone
-iliza elikhulu lamanzi
-elalisiza.
+Ngendlela eyayivuya ngayo ayizange ilibone iliza elikhulu lamanzi elalisiza.
 
 ##
-Imbovane yazama
-ukubambelela
-emcingeni owomileyo
-wengca owawudlula
-ngakuyo. Kodwa yemka
-namanzi.
+Imbovane yazama ukubambelela emcingeni owomileyo wengca owawudlula ngakuyo. Kodwa yemka namanzi.
 
 ##
-"Ndincedeni bantu.
-Khanindincede."
+"Ndincedeni bantu. Khanindincede."
 
 ##
-"Khawuleza, bambelela
-apha," latsho ihobe
-elimhlophe liphethe
-ikhuni ngomlomo.
+"Khawuleza, bambelela apha," latsho ihobe elimhlophe liphethe ikhuni ngomlomo.
 
 ##
+"Andinakuhamba ndingekalibuleli ihobe. Ndiza kulinda lide lize kusela amanzi."
 
 ##
-"Andinakuhamba
-ndingekalibuleli ihobe.
-Ndiza kulinda lide lize
-kusela amanzi."
+Ngenye imini isalindile njalo, kwafika amakhwenkwe amabini emlanjeni ephethe iiketi zawo.
 
 ##
-Ngenye imini isalindile
-njalo, kwafika
-amakhwenkwe amabini
-emlanjeni ephethe iiketi
-zawo.
+"Kukho ihobe elikhulu elimhlophe elidla ngokuza kusela amanzi apha," yatsho enye inkwenkwe. "Siza kutya lona ngale ngokuhlwa."
 
 ##
-"Kukho ihobe elikhulu
-elimhlophe elidla
-ngokuza kusela amanzi
-apha," yatsho enye
-inkwenkwe. "Siza kutya
-lona ngale ngokuhlwa."
+"Andinakuwavumela la makhwenkwe alibulale eli hobe limhlophe. Kodwa njengokuba ndimncinane kangaka nje, ndingenza ntoni?"
 
 ##
+Kanye ngelo xesha ihobe elimhlophe labhabha lisuka emthini lisiya kusela.
 
 ##
-"Andinakuwavumela la
-makhwenkwe alibulale
-eli hobe limhlophe.
-Kodwa njengokuba
-ndimncinane kangaka
-nje, ndingenza ntoni?"
+Imbovane encinane yavela necebo.
 
 ##
-Kanye ngelo xesha
-ihobe elimhlophe
-labhabha lisuka emthini
-lisiya kusela.
+Yatsibela unyawo lwenye yala makhwenkwe, yaza yalithi nkxii kanobom.
 
 ##
+Le nkwenkwe yaxhuma. "Yhoo!" yakhwaza isitsho.
 
 ##
-Imbovane encinane
-yavela necebo.
+Ihobe elimhlophe lothuka laza labhabha lisiya kwindawo ekhuselekileyo.
 
 ##
-Yatsibela unyawo
-lwenye yala
-makhwenkwe, yaza
-yalithi nkxii kanobom.
-
-##
-Le nkwenkwe yaxhuma.
-"Yhoo!" yakhwaza
-isitsho.
-
-##
-Ihobe elimhlophe
-lothuka laza labhabha
-lisiya kwindawo
-ekhuselekileyo.
-
-##
-Yaba ke ngolo hlobo
-imbovane encinane
-ibulela ihobe
-elimhlophe
-ngokuyihlangula.
+Yaba ke ngolo hlobo imbovane encinane ibulela ihobe elimhlophe ngokuyihlangula.
 
 ##
 * License: [CC-BY]
-* Text: Kholeka Mabeta, Judith Baker
+* Text: Kholeka Mabeta
 * Illustration: Wiehan de Jager
 * Translation: Siyamthanda Jiza
 * Language: xh

@@ -25,7 +25,7 @@ Rre o tshela mašwi, ka lerato.
 "Motogo wa ga mme o monate go feta wa ga rre," Lebo a akanya.
 
 ##
-"Rre, ke kopa o mphe sukiri e nngwe gape" Lebo a kopa.
+"Rre, ke kopa o mphe sukiri e nngwe gape," Lebo a kopa.
 
 ##
 Rre o fa Lebo sukiri gape.
@@ -38,7 +38,7 @@ Rre o fa Lebo sukiri gape.
 
 ##
 * License: [CC-BY]
-* Text: Zimbili Dlamini, Hlengiwe Zondi
+* Text: Zimbili Dlamini
 * Illustration: Catherine Groenewald
 * Translation: Lorato Trok
 * Language: tn

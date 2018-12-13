@@ -1,15 +1,31 @@
-[Sesotho (Lesotho) translations](http://my.africanstorybook.org/language/sesotho-lesotho) of stories from the [African Storybook Project](http://my.africanstorybook.org).
+Sesotho (South Africa) translations of stories from the [African Storybook Project](http://my.africanstorybook.org).
 
 Story ID | Title | License
 -------- | ----- | -------
 0035 | [Moya](http://africanstorybook.org/stories/moya) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0062 | [Mamello Ya Bonolo](http://africanstorybook.org/reader.php?id=20040&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0063 | [Kgoho O Jalletsa Ntsu](http://africanstorybook.org/reader.php?id=20029&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0073 | [Ho bala](http://africanstorybook.org/stories/ho-bala) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
+0081 | [Moru Wa Dinoha](http://africanstorybook.org/reader.php?id=20026&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0106 | [Baesekele Ya Seipati](http://africanstorybook.org/reader.php?id=20039&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0118 | [Tselane le Limo](http://africanstorybook.org/stories/tselane-le-limo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0121 | [Motoho](http://africanstorybook.org/reader.php?id=20044&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
+0136 | [Letsatsi La Tshepo La Lehlohonolo](http://africanstorybook.org/reader.php?id=20028&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
+0143 | [Bolo Ya Ka E Kgubedu](http://africanstorybook.org/reader.php?id=14511&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0160 | [Ho Ba Le Boqhwala Ha Se Ho Hloka Bokgoni](http://africanstorybook.org/reader.php?id=20025&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0196 | [Litsoene tseneng litsama ka tsela ena le ena](http://africanstorybook.org/stories/litsoene-tseneng-litsama-ka-tsela-ena-le-ena) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0203 | [Ho Batlana Le Moya Wa Hwetla](http://africanstorybook.org/reader.php?id=20050&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0217 | [Mosuwetsana Wa Ka](http://africanstorybook.org/reader.php?id=20038&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
 0218 | [Nkhono ea mokhoa o hantle, le ngoanana ea nkhang](http://africanstorybook.org/stories/nkhono-ea-mokhoa-o-hantle-le-ngoanana-ea-nkhang) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0220 | [Mohlokomedi wa diphoofolo le sebaka sa hae se ikgethang](http://africanstorybook.org/stories/mohlokomedi-wa-diphoofolo-le-sebaka-sa-hae-se-ikgethang-0) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0236 | [Morena Kadi Le Moradi Wa Hae](http://africanstorybook.org/reader.php?id=20035&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
+0240 | [Kgomo Eso Pendo](http://africanstorybook.org/reader.php?id=20043&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
 0251 | [Nonkungu le Imbulu](http://africanstorybook.org/stories/nonkungu-le-imbulu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0262 | [Magozwe](http://africanstorybook.org/stories/magozwe-3) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+0276 | [Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo ](http://africanstorybook.org/reader.php?id=20023&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0281 | [Kokonyana O Pholosa Leeba ](http://africanstorybook.org/reader.php?id=20031&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0288 | [Maguru O Fana Ka Maoto](http://africanstorybook.org/reader.php?id=20037&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0312 | [Nko Ya Tlou](http://africanstorybook.org/reader.php?id=20024&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0316 | [Ke Rata Ho Etsa ](http://africanstorybook.org/reader.php?id=20032&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0322 | [Moqebelo O Mong O Tjhesang Haholo](http://africanstorybook.org/reader.php?id=20048&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
 0338 | [Mokopu oa 'M'e Maneo](http://africanstorybook.org/stories/mokopu-oa-me-maneo) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)

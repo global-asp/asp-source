@@ -1,164 +1,83 @@
-# Wamphephisa kanjani uTsheketshe uJuba
+# Wamphephisa Kanjani Utsheketshe Ujuba
 
 ##
-Lalishisa ngelinye
-ilanga ehlobo, ehlathini
-elomile.
+Lalishisa ngelinye ilanga ehlobo, ehlathini elomile.
 
 ##
-Kwase kuyizinsuku
-eziningi uTsheketshe
-omncane engenamanzi.
+Kwase kuyizinsuku eziningi uTsheketshe omncane engenamanzi.
 
 ##
-Ngidinga iconsi lamanzi,
-noma ngabe
-kungathiwa liconsa
-eqabungeni nje.
+Ngidinga iconsi lamanzi, noma ngabe kungathiwa liconsa eqabungeni nje.
 
 ##
-Kodwa akusekho ngisho
-amazolo lawa.
+Kodwa akusekho ngisho amazolo lawa.
 
 ##
-''Uma ngingaphuzi
-ngizofa, kuzomele ngiye
-kulomfula engake
-ngezwa ngawo,'' kusho
-uTsheketshe omncane.
+''Uma ngingaphuzi ngizofa, kuzomele ngiye kulomfula engake ngezwa ngawo, '' kusho uTsheketshe omncane.
 
 ##
-''Uzomuka nomfula,''
-kuxwayisa uNgwejeje
-ohlakaniphile.
+''Uzomuka nomfula, '' kuxwayisa uNgwejeje ohlakaniphile.
 
 ##
-Kodwa uTsheketshe
-omncane wayenxanwe
-kakhulu.
-"Ngizofa uma
-ngingaphuzi," kusho
-yena.
+Kodwa uTsheketshe omncane wayenxanwe kakhulu. "Ngizofa uma ngingaphuzi," kusho yena.
 
 ##
-UTsheketsheke
-omncane wahamba
-wayofuna umfula...
+UTsheketsheke omncane wahamba wayofuna umfula.
 
 ##
-...wayenqamula
-otshanini obomile,
-nasemagatsheni
-omile...
+Wayenqamula otshanini obomile, nasemagatsheni omile.
 
 ##
-... kwaze kwaba uzwa
-umsindo wamagagasi
-echaphaka lapha
-nalaphaya.
+Kwaze kwaba uzwa umsindo wamagagasi echaphaka lapha nalaphaya.
 
 ##
-UTsheketshe omncane
-wahabula amanzi
-engaphezi.
+UTsheketshe omncane wahabula amanzi engaphezi.
 
 ##
-Wayejabule
-kangangoba
-akalibonanga igagasi
-elikhulu elabe liza
-lizomemboza.
+Wayejabule kangangoba akalibonanga igagasi elikhulu elabe liza lizomemboza.
 
 ##
-UTsheketshe wazama
-ukubambelela otshanini
-obomile eduze kwakhe.
-Kodwa wathathwa
-amanzi amphonsa
-kude.
+UTsheketshe wazama ukubambelela otshanini obomile eduze kwakhe. Kodwa wathathwa amanzi amphonsa kude.
 
 ##
-''Ngisizeni bo! Ngisizeni
-bo!''
+''Ngisizeni bo! Ngisizeni bo!''.
 
 ##
-''Shesha gibela lana,''
-kusho uJuba omhlophe
-ebambe ukhuni
-ngomlomo wakhe.
+''Shesha gibela lana, '' kusho uJuba omhlophe ebambe ukhuni ngomlomo wakhe.
 
 ##
+''Angizukuhamba ngize ngibonge kujuba. Ngizolinda aze abuye azophuza futhi, '' kusho Utsheketshe.
 
 ##
-''Angizukuhamba ngize
-ngiybonge kujuba.
-Ngizolinda aze abuye
-azophuza futhi,'' kusho
-Utsheketshe.
+Ngelinye ilanga esaloku alinda njalo uTsheketshe, kwaqhamuka abafana ababili bephethe izihlilingi.
 
 ##
-Ngelinye ilanga esaloku
-alinda njalo
-uTsheketshe,
-kwaqhamuka abafana
-ababili bephethe
-izihlilingi.
+''Kunejuba elikhulu elimhlophe eliphuza kulomfula, lizoba ukudla kwethu kwasebusuku, '' kusho omunye umfana.
 
 ##
-''Kunejuba elikhulu
-elimhlophe eliphuza
-kulomfula, lizoba ukudla
-kwethu kwasebusuku,''
-kusho omunye umfana.
+''Angeke ngavumela labafana babulale uJuba omhlophe. Kodwa ngimncane kakhulu, yini nje engingayenza?''.
 
 ##
+Ngawo lowo mzuzu uJuba omhlophe wandiza wehlela phansi ukuzophuza.
 
 ##
-''Angeke ngavumela
-labafana babulale uJuba
-omhlophe. Kodwa
-ngimncane kakhulu,
-yini nje engingayenza?''
+UTsheketshe omncane waba nesu.
 
 ##
-Ngawo lowo mzuzu
-uJuba omhlophe
-wandiza wehlela phansi
-ukuzophuza.
+Wagxumela onyaweni lomfana wamluma ngamandla akhe wonke.
 
 ##
+Umfana wagxuma. ''Ishuuu!'' wakhala.
 
 ##
-UTsheketshe omncane
-waba nesu.
+UJuba omhlophe wethuka wandizela kude. Kwaba ukuphepha kwakhe.
 
 ##
-Wagxumela onyaweni
-lomfana wamluma
-ngamandla akhe
-wonke.
+Kwaba ikona kubonga kwakhe uTsheketsheke kuJuba omhlophe.
 
 ##
-Umfana wagxuma.
-''Ishuuu!'' wakhala.
-
-##
-UJuba omhlophe
-wethuka wandizela
-kude.
-Kwaba ukuphepha
-kwakhe.
-
-##
-Kwaba ikona kubonga
-kwakhe uTsheketsheke
-kuJuba omhlophe.
-
-##
-Wamphephisa kanjani uTsheketshe
-uJuba
 * License: [CC-BY]
-* Text: Kholeka Mabeta, Judith Baker
+* Text: Kholeka Mabeta
 * Illustration: Wiehan de Jager
 * Translation: Zimbili Dlamini
 * Language: zu
