@@ -31,7 +31,7 @@ the most beautiful huts.
 
 ##
 * License: [CC-BY]
-* Text: Yusuf, Yvonne, Desire, Arafat, Judith,, Susan
+* Text: Yusuf, Yvonne, Desire, Arafat, Judith, Susan
 * Illustration: Magriet Brink, Rob Owen, Danica Strydom, Wiehan de Jager, Kathy Arbuckle
 * Language: en
 
