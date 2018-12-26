@@ -58,10 +58,7 @@ Xindlopfana xi langutile nhompfu ya xona. A yi tsanyukile wu leha swinene. A xi 
 Nhompfu ya xona a yi lehile swinene lero a xi kota ku kha mihandzu eka marhavi ya le henhla.
 
 ##
-Nhompfu ya xona a yi ri yo leha swinene a xi kota ku tihlambisa nhlana wa xona hi mati.
-
-##
-Ku suka siku rero, tindlopfu hinkwato ti vile na mixakwa yo leha na makhwiri ya nkoka.
+Nhompfu ya xona a yi ri yo leha swinene a xi kota ku tihlambisa nhlana wa xona hi mati. Ku suka siku rero, tindlopfu hinkwato ti vile na mixakwa yo leha na makhwiri ya nkoka.
 
 ##
 * License: [CC-BY]

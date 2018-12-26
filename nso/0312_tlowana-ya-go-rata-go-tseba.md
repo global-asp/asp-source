@@ -58,10 +58,7 @@ Tlowana ya lebelela nko ya yona. E be e sa bone gore e felela kae.
 Nko e be e le ye telele e kgona le go fihlelela dienywa mehlareng.
 
 ##
-Le go ihlapiša ka mokokotlong.
-
-##
-Le go fihla lehono ditlou di na le dinko tše telele tša go ba le mohola.
+Le go ihlapiša ka mokokotlong. Le go fihla lehono ditlou di na le dinko tše telele tša go ba le mohola.
 
 ##
 * License: [CC-BY]

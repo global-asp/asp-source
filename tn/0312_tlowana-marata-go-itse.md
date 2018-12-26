@@ -58,10 +58,7 @@ Tlowana ya batlana le nko ya yona, fela ya palelwa ke go bona kwa e felelang ten
 E ne e le telele jaaka tsela ya Kgalagadi, mo eleng gore e ne e kgona go fitlhelela maungo a a leng kwa godimo ga setlhare.
 
 ##
-Gape e ne e itshela ka metsi fa letsatsi le fisa thata.
-
-##
-Go tloga ka lona letsatsi leo, dinko tsa ditlou tse di telele, di ne tsa ba tswela mosola.
+Gape e ne e itshela ka metsi fa letsatsi le fisa thata. Go tloga ka lona letsatsi leo, dinko tsa ditlou tse di telele, di ne tsa ba tswela mosola.
 
 ##
 * License: [CC-BY]

@@ -43,10 +43,7 @@ Indlovu yazimpintsha yangena emhlangeni yama osebeni lomfula. Iphi ingwenya pho?
 "Ngqi!" Ikhala layo lase lise mhlathini wengwenya. "Helele! Izodla wena ingwenya ngesidlo sakusihlwa!" kutswininiza igwababa.
 
 ##
-Indlovu yazabalaza ngemilenze yayo yangemuva eqinile, yadonsa, yadonsa, yadonsa. Ingwenya ayizange iyidedele.
-
-##
-Ikhala lendlovu ladonseka, ladonseka, ladonseka. Dalakaxa! Yawa yashayeka ngomhlane odakeni.
+Indlovu yazabalaza ngemilenze yayo yangemuva eqinile, yadonsa, yadonsa, yadonsa. Ingwenya ayizange iyidedele. Ikhala lendlovu ladonseka, ladonseka, ladonseka. Dalakaxa! Yawa yashayeka ngomhlane odakeni.
 
 ##
 Tshobe ingwenya emanzini. "Ngaze ngaphuthelwa ukudla okumnandi!"

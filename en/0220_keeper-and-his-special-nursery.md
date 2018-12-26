@@ -1,122 +1,44 @@
-# Keeper and his special nursery
+# Keeper and His Special Nursery
 
 ##
-This is the story of Keeper
-and his nursery for
-orphaned animals.
+This is the story of Keeper and his nursery for orphaned animals.
 
 ##
-August was a busy month
-for Keeper and his helpers
-at the nursery.
+Last month was a busy month at the nursery. The first one to arrive at the nursery was one-year old Nomsa. She was thin and sad.
 
 ##
-One year old Mkite
-arrived first. She came
-in an old green truck.
+But soon, Nomsa got stronger. She began to play with the other animals.
 
 ##
-Keeper and his helpers
-were very sorry for Mkite.
-She was so thin and sad.
+On another day that month, a helicopter landed at the nursery.
 
 ##
-But soon, Mkite got stronger.
-She began to play with the
-other animals at the nursery.
+In the helicopter was a small elephant under big blanket. Her name was Ndiwa.
 
 ##
-On another day in August,
-a helicopter landed at the
-nursery.
+Ndiwa was five days' old. Keeper fed Ndiwa with a bottle.
 
 ##
-Keeper and his helpers rushed
-outside.
-In the helicopter was a small
-elephant under big blanket.
+One night, everybody was woken up by the arrival of Ambia, a giraffe.
 
 ##
-Ndiwa was under the blanket.
-He was five days' old.
-Keeper fed Ndiwa with
-a bottle.
+Ambia was five months' old. She was weak after her long journey.
 
 ##
-The third orphan that month
-was Malea. She arrived at
-the nursery on a red tractor.
-She was six months' old.
+Because of her long neck, Keeper held the bottle high to feed Ambia.
 
 ##
-Malea the rhinoceros soon
-became close friends with
-Enkare, a baby buffalo.
-They went everywhere
-together.
+The last orphans to arrive that month were three hungry cubs. Their names were Kopi, Kepi and Keji.
 
 ##
-One night, everybody was
-woken up by the arrival of
-Ambia.
+Keeper and his helpers love all of the animals, even the naughty ones.
 
 ##
-Ambia was five months' old.
-She was weak after her long
-journey.
-
-##
-Because of her long neck,
-Keeper held the bottle high
-to feed Ambia.
-
-##
-Tiny twins Abei and Moit
-arrived in the middle of
-August.
-These antelopes were only
-a few hours' old. They were
-very sick.
-
-##
-Everyone was sad when Abei
-died a week after he arrived
-at the nursery.
-But Keeper and his helpers
-saved Moit.
-
-##
-The last orphans to arrive in
-August were Kopi, Kepi and
-Keji.
-These cubs were two weeks'
-old.
-They were very hungry when
-they arrived.
-
-##
-Keeper and his helpers love
-all of the animals, even the
-naughty ones.
-
-##
-The naughtiest baby was
-Lobolia.
-Lobolia liked to hide Keeper's
-glasses.
-
-##
-The people at the nursery
-work hard to look after
-the baby animals.
-They hope that one day
-the orphans can look after
-themselves.
-Then these animals can
-return to the wild.
+The people at the nursery work hard. They hope that one day the orphans can look after themselves. Then these animals can return to the wild.
 
 ##
 * License: [CC-BY]
-* Text: Ursula Nafula, Nina Orange
+* Text: Ursula Nafula
 * Illustration: Magriet Brink
+* Translation: African Storybook
 * Language: en

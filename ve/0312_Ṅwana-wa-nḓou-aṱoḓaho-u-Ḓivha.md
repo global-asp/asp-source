@@ -58,10 +58,7 @@ Nḓowana ya sedza kha ningo yayo. Yo vha yo tatamudzwa ya lapfesa. Yo vha i kho
 Ningo yo vha yo lapfa lune nḓowanan ya kona u fula mitshelo i re matavhini malapfu lapfu.
 
 ##
-Ningo yo vha yo lapfa lune ya kona u ṱamba muvhili yo ka maḓi ngayo.
-
-##
-U bva lenelo ḓuvha nḓou dzoṱhe dzo vha na musingo mulapfu u re na mushumo.
+Ningo yo vha yo lapfa lune ya kona u ṱamba muvhili yo ka maḓi ngayo. U bva lenelo ḓuvha nḓou dzoṱhe dzo vha na musingo mulapfu u re na mushumo.
 
 ##
 * License: [CC-BY]

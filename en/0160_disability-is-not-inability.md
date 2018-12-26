@@ -1,62 +1,31 @@
-# Disability is not inability
+# Disability is Not Inability
 
 ##
-One day I met Agnes.
-Agnes is a teacher.
+This is Agnes. She is my teacher.
 
 ##
-Agnes walks with
-crutches.
+Agnes uses crutches to walk.
 
 ##
-When I went to the
-shop, I saw Metobo.
-He is a radio DJ.
+This is Metobo. He is my favourite radio DJ.
 
 ##
-Metobo has albinism.
-He has problems with
-his eyes.
+Metobo has problems with his eyes.
 
 ##
-My neighbour is Moraa.
-She is a farmer.
+This is Moraa, my neighbour. Moraa is a farmer.
 
 ##
-Moraa has a problem
-with hearing.
-She speaks with Sign
-language.
+Moraa cannot hear. She speaks using Sign Language.
 
 ##
-Osero is the best soccer
-player at my school.
-
-I like watching him play.
+This is Osero. He is the best soccer player at my school.
 
 ##
-Osero had an accident
-with his hands.
-But he can win matches
-with his feet!
-
-##
-Now I know that even
-people with challenges
-can do anything!
-
-##
-I will tell my friend
-Jackie not to give up.
-
-##
-Hurray!
-We can all do
-everything in life!
-Hurray!
+Osero has no hands. But he scores many goals for our team!
 
 ##
 * License: [CC-BY]
 * Text: Agnes Mabururu
-* Illustration: Wiehan de Jager, Jesse Breytenbach, Jesse Pietersen
+* Illustration: Wiehan de Jager
 * Language: en
