@@ -68,7 +68,7 @@ Autour du dixième anniversaire de Magozwe, Thomas lui offrit un nouveau livre. 
 Thomas lut cette histoire à Magozwe maintes et maintes fois, jusqu'au jour où il lui dit : « Je pense qu'il est temps que tu ailles à l'école apprendre à lire. Qu'en penses-tu ? » Thomas lui expliqua qu'il connaissait un endroit où les enfants pouvaient rester et aller à l'école.
 
 ##
-Magozwe pensa à ce nouvel endroit et à l'idée d'aller à l'école. Et si son oncle avait raison, s'il était vraiment trop stupide pour apprendre quoi que ce soit ?»
+Magozwe pensa à ce nouvel endroit et à l'idée d'aller à l'école. Et si son oncle avait raison, s'il était vraiment trop stupide pour apprendre quoi que ce soit ?
 
 Et si on le battait dans ce nouvel endroit ? Il avait peur. « Peut-être serait-il plus judicieux de rester vivre dans la rue », pensait-il.
 
