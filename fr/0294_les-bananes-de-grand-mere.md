@@ -38,7 +38,7 @@ paille. Mais grand-mère m'envoya
 retrouver maman pour aller
 chercher quelque-chose.
 « Grand-mère, s'il te plaît, laisse-moi
-regarder ce que tu prépares...
+regarder ce que tu prépares... »
 « Ne sois pas têtue, petite, fais ce
 que je te demande » insista-t-elle. Je
 partis donc en courant.
