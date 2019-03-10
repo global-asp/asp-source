@@ -27,6 +27,6 @@ Lakini viatu hivi ni vipya.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Mlungisi Dlamini
+* Illustration: Mlungisi Dlamini, Ingrid Schechter
 * Translation: Gladys Njoki, Racheal Njoki
 * Language: sw

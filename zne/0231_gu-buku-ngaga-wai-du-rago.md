@@ -27,6 +27,6 @@ Mina bi wangu.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Sandra McDougall
+* Illustration: Sandra McDougall, Ingrid Schechter
 * Translation: Isaac Monday Elisama
 * Language: zne

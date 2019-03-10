@@ -27,6 +27,6 @@ musifuba.
 ##
 * License: [CC-BY]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Kathy Arbuckle
+* Illustration: Kathy Arbuckle, Ingrid Schechter
 * Translation: Fabian Wakholi
 * Language: myx

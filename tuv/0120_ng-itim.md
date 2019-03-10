@@ -27,6 +27,6 @@ Ekulujaarit Themba ng'itim keng.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Bronwen Heath
+* Illustration: Bronwen Heath, Ingrid Schechter
 * Translation: Alfred Esinyen, Simon Ipoo
 * Language: tuv

@@ -27,6 +27,6 @@ Kandi ente tefayo obwehurra motoka niija. Ente etwara obwiire kucwanganiza orugu
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Translation: Kajumba Kate
 * Language: ttj

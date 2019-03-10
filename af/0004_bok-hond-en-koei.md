@@ -27,6 +27,6 @@ En Koei is nie gepla wanneer 'n motor aankom nie. Koei neem haar tyd om oor die 
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Translation: Tristan Mark Ilsley
 * Language: af

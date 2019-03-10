@@ -62,5 +62,5 @@ mbola busa, sifayo taa.
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Language: myx

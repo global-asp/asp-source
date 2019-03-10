@@ -34,6 +34,6 @@ itima kere.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Bronwen Heath
+* Illustration: Bronwen Heath, Ingrid Schechter
 * Translation: Ignatius Okurut, Alfred Ochai, Karim Osuje
 * Language: teo

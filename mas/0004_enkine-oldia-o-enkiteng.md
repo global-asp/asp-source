@@ -59,6 +59,6 @@ lulúng'ata.
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Translation: Leonard Kotikash
 * Language: mas

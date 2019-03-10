@@ -27,6 +27,6 @@ Wante ye tafaayo oba emmotoka ne bw'eba ejja. Asala ekkubo nga yeetwala anti aki
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Translation: Mansamba Martha
 * Language: lg

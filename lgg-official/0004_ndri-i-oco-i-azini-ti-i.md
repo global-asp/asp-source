@@ -58,6 +58,6 @@ ma àjè wóró rá.
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Translation: Doris Maandebo
 * Language: lgg-official

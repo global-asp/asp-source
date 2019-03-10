@@ -35,6 +35,6 @@ A vaca atravessa a estrada com toda sua calma porque sabe que pagou sua parte da
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Translation: Translators without Borders, Debora Santos
 * Language: pt

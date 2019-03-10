@@ -37,6 +37,6 @@ Wó gé zi ̃mã ꞌdi ̃ ki ́ ú ꞌdi ́.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Mlungisi Dlamini
+* Illustration: Mlungisi Dlamini, Ingrid Schechter
 * Translation: Barnabas Delu
 * Language: luc

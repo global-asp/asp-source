@@ -27,6 +27,6 @@ Ono mia rengba nga ma gu nani te.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Mlungisi Dlamini
+* Illustration: Mlungisi Dlamini, Ingrid Schechter
 * Translation: Issack Monday Elisame
 * Language: zne

@@ -27,6 +27,6 @@ Na Ng'ombe ndatelemaa ngali yukite. Ng'ombe osaa ivinda yake kukilanilia nzia nu
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Translation: Alice Oghana
 * Language: kam

@@ -39,6 +39,6 @@ ú dri ̃ ki ́ ũ rẽ ri ̃ gá .
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Kathy Arbuckle
+* Illustration: Kathy Arbuckle, Ingrid Schechter
 * Translation: Delu Barnabas
 * Language: luc

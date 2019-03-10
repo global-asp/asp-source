@@ -26,6 +26,6 @@ Amune sayisye ani swama kot...
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Mlungisi Dlamini
+* Illustration: Mlungisi Dlamini, Ingrid Schechter
 * Translation: Joyce Chemitai
 * Language: kpz

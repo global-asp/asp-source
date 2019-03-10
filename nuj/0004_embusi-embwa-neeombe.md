@@ -64,6 +64,6 @@ j'olugendo bbechwi!
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Translation: Nawibo Irene
 * Language: nuj

@@ -27,6 +27,6 @@ Nabo inisa Aite alorukudi kotere eyeni atamari atach kolong emam nyakadaitae ng'
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Translation: Simon Ipoo
 * Language: tuv

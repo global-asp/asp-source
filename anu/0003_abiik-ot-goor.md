@@ -27,6 +27,6 @@ Ba-war mwoi nyäro.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Mlungisi Dlamini
+* Illustration: Mlungisi Dlamini, Ingrid Schechter
 * Translation: Odhieng Akway Oman, Omot Oman Obono
 * Language: anu

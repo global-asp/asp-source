@@ -31,6 +31,6 @@ barrisuu hin danda'uun.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Mlungisi Dlamini
+* Illustration: Mlungisi Dlamini, Ingrid Schechter
 * Translation: Alemu Ifa, Gelgelo Belambel, Godana Jirmo
 * Language: om

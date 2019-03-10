@@ -34,6 +34,6 @@ mu bbanga nagwo.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Mlungisi Dlamini
+* Illustration: Mlungisi Dlamini, Ingrid Schechter
 * Translation: Rev Joseph M Katabaro
 * Language: lg

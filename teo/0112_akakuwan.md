@@ -30,6 +30,6 @@ apedori aipor
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Mlungisi Dlamini, Cathy Feek
+* Illustration: Mlungisi Dlamini, Cathy Feek, Ingrid Schechter
 * Translation: John Emongot
 * Language: teo

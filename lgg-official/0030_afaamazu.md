@@ -18,6 +18,6 @@ Mâ andríi kà ma ò’dè ma etʉmʉ̀ kɨ́nɨ̀ ‘bá lè ma rá.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Kathy Arbuckle
+* Illustration: Kathy Arbuckle, Ingrid Schechter
 * Translation: Doris Maandebo
 * Language: lgg-official

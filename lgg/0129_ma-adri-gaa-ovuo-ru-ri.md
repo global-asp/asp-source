@@ -26,6 +26,6 @@ Ma azi nga andekokoru `dini a`disi ya...
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Mlungisi Dlamini
+* Illustration: Mlungisi Dlamini, Ingrid Schechter
 * Translation: Doris Maandebo
 * Language: lgg

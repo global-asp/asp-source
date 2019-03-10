@@ -27,6 +27,6 @@ Dhyaŋ ki dew ri go kwoŋ motokin. Dhyaŋ gale a gala ka ŋado ngudo. Oŋeyo ni 
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Translation: Owino Ogot, Athieno Gertrude
 * Language: adh

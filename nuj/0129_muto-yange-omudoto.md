@@ -26,6 +26,6 @@ Lwahiina tamba bugali tyo...
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Mlungisi Dlamini
+* Illustration: Mlungisi Dlamini, Ingrid Schechter
 * Translation: Gershom Hirome
 * Language: nuj

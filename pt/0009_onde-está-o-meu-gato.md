@@ -27,6 +27,6 @@ Está aqui!
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Bronwen Heath
+* Illustration: Bronwen Heath, Ingrid Schechter
 * Translation: Translators without Borders, Rossana Lima
 * Language: pt

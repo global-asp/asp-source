@@ -30,6 +30,6 @@ Hier is dit!
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Bronwen Heath
+* Illustration: Bronwen Heath, Ingrid Schechter
 * Translation: Abigail de Sousa, Judy Grobler
 * Language: af

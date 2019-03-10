@@ -26,6 +26,6 @@ Ma ã zi ̣́ nga ũ kpó si ̃ i ́ni la ã ꞌdu si ̃ ...
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Mlungisi Dlamini
+* Illustration: Mlungisi Dlamini, Ingrid Schechter
 * Translation: Delu Barnabas
 * Language: luc

@@ -27,6 +27,6 @@ Inkomo ayinandaba mangabe kuza imoto. Inkomo ithatha isikhathi sayo uma iwela um
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Translation: Ntswaki Vilane
 * Language: zu

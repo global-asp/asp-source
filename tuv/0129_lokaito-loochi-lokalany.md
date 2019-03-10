@@ -26,6 +26,6 @@ Kotere nyo atiyaa ayong etich lokojokon...
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Mlungisi Dlamini
+* Illustration: Mlungisi Dlamini, Ingrid Schechter
 * Translation: Alfred Esinyen, Simon Ipoo
 * Language: tuv

@@ -27,6 +27,6 @@ Naona upinde wa mvua.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Sandra McDougall
+* Illustration: Sandra McDougall, Ingrid Schechter
 * Translation: Mutugi Kamundi
 * Language: sw

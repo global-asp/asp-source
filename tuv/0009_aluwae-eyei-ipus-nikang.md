@@ -27,6 +27,6 @@ Eyei nea!
 ##
 * License: [CC-BY]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Bronwen Heath
+* Illustration: Bronwen Heath, Ingrid Schechter
 * Translation: Telly Emekwi
 * Language: tuv

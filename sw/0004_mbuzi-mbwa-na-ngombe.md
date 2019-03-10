@@ -27,6 +27,6 @@ Na Ng'ombe hababaiki gari likiwa linakuja. Ng'ombe huvuka barabara bila wasiwasi
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Translation: Brigid Simiyu
 * Language: sw

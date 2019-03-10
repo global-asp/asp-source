@@ -27,6 +27,6 @@ Má vɨ́lé búsùá ngùá yǎ?
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Bronwen Heath
+* Illustration: Bronwen Heath, Ingrid Schechter
 * Translation: Dorothy Fetaru
 * Language: lgg-official

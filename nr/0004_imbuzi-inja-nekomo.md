@@ -27,6 +27,6 @@ Ngikho nje ikomo yona ayinandaba nayeqa indlela, ithatha isikhathi sayo ngombana
 ##
 * License: [CC-BY]
 * Text: Fabian Wakholi
-* Illustration: Marleen Visser
+* Illustration: Marleen Visser, Ingrid Schechter
 * Translation: William Jiyana
 * Language: nr

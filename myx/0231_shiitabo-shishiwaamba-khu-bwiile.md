@@ -27,6 +27,6 @@ Naboone luufutu!
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Sandra McDougall
+* Illustration: Sandra McDougall, Ingrid Schechter
 * Translation: Fabian Wakholi
 * Language: myx

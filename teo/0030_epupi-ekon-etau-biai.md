@@ -29,6 +29,6 @@ eongo.
 ##
 * License: [CC-BY-NC]
 * Text: Clare Verbeek, Thembani Dladla, Zanele Buthelezi
-* Illustration: Kathy Arbuckle
+* Illustration: Kathy Arbuckle, Ingrid Schechter
 * Translation: Ignatius Okurut, Alfred Ochai, Karim Osuje
 * Language: teo
