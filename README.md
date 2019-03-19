@@ -83,6 +83,7 @@ ISO code | Language Name
 [st](https://github.com/global-asp/asp-source/tree/master/st) | Sesotho
 [sw](https://github.com/global-asp/asp-source/tree/master/sw) | Kiswahili
 [teo](https://github.com/global-asp/asp-source/tree/master/teo) | Ateso
+[ti](https://github.com/global-asp/asp-source/tree/master/ti) | Tigrinya
 [tn](https://github.com/global-asp/asp-source/tree/master/tn) | Setswana
 [toh](https://github.com/global-asp/asp-source/tree/master/toh) | Gitonga
 [toi](https://github.com/global-asp/asp-source/tree/master/toi) | Tonga
