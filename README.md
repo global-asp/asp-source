@@ -41,6 +41,7 @@ ISO code | Language Name
 [en](https://github.com/global-asp/asp-source/tree/master/en) | English
 [ff](https://github.com/global-asp/asp-source/tree/master/ff) | Fulfulde
 [fr](https://github.com/global-asp/asp-source/tree/master/fr) | French
+[gaa](https://github.com/global-asp/asp-source/tree/master/gaa) | Ga
 [gjn](https://github.com/global-asp/asp-source/tree/master/gjn) | Gonja
 [gur](https://github.com/global-asp/asp-source/tree/master/gur) | Gurene
 [guz](https://github.com/global-asp/asp-source/tree/master/guz) | Ekegusii
