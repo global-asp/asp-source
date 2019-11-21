@@ -5,7 +5,7 @@ Early one morning Vusi's granny
 called him, "Vusi, please take this
 egg to your parents. They want to
 make a large cake for your sister's
-wedding".
+wedding."
 
 ##
 On his way to his parents, Vusi met
