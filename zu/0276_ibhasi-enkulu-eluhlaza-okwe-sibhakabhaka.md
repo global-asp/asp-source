@@ -51,6 +51,6 @@ U-Ebei wayengenandaba nombala webhasi. Wayengenandaba nobukhulu bebhasi. Wayejab
 ##
 * License: [CC-BY]
 * Text: Mecelin Kakoro
-* Illustration:
+* Illustration: Mango Tree
 * Translation: Nokuthula Zondi
 * Language: zu
