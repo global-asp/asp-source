@@ -13,10 +13,10 @@ But soon, Nomsa got stronger. She began to play with the other animals.
 On another day that month, a helicopter landed at the nursery.
 
 ##
-In the helicopter was a small elephant under big blanket. Her name was Ndiwa.
+In the helicopter was a small elephant under a big blanket. Her name was Ndiwa.
 
 ##
-Ndiwa was five days' old. Keeper fed Ndiwa with a bottle.
+Ndiwa was five days old. Keeper fed Ndiwa with a bottle.
 
 ##
 One night, everybody was woken up by the arrival of Ambia, a giraffe.
@@ -38,7 +38,7 @@ The people at the nursery work hard. They hope that one day the orphans can look
 
 ##
 * License: [CC-BY]
-* Text: Ursula Nafula
+* Text: Ursula Nafula, Nina Orange
 * Illustration: Magriet Brink
 * Translation: African Storybook
 * Language: en
