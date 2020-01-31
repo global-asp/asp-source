@@ -55,6 +55,7 @@ Story ID | Title | License
 0170 | [Hiëna en Kraai](http://africanstorybook.org/stories/hi%C3%ABna-en-kraai) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0176 | [Luister](http://africanstorybook.org/stories/luister) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0180 | [Vayu, die wind](http://africanstorybook.org/stories/vayu-die-wind-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0118 | [Tselane en die Reus](http://africanstorybook.org/reader.php?id=21812&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
 0184 | [Mulongo en die hiënas](http://africanstorybook.org/stories/mulongo-en-die-hi%C3%ABnas) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0188 | [My ma maak tuin](http://africanstorybook.org/stories/my-ma-maak-tuin) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0201 | [Donkie-Kind](http://africanstorybook.org/reader.php?id=21805&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
