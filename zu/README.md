@@ -77,6 +77,7 @@ Story ID | Title | License
 0312 | [Indlovu Eyayithanda Izinto](http://africanstorybook.org/reader.php?id=8211&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0318 | [Zincane Izimpahla Zami](http://africanstorybook.org/stories/zincane-izimpahla-zami) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0322 | [Ngomunye umGqibelo ntambama kushisa](http://africanstorybook.org/stories/ngomunye-umgqibelo-ntambama-kushisa) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0327 | [Ukubala izilwane](https://africanstorybook.org/reader.php?id=32161&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0328 | [Isihlahla esasindisa umphakathi waseMadadeni](http://africanstorybook.org/stories/isihlahla-esasindisa-umphakathi-wasemadadeni) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0337 | [Abantwana abenziwe ngamakhandlela](http://africanstorybook.org/stories/abantwana-abenziwe-ngamakhandlela) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0342 | [Umhobholo](http://africanstorybook.org/stories/umhobholo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
