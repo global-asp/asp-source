@@ -6,7 +6,7 @@ One day, mama got a lot of fruit.
 ##
 "When can we have some fruit?" we ask.
 
-"We will eat the fruit tonight," says mama.
+"We will have the fruit tonight," says mama.
 
 ##
 My brother Rahim is greedy. He tastes all the fruit. He eats a lot of it.
