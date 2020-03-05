@@ -11,26 +11,26 @@ Zazibuzana ukuthi pho ubani
 ongaba inkosi?
 
 ##
-“UKhozi uqinile unaso
-nesakhiwo sobukhosi.'' Kusho
-enye inyoni. “Cha ngeke uKhozi
+"UKhozi uqinile unaso
+nesakhiwo sobukhosi." Kusho
+enye inyoni. "Cha ngeke uKhozi
 akanaso isicoco. Futhi uma
-ememeza akazwakali kahle.''
-“Kuncono Intshe ngoba inkulu,
+ememeza akazwakali kahle."
+"Kuncono Intshe ngoba inkulu,
 uma ibhonga izwakala njenga
-ne bhubesi.'' Kusho enye inyoni.
-“Cha ngeke akakakwazi
+ne bhubesi." Kusho enye inyoni.
+"Cha ngeke akakakwazi
 ukundiza, inkosi yezinyoni
 kumele ikwazi ukundiza.”
 
 ##
-“Mina ngingaba inkosi,'' kusho
+"Mina ngingaba inkosi," kusho
 UPikoko edlalisa isisila sakhe.
-“Ngimuhle kabi''
-“Kodwa uyaziqhenya,'' kusho
-uSikhova. “Mina nginamehlo
+"Ngimuhle kabi"
+"Kodwa uyaziqhenya," kusho
+uSikhova. "Mina nginamehlo
 amakhulu kunazo zonke
-izinyoni. Ngingaba inkosi.” “Cha
+izinyoni. Ngingaba inkosi.” "Cha
 ngeke ube yinkosi wena
 Sikhova angithi uyalala uma
 sekusa!” Zonke izinyoni
@@ -61,7 +61,7 @@ eduze kwelanga.
 ##
 Esandizela phezulu
 uLinqe,kwezawakala ememeza
-ethi “Ngiphezulu ngiyinkosi! ''
+ethi "Ngiphezulu ngiyinkosi! "
 
 ##
 Khona manjalo phezu kwakhe
@@ -75,11 +75,11 @@ ngesikhathi endizela phezulu
 esibhakabhakeni!
 
 ##
-“Ngeke usangehlula,” kusho
+"Ngeke usangehlula,” kusho
 uLinqe esho endizela phezulu
 futhi. Wandiza waze
 waphelelwa amandla. Waphinda
-wamemeza wathi “Ngiphezulu
+wamemeza wathi "Ngiphezulu
 Ngiyinkosi yenu.”
 
 ##
@@ -87,7 +87,7 @@ Kodwa ngaphansi kwephiko
 lakhe kwakusacashe uNcede.
 Waphuma uNcede, "Tink, tink!
 Tink, tink! Yimina inyoni
-encane, ngiyinkosi.'' Kodwa
+encane, ngiyinkosi." Kodwa
 uLiqe wabe ekhathele ukuba
 wayesangandizela phezulu.
 
@@ -111,7 +111,7 @@ wenyoka.
 Izinyoni zathi kuSikhova,” Wena
 Skhova ngoba unamehlo
 amakhulu, qapha uNcede
-umbambe uma ephuma.''
+umbambe uma ephuma."
 Ngempela uSikhova wahlala
 phambi komgodi waqapha.
 
@@ -138,6 +138,3 @@ ukubonwa ezinye izinyoni.
 * Illustration: Wiehan de Jager
 * Translation: Zimbili Dlamini
 * Language: zu
-
-Adapted from a story in 'SouthAfrican Folk-Tales', by James A.
-Honey, 1910.

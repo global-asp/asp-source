@@ -1,4 +1,4 @@
-# Indlela Imbovane Eyalihlangula Ngayo Ihobe
+# Indlela imbovane eyalihlangula ngayo ihobe
 
 ##
 Ilanga laligqats' ubhobhoyi kwihlathi elomileyo.
@@ -46,6 +46,8 @@ Imbovane yazama ukubambelela emcingeni owomileyo wengca owawudlula ngakuyo. Kodw
 "Khawuleza, bambelela apha," latsho ihobe elimhlophe liphethe ikhuni ngomlomo.
 
 ##
+
+##
 "Andinakuhamba ndingekalibuleli ihobe. Ndiza kulinda lide lize kusela amanzi."
 
 ##
@@ -55,10 +57,14 @@ Ngenye imini isalindile njalo, kwafika amakhwenkwe amabini emlanjeni ephethe iik
 "Kukho ihobe elikhulu elimhlophe elidla ngokuza kusela amanzi apha," yatsho enye inkwenkwe. "Siza kutya lona ngale ngokuhlwa."
 
 ##
+
+##
 "Andinakuwavumela la makhwenkwe alibulale eli hobe limhlophe. Kodwa njengokuba ndimncinane kangaka nje, ndingenza ntoni?"
 
 ##
 Kanye ngelo xesha ihobe elimhlophe labhabha lisuka emthini lisiya kusela.
+
+##
 
 ##
 Imbovane encinane yavela necebo.

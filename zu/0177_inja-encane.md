@@ -6,29 +6,29 @@ encane yayidlala ibhola.
 
 ##
 Yabona ikati.
-Yathi,''Sawubona kati
+Yathi,"Sawubona kati
 elincane. Ngingadlala
-nawe?'' Ikati elincane
+nawe?" Ikati elincane
 lathi, "Ngingadlala
-nawe.'' Ngingadlala
-nawe ibhola lakho?''
+nawe." Ngingadlala
+nawe ibhola lakho?"
 
 ##
 "Yebo", kusho inja
 encane.
-''Ibhola elibomvu
+"Ibhola elibomvu
 leli. Ngizokhahlelela
 kuwe bese wena
-ulishaye libuyele kimi.''
+ulishaye libuyele kimi."
 
 ##
 Khona manjalo
 abangani ababili baqala
 badlala ibhola.
 Inja encane yathi,
-''Ngiyathanda ukudlala
+"Ngiyathanda ukudlala
 nawe. Kumnandi.
-Ungumngani omuhle.''
+Ungumngani omuhle."
 
 ##
 Ibhola elikhulu
@@ -36,11 +36,11 @@ elibomvu laphonseka
 ngale kodonga. Ikati
 elincane laqala
 ukukhala.
-''Asisenalo ibhola
-esizodlala ngalo.''
+"Asisenalo ibhola
+esizodlala ngalo."
 
 ##
-''Ngiyathanda ukudlala
+"Ngiyathanda ukudlala
 ibhola elikhulu
 elibomvu";kusho ikati
 elincane.
@@ -48,7 +48,7 @@ Ikati elincane laqala
 lakhala lakhala futhi.
 
 ##
-''Ngizolilanda ibhola,''
+"Ngizolilanda ibhola,"
 kusho inja encane,
 yeqela ngale kodonga.
 
@@ -62,9 +62,9 @@ badlala,badlala.
 
 ##
 Inja encane yathi,
-''Woza endlini yami
+"Woza endlini yami
 sizobuka incwadi
-yezithombe.''
+yezithombe."
 Encwadini yezithombe,
 babona inja encane
 idlala ibhola nekati
@@ -76,7 +76,3 @@ elincane!
 * Illustration: Heslia Schon
 * Translation: Zimbili Dlamini
 * Language: zu
-
-Books in Homes is supported by
-White River Rotary Club South
-Africa.

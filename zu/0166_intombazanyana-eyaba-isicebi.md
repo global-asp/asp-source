@@ -34,7 +34,7 @@ izilonda.
 
 ##
 Endleleni uNanana wahlangana
-nalesosalukazi, sathi,'' kunjani
+nalesosalukazi, sathi," kunjani
 mzukulu wami? Uvelaphi?
 Uyakuphi?"
 
@@ -48,10 +48,10 @@ uNanana wakhombisa
 ukungahloniphi esalukazini.
 
 ##
-Waphendula wathi,'' Ngincama
+Waphendula wathi," Ngincama
 nokufa kunokuthi ngithinte
 lezilonda zakho
-ezinyanyekayo.''Sazithulela
+ezinyanyekayo."Sazithulela
 isalukazi samfisela uhambo
 oluhle.
 
@@ -84,8 +84,8 @@ udadewabo uNanana.
 ##
 UNana yena wavuma ukufukula
 uNobuntu amhambise kwakhe.
-'' Wenze lokho abaningi
-abahlulekayo ukukwenza,''
+" Wenze lokho abaningi
+abahlulekayo ukukwenza,"
 kusho isalukazi. Khona manjalo
 isalukazi samnika induku
 samtshela ukuthi akabuyele
@@ -107,10 +107,10 @@ Noma eseyisicebi
 akakhohlwanga udadewabo
 uNanana , wamkhumbula
 ngokuthi amzilele.
-Wayecabanga ethi, “Uma
+Wayecabanga ethi, "Uma
 ungalaleli izeluleko zabantu
 abadala ugcina emlonyeni
-wendlovu.''
+wendlovu."
 
 ##
 * License: [CC-BY]

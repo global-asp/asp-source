@@ -13,10 +13,10 @@ Ngidinga iconsi lamanzi, noma ngabe kungathiwa liconsa eqabungeni nje.
 Kodwa akusekho ngisho amazolo lawa.
 
 ##
-''Uma ngingaphuzi ngizofa, kuzomele ngiye kulomfula engake ngezwa ngawo, '' kusho uTsheketshe omncane.
+"Uma ngingaphuzi ngizofa, kuzomele ngiye kulomfula engake ngezwa ngawo," kusho uTsheketshe omncane.
 
 ##
-''Uzomuka nomfula, '' kuxwayisa uNgwejeje ohlakaniphile.
+"Uzomuka nomfula, " kuxwayisa uNgwejeje ohlakaniphile.
 
 ##
 Kodwa uTsheketshe omncane wayenxanwe kakhulu. "Ngizofa uma ngingaphuzi," kusho yena.
@@ -40,25 +40,31 @@ Wayejabule kangangoba akalibonanga igagasi elikhulu elabe liza lizomemboza.
 UTsheketshe wazama ukubambelela otshanini obomile eduze kwakhe. Kodwa wathathwa amanzi amphonsa kude.
 
 ##
-''Ngisizeni bo! Ngisizeni bo!''.
+"Ngisizeni bo! Ngisizeni bo!"
 
 ##
-''Shesha gibela lana, '' kusho uJuba omhlophe ebambe ukhuni ngomlomo wakhe.
+"Shesha gibela lana, " kusho uJuba omhlophe ebambe ukhuni ngomlomo wakhe.
 
 ##
-''Angizukuhamba ngize ngibonge kujuba. Ngizolinda aze abuye azophuza futhi, '' kusho Utsheketshe.
+
+##
+"Angizukuhamba ngize ngibonge kujuba. Ngizolinda aze abuye azophuza futhi, " kusho Utsheketshe.
 
 ##
 Ngelinye ilanga esaloku alinda njalo uTsheketshe, kwaqhamuka abafana ababili bephethe izihlilingi.
 
 ##
-''Kunejuba elikhulu elimhlophe eliphuza kulomfula, lizoba ukudla kwethu kwasebusuku, '' kusho omunye umfana.
+"Kunejuba elikhulu elimhlophe eliphuza kulomfula, lizoba ukudla kwethu kwasebusuku, " kusho omunye umfana.
 
 ##
-''Angeke ngavumela labafana babulale uJuba omhlophe. Kodwa ngimncane kakhulu, yini nje engingayenza?''.
+
+##
+"Angeke ngavumela labafana babulale uJuba omhlophe. Kodwa ngimncane kakhulu, yini nje engingayenza?".
 
 ##
 Ngawo lowo mzuzu uJuba omhlophe wandiza wehlela phansi ukuzophuza.
+
+##
 
 ##
 UTsheketshe omncane waba nesu.
@@ -67,7 +73,7 @@ UTsheketshe omncane waba nesu.
 Wagxumela onyaweni lomfana wamluma ngamandla akhe wonke.
 
 ##
-Umfana wagxuma. ''Ishuuu!'' wakhala.
+Umfana wagxuma. "Ishuuu!" wakhala.
 
 ##
 UJuba omhlophe wethuka wandizela kude. Kwaba ukuphepha kwakhe.

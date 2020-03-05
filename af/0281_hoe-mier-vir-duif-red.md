@@ -22,7 +22,7 @@ Maar selfs die dou het opgedroog.
 Maar Klein Mier is baie dors. "Ek sal doodgaan as ek nie ’n bietjie water drink nie."
 
 ##
-
+Hy gaan soek toe na die rivier.
 
 ##
 Hy loop verby polle gras en oor droë takke.
