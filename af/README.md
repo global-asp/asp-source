@@ -60,6 +60,7 @@ Story ID | Title | License
 0188 | [My ma maak tuin](http://africanstorybook.org/stories/my-ma-maak-tuin) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0201 | [Donkie-Kind](http://africanstorybook.org/reader.php?id=21805&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0203 | [Soektog Na Die Gees Van Lente](http://africanstorybook.org/reader.php?id=20095&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+0211 | [Bok, die Valse Koning](http://africanstorybook.org/reader.php?id=21806&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0217 | [My Juffrou](http://africanstorybook.org/reader.php?id=20086&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
 0220 | [Die Wildwagter en Sy Spesiale Reservaat](http://africanstorybook.org/reader.php?id=20075&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0224 | [Die Dansende Boerbok](http://africanstorybook.org/stories/die-dansende-boerbok) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
