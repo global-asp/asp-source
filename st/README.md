@@ -8,7 +8,7 @@ Story ID | Title | License
 0073 | [Ho bala](http://africanstorybook.org/stories/ho-bala) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0081 | [Moru Wa Dinoha](http://africanstorybook.org/reader.php?id=20026&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0106 | [Baesekele Ya Seipati](http://africanstorybook.org/reader.php?id=20039&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
-0118 | [Tselane le Limo](http://africanstorybook.org/stories/tselane-le-limo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
+0118 | [Tselane le Dimo](https://africanstorybook.org/reader.php?id=33522&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
 0121 | [Motoho](http://africanstorybook.org/reader.php?id=20044&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
 0136 | [Letsatsi La Tshepo La Lehlohonolo](http://africanstorybook.org/reader.php?id=20028&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/3.0/)
 0143 | [Bolo Ya Ka E Kgubedu](http://africanstorybook.org/reader.php?id=14511&d=0&a=1) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
