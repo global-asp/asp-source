@@ -33,8 +33,8 @@ ISO code | Language Name
 [bem](https://github.com/global-asp/asp-source/tree/master/bem) | IciBemba
 [bxk](https://github.com/global-asp/asp-source/tree/master/bxk) | Lubukusu
 [cce](https://github.com/global-asp/asp-source/tree/master/cce) | Cicopi
-[de](https://github.com/global-asp/asp-source/tree/master/de) | German
 [dag](https://github.com/global-asp/asp-source/tree/master/dag) | Dagbani/Dagbanli
+[de](https://github.com/global-asp/asp-source/tree/master/de) | German
 [dga](https://github.com/global-asp/asp-source/tree/master/dga) | Dagaare
 [dje](https://github.com/global-asp/asp-source/tree/master/dje) | Zarma
 [ee](https://github.com/global-asp/asp-source/tree/master/ee) | Ewe
@@ -46,6 +46,7 @@ ISO code | Language Name
 [gur](https://github.com/global-asp/asp-source/tree/master/gur) | Gurene
 [guz](https://github.com/global-asp/asp-source/tree/master/guz) | Ekegusii
 [ha](https://github.com/global-asp/asp-source/tree/master/ha) | Hausa
+[ha_ne](https://github.com/global-asp/asp-source/tree/master/ha_ne) | Hausa (Niger)
 [kam](https://github.com/global-asp/asp-source/tree/master/kam) | Kikamba
 [kdj](https://github.com/global-asp/asp-source/tree/master/kdj) | Ngakarimojong
 [keo](https://github.com/global-asp/asp-source/tree/master/keo) | Kakwa
@@ -88,8 +89,8 @@ ISO code | Language Name
 [tn](https://github.com/global-asp/asp-source/tree/master/tn) | Setswana
 [toh](https://github.com/global-asp/asp-source/tree/master/toh) | Gitonga
 [toi](https://github.com/global-asp/asp-source/tree/master/toi) | Tonga
-[tsc](https://github.com/global-asp/asp-source/tree/master/tsc) | Xitswa
 [ts](https://github.com/global-asp/asp-source/tree/master/ts) | Xitsonga
+[tsc](https://github.com/global-asp/asp-source/tree/master/tsc) | Xitswa
 [ttj](https://github.com/global-asp/asp-source/tree/master/ttj) | Rutooro
 [tuv](https://github.com/global-asp/asp-source/tree/master/tuv) | Ng'aturkana
 [ve](https://github.com/global-asp/asp-source/tree/master/ve) | Tshivenda
