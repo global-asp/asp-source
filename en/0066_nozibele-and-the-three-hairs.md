@@ -56,7 +56,7 @@ the dog.
 ##
 Then the dog said, "Make the bed
 for me!"
-Nozibele answered, "I've never
+Nozibele answered, "I have never
 made a bed for a dog."
 "Make the bed, or I'll bite you!" the
 dog said.
