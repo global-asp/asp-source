@@ -69,6 +69,7 @@ ISO code | Language Name
 [mer](https://github.com/global-asp/asp-source/tree/master/mer) | Kimîîru
 [mhi](https://github.com/global-asp/asp-source/tree/master/mhi) | Ma'di
 [myx](https://github.com/global-asp/asp-source/tree/master/myx) | Lumasaaba
+[naq](https://github.com/global-asp/asp-source/tree/master/naq) | Khoekhoegowab
 [nle](https://github.com/global-asp/asp-source/tree/master/nle) | Olunyala
 [nr](https://github.com/global-asp/asp-source/tree/master/nr) | isiNdebele
 [nso](https://github.com/global-asp/asp-source/tree/master/nso) | Sepedi
