@@ -1,51 +1,37 @@
-# Tingi and the Cows
+# Tingi and the cows
 
 ##
-Tingi lived with his
-grandmother.
+Tingi lived with his grandmother.
 
 ##
-He used to look after
-the cows with her.
+He used to look after the cows with her.
 
 ##
-One day the soldiers
-came.
+One day the soldiers came.
 
 ##
-They took the cows
-away.
+They took the cows away.
 
 ##
-Tingi and his
-grandmother ran away
-and hid.
+Tingi and his grandmother ran away and hid.
 
 ##
-They hid in the bush
-until night.
+They hid in the bush until night.
 
 ##
-Then the soldiers
-came back.
+Then the soldiers came back.
 
 ##
-Grandmother hid Tingi
-under the leaves.
+Grandmother hid Tingi under the leaves.
 
 ##
-One of the soldiers put
-his foot right on him,
-but he kept quiet.
+One of the soldiers put his foot right on him, but he kept quiet.
 
 ##
-When it was safe, Tingi
-and his grandmother
-came out.
+When it was safe, Tingi and his grandmother came out.
 
 ##
-They crept home very
-quietly.
+They crept home very quietly.
 
 ##
 * License: [CC-BY]

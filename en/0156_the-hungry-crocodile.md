@@ -1,27 +1,19 @@
 # The hungry crocodile
 
 ##
-Once there was a very
-hungry crocodile.
+Once there was a very hungry crocodile.
 
 ##
-He searched for food
-slowly and quietly.
-
-And then...
+He searched for food slowly and quietly. And then...
 
 ##
-POW!!!
-The crocodile strikes!
+POW!!! The crocodile strikes!
 
 ##
-After that he is no
-longer hungry, and he
-is happy.
+After that he is no longer hungry, and he is happy.
 
 ##
-Until he gets hungry
-again.
+Until he gets hungry again.
 
 ##
 * License: [CC-BY]
