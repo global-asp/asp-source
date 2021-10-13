@@ -40,5 +40,5 @@ Nē ǃgâi xūn hoana ta ge tsekorobe ra dī.
 * License: CC BY
 * Text: Michael Oguttu
 * Illustration: Vusi Malindi
-* Translation: Mattheus  Goraseb
+* Translation: Mattheus Goraseb
 * Language: naq

@@ -19,7 +19,7 @@ Hû ǃgoren ge ǁgama garu.
 ǁKhaisa ǁgôadi tsî khoese ǁaun on ra tsâ.
 
 ##
-ǁGâ ra xammi on ra ā ǂgao.  Hame nē xamma ra ǃao.
+ǁGâ ra xammi on ra ā ǂgao. Hame nē xamma ra ǃao.
 
 ##
 ǀGui ǂkhoab ge xammi ǀkha ra ǀhûbe ā.
@@ -28,5 +28,5 @@ Hû ǃgoren ge ǁgama garu.
 * License: CC BY
 * Text: Zanele Buthelezi, Thembani Dladla, Clare Verbeek
 * Illustration: Rob Owen
-* Translation: Mattheus  Goraseb
+* Translation: Mattheus Goraseb
 * Language: naq
