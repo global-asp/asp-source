@@ -52,10 +52,12 @@ ISO code | Language Name
 [kdj](https://github.com/global-asp/asp-source/tree/master/kdj) | Ngakarimojong
 [keo](https://github.com/global-asp/asp-source/tree/master/keo) | Kakwa
 [ki](https://github.com/global-asp/asp-source/tree/master/ki) | Gikuyu
+[kj](https://github.com/global-asp/asp-source/tree/master/kr) | Oshikwanyama
 [kln](https://github.com/global-asp/asp-source/tree/master/kln) | Kalenjin
 [koo](https://github.com/global-asp/asp-source/tree/master/koo) | Lukhonzo
 [kpz](https://github.com/global-asp/asp-source/tree/master/kpz) | Sabinyi
 [kr](https://github.com/global-asp/asp-source/tree/master/kr) | Kanuri
+[kwn](https://github.com/global-asp/asp-source/tree/master/kwn) | Rukwangali
 [laj](https://github.com/global-asp/asp-source/tree/master/laj) | Leblango
 [lgg](https://github.com/global-asp/asp-source/tree/master/lgg) | Lugbarati
 [lgg-official](https://github.com/global-asp/asp-source/tree/master/lgg-official) | Lugbarati (Official)
@@ -69,8 +71,10 @@ ISO code | Language Name
 [mas](https://github.com/global-asp/asp-source/tree/master/mas) | Maa
 [mer](https://github.com/global-asp/asp-source/tree/master/mer) | Kimîîru
 [mhi](https://github.com/global-asp/asp-source/tree/master/mhi) | Ma'di
+[mhw](https://github.com/global-asp/asp-source/tree/master/mhw) | Thimbukushu
 [myx](https://github.com/global-asp/asp-source/tree/master/myx) | Lumasaaba
 [naq](https://github.com/global-asp/asp-source/tree/master/naq) | Khoekhoegowab
+[ng](https://github.com/global-asp/asp-source/tree/master/ng) | Oshindonga
 [nle](https://github.com/global-asp/asp-source/tree/master/nle) | Olunyala
 [nr](https://github.com/global-asp/asp-source/tree/master/nr) | isiNdebele
 [nso](https://github.com/global-asp/asp-source/tree/master/nso) | Sepedi
