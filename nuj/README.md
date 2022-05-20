@@ -78,7 +78,6 @@ Story ID | Title | License
 0316 | [Abeebi b’emiyembe](http://africanstorybook.org/stories/abeebi-b’emiyembe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0318 | [Too small](http://africanstorybook.org/stories/too-small-0) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0322 | [Ehy'egulo hu lw'omukaaga olwaliho ebbugumu](http://africanstorybook.org/stories/ehyegulo-hu-lwomukaaga-olwaliho-ebbugumu-0) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0324 | [Ndi muhaana](http://africanstorybook.org/stories/ndi-muhaana-0) | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 0328 | [Omusaala ogwaŋonia ehyalo hy’ebugaado](http://africanstorybook.org/stories/omusaala-ogwaŋonia-ehyalo-hy’ebugaado) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0329 | [Anansi omunafu](http://africanstorybook.org/stories/anansi-omunafu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0337 | [Abaana bomu bulimbo](http://africanstorybook.org/stories/abaana-bomu-bulimbo) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
