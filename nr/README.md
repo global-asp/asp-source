@@ -28,7 +28,6 @@ Story ID | Title | License
 0285 | [Ingozi ethusako](http://africanstorybook.org/stories/ingozi-ethusako) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0286 | [Ukududa](http://africanstorybook.org/stories/ukududa-1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0291 | [Yini okutjhiwo ngudadwabo likaVusi?](http://africanstorybook.org/stories/yini-okutjhiwo-ngudadwabo-likavusi) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0296 | [Abangani abakhulu ababili](http://africanstorybook.org/stories/abangani-abakhulu-ababili) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0299 | [UFudu uthola indlu yakhe](http://africanstorybook.org/stories/ufudu-uthola-indlu-yakhe-1) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0318 | [Zincani khulu](http://africanstorybook.org/stories/zincani-khulu) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0342 | [Isijeziso sakaThemba](http://africanstorybook.org/stories/isijeziso-sakathemba) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
