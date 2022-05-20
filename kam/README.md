@@ -37,7 +37,6 @@ Story ID | Title | License
 0287 | [Ngi na Mũtwe mũnene](http://africanstorybook.org/stories/ngi-na-mũtwe-mũnene) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0294 | [Maiũ ma Sũsũ](http://africanstorybook.org/stories/maiũ-ma-sũsũ) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0297 | [Kiveti kya muti](http://africanstorybook.org/stories/kiveti-kya-muti) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
-0315 | [Mbui, Ngiti na Ng&#039;ombe](http://africanstorybook.org/stories/mbui-ngiti-na-ngombe) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0322 | [Kiwioo kimwe kivyu kya wathanthatu](http://africanstorybook.org/stories/kiwioo-kimwe-kivyu-kya-wathanthatu) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 0323 | [Mboso ikumea](http://africanstorybook.org/stories/mboso-ikumea) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/)
 0326 | [Muvuko unenaa](http://africanstorybook.org/stories/muvuko-unenaa) | [CC-BY](https://creativecommons.org/licenses/by/3.0/)
