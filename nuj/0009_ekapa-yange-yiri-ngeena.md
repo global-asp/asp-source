@@ -1,20 +1,20 @@
-# Ekapa yange yiri
-ŋeena?
+# Ekapa yange yiri ŋeena?
 
 ##
-Ekapa yange yiri
-ŋeena?
+Ekapa yange yiri ŋeena?
 
 ##
 Yiri mu makuliiti?
 
 ##
-Yiri hu mugulu
-w’ekabada?
+Yiri hu mugulu w’ekabada?
 
 ##
-Yiri aŋali ogupipa
-gw'ebisasiro?
+Yiri aŋali ogupipa gw'ebisasiro?
+
+##
+
+Yiri...?
 
 ##
 Yiri mu hisero?

@@ -4,16 +4,16 @@
 Kkapa yange eri wa?
 
 ##
-Oba eri wansi wa
-kitanda?
+Oba eri wansi wa kitanda?
 
 ##
-Oba eri waggulu ku
-kkabada?
+Oba eri waggulu ku kkabada?
 
 ##
-Oba eri kumpi
-n'ekitanda?
+Oba eri kumpi n'ekitanda?
+
+##
+Oba eri...
 
 ##
 Oba eri mu kisero?
