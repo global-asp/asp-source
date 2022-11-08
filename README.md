@@ -1,10 +1,10 @@
 # Source stories from the African Storybook Project in Markdown format
 
-This repository makes available the source texts of stories from the [African Storybook Project](http://africanstorybook.org) in Markdown format.
+This repository makes available the source texts of stories from the [African Storybook Project](https://africanstorybook.org) in Markdown format.
 
-Each folder in the repository represents a language, identified by its [ISO 639-1](http://en.wikipedia.org/wiki/ISO_639-1) or [ISO 639-3](http://en.wikipedia.org/wiki/ISO_639-3) code. Source translations into each language are stored in the appropriate folders.
+Each folder in the repository represents a language, identified by its [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) or [ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) code. Source translations into each language are stored in the appropriate folders.
 
-All of these source texts have been extracted from the pdfs available on the [African Storybook Project](http://africanstorybook.org) website. The markdown files in this repo provide data for many other projects, for example the [ASP Image Bank Explorer](https://github.com/dohliam/imagebank-explorer) and [Global-ASP Translator](https://github.com/dohliam/gasp-translator), as well as making possible the creation of [bilingual storybooks](https://drive.google.com/open?id=0B59ZADK9EsbsWkJFbFdDVUtVYkU) in many languages.
+All of these source texts have been extracted from the pdfs available on the [African Storybook Project](https://africanstorybook.org) website. The markdown files in this repo provide data for many other projects, for example the [ASP Image Bank Explorer](https://github.com/dohliam/imagebank-explorer) and [Global-ASP Translator](https://github.com/dohliam/gasp-translator), as well as making possible the creation of [bilingual storybooks](https://drive.google.com/open?id=0B59ZADK9EsbsWkJFbFdDVUtVYkU) in many languages.
 
 Corresponding images for the stories in this repository can be found in the [ASP Image Bank](https://github.com/global-asp/asp-imagebank).
 
@@ -108,4 +108,4 @@ ISO code | Language Name
 
 ## License
 
-All stories in this repository are [Creative Commons](https://creativecommons.org/) licensed (either CC-BY or CC-BY-NC). The specific license for each story is indicated both in the file itself (in the metadata section), and in the corresponding `README.md` file for that language. Links to the original stories on the ASP website can also be found in the `README.md` files.
+All stories in this repository are [Creative Commons](https://creativecommons.org/) licensed (either CC BY or CC BY-NC). The specific license for each story is indicated both in the file itself (in the metadata section), and in the corresponding `README.md` file for that language. Links to the original stories on the ASP website can also be found in the `README.md` files.
