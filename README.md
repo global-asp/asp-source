@@ -25,6 +25,7 @@ Below is a key to the languages covered by this repository and their ISO 639-1/3
 ISO code | Language Name
 -------- | -------------
 [ach](https://github.com/global-asp/asp-source/tree/master/ach) | Acholi
+[ada](https://github.com/global-asp/asp-source/tree/master/ada) | Dangme
 [adh](https://github.com/global-asp/asp-source/tree/master/adh) | Dhopadhola
 [af](https://github.com/global-asp/asp-source/tree/master/af) | Afrikaans
 [alz](https://github.com/global-asp/asp-source/tree/master/alz) | Alur
@@ -39,6 +40,7 @@ ISO code | Language Name
 [dje](https://github.com/global-asp/asp-source/tree/master/dje) | Zarma
 [ee](https://github.com/global-asp/asp-source/tree/master/ee) | Ewe
 [en](https://github.com/global-asp/asp-source/tree/master/en) | English
+[fat](https://github.com/global-asp/asp-source/tree/master/fat) | Fante
 [ff](https://github.com/global-asp/asp-source/tree/master/ff) | Fulfulde
 [fr](https://github.com/global-asp/asp-source/tree/master/fr) | French
 [gaa](https://github.com/global-asp/asp-source/tree/master/gaa) | Ga
@@ -59,9 +61,9 @@ ISO code | Language Name
 [kr](https://github.com/global-asp/asp-source/tree/master/kr) | Kanuri
 [kwn](https://github.com/global-asp/asp-source/tree/master/kwn) | Rukwangali
 [laj](https://github.com/global-asp/asp-source/tree/master/laj) | Leblango
-[lgg](https://github.com/global-asp/asp-source/tree/master/lgg) | Lugbarati
-[lgg-official](https://github.com/global-asp/asp-source/tree/master/lgg-official) | Lugbarati (Official)
 [lg](https://github.com/global-asp/asp-source/tree/master/lg) | Luganda
+[lgg-official](https://github.com/global-asp/asp-source/tree/master/lgg-official) | Lugbarati (Official)
+[lgg](https://github.com/global-asp/asp-source/tree/master/lgg) | Lugbarati
 [lko](https://github.com/global-asp/asp-source/tree/master/lko) | Olukhayo
 [loz](https://github.com/global-asp/asp-source/tree/master/lko) | Lozi
 [lsm](https://github.com/global-asp/asp-source/tree/master/lsm) | Lusamia
@@ -82,6 +84,7 @@ ISO code | Language Name
 [ny](https://github.com/global-asp/asp-source/tree/master/ny) | Chichewa
 [nyn](https://github.com/global-asp/asp-source/tree/master/nyn) | Runyankore
 [nyu](https://github.com/global-asp/asp-source/tree/master/nyu) | Chinyungwe
+[nzi](https://github.com/global-asp/asp-source/tree/master/nzi) | Nzema
 [om](https://github.com/global-asp/asp-source/tree/master/om) | Afan Oromo
 [pt](https://github.com/global-asp/asp-source/tree/master/pt) | Portuguese
 [rw](https://github.com/global-asp/asp-source/tree/master/rw) | Kinyarwanda
@@ -99,9 +102,12 @@ ISO code | Language Name
 [tsc](https://github.com/global-asp/asp-source/tree/master/tsc) | Xitswa
 [ttj](https://github.com/global-asp/asp-source/tree/master/ttj) | Rutooro
 [tuv](https://github.com/global-asp/asp-source/tree/master/tuv) | Ng'aturkana
+[tw-akua](https://github.com/global-asp/asp-source/tree/master/tw-akua) | Akuapem Twi
+[tw-asan](https://github.com/global-asp/asp-source/tree/master/tw-asan) | Asante Twi
 [ve](https://github.com/global-asp/asp-source/tree/master/ve) | Tshivenda
 [xh](https://github.com/global-asp/asp-source/tree/master/xh) | isiXhosa
 [xog](https://github.com/global-asp/asp-source/tree/master/xog) | Lusoga
+[xsm](https://github.com/global-asp/asp-source/tree/master/xsm) | Kasem
 [yo](https://github.com/global-asp/asp-source/tree/master/yo) | Yoruba
 [zne](https://github.com/global-asp/asp-source/tree/master/zne) | Zande
 [zu](https://github.com/global-asp/asp-source/tree/master/zu) | isiZulu
