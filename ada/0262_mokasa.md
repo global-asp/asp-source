@@ -1,13 +1,13 @@
 # Mokasa
 
 ##
-Ngɛ Ga magua a mi deka be, e ji tsitaa tsritsri hengmɔ kɛje we he nɛ deka ngɛɛ, lejɛ nɛ mamkpaagbehi nɛ sɛ nga ngɛɛ. A nyaa daa ligbi he ke e na mɛ kɛkɛ. Mɔtu ko, ngumuwi ɔmɛ, te kɛ fiɛ nɛ a hluɛ a sahi ngɛ blɔ jɔjuɛ ɔ nɔ. Kaa fiɛ ɔ nɛ eho se yaa a tsɔ duɔmi ko la. Mokosa ngɛ kuu ɔ mi. E ji wayo kulaa.
+Ngɛ Ga magua a mi deka be, e ji tsitaa tsritsri hengmɔ kɛje we he nɛ deka ngɛɛ, lejɛ nɛ mamkpaagbehi nɛ sɛ nga ngɛɛ. A nyaa daa ligbi he ke e na mɛ kɛkɛ. Mɔtu ko, ngumuwi ɔmɛ, te kɛ fiɛ nɛ a hluɛ a sahi ngɛ blɔ jɔjuɛ ɔ nɔ. Kaa fiɛ ɔ nɛ eho se yaa a tsɔ duɔmi ko la. Mokasa ngɛ kuu ɔ mi. E ji wayo kulaa.
 
 ##
-Benɛ Mokosa fɔli gbo ɔ e ye jeha enyɔ. E kɛ e tsɛwayo ya hi si. Bi nɛ ɔ sane kɔ we nyumu nɛ ɔ he. E ha we Mokasa ni nɛ e sa. E haa nɛ nyumuyo ɔ tsuɔ nitsumi nɛ he wa wawɛɛ babaooo.
+Benɛ Mokasa fɔli gbo ɔ e ye jeha enyɔ. E kɛ e tsɛwayo ya hi si. Bi nɛ ɔ sane kɔ we nyumu nɛ ɔ he. E ha we Mokasa ni nɛ e sa. E haa nɛ nyumuyo ɔ tsuɔ nitsumi nɛ he wa wawɛɛ babaooo.
 
 ##
-Ke Mokasa bi munyu ko loo etsi nɔ ko ta, e tsɛwayo ɔ gbee lɛ. Ke Mokosa bi kaa e ma nyɛ yaa sukuu lo ɔ e tsɛwayo ɔ gbee lɛ ke, "O biɛ pe nɔ nɛ maa kase nɔ ko." Je ha etɛ se ngɛ e kɛ e tsɛwayo ɔ si himi ɔ se ɔ Mokasa ma fo kɛ je tsɛwayo ɔ ngɔ. E bɔni gbɛjegbɛ tue hwɔmi.
+Ke Mokasa bi munyu ko loo etsi nɔ ko ta, e tsɛwayo ɔ gbee lɛ. Ke Mokasa bi kaa e ma nyɛ yaa sukuu lo ɔ e tsɛwayo ɔ gbee lɛ ke, "O biɛ pe nɔ nɛ maa kase nɔ ko." Je ha etɛ se ngɛ e kɛ e tsɛwayo ɔ si himi ɔ se ɔ Mokasa ma fo kɛ je tsɛwayo ɔ ngɔ. E bɔni gbɛjegbɛ tue hwɔmi.
 
 ##
 Gbɛjegbɛ nɔ wa nɛ nyumuwi ɔmɛ saiigbo ɔ a daa nyami ngma he dengme. Be komɛ, a nuu mɛ, be komɛ a gbee mɛ nine nya. Nɛ ke be nɛ a wo hiɔ, nɔ ko be nɛ e waa mɛ. Kuu nɛ ɔ hii kaplɛ bɔɔ nɛ enaa ngɛ a nibami mi ɔ nɔ kɛ sika nɛ a naa kɛjee rɔba nitsɔwi nɛ a juaa ha rɔba he nitsuli. A jemi bami ɔ ngɛ yee ha mɛ ejakaa a ngɛ kuu kpaakpahi a mi kɛ a he munyu tsɔwi nɛ a ngɛ hunga jee ngɛ kuuhi nɛ maa ye wetso kpaakpa mɛ a nɔ ngɛ mangua a mi.
@@ -26,9 +26,6 @@ Kobɔli ɔmɛ pɔɔ Thomas nami nyɔhiɔ babaoo. E suɔ nɛ e kɛ mɛ maa tu mun
 
 ##
 Mokasa hi si ngɛ blɔtue ngɛ foni ɔmɛ hiɛe nɛ Thomas ba hi e kasa mi. "Mɛ nɔ he nɛ nyazia a kɔɔ?" Thomas nɛ e bi lɛ. Mokasa ha heto ke, "E kɔɔ nyumuyo ko nɛ pee kɔɔhiɔ mi lɛ hluilɔ he." Thomas bi ke, "Ke a tsɛɛ lɛ kɛɛ?" Mokasa ha heto blɛu ke, "I li, I be ninnyɛe ma kane."
-
-##
-Story notes In 2005, Naro storyteller Bega Cgase from the Kalahari Desert in Botswana told this story to Marlene Winberg, who retells it here. The story appears in different versions in many southern African San communities. It warns foolish young men not to be confused by the outside appearance of a girl, and tells parents not to force their children to marry for the sake of domestic help. It also provokes the powerful presence of the hot sun in the desert and does what stories do – give everything in nature a personality. The illustrations in this story are from story boards by Marlene Winberg, interpreted digitally by Satsiri Winberg through manipulations of the Manyeka Art Collection of paintings made by San artists /Thaalu Rumao, /Tuoi Samcuia and Joao Wenne Dikuango, who have all passed away since.
 
 ##
 Be nɛ a kpe ɔ Mokasa bɔi lɛ nitsɛ e he ni siɛmi kɛ ngɛ Thomas hae. Munyu ɔ kɔɔ e tsɛwayo ɔ he kɛ nɔ he je nɛ e ma fo kɛje. Thomas tu we munyu fuu nɛ e de we Mokasa nɔ nɛ epee se e bu lɛ tue saminya. Be komɛ ɔ a tuɔ munyu be mi nɛ a ngɛ ni yee ngɛ we ɔ kɛ e yi bumi bluu ɔ mi.

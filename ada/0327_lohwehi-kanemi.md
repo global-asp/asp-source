@@ -1,19 +1,10 @@
 # Lohwehi Kanemi
 
 ##
-Big houses and expensive cars are not good for the environment.
-
-##
 Suɔ kake yaa nu nyu.
 
 ##
-Maybe other friends could help.
-
-##
 Okpɔngɔ enyɔ yaa nu nyu.
-
-##
-What about the poor vultures?
 
 ##
 Ngami na etɛ kɛ lohwebi ewie hu yaa nu nyu.
