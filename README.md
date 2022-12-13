@@ -48,7 +48,7 @@ ISO code | Language Name
 [gur](https://github.com/global-asp/asp-source/tree/master/gur) | Gurene
 [guz](https://github.com/global-asp/asp-source/tree/master/guz) | Ekegusii
 [ha](https://github.com/global-asp/asp-source/tree/master/ha) | Hausa
-[ha_ne](https://github.com/global-asp/asp-source/tree/master/ha_ne) | Hausa (Niger)
+[ha-ne](https://github.com/global-asp/asp-source/tree/master/ha-ne) | Hausa (Niger)
 [hz](https://github.com/global-asp/asp-source/tree/master/hz) | Otjiherero
 [kam](https://github.com/global-asp/asp-source/tree/master/kam) | Kikamba
 [kdj](https://github.com/global-asp/asp-source/tree/master/kdj) | Ngakarimojong
