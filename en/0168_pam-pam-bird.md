@@ -34,9 +34,7 @@ Pam-Pam bird begged Pensa to set him free. "Oh no," said Pensa, "I have wanted t
 Pam-Pam bird screeched, "If you kill me you will have no more feathers for your arrow when these are worn out, because I will be dead. Set me free and I promise to give you new feathers with each full moon."
 
 ##
-That night, the healer led the people in a fire dance to celebrate the hunter's success and Pam-Pam bird's freedom.
-
-And since that day, all the good hunters remember the story of the Pam-Pam bird, to tell their children as a memory of days gone by.
+Pensa let Pam-Pam go. As Pam-Pam walked away, he thought, "Am I really free?"
 
 ##
 Pensa went home and made new arrows. When the people saw his new arrows, they exclaimed: "O-o, look at this hunter! He carries the Pam-Pam bird's feathers in his arrows. Now he will hunt well and bring us good food. We shall have a feast!"
