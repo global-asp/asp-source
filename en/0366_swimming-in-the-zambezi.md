@@ -19,7 +19,7 @@ Ntwala shouted from the other side of the village, "I'm here! I'm waiting for yo
 As they walked to the river Ntwala told them stories. "Tell us about when our village was flooded," they called. "Tell us about the Jackal and the Baboon."
 
 ##
-Beside the river there was an enormous Marula tree. The girls looked for the biggest marula fruit for Ntwala.
+Beside the river there was an enormous marula tree. The girls looked for the biggest marula fruit for Ntwala.
 
 ##
 "I've got the biggest," shouted Joy. She gave her marula fruit to Ntwala.
