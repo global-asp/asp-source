@@ -13,19 +13,16 @@ My sister is asleep.
 Who can I read to?
 
 ##
-My mother and
-grandmother are busy.
+My mother and grandmother are busy.
 
 ##
 Who can I read to?
 
 ##
-My father and
-grandfather are busy.
+My father and grandfather are busy.
 
 ##
-Who can I read to? I can
-read to myself!
+Who can I read to? I can read to myself!
 
 ##
 * License: [CC-BY]
