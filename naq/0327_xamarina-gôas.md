@@ -1,32 +1,32 @@
 # Xamarina ǃgôas
 
 ##
-ǀGui ǂkhoab ge ǁgama garu.
+ǀGui khoab ge ǁgama garu.
 
 ##
-ǀGam ǃgaroǃnai kha ge ǁgama garu.
+ǀGam ǃgaroǃnai kha ge ra ǁgamaǃgû.
 
 ##
 ǃNona ǃgarogomagu tsî haka anin on ge ǁgama garu.
 
 ##
-Koro ǃkhaupirin tsî ǃnani dirigu on ge ǁgama garu.
+Koro ǁgûgu tsî ǃnani dirigu on ge ǁgamaǃgû garu.
 
 ##
-Hû ǃgoren ge ǁgama garu.
+Hû ǃgoren ge ǁgam-e ǃoa ra ǃkhoe .
 
 ##
-ǁKhaisa ǁgôadi tsî khoese ǁaun on ra tsâ.
+ǁKhaisa ǁgôadi tsî khoese ǁaun on ǁgammi ǃnâ ra tsâ.
 
 ##
-ǁGâ ra xammi on ra ā ǂgao. Hame nē xamma ra ǃao.
+ǀGui xammi ra ǃguru. ǁÎb on ra ā gao. Ham-e nē xamma ra ǃao?
 
 ##
-ǀGui ǂkhoab ge xammi ǀkha ra ǀhûbe ā.
+ǀGui khoab ge xammi ǀkha ǀhûbe ǁgam-e ra ā.
 
 ##
 * License: CC BY
 * Text: Zanele Buthelezi, Thembani Dladla, Clare Verbeek
 * Illustration: Rob Owen
-* Translation: Mattheus Goraseb
+* Translation: Mattheus Goraseb, Maureen So-oabes
 * Language: naq
