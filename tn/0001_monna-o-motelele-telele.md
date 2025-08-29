@@ -3,7 +3,6 @@
 ##
 Peke e ne e le
 khutshwane thata.
-His hoe was too short.
 
 ##
 Mojako o ne o le kwa

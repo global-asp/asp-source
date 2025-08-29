@@ -1,61 +1,37 @@
 # Inkéra é emánóó
 
 ##
-Nétií apá, nétií olmaréí
-óbo óbokito te enchípai.
+Nétií apá, nétií olmaréí óbo óbokito te enchípai.
 
 ##
-Óre inkérâ néméára
-áíkata. Néret intóiwúó
-enyê.
+Óre inkérâ néméára áíkata. Néret intóiwúó enyê.
 
 ##
-Néjokí intóiwúó énye
-peê ményíkáki aké
-enkímá.
+Néjokí intóiwúó énye peê ményíkáki aké enkímá.
 
 ##
-Náa kewarié éás esíaai
-enyê.
-
-Amû te emanoó eitobirúno nínche.
+Náa kewarié éás esíaai enyê. Amû te emanoó eitobirúno nínche.
 
 ##
-Néng'uar enkáyíóní peê
-élô aíj enkolóng.
+Néng'uar enkáyíóní peê élô aíj enkolóng.
 
 ##
-Néponári eng'uarratá.
-Káke etiákitâ iláláshera
-lényená peê méló aké.
+Néponári eng'uarratá. Káke etiákitâ iláláshera lényená peê méló aké.
 
 ##
-Káke eikonyáyie aló.
-Óre peê édâl enkólong,
-néshola.
+Káke eikonyáyie aló. Óre peê édâl enkólong, néshola.
 
 ##
-Néísinánuo iláláshera
-lényená peê edôl
-olaláshe lenyê áajo
-etoshóle.
+Néísinánuo iláláshera lényená peê edôl olaláshe lenyê áajo etoshóle.
 
 ##
-Néígúéna. Néjo peê
-eitobíru entóki
-nanyaányukie emótonyî
-te emanoó.
+Néígúéna. Néjo peê eitobíru entóki nanyaányukie emótonyî te emanoó.
 
 ##
-Néílepie ínâ
-kítányáányúkoto é
-emótonyî áaya shúmátá
-ó olkiú.
+Néílepie ínâ kítányáányúkoto é emótonyî áaya shúmátá ó olkiú.
 
 ##
-Óre peê éílépû
-enkólong, nélo te aí
-érányítâ.
+Óre peê éílépû enkólong, nélo te aí érányítâ.
 
 ##
 * License: [CC-BY]

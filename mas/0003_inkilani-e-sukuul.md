@@ -4,12 +4,10 @@
 Kéadó ená kílâ te entitó.
 
 ##
-Kélalá ená kílâ é oríóng
-te entitó.
+Kélalá ená kílâ é oríóng te entitó.
 
 ##
-Kéísápuk elé bené te
-entitó.
+Kéísápuk elé bené te entitó.
 
 ##
 Óre ená kítatí...
@@ -24,8 +22,7 @@ entitó.
 Éíng'ejuko kuná ámuka.
 
 ##
-...náa káajîng
-áaitobiraki.
+... náa káajîng áaitobiraki.
 
 ##
 * License: [CC-BY-NC]
