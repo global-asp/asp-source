@@ -1,44 +1,44 @@
-# Zamab ge a kai
+# Zamas ge a kai!
 
 ##
-Ti ǃgâsarob ge kaixuse ra ǁom.
+Ti ǃgâsarob ge kaixuse ra ǁom. Tita ge furuse ra khâi kai ta a amaga.
 
 ##
-Ti ta ge soresa ra ǃnareta.
+Ti ta ge ǁî ta soresa ra gâxa kai ta.
 
 ##
-Ti îs ge ra mî, ti ta ge koma ǁîs di ǁgoaǀamirota, ti.
+Ti îs ge ra mî, ti ta ge koma ǁîs di ǁgoaǀgamirota, ti.
 
 ##
-Hoa ǁgoade ta ra aitsama ǁāsen, hui-e ta ǂhâba tama hâ.
+Hoa ǁgoade ta ra aitsama ǁāsen, hui-e ta hâba tama hâ.
 
 ##
-ǃKhaiǁgam hâ, ǂhoa sē hân ge ǁaes tsîna ta hî tama xūna.
+ǃKhaiǁgam hâ, hoa ham ra sē hân ge ǁae-ūs tsîna ta hî tama xūna.
 
 ##
-"Xawe ǁgûde tâ ǀuru", tis ra mamasa ǂâiǂâi ǃnâ te.
+"Xawe ǁgûde tā ǀuru", tis ra mamasa âiâiǃnâ te.
 
 ##
-ǁasen toa ta kara, o ta ge ti ǁnaob tsî mâǂkhams hâra ra tawede ǁnāxu.
+ǁĀsentoa ta kara, o ta ge ti ǁnaob tsî mâkhams hâra ra tawedeǁnāxu tsî.
 
 ##
-Sao rase ta ra ǂgaeǂgāsen.
+Sao rase ta ra gaegāsen, nēsisa ta kai hâ mamas ti ra mîse.
 
 ##
-Tita ge ti kunubede aitsama ra ǂganam tsî ti ǁharode aisama ra ǃgae.
+Tita ge ti kunubede aitsama ra ganam tsî ti ǁharode ra ǃgae.
 
 ##
-Tita ge ra ti ǃgâsaroba ra ǂâiǂâiǃnâ, mâ ǁguiǂamdeb go skola māǂui.
+Tsî ta ge ti ǃgâsarob skoli hôana nî ansa ra dītsâ.
 
 ##
-ǃGūs ǃnâ ra mâhe ǁguiǂamde ta ra dīǀoaǀoa.
+ǃGubis ǃnâ ra māhe ǁguiamde dīǀoaǀoasa ǃoa ta ra ǁgū.
 
 ##
-Nē ǃgâi xūn hoana ta ge tsekorobe ra dī.
+Nē ǃgâi xūn hoana ta ge tsēkōrobe ra dī. Xawe ta tita ǃnāamsase ǀnamsas ge ǀhuru ga ǀhurusa.
 
 ##
 * License: CC BY
 * Text: Michael Oguttu
 * Illustration: Vusi Malindi
-* Translation: Mattheus Goraseb
+* Translation: Mattheus Goraseb, Maureen So-oabes
 * Language: naq
