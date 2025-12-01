@@ -8,7 +8,7 @@ There was this bird, the Pam-Pam bird, which Pensa wanted to catch. The bird's t
 Pensa's arrows would fly through the air just like a bird - if only he could catch Pam-Pam and pull out his tail feathers!
 
 ##
-Pensa went to the wise man, their healer. He asked for help. "Please guide me to catch the Pam-Pam bird. I need his feathers for my bow and arrows. What must do to catch him?"
+Pensa went to the wise man, their healer. He asked for help. "Please guide me to catch the Pam-Pam bird. I need his feathers for my bow and arrows. What must I do to catch him?"
 
 The healer replied, "Go and make a fire. When all the insects run away from your fire, you must catch the smallest of them. Make a trap and place this little insect inside your trap. It will tempt the Pam-Pam bird."
 
