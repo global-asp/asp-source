@@ -5,7 +5,7 @@ Pensa was the best hunter in the whole Kalahari Desert. He brought home fat anim
 
 There was this bird, the Pam-Pam bird, which Pensa wanted to catch. The bird's tail feathers were perfect for his arrows. The problem was, he could never manage to trap or shoot Pam-Pam.
 
-Pensa's arrows would fly through the air just like a bird - if only he could catch Pam-Pam and pull out his tail feathers!
+Pensa's arrows would fly through the air just like a bird – if only he could catch Pam-Pam and pull out his tail feathers!
 
 ##
 Pensa went to the wise man, their healer. He asked for help. "Please guide me to catch the Pam-Pam bird. I need his feathers for my bow and arrows. What must I do to catch him?"
